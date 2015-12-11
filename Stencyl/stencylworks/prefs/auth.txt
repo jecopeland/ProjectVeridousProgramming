@@ -1,0 +1,2 @@
+global.password=d7e42cadfcb265e56954e583538570ce0942758c
+global.user=POME012

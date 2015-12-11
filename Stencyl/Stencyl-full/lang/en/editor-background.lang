@@ -1,0 +1,20 @@
+
+# BACKGROUND CREATOR
+bg.top.main=Background
+bg.top.properties=Properties
+bg.top.attach=Attach to Scene
+bg.rename=Rename
+bg.resize=Override Size
+bg.scroll=Set Scroll Speed
+bg.preview=Preview
+bg.scroll.title=Scroll Speed
+bg.resize.title=Resize Background
+bg.resize.inst=Override the default background size. Normally, backgrounds are sized based on the dimensions of the first image frame.
+bg.scroll.inst=By default, backgrounds stay in place. Setting a scroll speed causes them to automatically scroll.
+bg.props.xscroll=Horizontal Scroll Speed
+bg.props.yscroll=Vertical Scroll Speed
+bg.props.width=Width
+bg.props.height=Height
+bg.error.size=Enter a positive integer.
+bg.repeat.title=Repeat Background?
+bg.repeat.inst=Tiles the background and scrolls statically like terrain.

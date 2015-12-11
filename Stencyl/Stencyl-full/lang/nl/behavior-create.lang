@@ -1,0 +1,23 @@
+
+# MODES
+sb.mode.code=Code
+sb.mode.design=Ontwerp
+sb.mode.coded=<b>Code-Modus</b><br>Schrijf simple java-code om Snippets te maken.
+sb.mode.designd=<b>Ontwerp-Modus</b><br>Zet blokken samen om gedragingen voor karakters en scenes te maken.
+sb.new.title=Maak Nieuwe Snippet
+sb.edit.title=Eigenschappen
+sb.new.mode=Modus
+sb.new.props=Basis
+sb.new.name=Naam
+sb.new.class=Klassenaam
+sb.new.category=Categorie
+sb.new.type=Type
+sb.new.type.help=Met type kies je of dit Snippet voor een karakter of scene is.
+sb.new.type.actor=Karakter
+sb.new.type.scene=Scene
+sb.new.description=Beschrijving
+sb.new.draw=Reeks Tekenen
+sb.new.update=Reeks Vernieuwen
+sb.error.name=Geef een unieke naam in.
+sb.error.class=Geef een geldige klassenaam in voor Java. (alfanumerieke karakters, geen spaties)
+sb.error.category=Geef een categorie.

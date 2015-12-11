@@ -1,0 +1,68 @@
+
+# Tileset Creator
+tset.chooser.title=Escolha um Conjunto de Azulejos...
+tset.top.tileset=Conjunto de Azulejos
+tset.top.properties=Propriedades
+tset.title=Criador de Conjuntos de Azulejos 
+tset.title.edit=Editar Conjunto de Azulejos
+tset.tiles=Azulejos
+tset.stile=o azulejo selecionado
+tset.stiles=os azulejos selecionados
+tset.properties=Renomear Conjunto de Azulejos
+tset.details1=Contém <0> azulejos
+tset.details2=Tamanho do Conjunto de Azulejos: <0> x <1>
+tset.details3=Tamanho do Azulejo: <0> x <1>
+tset.details4=ID do Azulejo: <0>
+tset.details5=ID do Conjunto de Azulejos: <0>
+tset.tile.create=Importar Azulejos de um Conjunto
+tset.tile.resize=Alterar tamanho dos Azulejos
+tset.tile.resize.w=Comprimento do Azulejo
+tset.tile.resize.h=Largura do Azulejo
+tset.menu.import=Importar Azulejo Existente
+tset.tile.add.title=Importar Azulejos de um Conjunto
+tset.col.add.before=Inserir Coluna Antes
+tset.col.add.after=Inserir Coluna Depois
+tset.col.delete=Eliminar Coluna
+tset.col.duplicate=Duplicar Coluna
+tset.row.add.before=Inserir Linha Antes
+tset.row.add.after=Inserir Linha Depois
+tset.row.delete=Eliminar Linha
+tset.row.duplicate=Duplicar Linha
+tset.blank=Seleccione um azulejo para editar.
+tset.multi=Seleccione um unico azulejo para editar.
+tset.inst2=Utilize os campos à esquerda para dividir o conjunto de azulejos.
+# Tile Editor
+tset.anim.collision=Limites de Colisão
+tset.anim.collision.edit=Seleccionar...
+tset.anim.looping=Cíclica?
+tset.anim.rect=Retângulo
+tset.anim.poly=Polígono
+tset.anim.title1=Propriedades do Azulejo
+tset.anim.title2=Frames (clique e arraste para reordenar)
+tset.menu.addframe=Adicionar Frame
+tset.menu.editframe=Editar Frame
+tset.menu.removeframe=Remover Frame
+tset.anim.add.import=Adicionar várias Frames
+# Tileset Properties
+tset.props.title=Editar as Propriedades do Conjunto de Azulejos
+tset.props.name=Nome
+# Warnings
+tset.warning.name=Por favor, introduza um nome único.
+tset.warning.duration=Por favor, introduza um número inteiro e positivo.
+tset.warning.notiles=Este Conjunto de Azulejos não contém Azulejos.
+tset.warning.blank=Este é um Conjunto de Azulejos vazio. Não pode ser editado.
+# Shape Editor
+tset.shapes.add.box=Criar Caixa...
+tset.shapes.add.poly=Criar Polígono...
+tset.shapes.add=Adicioanr Figura
+tset.shapes.remove=Remover Figura
+tset.shapes.edit=Editar Figura
+tset.shapes.add.title=Criar Caixa...
+tset.shapes.edit.title=Editar Caixa...
+tset.poly.add.title=Criar Polígono...
+tset.poly.edit.title=Editar Polígono...
+tset.shapes.x=Posição X
+tset.shapes.y=Posição Y
+tset.poly.add=Adicionar Ponto
+tset.poly.remove=Remover Ponto
+tset.poly.inst=Define os pontos <b>no sentido contrário</b> aos ponteiros do relógio.

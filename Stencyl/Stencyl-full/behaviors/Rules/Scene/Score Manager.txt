@@ -1,0 +1,1 @@
+Manage a global score for the game.

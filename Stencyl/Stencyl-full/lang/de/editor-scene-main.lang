@@ -1,0 +1,208 @@
+
+# SCENE LIBRARY
+scene.edit=Szene ändern
+scene.create=Neue Szene erstellen
+scene.delete=Diese Szene löschen
+# SCENE PAGES
+scene.top.main=Szene
+scene.top.gui=GUI
+scene.top.behavior=Verhalten
+scene.top.properties=Eigenschaften
+scene.top.background=Hintergrund
+scene.top.physics=Physik
+scene.top.test=Sczene testen
+# SCENE MODES
+scene.mode.layer=Ebenenmodus
+scene.mode.working=Arbeitsmodus
+# BAR
+bar.grid=<0> Grid
+bar.anim=<0> Animations
+bar.screen=<0> Screen Bounds
+bar.bg=<0> Background
+bar.fg=<0> Foreground
+bar.autoSnap=Snap to Grid: When enabled, snap to grid is automatic. When disabled, hold SHIFT down to snap to grid.
+# EMPTY
+library.empty.palette=Das Spiel enthält kein(e) <0>.
+library.empty.palette.actor=Spielertyp erstellen
+# PHYSICS
+scene.physics.gravx=Schwerkraft (Horizontal)
+scene.physics.left=Links
+scene.physics.right=Rechts
+scene.physics.gravy=Schwerkraft (Vertikal)
+scene.physics.up=Oben
+scene.physics.down=Unten
+scene.physics.desc=Verwende Werte '85 Unten' um eine realistische Schwerkraft zu erzeugen.
+# BACKGROUNDS / FOREGROUNDS
+scene.background.explanation=Hintergründe und Vordergründe bewegen sich in Parallaxe mit der Szene.<br>Hintergründe werden in der Szene hinten und Vordergründe vorne angezeigt.
+scene.backgrounds=Hintergründe
+scene.foregrounds=Vordergründe
+scene.background.new=Neuen Hintergrund hinzufügen
+scene.background.delete=Hintergrund entfernen
+scene.background.up=Hintergrund nach oben verschieben
+scene.background.down=Hintergrund nach unten verschieben
+scene.foreground.new=Neuen Vordergrund hinzufügen
+scene.foreground.delete=Vordergrund entfernen
+scene.foreground.up=Vordergrund nach oben verschieben
+scene.foreground.down=Vordergrund nach unten verschieben
+scene.background.create=Neuen Hintergrund erstellen
+scene.background.edit=Diesen Hintergrund ändern
+scene.foreground.edit=Diesen Vordergrund ändern
+scene.background.chooser.title=Hintergrund auswählen
+scene.chooser.title=Szene auswählen
+scene.actorinstance.title=Verhalten für '<0>' ändern
+# UNDO/REDO
+scene.action.tile.place=Tile plazieren
+scene.action.tiles.place=Tiles plazieren
+scene.action.actor.place=Spieler plazieren
+scene.action.actors.place=Spieler plazieren
+scene.action.actor.rotate=Spieler rotieren
+scene.action.actor.scale=Spieler skalieren
+scene.action.actors.scale=Spieler skalieren
+scene.action.select.delete=Auswahl löschen
+scene.action.select.nudge=Auswahl bewegen
+scene.action.select.move=Auswahl bewegen
+scene.action.select.switchlayer=Ebene wechseln
+scene.action.select.back=1 Ebene nach hinten senden
+scene.action.select.toback=Zum Hintergrund senden
+scene.action.select.forward=1 Ebene nach vorne senden
+scene.action.select.tofront=Zum Vordergrund senden
+scene.action.layer.add=Ebene hinzufügen
+scene.action.layer.remove=Ebene löschen
+# LAYERS
+scene.layer=Ebene <0>
+scene.layer.header.name=Name
+scene.layer.header.color=Farbe
+scene.layer.header.show=Zeige?
+scene.layer.new=Neue Ebene
+scene.layer.delete=Ebene löschen
+scene.layer.up=Ebene nach oben schieben
+scene.layer.down=Ebene nach hinten schieben
+scene.layer.rename=Ebene umbenennen
+# ROLLOVER
+actor.rollover=<0> (ID: <1>)    (<2>, <3>)  
+actor.rollovershort=<0>
+# JOINTS
+joints.stick=Joint anbringen
+joints.hinge=Joint einhängen
+joints.sliding=Gleitender Joint
+joints.info.selected=<0> (<1>). Doppelklick um Eigenschaften zu ändern.
+joint.edit.title=Joint Eigenschaften ändern
+joint.edit.general=Allgemein
+joint.edit.stick=Fortgeschritten
+joint.edit.hinge.limit=Grenzen
+joint.edit.slide.limit=Grenzen
+joint.edit.hinge.motor=Motor
+joint.edit.slide.motor=Motor
+joint.edit.direction=Gleitrichtung
+joint.edit.name=Name
+joint.edit.namei=Verwende einen beschreibenden Namen um den Joint zu erkennen.
+joint.edit.name.err=Füge einen nicht-leeren Namen ein.
+joint.edit.collide=Sollen Spieler kollidieren?
+joint.edit.collidei=Wenn Spieler miteinander über einen Joint verbunden sind, ist es üblich ihre kollision untereinanderzu entfernen.
+joint.edit.damping=Dämpfung
+joint.edit.dampingi=Reduziert den Effekt jeder Störung bei diesem Joint. Denke an eine Tür die leicht geschlossen wird, anstatt mit einem Ruck. Ein Wert von 1 ist eine "kritische Dämpfung" und wird nicht schwingen.
+joint.edit.dampingl=Kein
+joint.edit.dampingh=Kritisch
+joint.edit.freq=Festigkeit
+joint.edit.freqi=Legt die Festigkeit eines Joints fest. Bewegliche Joints sind wie Gummi.
+joint.edit.freql=Hart
+joint.edit.freqh=Beweglich
+joint.edit.hlimit=Grenze erlauben?
+joint.edit.hlimiti=Grenzen verhindern, dass der Joint sich über einen gewissen Grad hin dreht.
+joint.edit.hlower=Untere Grenze
+joint.edit.hloweri=In Grad relativ zum Startpunkt.
+joint.edit.hlowere=Gebe eine Nummer ein.
+joint.edit.hupper=Obere Grenze
+joint.edit.hupperi=In Grad relativ zum Startpunkt.
+joint.edit.huppere=Gebe eine Nummer ein.
+joint.edit.slimit=Grenze erlauben?
+joint.edit.slimiti=Grenzen verhindern, dass der Joint sich über einen gewissen Grad gleitet.
+joint.edit.slower=Untere Grenze
+joint.edit.sloweri=In Pixel relativ zum Startpunkt gesehen.
+joint.edit.slowere=Gebe eine Nummer ein.
+joint.edit.supper=Obere Grenze
+joint.edit.supperi=In Pixel relativ zum Startpunkt gesehen.
+joint.edit.suppere=Gebe eine Nummer ein.
+joint.edit.hmotor=Motor erlauben?
+joint.edit.hmotori=Lässt den Joint automatisch rotieren.
+joint.edit.htorque=Festigkeit
+joint.edit.htorquei=Der Betrag des Widerstands, den dieser Joint durch einen Motor aufstellen wird. Auch Drehmoment genannt.
+joint.edit.htorquee=Gebe eine positive Nummer ein.
+joint.edit.hspeed=Geschwindigkeit
+joint.edit.hspeedi=Die Geschwindigkeit mit der der Joint rotiert, in Grad pro Frame. Kann negativ sein, wobei die Rotation dann gegen den Uhrzeigersinn läuft.
+joint.edit.hspeede=Gebe eine Nummer ein. 
+joint.edit.smotor=Motor aktivieren?
+joint.edit.smotori=Lässt die Joints automatisch gleiten.
+joint.edit.sforce=Festigkeit
+joint.edit.sforcei=Der Betrag des Widerstands, den dieser Joint durch einen Motor aufstellen wird. 
+joint.edit.sforcee=Gebe eine positive Nummer ein. 
+joint.edit.sspeed=Geschwindigkeit
+joint.edit.sspeedi=Die Geschwindigkeit mit der die Joints gleiten. Kann auch negativ sein.
+joint.edit.sspeede=Gebe eine Nummer ein. 
+joint.edit.x=X Richtung
+joint.edit.xi=Richtung in der der Spieler gleitet, relativ vom primären Spieler aus gesehen.
+joint.edit.xe=Gebe eine Nummer ein.
+joint.edit.y=Y Richtung
+joint.edit.yi=Richtung in der der Spieler gleitet, relativ vom primären Spieler aus gesehen.
+joint.edit.ye=Gebe eine Nummer ein.
+joint.edit.hinge1=Aufgehängter Joint wird <0> an den Hintergrund anbringen.
+joint.edit.hinge2=Aufgehängter Joint wird <0> an <1> anbringen.
+joint.edit.slide1=Gleitender Joint wird <0> and den Hintergrund anbringen.
+joint.edit.slide2=Gleitender Joint wird <0> an <1> anbringen.
+# PICKING
+actor.choose=Wähle Spieler...
+joint.choose=Wähle Joint...
+region.choose=Wähle Region...
+terrain.region.choose=Wähle Terrain...
+actor.choose.i=Klicke auf einen Spieler um ihn auszuwählen.
+joint.choose.i=Klicke auf einen Joint um ihn auszuwählen.
+region.choose.i=Klicke auf eine Region um sie auszuwählen.
+terrain.region.choose.i=Klick auf ein Terrain um es auszuwählen.
+# REGIONS
+region.info.selected=<0> (<1>)    (Pos: <2>, <3>)
+region.info.dim=(<0>, <1>)    (Weite: <2>  Höhe: <3>)
+region.edit.name=Name
+region.edit.namee=Gebe einen Namen ein.
+region.edit.title=Ändere Regionseigenschaften
+region.edit.color=Farbe
+# TERRAIN REGIONS
+terrain.region.info.selected=<0> (<1>)    (Pos: <2>, <3>)
+terrain.region.info.dim=(<0>, <1>)    (Weite: <2>  Höhe: <3>)
+terrain.region.edit.name=Name
+terrain.region.edit.namee=Gebe einen Namen ein.
+terrain.region.edit.title=Ändere Terraineigenschaften
+terrain.region.edit.color=Farbe
+terrain.region.edit.group=Gruppe
+# OTHER
+general.info=Bewege zu (<0>, <1>)
+# BEHAVIORS
+scene.snippet.instance.add=Erstelle szenenspezifisches Event
+scene.snippet.instance.open=Verhalten ändern
+scene.snippet.instance.import=Verhalten aus der Bibliothek importieren
+scene.snippet.instance.delete=Verhalten löschen
+# SCREEN CAPTURE
+capture.title=Screenshot erstellt
+capture.body=%s wurde am ausgewählten Ort gespeichert.
+capture.error=Konnte keinen Screenshot erstellen. Versuche es nocheinmal.
+# MODULES
+mod.palette=Palette
+mod.history=History
+mod.layers=Layers
+mod.game=Library
+mod.properties=Properties
+mod.scenes=Scenes
+mod.output=Output
+mod.variables=Attributes
+mod.inventory=Inventory
+mod.inspector=Inspector
+# PALETTE
+palette.tile=Tiles
+palette.actor=Actors
+palette.tilesets=Tilesets
+palette.tilesets.create=Create a New Tileset
+# INVENTORY
+inventory.actors=Spieler
+inventory.regions=Regionen
+inventory.joints=Joints
+inventory.terrains=Terrains
+inventory.all=Alle

@@ -1,0 +1,20 @@
+
+# SCENE PAGE
+scene.edit.title=Éditer les Propriétés de la Scène
+scene.new.info=Basiques
+scene.new.terrain=Taille
+scene.new.background=Couleur de l'Arrière-Plan
+scene.new.name=Nom
+scene.new.type=Type de Scène
+scene.new.type.normal=Normal
+scene.new.tiles=tuiles
+scene.new.pixels=pixels
+scene.new.width=Largeur
+scene.new.height=Hauteur
+scene.new.tilex=Largeur de Tuile
+scene.new.tiley=Hauteur de Tuile
+scene.new.background.color=Couleur
+scene.new.background.edit=Éditer les Images...
+scene.new.background.style.solid=Couleur Solide
+scene.new.background.style.none=Pas de Couleur
+scene.new.background.style.vert=Dégradé Vertical

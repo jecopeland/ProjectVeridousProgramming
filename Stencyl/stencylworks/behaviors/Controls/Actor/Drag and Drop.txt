@@ -1,0 +1,1 @@
+Allows the actor to be dragged and dropped by the mouse.

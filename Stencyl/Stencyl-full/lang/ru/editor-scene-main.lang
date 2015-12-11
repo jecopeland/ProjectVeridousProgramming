@@ -1,0 +1,208 @@
+
+# SCENE LIBRARY
+scene.edit=Изменить эту сцену
+scene.create=Создать новую сцену
+scene.delete=Удалить эту сцену
+# SCENE PAGES
+scene.top.main=Сцена
+scene.top.gui=Графический интерфейс пользователя
+scene.top.behavior=Поведения
+scene.top.properties=Свойства
+scene.top.background=Фон/Декорация
+scene.top.physics=Физика
+scene.top.test=Тест сцены
+# SCENE MODES
+scene.mode.layer=Режим слоев
+scene.mode.working=Рабочий режим
+# BAR
+bar.grid=<0> сеток
+bar.anim=<0> анимаций
+bar.screen=<0> границ экрана
+bar.bg=<0> декораций заднего плана
+bar.fg=<0> декораций переднего плана
+bar.autoSnap=Привязать к сетке (Если включено, то привязывает углы объектов к сетке автоматически. Если отключено, то выравнивать по сетке можно удерживая SHIFT нажатым).
+# EMPTY
+library.empty.palette=Эта игра не содержит <0>.
+library.empty.palette.actor=Создать тип актера
+# PHYSICS
+scene.physics.gravx=Притяжение (Горизонтально)
+scene.physics.left=Влево
+scene.physics.right=Вправо
+scene.physics.gravy=Притяжение (Вертикально)
+scene.physics.up=Вверх
+scene.physics.down=Вниз
+scene.physics.desc=Используйте значение «85 Вниз» для воспроизведения земного притяжения.
+# BACKGROUNDS / FOREGROUNDS
+scene.background.explanation=Добавить со смещением изображения декораций переднего и заднего плана, которые буду прокручиваться со сценой. (декорация переднего плана перерисовывается ПЕРЕД актерами, а декорация заднего плана перерисовывается ЗА актерами)
+scene.backgrounds=Декорация заднего плана
+scene.foregrounds=Декорация переднего плана
+scene.background.new=Добавить новую декорацию заднего плана.
+scene.background.delete=Удалить декорацию заднего плана.
+scene.background.up=Передвинуть декорацию вверх
+scene.background.down=Передвинуть декорацию вниз
+scene.foreground.new=Добавить новую декорацию переднего плана.
+scene.foreground.delete=Удалить декорацию переднего плана.
+scene.foreground.up=Передвинуть декорацию вверх
+scene.foreground.down=Передвинуть декорацию вверх
+scene.background.create=Создать новый фон / декорацию заднего плана.
+scene.background.edit=Изменить эту декорацию заднего плана
+scene.foreground.edit=Изменить эту декорацию переднего плана
+scene.background.chooser.title=Выберите декорацию заднего плана!
+scene.chooser.title=Выберите сцену!
+scene.actorinstance.title=Изменить поведение на '<0>'
+# UNDO/REDO
+scene.action.tile.place=Разместить плитку
+scene.action.tiles.place=Разместить плитки
+scene.action.actor.place=Разместить актера
+scene.action.actors.place=Разместить актеров
+scene.action.actor.rotate=Вращать актера
+scene.action.actor.scale=Изменить размер актера
+scene.action.actors.scale=Изменить размер актеров
+scene.action.select.delete=Удалить выбранное
+scene.action.select.nudge=Двигать выбранное
+scene.action.select.move=Переместить выбранное
+scene.action.select.switchlayer=Переключить слой
+scene.action.select.back=Переместить назад
+scene.action.select.toback=Переместить в конец
+scene.action.select.forward=Выдвинуть вперед
+scene.action.select.tofront=Выдвинуть на передний план
+scene.action.layer.add=Добавить слой
+scene.action.layer.remove=Удалить слой
+# LAYERS
+scene.layer=Слой <0>
+scene.layer.header.name=Наименовние
+scene.layer.header.color=Цвет
+scene.layer.header.show=Показывать?
+scene.layer.new=Новый слой
+scene.layer.delete=Стереть слой
+scene.layer.up=Поднять слой ближе
+scene.layer.down=Опустить слой ниже
+scene.layer.rename=Переименовать слой 
+# ROLLOVER
+actor.rollover=<0> (Личный номер: <1>)    (<2>, <3>)  
+actor.rollovershort=<0>
+# JOINTS
+joints.stick=Стержень соединения
+joints.hinge=Сустав соединения
+joints.sliding=Скользящее соединение
+joints.info.selected=<0> (<1>). Двойной щелчок для смены свойств.
+joint.edit.title=Изменить свойства соединений
+joint.edit.general=Основное
+joint.edit.stick=Продвинутый
+joint.edit.hinge.limit=Ограничения суставного соединения
+joint.edit.slide.limit=Ограничения скользящего соединения
+joint.edit.hinge.motor=Мотор суставного соединения
+joint.edit.slide.motor=Мотор скользящего соединения
+joint.edit.direction=Направление скольжения
+joint.edit.name=Название
+joint.edit.namei=Use a descriptive name to help you identify this joint.Используйте осмысленнное описательное название для лучшего понимания, что это за соединение.
+joint.edit.name.err=Введите не пустое название.
+joint.edit.collide=Актёры должны сталкиваться?
+joint.edit.collidei=Когда актёры соединены, это исключает возможность столкновения между ними.
+joint.edit.damping=Затухание
+joint.edit.dampingi=Уменьшает эффект от любых колебаний на этом соединении. Представьте себе дверь, которая закрывается мягко, а не рывком с отскоками. Значение «1» рассматривается как полное затухание отклонения и не дает колебаний при возвращении вообще.
+joint.edit.dampingl=Отсутствует
+joint.edit.dampingh=Полное
+joint.edit.freq=«Затянутость гайки»
+joint.edit.freqi=Определяет насколько свободно или зажато соединение. Свободное соединение ведет себя как резинка.
+joint.edit.freql=Затянуто до предела
+joint.edit.freqh=Свободно болтается
+joint.edit.hlimit=Разрешить ограничение?
+joint.edit.hlimiti=Ограничение не дает этому суставному соединению поворачиваться за определенный угол.
+joint.edit.hlower=Нижнее ограничение
+joint.edit.hloweri=В градусах относительно стартового угла.
+joint.edit.hlowere=Введите число.
+joint.edit.hupper=Верхнее ограничение
+joint.edit.hupperi=В градусах относительно стартового угла.
+joint.edit.huppere=Введите число.
+joint.edit.slimit=Разрешить ограничение?
+joint.edit.slimiti=Ограничение не дает этому скользящему соединению заходить за определенную точку.
+joint.edit.slower=Нижнее ограничение
+joint.edit.sloweri=В (точках) пикселях по отношению к начальной точке.
+joint.edit.slowere=Введите число.
+joint.edit.supper=Верхнее ограничение
+joint.edit.supperi=В (точках) пикселях по отношению к начальной точке.
+joint.edit.suppere=Введите число.
+joint.edit.hmotor=Включить мотор?
+joint.edit.hmotori=Делает соединение автоматически вращаемым.
+joint.edit.htorque=Жёсткость соединения («затянутость гайки»)
+joint.edit.htorquei=Величина сопротивления в соединении если к нему подключить мотор. По научному: Крутящий момент.
+joint.edit.htorquee=Введите положительное число.
+joint.edit.hspeed=Скорость
+joint.edit.hspeedi=Скорость, с которой соединение вращается (в градусах за кадр). Может быть отрицательной, если вращение против часовой стрелки.
+joint.edit.hspeede=Введите число.
+joint.edit.smotor=Включить мотор?
+joint.edit.smotori=Делает соединение автоматически скользящим.
+joint.edit.sforce=Жёсткость (Трение)
+joint.edit.sforcei=Величина сопротивления в соединении если к нему подключить мотор. По научному: Трение
+joint.edit.sforcee=Введите положительное число.
+joint.edit.sspeed=Скорость
+joint.edit.sspeedi=Скорость, с которой соединение скользит.
+joint.edit.sspeede=Введите число. 
+joint.edit.x=Направление Х
+joint.edit.xi=Направление, по которому актёр будет скользить, по отношению к первичному актеру.
+joint.edit.xe=Введите число.
+joint.edit.y=Направление Y
+joint.edit.yi=Направление, по которому актёр будет скользить, по отношению к первичному актеру.
+joint.edit.ye=Введите число.
+joint.edit.hinge1=Суставное соединение  присоединит <0> к декорации заднего плана.
+joint.edit.hinge2=Суставное соединение  присоединит <0> к <1>.
+joint.edit.slide1=Скользящее соединение  присоединит <0> к декорации заднего плана.
+joint.edit.slide2=Скользящее соединение  присоединит <0> к <1>.
+# PICKING
+actor.choose=Выберите актёра…
+joint.choose=Выберите соединение…
+region.choose=Выберите район…
+terrain.region.choose=Выберите местность…
+actor.choose.i=Нажмите на актера для выбора.
+joint.choose.i=Нажмите на соединение для выбора.
+region.choose.i=Нажмите на район для выбора.
+terrain.region.choose.i=Нажмите на местность для выбора.
+# REGIONS
+region.info.selected=<0> (<1>)    (Положение: <2>, <3>)
+region.info.dim=(<0>, <1>)    (Ширина: <2>  Высота: <3>)
+region.edit.name=Название
+region.edit.namee=Введите название.
+region.edit.title=Изменить свойства района
+region.edit.color=Цвет
+# TERRAIN REGIONS
+terrain.region.info.selected=<0> (<1>)    (Позиция: <2>, <3>)
+terrain.region.info.dim=(<0>, <1>)    (Ширина: <2>  Высота: <3>)
+terrain.region.edit.name=Название
+terrain.region.edit.namee=Введите название.
+terrain.region.edit.title=Изменить свойства местности
+terrain.region.edit.color=Цвет
+terrain.region.edit.group=Группа
+# OTHER
+general.info=Двигаться до (<0>, <1>)
+# BEHAVIORS
+scene.snippet.instance.add=Создать спец-поведение (только для сцены)
+scene.snippet.instance.open=Изменить поведение
+scene.snippet.instance.import=Вставить поведение из библиотеки
+scene.snippet.instance.delete=Удалить поведение
+# SCREEN CAPTURE
+capture.title=Снимок экрана снят.
+capture.body=%s был сохранен в выбранное место.
+capture.error=Нельзя снять снимок экрана. Попробуйте снова.
+# MODULES
+mod.palette=Палитра
+mod.history=История
+mod.layers=Слои
+mod.game=Библиотека
+mod.properties=Свойства
+mod.scenes=Сцены
+mod.output=Вывод результатов
+mod.variables=Атрибуты 
+mod.inventory=Инвентарь
+mod.inspector=Инспектор
+# PALETTE
+palette.tile=Плитки 
+palette.actor=Актеры
+palette.tilesets=Наборы плиток
+palette.tilesets.create=Создать новый набор плиток
+# INVENTORY
+inventory.actors=Актеры
+inventory.regions=Районы
+inventory.joints=Соединения
+inventory.terrains=Местности
+inventory.all=Всё вместе

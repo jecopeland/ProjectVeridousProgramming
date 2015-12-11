@@ -1,0 +1,60 @@
+
+gamecenter.title=游戏中心
+gamecenter.controls=控制
+gamecenter.actorgroups=演员组合
+gamecenter.cgroups=相撞范围
+gamecenter.props=游戏设定
+gamecenter.stats=统计资料
+gamecenter.scenes=景象是你游戏的玩乐原野.
+gamecenter.actors=演员是活动的物体可使游戏所有情节发生.
+gamecenter.backs=背景是阔大的映像你可放在景象的后面或前面.通常与景象一起移动.
+gamecenter.sounds=声响可是全套音乐声带或一个短的剪辑用来建造音响效果.
+gamecenter.sprites=图片是一批漫画用来描述演员的样貌.
+gamecenter.tilesets=瓷砖收集是一批瓷砖你可用来建造一个景象.
+# SCENE EDIT
+scene.open.title=打开景象
+# TYPES
+type.actor=演员
+type.bg=背景
+type.sprite=图片
+type.shape=相撞范围
+type.sound=声响
+type.tset=瓷磚收集
+# LIBRARY
+library.projects=工程计划
+library.games=游戏
+library.kits=物件箱
+library.resources=文库
+library.scenes=景象
+library.snippets=游戏逻辑
+library.actors=演员
+library.bgs=背景
+library.sprites=图片
+library.shapes=相撞范围
+library.sounds=声响
+library.tsets=瓷砖收集
+library.fonts=字体
+library.effects=效果
+library.images=映像
+library.stats=统计
+library.menu.edit=编辑
+library.menu.delete=删除
+library.menu.create=创作新的
+library.filter=搜寻...
+# LIBRARY (SINGULAR)
+library.scene=景象
+library.snippet=游戏逻辑
+library.actor=演员
+library.bg=背景
+library.sprite=图片
+library.shape=相撞范围
+library.sound=声响
+library.tset=瓷磚收集
+library.font=字体
+library.effect=效果
+library.image=映像
+# LIBRARY (Settings)
+library.settings=游戏设定
+library.groups=组合
+library.collisions=相撞组合
+library.controls=控制

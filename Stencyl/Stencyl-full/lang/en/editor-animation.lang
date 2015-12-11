@@ -1,0 +1,124 @@
+
+# Sprite Editor
+sprite.animations=Animations
+sprite.properties=Rename Sprite
+sprite.menu.create=Create Animation
+sprite.menu.import=Import Existing Animation
+sprite.menu.delete=Remove Animation
+sprite.menu.default=Set as Default Animation
+sprite.menu.duplicate=Duplicate Animation
+sprite.menu.flip.horiz=Flip Horizontal
+sprite.menu.flip.vert=Flip Vertical
+sprite.menu.rotcw=Rotate 90 degrees Clockwise
+sprite.menu.rotccw=Rotate 90 degrees Counter-Clockwise
+sprite.anim.name=Name
+sprite.anim.collision.edit=Edit Collision Bounds...
+sprite.anim.looping=Looping?
+sprite.anim.syncing=Synchronized?
+# <0> is the animation's name
+sprite.anim.title1=Properties
+sprite.anim.title2=Frames
+sprite.anim.duration=<0> ms
+sprite.menu.addframe=Add Frame
+sprite.menu.editframe.pencyl=Edit Frame (External)
+sprite.menu.editframes.pencyl=Edit Frames (External)
+sprite.menu.addframe.pencyl=Create Frame (External)
+sprite.menu.editframe=Edit Frame
+sprite.menu.removeframe=Remove Frame
+sprite.menu.back=Move Back
+sprite.menu.forward=Move Forward
+sprite.anim.empty=Click here to add a frame.
+sprite.menu.copy=Copy Frame
+sprite.menu.paste=Paste Frame
+# Origin Points
+sprite.origin=Origin Point
+sprite.origin.x=Origin X Position
+sprite.origin.y=Origin Y Position
+sprite.origin.topleft=Top Left
+sprite.origin.topright=Top Right
+sprite.origin.bottomleft=Bottom Left
+sprite.origin.bottomright=Bottom Right
+sprite.origin.leftcenter=Left Center
+sprite.origin.rightcenter=Right Center
+sprite.origin.topcenter=Top Center
+sprite.origin.bottomcenter=Bottom Center
+sprite.origin.center=Center (Default)
+sprite.origin.custom=Custom
+# Frame Editor
+sprite.frame.title.edit=Edit Frame
+sprite.frames.title.edit=Edit Duration (Multiple Frames)
+sprite.frame.duration=Duration (in milliseconds)
+sprite.menu.changeimage=Import Image...
+sprite.menu.pasteimage=Paste from Clipboard
+sprite.menu.paintimage=Edit Image...
+sprite.menu.vpaintimage=Edit Image in Vector Editor...
+sprite.frame.filechooser.filter=Images
+sprite.frame.filechooser.select=Select Image
+sprite.frame.title.add=Add Frame
+sprite.frame.name=Frame <0>
+sprite.frame.name.multi=the selected frames
+# Add Animation
+sprite.anim.add.import=Import Frames
+sprite.anim.created=Animation <0>
+# Sprite Properties
+sprite.props.name=Name
+# Import Image Strip / Sheet
+sprite.strip.title=Import Frames from Image Strip
+sprite.strip.choose=Choose Image...
+sprite.strip.rows=Rows
+sprite.strip.cols=Columns
+sprite.strip.inst1.double=Import an image at 2x resolution (for Retina Display).
+sprite.strip.inst1=First, choose an image. Use Scale to indicate that you are importing hi-res graphics (before picking the image!)
+sprite.strip.inst2=Now, click on the image to pick its masking color, if it has one.
+sprite.strip.inst3=Finally, use the fields on the left to chop up your image into frames, if necessary.
+sprite.strip.inst4=You're done! Click Add to complete this process.
+sprite.strip.trans=Masking Color
+sprite.strip.xs=X Spacing
+sprite.strip.ys=Y Spacing
+sprite.strip.xb=X Border
+sprite.strip.yb=Y Border
+sprite.strip.size=Size: <0> x <1> 
+# Warnings
+sprite.warning.name=Enter a unique name.
+sprite.warning.duration=Enter a positive integer.
+sprite.warning.noanims=This Actor Type contains no animations.<br><br>Click here to add an animation.
+# SHAPE CHOOSER
+shape.none=No Collisions
+# Shape Editor
+shape.inst1=Each animation is associated with a collision shape.
+shape.main=Drag and drop shapes around.
+shape.shape=Current Shape
+shape.add.box=Add Box
+shape.add.circle=Add Circle
+shape.add.poly=Add Polygon
+shape.rename=Rename Shape
+shape.remove=Remove Shape
+shape.editphys=Edit Physical Properties...
+shape.editphys.title=Physical Properties
+shape.name=Name
+shape.x=X Position
+shape.y=Y Position
+shape.w=Width
+shape.h=Height
+shape.xc=X Position (Left)
+shape.yc=Y Position (Top)
+shape.r=Radius
+shape.box=Box
+shape.poly=Polygon
+shape.circle=Circle
+shape.poly.desc=You must edit the polygon to 'move' it.
+shape.select.none=No shapes are currently selected.<br><br>Select a shape to edit it.
+shape.select.many=Multiple shapes are currently selected.<br><br>You can only edit one shape at a time.
+shape.fric=Friction
+shape.rest=Bounciness
+shape.fric.info=Makes objects slow down if they slide against each other.
+shape.rest.info=Makes objects bounce. A value of 1.0 means that a ball will bounce back to the same height from which it was dropped while a value of 0 means that it will not bounce at all.
+shape.sensor=Is a Sensor?
+shape.sensor.info=Allows shapes to detect collisions without producing<br> a response, so they do not appear to be solid.
+shape.density.info=Determines how heavy this part will be relative to other parts.
+shape.light=Light
+shape.heavy=Heavy
+shape.defaultgroup=Same as Actor Type (Default)
+shape.group.desc=Assign this shape to a different group from that of its parent actor type. <br>Useful for multi-shape actors.
+shape.zoom.in=Zoom In
+shape.zoom.out=Zoom Out

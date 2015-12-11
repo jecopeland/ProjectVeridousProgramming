@@ -1,0 +1,56 @@
+
+# MULTI INSTANCE
+multi.main=Προσοχή: Το StencylWorks είναι ήδη ανοικτό η έκλεισε απροσδόκητα. Επιθυμείτε να συνεχίσετε?
+multi.sub=Σας αποθαρρύνουμε από το να εκτελείται ταυτόχρονα πολλαπλά StencylWorks.
+# LEGAL
+cp=  Copyright Stencyl, LLC. All Rights Reserved. Stencyl, the Stencyl logo and the Stencyl cog are trademarks of Stencyl, LLC in the United States and/or other countries. Usage of StencylWorks is governed by our End User License Agreement (EULA).
+# MISC
+progress=Πρόοδος
+statusbar=Μπάρα Προόδου
+welcome.newgame=Δημιουργία Νέου Παιχνιδιού...
+welcome.importgame=Εισαγωγή Παιχνιδιού...
+welcome.exportgame=Εξαγωγή Παιχνιδιού...
+welcome.opengame=Άνοιγμα Παιχνιδιού
+welcome.tabtitle=Κέντρο Υποδοχής
+welcome.title1=Τα Παιχνίδια μου
+welcome.title2=Τα Kits μου
+welcome.tour=Ξεκινώντας
+welcome.published=Τα εκδομένα μου Παιχνίδια
+# LOADING
+load.loading=Φόρτωση
+load.lnf=Επισκόπηση
+load.ui=Interface
+load.plug=Plugins
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>
+pixels=pixels
+# FEEDBACK
+feedback.bug=Αναφορά Σφάλματος
+feedback.sugg=Πρόταση
+feedback.stuck=Κόλλησα
+feedback.other=Άλλο
+feedback.title=Περίληψη
+feedback.msg=Μήνυμα
+feedback.comments=Τα Σχόλια σας
+feedback.success=Ευχαριστούμε για την υποβολή η την αποπληροφόρηση. Ένα μέλος της ομάδας μπορεί να επικοινωνήσει μαζί σας μέσω e-mail αν είναι απαραίτητο.
+feedback.privacy=<b>Σημείωση Προσωπικού Απόρρητου:</b> Το StencylWorks υποβάλει πληροφορίες του συστήματος σας, όπως την έκδοση της Java και λειτουργικό σύστημα, για να μας βοηθείση να διαγνώσουμε το πρόβλημα σας. Διαβάστε την Πολιτική Προσωπικού Απόρρητου στο Stencyl.com για λεπτομέρειες.
+# HELP
+help.gui.prev=Προηγούμενη Σελίδα
+help.gui.next=Επόμενη Σελίδα
+test.game.progress1=Ετοιμασία %d απο %d.
+test.game.progress2=Επεξεργασία Συμπεριφορών.
+# TIME
+date.short=ΜΜΜ μ, χχχχ
+date.realtime=ω:λλ:δδ a
+today=Σήμερα
+yesterday=Εχθές
+hours.ago=<0> ώρες πριν
+days.ago=<0> ημέρες πριν
+week.ago=Προηγούμενη Εβδομάδα
+# TEMPORARY
+temp.followinst=Ακολουθήστε αυτές τις οδηγίες.
+temp.resourcepack=Για να προσθέσετε ένα πόρο στο πακέτο, κάντε δεξί κλικ στο πόρο και επιλέξτε την επιλογή 'Προσθήκη σε Πακέτο' από το μενού πλαισίου.

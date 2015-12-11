@@ -1,0 +1,17 @@
+#
+#Sat Nov 21 11:42:46 EST 2015
+style=bold
+alphabet=
+stroke.color=\#000000
+color=\#ff0000
+shadow.y=0
+family=Monospaced
+shadow.x=0
+shadow.color=\#000000
+gradient.offset=0
+shadow.blur=0
+chars=all
+gradient.color=\#800000
+stroke.size=1
+antialias=true
+size=20

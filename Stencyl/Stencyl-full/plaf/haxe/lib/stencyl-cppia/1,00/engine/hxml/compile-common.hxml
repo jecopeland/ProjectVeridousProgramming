@@ -1,0 +1,30 @@
+-main StencylCppia
+
+-D openfl_legacy
+-D lime-legacy
+-D no_console=1
+-D native
+-D openfl-native
+-D lime-native
+-D tools=2.0.6
+
+-lib openfl
+-lib lime
+-lib hxcpp
+-lib actuate
+-lib console
+-lib polygonal-ds
+-lib polygonal-printf
+-lib box2d
+-lib stencyl
+
+--remap flash:openfl
+--remap nme:openfl
+
+-cp ../src
+-cp ../../../../../extensions/gestures
+
+-D scriptable
+-dce no
+
+-D HXCPP_DEBUG_LINK

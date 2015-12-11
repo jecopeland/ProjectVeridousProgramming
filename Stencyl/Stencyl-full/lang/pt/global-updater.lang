@@ -1,0 +1,32 @@
+
+# UPDATER
+update.title=Atualizar Stencyl
+update.remind.action=Lembra-me mais tarde
+update.download.action=Descarregar e Atualizar
+update.restart.title=Sucesso!
+update.restart.action=Reniciar Stencyl
+update.restart=Atualizou para a versão <0> (b <1>). Reinicie o Stencyl para finalizar o processo.
+update.restart2=Atualizou para a versão <0> (b <1>). Stencyl necessita de continuar o processo após reiniciar.
+update.save=Gostaria de guardar o seu jogo antes de actualizar o Stencyl? (Recomendado)
+update.noneed=A sua versão do Stencyl já é a mais recente.
+update.noneed2=<0> (b<1>) é atualmente a versão mais recente disponível.
+update.need=Uma nova versão do Stencyl já está disponível!
+update.need2=<0> (b<1>) está agora disponível - você tem <2> (b<3>). Gostaria de atualizar?
+update.check=A analisar a versão...
+update.archive=A guardar uma Cópia de Segurança...
+update.gather=A obter a lista de ficheiros...
+update.download=A descarregar...
+update.download.dg.title=A descarregar Atualização...
+update.download.lang=A atualizar Linguagens...
+update.patch=Patching...
+update.finalize=A finalizar...
+update.fail=Oops!
+update.fail2=O Stencyl não conseguiu completar o processo de atualização.<br><br>Asegure que o seu computador está ligado à Internet e de seguida tente novamente.
+update.lang=Atualizou os pacotes de linguagens. <br><br>Reinicie o Stencyl para finalizar o processo.
+update.cancel=Cancelar Atualização
+update.progress.top=Descarregar <0> de <1>:
+update.progress.bottom=<0>K de <1>K - Por volta de <2> segundos restantes
+upload.progress.top=A Carregar:<0>
+upload.progress.bottom=<0>K of <1>K
+update.redownload.title=Necessário descarregar de novo
+update.redownload.desc=Precisa de descarregar de novo o Stencyl do nosso site para actualizar.<br><br>Clica OK para visitar o nosso site de descarregamentos.

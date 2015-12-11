@@ -1,0 +1,119 @@
+
+# Sprite Editor
+sprite.animations=Animations
+sprite.properties=Renommer le Sprite
+sprite.menu.create=Créer une Animation
+sprite.menu.import=Importer une Animation Existante
+sprite.menu.delete=Supprimer une Animation
+sprite.menu.default=Définir comem Animation par Défaut
+sprite.menu.duplicate=Dupliquer l'Animation
+sprite.menu.flip.horiz=Retourner Horizontalement
+sprite.menu.flip.vert=Retourner Verticalement
+sprite.menu.rotcw=Tourner de 90° Dans le Sens des Aiguilles d'une Montre
+sprite.menu.rotccw=Tourner de 90° Dans le Sens Inverse des Aiguilles d'une Montre
+sprite.anim.name=Nom
+sprite.anim.collision.edit=Editer les Contours de Collisions
+sprite.anim.looping=En Boucle?
+# <0> is the animation's name
+sprite.anim.title1=Propriétés
+sprite.anim.title2=Images
+sprite.anim.duration=<0> ms
+sprite.menu.addframe=Ajouter une Image
+sprite.menu.editframe.pencyl=Editer une Image (Externe)
+sprite.menu.addframe.pencyl=Créerune Image (Externe)
+sprite.menu.editframe=Editer une Image
+sprite.menu.removeframe=Supprimer une Image
+sprite.menu.back=Déplacer à l'Arrière
+sprite.menu.forward=Déplacer à l'Avant
+sprite.anim.empty=Cliquez ici pour ajouter une Image.
+sprite.menu.copy=Copier une Image
+sprite.menu.paste=Coller une Image
+# Origin Points
+sprite.origin=Point d'Origine
+sprite.origin.x=Position X d'Origine
+sprite.origin.y=Position Y d'Origine
+sprite.origin.topleft=En Haut à Gauche
+sprite.origin.topright=En Haut à Droite
+sprite.origin.bottomleft=En Bas à Gauche
+sprite.origin.bottomright=En Bas à Droite
+sprite.origin.leftcenter=Au Centre Gauche
+sprite.origin.rightcenter=Au Centre Droit
+sprite.origin.topcenter=En Haut au Centre
+sprite.origin.bottomcenter=En Bas au Centre
+sprite.origin.center=Centre (Default)
+sprite.origin.custom=Personnalisé
+# Frame Editor
+sprite.frame.title.edit=Editer Image
+sprite.frames.title.edit=Editer la Durée (Multiples Images)
+sprite.frame.duration=Durée (en millisecondes)
+sprite.menu.changeimage=Importer l'Image...
+sprite.menu.pasteimage=Colelr à partir du Presse Papier
+sprite.menu.paintimage=Editer l'Image...
+sprite.menu.vpaintimage=Editer l'Image dans l'Éditeur Vectoriel...
+sprite.frame.filechooser.filter=Images
+sprite.frame.filechooser.select=Selectionner une Image
+sprite.frame.title.add=Ajouter Image
+sprite.frame.name=Image <0>
+sprite.frame.name.multi=les images sélectionnées
+# Add Animation
+sprite.anim.add.import=Importer les Images
+sprite.anim.created=Animation <0>
+# Sprite Properties
+sprite.props.name=Nom
+# Import Image Strip / Sheet
+sprite.strip.title=Importer les Images à partir de la Bande
+sprite.strip.choose=Choisir l'Image...
+sprite.strip.rows=Lignes
+sprite.strip.cols=Colonnes
+sprite.strip.inst1.double=Importer une image à 2x sa resolution (pour l'affichage Retina).
+sprite.strip.inst1=Premièrement, choisir une image.
+sprite.strip.inst2=Maintenant, cliquez sur l'image pour la récupérer sa couleur transparente si elle en a une.
+sprite.strip.inst3=Enfin, utilisez les champs sur la gauche pour séparer votre images en plusieurs images de l'animation si nécessaire.
+sprite.strip.inst4=C'est Fini! Cliquez sur Ajouter pour finaliser le procéssus.
+sprite.strip.trans=Couleur Transparente
+sprite.strip.xs=Espace Horizontal
+sprite.strip.ys=Espace Vertical
+sprite.strip.xb=Bordure X
+sprite.strip.yb=Bordure Y
+sprite.strip.size=Taille: <0> x <1> 
+# Warnings
+sprite.warning.name=Entrez un nom unique.
+sprite.warning.duration=Entrez un entier positif.
+sprite.warning.noanims=Ce Type d'Acteur ne contient pas d'animations.<br><br>Cliquez ici pour ajouter une animation.
+# SHAPE CHOOSER
+shape.none=Aucune Collision
+# Shape Editor
+shape.inst1=Chaque animation est associée à une forme de collision.
+shape.main=Glisser et Déposer des Formes.
+shape.shape=Forme Actuelle
+shape.add.box=Ajouter Boite
+shape.add.circle=Ajouter Cercle
+shape.add.poly=Ajouter Polygone
+shape.rename=Renommer Forme
+shape.remove=Supprimer Forme
+shape.editphys=Éditer les Propriétés Physiques...
+shape.editphys.title=Propriétés Physiques
+shape.name=Nom
+shape.x=Position X
+shape.y=Position Y
+shape.w=Largeur
+shape.h=Hauteur
+shape.xc=Position X (Gauche)
+shape.yc=Position Y (En Haut)
+shape.r=Radius
+shape.box=Boite
+shape.poly=Polygone
+shape.circle=Cercle
+shape.select.none=Aucune Forme n'est actuellement sélectionnée.<br><br>Sélectionnez une Forme pour l'éditer.
+shape.select.many=Plusieurs Formes sont actuellement sélectionnées.<br><br>Vous pouvez seulement éditer une forme à la fois.
+shape.fric=Friction
+shape.rest=Force de Rebond
+shape.fric.info=Fait ralentir les objets s'ils glissent l'un sur l'autre.
+shape.rest.info=Fait rebondir les objets. Une valeur de 1.0 signifie que la balle va rebondir à la même hauteur que celle à laquelle elle a été lâchée. Une valeur de 0 ne la fera pas rebondir du tout.
+shape.sensor=Est un Détecteur?
+shape.sensor.info=Autorise les Formes à détecter les Collisions san apporter de réponse, donc elle ne semble pas être solide.
+shape.density.info=Détermine la densité (poids) de cette partie comparée aux autres.
+shape.light=Léger
+shape.heavy=Lourd
+shape.defaultgroup=Comem un Type d'Acteurs (Défaut)
+shape.group.desc=Assigne cette Forme à un Groupe différent de son Type d'Acteurs parent. <br>Utile pour les Acteurs multi-formes.

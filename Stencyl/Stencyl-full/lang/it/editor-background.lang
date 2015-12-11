@@ -1,0 +1,20 @@
+
+# BACKGROUND CREATOR
+bg.top.main=Sfondo
+bg.top.properties=Proprietà
+bg.top.attach=Attaccalo alla scena
+bg.rename=Rinomina
+bg.resize=Sovrascrivi dimensione
+bg.scroll=Imposta la velocità di scorrimento
+bg.preview=Anteprima
+bg.scroll.title=Velocità scorrimento
+bg.resize.title=Ridimensiona Sfondo
+bg.resize.inst=Ignora la dimensione predefinita dello sfondo. Normalmente la dimensione di uno sfondo si basa su quella del primo fotogramma.
+bg.scroll.inst=Gli sfondi sono normalmente fissi. Impostando una velocità di scorrimento si muoveranno in modo automatico.
+bg.props.xscroll=Velocità scorrimento X
+bg.props.yscroll=Velocità scorrimento Y
+bg.props.width=Larghezza
+bg.props.height=Altezza
+bg.error.size=Inserisci un intero positivo.
+bg.repeat.title=Ripeti sfondo?
+bg.repeat.inst=Sfondo a tasselli e fai scorrere staticamente come il terreno.

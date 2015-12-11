@@ -1,0 +1,21 @@
+
+# MODES
+sb.mode.code=Codice
+sb.mode.design=Modalità progetto
+sb.mode.coded=<b>Modalità codice</b><br>Scrivi semplice codice per creare comportamenti.
+sb.mode.designd=<b>Modalità progetto</b><br>Unisci assieme dei blocchi per creare comportamenti per i tuoi attori e scene.
+sb.mode.arbitrary=<b>Modalità libera</b><br>Scrivi codice arbitrario per il tuo gioco. Non può essere collegato ad attori o scene.
+# NEW BEHAVIOR DIALOG
+sb.edit.title=Modifica Proprietà Spezzone
+sb.new.mode=Modalità
+sb.new.props=Informazioni di base
+sb.new.name=Nome
+sb.new.class=Nome classe
+sb.new.type.help=Tipo
+sb.new.type.actor=<b>Comportamento attore</b><br>si applica solo ad attori.
+sb.new.type.scene=<b>Comportamento scena</b><br>si applica solo alle scene.
+sb.new.description=Descrizione
+sb.error.integer=Inserisci un intero.
+sb.error.number=Inserisci un numero.
+sb.error.text=Inserisci del testo.
+sb.error.class=Nome classe non valido.

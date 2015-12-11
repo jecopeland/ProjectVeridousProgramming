@@ -1,0 +1,22 @@
+
+# BYOB
+byob.create.title=Créer un Nouveau Bloc Personnalisé
+byob.create.title2=Créer un Nouveau Bloc Personnalisé Global
+byob.edit.title=Éditer un Bloc Personnalisé
+byob.dg.name=Nom
+byob.dg.desc=Description
+byob.dg.spec=Bloc Spec
+byob.dg.spec.i=A quoi va ressembler le bloc. Exemple: santé %0 de %1
+byob.dg.blanks=Champs de Bloc
+byob.dg.blanks.add=Ajouter Champ
+byob.dg.blanks.remove=Supprimer Champ
+byob.dg.return=Renvoie Type
+byob.dg.return.i=Le Type de ce Bloc
+byob.dg.return.none=Aucun (Bloc d'Action)
+byob.dg.title.spec=Détails du Bloc
+byob.dg.error.spec=Entrez quelque chose.
+byob.col.spec=La Référence pour les champs de Bloc Spec
+byob.blank.add=Ajouter Blanc au Bloc Personnalisé
+byob.blank.remove=Supprimer Blanc du Bloc Personnalisé
+byob.blank.type=Type
+byob.blank.type.i=Spécifiez quels genre de blocs ce blanc accepte.

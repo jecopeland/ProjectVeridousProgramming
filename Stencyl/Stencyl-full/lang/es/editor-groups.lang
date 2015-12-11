@@ -1,0 +1,17 @@
+
+# ACTOR GROUPS
+groups.create=Pulsa para crear un nuevo grupo.
+groups.new=Crear un nuevo grupo...
+groups.newname=Grupo nuevo <0>
+groups.error.name=Ya hay un grupo con este nombre. Elige un nombre distinto.
+groups.default=Pulsa en el nombre de un grupo para renombrarlo.
+groups.none=Selecciona un grupo, o pulsa aquí para crear uno.
+groups.collideswith=colisiona con
+groups.nocollide=Este es un grupo especial cuyos miembros nunca tienen permitido<br> colisionar con nada.
+# COLLISION GROUPS
+cgroups.create=Pulsa para crear un nuevo grupo de colisión.
+cgroups.collide=colisiona con
+cgroups.single=este grupo de colisión
+cgroups.warn=Aviso: Este grupo de colisión coincide con uno existente.
+cgroups.warn2=No puedes duplicar los grupos de colisión por defecto (<0> y <1>). Se revertirá a la selección previa.
+cgroups.info=Los grupos de colisión determinan qué grupos de entidades colisionan entre sí. Los duplicados, indicados por un icono de aviso, se ignoran.

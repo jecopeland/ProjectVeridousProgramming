@@ -1,0 +1,1 @@
+Draw all regions with custom fill and outline.

@@ -1,0 +1,874 @@
+2015-11-03 13:49:00,830 INFO  [main] stencyl.sw.Session: Logfile: logs/2015-11-03_13-49-00.log
+2015-11-03 13:49:00,840 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-11-03 13:49:00,841 INFO  [main] stencyl.sw.Session: OS Version: 10.10.5
+2015-11-03 13:49:00,841 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_65
+2015-11-03 13:49:00,841 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2015-11-03 13:49:00,843 INFO  [main] stencyl.sw.Session: Stencyl Workspace: 
+2015-11-03 13:49:00,843 INFO  [main] stencyl.sw.Session: User Working Directory: /Users/pome012/Downloads/Stencyl-full (1)
+2015-11-03 13:49:00,843 INFO  [main] stencyl.sw.Session: User Home Directory: /Users/pome012
+2015-11-03 13:49:00,844 INFO  [main] stencyl.sw.Session: System Path: /usr/bin:/bin:/usr/sbin:/sbin
+2015-11-03 13:49:00,934 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl2347817243369466929
+2015-11-03 13:49:00,939 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-phrases.lang
+2015-11-03 13:49:00,947 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-errors.lang
+2015-11-03 13:49:00,949 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-menu.lang
+2015-11-03 13:49:00,960 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-welcome.lang
+2015-11-03 13:49:00,963 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-dashboard.lang
+2015-11-03 13:49:00,980 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-publish.lang
+2015-11-03 13:49:00,984 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-updater.lang
+2015-11-03 13:49:00,994 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-chat.lang
+2015-11-03 13:49:00,995 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-misc.lang
+2015-11-03 13:49:01,005 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-forge.lang
+2015-11-03 13:49:01,012 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-prefs.lang
+2015-11-03 13:49:01,014 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-creategame.lang
+2015-11-03 13:49:01,015 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-main.lang
+2015-11-03 13:49:01,021 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blocks.lang
+2015-11-03 13:49:01,052 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blockhelp.lang
+2015-11-03 13:49:01,067 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-events.lang
+2015-11-03 13:49:01,078 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-code.lang
+2015-11-03 13:49:01,080 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-attributes.lang
+2015-11-03 13:49:01,081 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-create.lang
+2015-11-03 13:49:01,082 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-byob.lang
+2015-11-03 13:49:01,083 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-main.lang
+2015-11-03 13:49:01,083 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-physics.lang
+2015-11-03 13:49:01,084 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-background.lang
+2015-11-03 13:49:01,085 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-behaviorchooser.lang
+2015-11-03 13:49:01,102 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-desktop.lang
+2015-11-03 13:49:01,130 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-font.lang
+2015-11-03 13:49:01,130 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-sound.lang
+2015-11-03 13:49:01,142 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-tileset.lang
+2015-11-03 13:49:01,144 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-preloader.lang
+2015-11-03 13:49:01,145 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-mobile.lang
+2015-11-03 13:49:01,149 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-groups.lang
+2015-11-03 13:49:01,152 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-attributes.lang
+2015-11-03 13:49:01,153 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-input.lang
+2015-11-03 13:49:01,154 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-animation.lang
+2015-11-03 13:49:01,155 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-main.lang
+2015-11-03 13:49:01,156 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-create.lang
+2015-11-03 13:49:01,157 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-tools.lang
+2015-11-03 13:49:01,158 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-phrases.lang
+2015-11-03 13:49:01,159 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-errors.lang
+2015-11-03 13:49:01,160 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-menu.lang
+2015-11-03 13:49:01,161 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-welcome.lang
+2015-11-03 13:49:01,162 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-dashboard.lang
+2015-11-03 13:49:01,163 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-publish.lang
+2015-11-03 13:49:01,164 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-updater.lang
+2015-11-03 13:49:01,165 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-chat.lang
+2015-11-03 13:49:01,166 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-misc.lang
+2015-11-03 13:49:01,178 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-forge.lang
+2015-11-03 13:49:01,194 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-prefs.lang
+2015-11-03 13:49:01,205 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-creategame.lang
+2015-11-03 13:49:01,213 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-main.lang
+2015-11-03 13:49:01,214 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blocks.lang
+2015-11-03 13:49:01,235 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blockhelp.lang
+2015-11-03 13:49:01,263 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-events.lang
+2015-11-03 13:49:01,264 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-code.lang
+2015-11-03 13:49:01,265 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-attributes.lang
+2015-11-03 13:49:01,265 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-create.lang
+2015-11-03 13:49:01,266 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-byob.lang
+2015-11-03 13:49:01,266 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-main.lang
+2015-11-03 13:49:01,267 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-physics.lang
+2015-11-03 13:49:01,268 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-background.lang
+2015-11-03 13:49:01,269 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-behaviorchooser.lang
+2015-11-03 13:49:01,270 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-desktop.lang
+2015-11-03 13:49:01,271 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-font.lang
+2015-11-03 13:49:01,272 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-sound.lang
+2015-11-03 13:49:01,273 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-tileset.lang
+2015-11-03 13:49:01,273 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-preloader.lang
+2015-11-03 13:49:01,274 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-mobile.lang
+2015-11-03 13:49:01,275 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-groups.lang
+2015-11-03 13:49:01,276 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-attributes.lang
+2015-11-03 13:49:01,276 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-input.lang
+2015-11-03 13:49:01,277 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-animation.lang
+2015-11-03 13:49:01,278 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-main.lang
+2015-11-03 13:49:01,280 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-create.lang
+2015-11-03 13:49:01,281 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-tools.lang
+2015-11-03 13:49:05,054 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-11-03 13:49:05,067 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2015-11-03 13:49:05,221 WARN  [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of directory: /Users/pome012/Downloads/Stencyl-full (1)
+2015-11-03 13:49:06,174 DEBUG [AWT-EventQueue-0] stencyl.sw.util.dg.MessageDialog: You do not have write permissions for your current workspace:  - Change your workspace in the preferences, or make sure that you have sufficient permissions.
+2015-11-03 13:49:09,607 DEBUG [Thread-2] stencyl.sw.util.StreamGobbler: [xcode-select] xcode-select: error: unable to get active developer directory, use `xcode-select --switch` to set one (or see `man xcode-select`)
+2015-11-03 13:49:09,616 DEBUG [Thread-3] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: xcode-select: error: unable to get active developer directory, use `xcode-select --switch` to set one (or see `man xcode-select`)
+2015-11-03 13:49:09,623 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: 
+2015-11-03 13:49:09,630 DEBUG [Thread-5] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: /Applications/Xcode.app/Contents/Developer
+2015-11-03 13:49:09,637 DEBUG [Thread-6] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: /Developer
+2015-11-03 13:49:09,760 WARN  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: No Xcode found.
+2015-11-03 13:49:10,244 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2015-11-03 13:49:10,252 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2015-11-03 13:49:10,259 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2015-11-03 13:49:10,269 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2015-11-03 13:49:10,276 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2015-11-03 13:49:10,280 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2015-11-03 13:49:10,287 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2015-11-03 13:49:10,294 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2015-11-03 13:49:10,298 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2015-11-03 13:49:10,300 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2015-11-03 13:49:10,300 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2015-11-03 13:49:10,301 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2015-11-03 13:49:10,303 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2015-11-03 13:49:10,304 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2015-11-03 13:49:10,305 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2015-11-03 13:49:10,306 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2015-11-03 13:49:10,308 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2015-11-03 13:49:10,317 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within extensions: []
+2015-11-03 13:49:10,318 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within extensions: []
+2015-11-03 13:49:10,318 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2015-11-03 13:49:10,319 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within engine-extensions: []
+2015-11-03 13:49:10,319 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: []
+2015-11-03 13:49:10,320 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2015-11-03 13:49:10,326 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2015-11-03 13:49:10,918 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-11-03 13:49:10,931 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is: 
+2015-11-03 13:49:10,932 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is being set to: /Users/pome012/
+2015-11-03 13:49:10,941 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: prefs to: /Users/pome012/stencylworks/prefs
+2015-11-03 13:49:10,942 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: prefs/boot.txt to: /Users/pome012/stencylworks/prefs/boot.txt
+2015-11-03 13:49:10,956 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: prefs/log4j.xml to: /Users/pome012/stencylworks/prefs/log4j.xml
+2015-11-03 13:49:10,957 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: games to: /Users/pome012/stencylworks/games
+2015-11-03 13:49:10,958 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: logs to: /Users/pome012/stencylworks/logs
+2015-11-03 13:49:10,958 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: logs/2015-11-03_13-49-00.log to: /Users/pome012/stencylworks/logs/2015-11-03_13-49-00.log
+2015-11-03 13:49:10,960 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: extensions to: /Users/pome012/stencylworks/extensions
+2015-11-03 13:49:10,960 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: engine-extensions to: /Users/pome012/stencylworks/engine-extensions
+2015-11-03 13:49:10,961 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors to: /Users/pome012/stencylworks/behaviors
+2015-11-03 13:49:10,962 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Controls to: /Users/pome012/stencylworks/behaviors/Controls
+2015-11-03 13:49:10,962 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Controls/Actor to: /Users/pome012/stencylworks/behaviors/Controls/Actor
+2015-11-03 13:49:10,963 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/2 Way Horizontal Movement.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/2 Way Horizontal Movement.png
+2015-11-03 13:49:10,964 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/2 Way Horizontal Movement.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/2 Way Horizontal Movement.txt
+2015-11-03 13:49:10,965 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/2 Way Vertical Movement.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/2 Way Vertical Movement.png
+2015-11-03 13:49:10,966 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/2 Way Vertical Movement.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/2 Way Vertical Movement.txt
+2015-11-03 13:49:10,970 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/4 Way Movement.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/4 Way Movement.png
+2015-11-03 13:49:10,971 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/4 Way Movement.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/4 Way Movement.txt
+2015-11-03 13:49:10,973 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/8 Way Movement.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/8 Way Movement.png
+2015-11-03 13:49:10,974 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/8 Way Movement.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/8 Way Movement.txt
+2015-11-03 13:49:10,977 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Apply Force.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Apply Force.png
+2015-11-03 13:49:10,981 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Apply Force.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Apply Force.txt
+2015-11-03 13:49:10,985 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Asteroids Movement.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Asteroids Movement.png
+2015-11-03 13:49:10,986 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Asteroids Movement.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Asteroids Movement.txt
+2015-11-03 13:49:10,989 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Drag and Drop.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Drag and Drop.png
+2015-11-03 13:49:10,993 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Drag and Drop.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Drag and Drop.txt
+2015-11-03 13:49:10,995 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Face the Mouse.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Face the Mouse.png
+2015-11-03 13:49:10,999 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Face the Mouse.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Face the Mouse.txt
+2015-11-03 13:49:11,001 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Fire Bullet Wave.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Fire Bullet Wave.png
+2015-11-03 13:49:11,002 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Fire Bullet Wave.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Fire Bullet Wave.txt
+2015-11-03 13:49:11,005 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Fire Bullet.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Fire Bullet.png
+2015-11-03 13:49:11,007 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Fire Bullet.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Fire Bullet.txt
+2015-11-03 13:49:11,010 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Follow Drag and Drop.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Follow Drag and Drop.png
+2015-11-03 13:49:11,011 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Follow Drag and Drop.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Follow Drag and Drop.txt
+2015-11-03 13:49:11,013 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Follow the Mouse.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Follow the Mouse.png
+2015-11-03 13:49:11,014 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Follow the Mouse.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Follow the Mouse.txt
+2015-11-03 13:49:11,015 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Jump and Run Movement.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Jump and Run Movement.png
+2015-11-03 13:49:11,017 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Jump and Run Movement.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Jump and Run Movement.txt
+2015-11-03 13:49:11,019 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Shoot Around the Clock.png to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Shoot Around the Clock.png
+2015-11-03 13:49:11,020 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/Actor/Shoot Around the Clock.txt to: /Users/pome012/stencylworks/behaviors/Controls/Actor/Shoot Around the Clock.txt
+2015-11-03 13:49:11,022 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Controls/icon.png to: /Users/pome012/stencylworks/behaviors/Controls/icon.png
+2015-11-03 13:49:11,023 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Eye Candy to: /Users/pome012/stencylworks/behaviors/Eye Candy
+2015-11-03 13:49:11,024 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Eye Candy/Actor to: /Users/pome012/stencylworks/behaviors/Eye Candy/Actor
+2015-11-03 13:49:11,024 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/Actor/Explode On Death.png to: /Users/pome012/stencylworks/behaviors/Eye Candy/Actor/Explode On Death.png
+2015-11-03 13:49:11,025 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/Actor/Explode On Death.txt to: /Users/pome012/stencylworks/behaviors/Eye Candy/Actor/Explode On Death.txt
+2015-11-03 13:49:11,030 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/Actor/Fade After Time.png to: /Users/pome012/stencylworks/behaviors/Eye Candy/Actor/Fade After Time.png
+2015-11-03 13:49:11,034 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/Actor/Fade After Time.txt to: /Users/pome012/stencylworks/behaviors/Eye Candy/Actor/Fade After Time.txt
+2015-11-03 13:49:11,038 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/Actor/Flicker On Collision.png to: /Users/pome012/stencylworks/behaviors/Eye Candy/Actor/Flicker On Collision.png
+2015-11-03 13:49:11,039 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/Actor/Flicker On Collision.txt to: /Users/pome012/stencylworks/behaviors/Eye Candy/Actor/Flicker On Collision.txt
+2015-11-03 13:49:11,041 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/icon.png to: /Users/pome012/stencylworks/behaviors/Eye Candy/icon.png
+2015-11-03 13:49:11,043 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Eye Candy/Scene to: /Users/pome012/stencylworks/behaviors/Eye Candy/Scene
+2015-11-03 13:49:11,043 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/Scene/Intro Title.png to: /Users/pome012/stencylworks/behaviors/Eye Candy/Scene/Intro Title.png
+2015-11-03 13:49:11,046 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Eye Candy/Scene/Intro Title.txt to: /Users/pome012/stencylworks/behaviors/Eye Candy/Scene/Intro Title.txt
+2015-11-03 13:49:11,049 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Game to: /Users/pome012/stencylworks/behaviors/Game
+2015-11-03 13:49:11,050 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Game/Actor to: /Users/pome012/stencylworks/behaviors/Game/Actor
+2015-11-03 13:49:11,050 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Camera Follow.png to: /Users/pome012/stencylworks/behaviors/Game/Actor/Camera Follow.png
+2015-11-03 13:49:11,051 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Camera Follow.txt to: /Users/pome012/stencylworks/behaviors/Game/Actor/Camera Follow.txt
+2015-11-03 13:49:11,070 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Die In Pit And Reload.png to: /Users/pome012/stencylworks/behaviors/Game/Actor/Die In Pit And Reload.png
+2015-11-03 13:49:11,073 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Die In Pit And Reload.txt to: /Users/pome012/stencylworks/behaviors/Game/Actor/Die In Pit And Reload.txt
+2015-11-03 13:49:11,080 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Grid Camera Follow.png to: /Users/pome012/stencylworks/behaviors/Game/Actor/Grid Camera Follow.png
+2015-11-03 13:49:11,081 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Grid Camera Follow.txt to: /Users/pome012/stencylworks/behaviors/Game/Actor/Grid Camera Follow.txt
+2015-11-03 13:49:11,083 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Mute Button.png to: /Users/pome012/stencylworks/behaviors/Game/Actor/Mute Button.png
+2015-11-03 13:49:11,087 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Mute Button.txt to: /Users/pome012/stencylworks/behaviors/Game/Actor/Mute Button.txt
+2015-11-03 13:49:11,091 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Pause Button.png to: /Users/pome012/stencylworks/behaviors/Game/Actor/Pause Button.png
+2015-11-03 13:49:11,092 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Pause Button.txt to: /Users/pome012/stencylworks/behaviors/Game/Actor/Pause Button.txt
+2015-11-03 13:49:11,095 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Reload Scene Button.png to: /Users/pome012/stencylworks/behaviors/Game/Actor/Reload Scene Button.png
+2015-11-03 13:49:11,097 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Reload Scene Button.txt to: /Users/pome012/stencylworks/behaviors/Game/Actor/Reload Scene Button.txt
+2015-11-03 13:49:11,099 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Reload Scene On Death.png to: /Users/pome012/stencylworks/behaviors/Game/Actor/Reload Scene On Death.png
+2015-11-03 13:49:11,100 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Reload Scene On Death.txt to: /Users/pome012/stencylworks/behaviors/Game/Actor/Reload Scene On Death.txt
+2015-11-03 13:49:11,103 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Switch Scene Button.png to: /Users/pome012/stencylworks/behaviors/Game/Actor/Switch Scene Button.png
+2015-11-03 13:49:11,107 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Actor/Switch Scene Button.txt to: /Users/pome012/stencylworks/behaviors/Game/Actor/Switch Scene Button.txt
+2015-11-03 13:49:11,111 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/icon.png to: /Users/pome012/stencylworks/behaviors/Game/icon.png
+2015-11-03 13:49:11,112 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Game/Scene to: /Users/pome012/stencylworks/behaviors/Game/Scene
+2015-11-03 13:49:11,113 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Background Music.png to: /Users/pome012/stencylworks/behaviors/Game/Scene/Background Music.png
+2015-11-03 13:49:11,115 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Background Music.txt to: /Users/pome012/stencylworks/behaviors/Game/Scene/Background Music.txt
+2015-11-03 13:49:11,119 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Pause On Losing Focus.png to: /Users/pome012/stencylworks/behaviors/Game/Scene/Pause On Losing Focus.png
+2015-11-03 13:49:11,119 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Pause On Losing Focus.txt to: /Users/pome012/stencylworks/behaviors/Game/Scene/Pause On Losing Focus.txt
+2015-11-03 13:49:11,122 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Region Scene Switcher.png to: /Users/pome012/stencylworks/behaviors/Game/Scene/Region Scene Switcher.png
+2015-11-03 13:49:11,126 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Region Scene Switcher.txt to: /Users/pome012/stencylworks/behaviors/Game/Scene/Region Scene Switcher.txt
+2015-11-03 13:49:11,130 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Switch Scene on Click or Touch.png to: /Users/pome012/stencylworks/behaviors/Game/Scene/Switch Scene on Click or Touch.png
+2015-11-03 13:49:11,131 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Switch Scene on Click or Touch.txt to: /Users/pome012/stencylworks/behaviors/Game/Scene/Switch Scene on Click or Touch.txt
+2015-11-03 13:49:11,134 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Switch Scene on Enter Region.png to: /Users/pome012/stencylworks/behaviors/Game/Scene/Switch Scene on Enter Region.png
+2015-11-03 13:49:11,138 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Game/Scene/Switch Scene on Enter Region.txt to: /Users/pome012/stencylworks/behaviors/Game/Scene/Switch Scene on Enter Region.txt
+2015-11-03 13:49:11,142 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/GUI to: /Users/pome012/stencylworks/behaviors/GUI
+2015-11-03 13:49:11,143 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/GUI/Actor to: /Users/pome012/stencylworks/behaviors/GUI/Actor
+2015-11-03 13:49:11,144 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/Actor/Anchor to Screen.png to: /Users/pome012/stencylworks/behaviors/GUI/Actor/Anchor to Screen.png
+2015-11-03 13:49:11,147 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/Actor/Anchor to Screen.txt to: /Users/pome012/stencylworks/behaviors/GUI/Actor/Anchor to Screen.txt
+2015-11-03 13:49:11,148 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/Actor/Emphasise On Mouse Over.png to: /Users/pome012/stencylworks/behaviors/GUI/Actor/Emphasise On Mouse Over.png
+2015-11-03 13:49:11,152 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/Actor/Emphasise On Mouse Over.txt to: /Users/pome012/stencylworks/behaviors/GUI/Actor/Emphasise On Mouse Over.txt
+2015-11-03 13:49:11,153 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/Actor/Three State Button.png to: /Users/pome012/stencylworks/behaviors/GUI/Actor/Three State Button.png
+2015-11-03 13:49:11,153 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/Actor/Three State Button.txt to: /Users/pome012/stencylworks/behaviors/GUI/Actor/Three State Button.txt
+2015-11-03 13:49:11,157 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/Actor/Toggle Button.png to: /Users/pome012/stencylworks/behaviors/GUI/Actor/Toggle Button.png
+2015-11-03 13:49:11,157 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/Actor/Toggle Button.txt to: /Users/pome012/stencylworks/behaviors/GUI/Actor/Toggle Button.txt
+2015-11-03 13:49:11,161 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/GUI/icon.png to: /Users/pome012/stencylworks/behaviors/GUI/icon.png
+2015-11-03 13:49:11,162 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Mobile to: /Users/pome012/stencylworks/behaviors/Mobile
+2015-11-03 13:49:11,162 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Mobile/Actor to: /Users/pome012/stencylworks/behaviors/Mobile/Actor
+2015-11-03 13:49:11,163 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Mobile/Actor/Joystick Movement.png to: /Users/pome012/stencylworks/behaviors/Mobile/Actor/Joystick Movement.png
+2015-11-03 13:49:11,164 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Mobile/Actor/Joystick Movement.txt to: /Users/pome012/stencylworks/behaviors/Mobile/Actor/Joystick Movement.txt
+2015-11-03 13:49:11,166 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Mobile/Actor/On Screen Button.png to: /Users/pome012/stencylworks/behaviors/Mobile/Actor/On Screen Button.png
+2015-11-03 13:49:11,169 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Mobile/Actor/On Screen Button.txt to: /Users/pome012/stencylworks/behaviors/Mobile/Actor/On Screen Button.txt
+2015-11-03 13:49:11,180 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Mobile/icon.png to: /Users/pome012/stencylworks/behaviors/Mobile/icon.png
+2015-11-03 13:49:11,181 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Motion to: /Users/pome012/stencylworks/behaviors/Motion
+2015-11-03 13:49:11,181 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Motion/Actor to: /Users/pome012/stencylworks/behaviors/Motion/Actor
+2015-11-03 13:49:11,181 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Always Simulate.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Always Simulate.png
+2015-11-03 13:49:11,183 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Always Simulate.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Always Simulate.txt
+2015-11-03 13:49:11,196 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Back and Forth Horizontally.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Back and Forth Horizontally.png
+2015-11-03 13:49:11,197 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Back and Forth Horizontally.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Back and Forth Horizontally.txt
+2015-11-03 13:49:11,199 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Back and Forth Vertically.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Back and Forth Vertically.png
+2015-11-03 13:49:11,200 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Back and Forth Vertically.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Back and Forth Vertically.txt
+2015-11-03 13:49:11,203 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Bounce Off Screen Bounds.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Bounce Off Screen Bounds.png
+2015-11-03 13:49:11,204 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Bounce Off Screen Bounds.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Bounce Off Screen Bounds.txt
+2015-11-03 13:49:11,208 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Bounce With Full Speed.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Bounce With Full Speed.png
+2015-11-03 13:49:11,209 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Bounce With Full Speed.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Bounce With Full Speed.txt
+2015-11-03 13:49:11,212 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Cannot Exit Scene.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Cannot Exit Scene.png
+2015-11-03 13:49:11,216 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Cannot Exit Scene.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Cannot Exit Scene.txt
+2015-11-03 13:49:11,220 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Cannot Exit Screen.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Cannot Exit Screen.png
+2015-11-03 13:49:11,224 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Cannot Exit Screen.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Cannot Exit Screen.txt
+2015-11-03 13:49:11,225 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Face Direction of Motion.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Face Direction of Motion.png
+2015-11-03 13:49:11,226 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Face Direction of Motion.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Face Direction of Motion.txt
+2015-11-03 13:49:11,229 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Face Target.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Face Target.png
+2015-11-03 13:49:11,230 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Face Target.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Face Target.txt
+2015-11-03 13:49:11,231 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Follow Path.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Follow Path.png
+2015-11-03 13:49:11,232 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Follow Path.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Follow Path.txt
+2015-11-03 13:49:11,233 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Follow Target.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Follow Target.png
+2015-11-03 13:49:11,233 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Follow Target.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Follow Target.txt
+2015-11-03 13:49:11,234 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Random Starting Velocity.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Random Starting Velocity.png
+2015-11-03 13:49:11,235 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Random Starting Velocity.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Random Starting Velocity.txt
+2015-11-03 13:49:11,238 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Rotate Around Actor.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Rotate Around Actor.png
+2015-11-03 13:49:11,239 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Rotate Around Actor.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Rotate Around Actor.txt
+2015-11-03 13:49:11,242 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Rotate Around Point.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Rotate Around Point.png
+2015-11-03 13:49:11,244 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Rotate Around Point.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Rotate Around Point.txt
+2015-11-03 13:49:11,246 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Starting Velocity.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Starting Velocity.png
+2015-11-03 13:49:11,250 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Starting Velocity.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Starting Velocity.txt
+2015-11-03 13:49:11,254 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Wander.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Wander.png
+2015-11-03 13:49:11,255 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Wander.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Wander.txt
+2015-11-03 13:49:11,259 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Wave Motion.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Wave Motion.png
+2015-11-03 13:49:11,260 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Wave Motion.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Wave Motion.txt
+2015-11-03 13:49:11,262 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Wrap Around Scene.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Wrap Around Scene.png
+2015-11-03 13:49:11,263 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Wrap Around Scene.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Wrap Around Scene.txt
+2015-11-03 13:49:11,265 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Wrap Around Screen.png to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Wrap Around Screen.png
+2015-11-03 13:49:11,266 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/Actor/Wrap Around Screen.txt to: /Users/pome012/stencylworks/behaviors/Motion/Actor/Wrap Around Screen.txt
+2015-11-03 13:49:11,269 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Motion/icon.png to: /Users/pome012/stencylworks/behaviors/Motion/icon.png
+2015-11-03 13:49:11,270 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Rules to: /Users/pome012/stencylworks/behaviors/Rules
+2015-11-03 13:49:11,270 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Rules/Actor to: /Users/pome012/stencylworks/behaviors/Rules/Actor
+2015-11-03 13:49:11,270 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die After Time.png to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die After Time.png
+2015-11-03 13:49:11,273 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die After Time.txt to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die After Time.txt
+2015-11-03 13:49:11,275 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Click or Touch.png to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Click or Touch.png
+2015-11-03 13:49:11,276 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Click or Touch.txt to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Click or Touch.txt
+2015-11-03 13:49:11,279 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Collision With Actor Type.png to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Collision With Actor Type.png
+2015-11-03 13:49:11,283 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Collision With Actor Type.txt to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Collision With Actor Type.txt
+2015-11-03 13:49:11,287 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Collision With Group.png to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Collision With Group.png
+2015-11-03 13:49:11,291 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Collision With Group.txt to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Collision With Group.txt
+2015-11-03 13:49:11,295 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Collision.png to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Collision.png
+2015-11-03 13:49:11,298 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Collision.txt to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Collision.txt
+2015-11-03 13:49:11,302 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Leaving Screen.png to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Leaving Screen.png
+2015-11-03 13:49:11,306 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Die On Leaving Screen.txt to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Die On Leaving Screen.txt
+2015-11-03 13:49:11,310 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Health Manager.png to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Health Manager.png
+2015-11-03 13:49:11,314 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Actor/Health Manager.txt to: /Users/pome012/stencylworks/behaviors/Rules/Actor/Health Manager.txt
+2015-11-03 13:49:11,318 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/icon.png to: /Users/pome012/stencylworks/behaviors/Rules/icon.png
+2015-11-03 13:49:11,319 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Rules/Scene to: /Users/pome012/stencylworks/behaviors/Rules/Scene
+2015-11-03 13:49:11,319 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Scene/Items Remaining.png to: /Users/pome012/stencylworks/behaviors/Rules/Scene/Items Remaining.png
+2015-11-03 13:49:11,320 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Scene/Items Remaining.txt to: /Users/pome012/stencylworks/behaviors/Rules/Scene/Items Remaining.txt
+2015-11-03 13:49:11,322 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Scene/Score Manager.png to: /Users/pome012/stencylworks/behaviors/Rules/Scene/Score Manager.png
+2015-11-03 13:49:11,323 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Rules/Scene/Score Manager.txt to: /Users/pome012/stencylworks/behaviors/Rules/Scene/Score Manager.txt
+2015-11-03 13:49:11,324 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Utilities to: /Users/pome012/stencylworks/behaviors/Utilities
+2015-11-03 13:49:11,324 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Utilities/Actor to: /Users/pome012/stencylworks/behaviors/Utilities/Actor
+2015-11-03 13:49:11,325 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Endless Animation.png to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Endless Animation.png
+2015-11-03 13:49:11,329 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Endless Animation.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Endless Animation.txt
+2015-11-03 13:49:11,332 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Facebook Share Button.png to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Facebook Share Button.png
+2015-11-03 13:49:11,334 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Facebook Share Button.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Facebook Share Button.txt
+2015-11-03 13:49:11,337 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Label.png to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Label.png
+2015-11-03 13:49:11,341 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Label.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Label.txt
+2015-11-03 13:49:11,343 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Open URL Button.png to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Open URL Button.png
+2015-11-03 13:49:11,344 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Open URL Button.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Open URL Button.txt
+2015-11-03 13:49:11,347 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/PayPal Donation Button.png to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/PayPal Donation Button.png
+2015-11-03 13:49:11,348 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/PayPal Donation Button.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/PayPal Donation Button.txt
+2015-11-03 13:49:11,353 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Twitter Share Button.png to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Twitter Share Button.png
+2015-11-03 13:49:11,360 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Actor/Twitter Share Button.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Actor/Twitter Share Button.txt
+2015-11-03 13:49:11,362 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/icon.png to: /Users/pome012/stencylworks/behaviors/Utilities/icon.png
+2015-11-03 13:49:11,363 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: behaviors/Utilities/Scene to: /Users/pome012/stencylworks/behaviors/Utilities/Scene
+2015-11-03 13:49:11,363 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Behavior Inspector.png to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Behavior Inspector.png
+2015-11-03 13:49:11,366 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Behavior Inspector.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Behavior Inspector.txt
+2015-11-03 13:49:11,369 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Custom Mouse Cursor.png to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Custom Mouse Cursor.png
+2015-11-03 13:49:11,370 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Custom Mouse Cursor.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Custom Mouse Cursor.txt
+2015-11-03 13:49:11,373 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Draw Regions.png to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Draw Regions.png
+2015-11-03 13:49:11,373 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Draw Regions.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Draw Regions.txt
+2015-11-03 13:49:11,377 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Draw Terrain.png to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Draw Terrain.png
+2015-11-03 13:49:11,378 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Draw Terrain.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Draw Terrain.txt
+2015-11-03 13:49:11,381 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Game Debugger.png to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Game Debugger.png
+2015-11-03 13:49:11,383 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Game Debugger.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Game Debugger.txt
+2015-11-03 13:49:11,385 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Video Player.png to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Video Player.png
+2015-11-03 13:49:11,389 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: behaviors/Utilities/Scene/Video Player.txt to: /Users/pome012/stencylworks/behaviors/Utilities/Scene/Video Player.txt
+2015-11-03 13:49:14,111 WARN  [AWT-EventQueue-0] stencyl.sw.app.App: Stencyl Install Path: /Users/pome012/Downloads/Stencyl-full (1)/plaf
+2015-11-03 13:49:14,111 WARN  [AWT-EventQueue-0] stencyl.sw.util.dg.MessageDialog: Stencyl's install path contains special characters. - Stencyl may be unable to compile games if it's path contains '(' or ')'. Move Stencyl or change the path to enable game compiling.
+2015-11-03 13:49:17,743 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Non-silent Authentication.
+2015-11-03 13:49:17,746 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2015-11-03 13:49:18,049 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: guest
+2015-11-03 13:49:18,049 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Could not log in. Check your login credentials.
+2015-11-03 13:49:36,331 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Sign In
+2015-11-03 13:49:36,493 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: guest
+2015-11-03 13:49:36,493 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Could not log in. Check your login credentials.
+2015-11-03 13:50:08,884 DEBUG [AWT-EventQueue-0] stencyl.sw.util.dg.MessageDialog: Thanks POME012! - You can use this account to access StencylForge, Stencyl.com and our Forums.
+2015-11-03 13:50:14,222 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-11-03 13:50:14,223 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/prefs/auth.txt
+2015-11-03 13:50:14,225 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: POME012
+2015-11-03 13:50:14,225 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-11-03 13:50:14,384 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-11-03 13:50:14,549 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 
+2015-11-03 13:50:17,159 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Opening URL in browser: http://www.stencyl.com/developers/samples/
+2015-11-03 13:50:17,166 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: invoking isDesktopSupported
+2015-11-03 13:50:17,166 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: Launching http://www.stencyl.com/developers/samples/ using Desktop.browse()
+2015-11-03 13:51:00,352 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.settings.GamePropertiesDialog: Creating a blank game.
+2015-11-03 13:51:00,379 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving a new game.
+2015-11-03 13:51:00,395 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-11-03 13:51:00,402 ERROR [pool-1-thread-1] stencyl.sw.util.FileHelper: File /Users/pome012/stencylworks/games/First Game/game.xml is not a valid XML file. Aborting Backup.
+2015-11-03 13:51:03,756 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-11-03 13:51:03,758 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/resources/data.xml.bak.
+2015-11-03 13:51:03,759 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-11-03 13:51:03,763 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-11-03 13:51:03,779 ERROR [pool-1-thread-1] stencyl.sw.util.FileHelper: File /Users/pome012/stencylworks/games/First Game/snippets/list.xml is not a valid XML file. Aborting Backup.
+2015-11-03 13:51:03,779 DEBUG [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-11-03 13:51:03,783 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.FavoriteManager: Favorites file /Users/pome012/stencylworks/games/First Game/favorites.xml does not exist.
+2015-11-03 13:51:03,783 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.FavoriteManager: Favorites file /Users/pome012/stencylworks/prefs/favorites.xml does not exist.
+2015-11-03 13:51:03,783 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.FavoriteManager: Favorites file /Users/pome012/stencylworks/prefs/picker-favorites.xml does not exist.
+2015-11-03 13:51:03,785 INFO  [pool-1-thread-1] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-11-03 13:51:03,824 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl2347817243369466929/sandbox/test/temp
+2015-11-03 13:51:03,825 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/preview/scripts
+2015-11-03 13:51:03,825 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/preview/game
+2015-11-03 13:51:03,825 INFO  [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Opening game: First Game
+2015-11-03 13:51:04,090 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-03 13:51:04,091 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl2347817243369466929/sandbox/build/code
+2015-11-03 13:51:04,092 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl2347817243369466929/sandbox/test/temp
+2015-11-03 13:51:04,159 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 334ms
+2015-11-03 13:51:04,351 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-11-03 13:51:04,359 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-11-03 13:51:04,363 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-11-03 13:51:04,366 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-11-03 13:51:04,371 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-11-03 13:51:05,568 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-11-03 13:51:05,596 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-11-03 13:51:05,601 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-11-03 13:51:05,607 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-11-03 13:51:28,943 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.dialogs.ScenePropertiesPanel: This game has this num of scenes: 0
+2015-11-03 13:51:28,946 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.dialogs.ScenePropertiesPanel: Marking as default scene: 0
+2015-11-03 13:51:29,022 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: First Scene
+2015-11-03 13:51:29,356 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:51:29,663 DEBUG [pool-1-thread-1] stencyl.sw.util.NotifierHashMap: HashMapEvent [type=VALUE_ADDED, value=SceneEvents_0]
+2015-11-03 13:51:30,544 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-03 13:51:30,672 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2015-11-03 13:51:31,108 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2015-11-03 13:51:31,228 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Keyboard & Mouse
+2015-11-03 13:51:31,344 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-11-03 13:51:31,418 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Getters
+2015-11-03 13:51:31,636 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Sound
+2015-11-03 13:51:31,697 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Triggers
+2015-11-03 13:51:31,785 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Web
+2015-11-03 13:51:31,875 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Drawing
+2015-11-03 13:51:31,933 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Basic
+2015-11-03 13:51:31,945 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Custom
+2015-11-03 13:51:31,947 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Extensions
+2015-11-03 13:51:31,948 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-03 13:51:32,033 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: []
+2015-11-03 13:51:32,033 DEBUG [pool-1-thread-1] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-03 13:51:32,196 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: First Scene
+2015-11-03 13:51:32,455 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:51:32,474 DEBUG [pool-1-thread-1] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:51:32,479 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.OpenResourceTask: Open Took 3456ms
+2015-11-03 13:51:32,516 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 3493ms
+2015-11-03 13:51:34,480 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:51:35,208 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:52:11,965 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:52:11,967 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:52:12,729 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:52:12,729 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:52:13,600 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:52:13,601 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:52:14,145 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:52:14,146 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:52:14,667 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:52:14,667 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:52:37,681 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Start Create Terrain Region.
+2015-11-03 13:52:37,954 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:37,972 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:37,989 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,006 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,025 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,041 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,057 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,075 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,092 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,110 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,127 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,144 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,161 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,177 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,194 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,213 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,436 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,453 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,471 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,488 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,504 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,521 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,539 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,556 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,572 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,589 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,605 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,623 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,645 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,765 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,790 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,806 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,825 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,841 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,858 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,875 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,892 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,909 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,927 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,944 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,961 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,979 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:38,996 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,013 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,031 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,049 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,088 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,166 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,238 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,264 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,295 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,322 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,367 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,383 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,408 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,647 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,681 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,928 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:39,985 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:40,195 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:40,511 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:40,547 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:40,587 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:40,650 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: Terrain Region Dragging.
+2015-11-03 13:52:41,225 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.regions.TerrainRegionController: End Terrain Region Creation.
+2015-11-03 13:52:43,070 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 1, 378 -1 ]
+2015-11-03 13:52:43,070 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: [X,Y: 1, 378 -1 ]
+2015-11-03 13:52:43,070 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: [X,Y: 1, 378 -1 ]
+2015-11-03 13:52:43,070 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 2B: Select Same Object.
+2015-11-03 13:52:43,286 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 1, 378 -1 ]
+2015-11-03 13:52:44,428 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 1, 378 -1 ]
+2015-11-03 13:52:44,428 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: [X,Y: 1, 378 -1 ]
+2015-11-03 13:52:44,428 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: [X,Y: 1, 378 -1 ]
+2015-11-03 13:52:44,428 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 2B: Select Same Object.
+2015-11-03 13:52:44,562 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 1, 378 -1 ]
+2015-11-03 13:52:52,262 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:52:52,262 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:52:52,265 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:53:05,314 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Work only with Tiles
+2015-11-03 13:53:09,379 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Work on Current Layer
+2015-11-03 13:53:11,648 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Work on All Layers
+2015-11-03 13:53:14,872 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: null
+2015-11-03 13:53:14,872 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Working with Actors and/or Tiles
+2015-11-03 13:53:14,872 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 1: Select New Object (Nothing Previously Selected).
+2015-11-03 13:53:14,872 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Start Rubberband.
+2015-11-03 13:53:14,973 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: End Rubberband Selection.
+2015-11-03 13:53:15,126 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: 0 
+2015-11-03 13:53:15,126 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Working with Actors and/or Tiles
+2015-11-03 13:53:15,126 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 1: Select New Object (Nothing Previously Selected).
+2015-11-03 13:53:15,126 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Start Rubberband.
+2015-11-03 13:53:15,207 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: End Rubberband Selection.
+2015-11-03 13:53:15,325 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: 0 
+2015-11-03 13:53:15,325 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Working with Actors and/or Tiles
+2015-11-03 13:53:15,325 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 1: Select New Object (Nothing Previously Selected).
+2015-11-03 13:53:15,325 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Start Rubberband.
+2015-11-03 13:53:15,415 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: End Rubberband Selection.
+2015-11-03 13:53:15,559 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: 0 
+2015-11-03 13:53:15,559 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Working with Actors and/or Tiles
+2015-11-03 13:53:15,559 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 1: Select New Object (Nothing Previously Selected).
+2015-11-03 13:53:15,559 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Start Rubberband.
+2015-11-03 13:53:15,658 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: End Rubberband Selection.
+2015-11-03 13:53:17,914 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:53:17,914 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:53:40,281 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:53:40,281 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:53:40,285 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:53:46,610 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:54:12,916 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Toggle Auto Snap
+2015-11-03 13:54:14,132 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 0, 378 -1 ]
+2015-11-03 13:54:14,132 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: [X,Y: 0, 378 -1 ]
+2015-11-03 13:54:14,132 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: [X,Y: 0, 378 -1 ]
+2015-11-03 13:54:14,132 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 2B: Select Same Object.
+2015-11-03 13:54:15,903 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 0, 378 -1 ]
+2015-11-03 13:54:15,904 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Translating selection: [X,Y: 0, 378 -1 ] by (0,6)
+2015-11-03 13:54:15,911 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: End Move Object.
+2015-11-03 13:54:19,169 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 0, 384 -1 ]
+2015-11-03 13:54:19,169 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:54:19,169 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:54:19,171 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 2A: Nothing selected.
+2015-11-03 13:54:19,171 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Start Rubberband.
+2015-11-03 13:54:20,065 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: End Rubberband Selection.
+2015-11-03 13:54:22,125 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: null
+2015-11-03 13:54:22,126 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Working with Terrain Regions
+2015-11-03 13:54:22,130 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 1: Select New Object (Nothing Previously Selected).
+2015-11-03 13:54:22,213 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 0, 384 -1 ]
+2015-11-03 13:54:32,429 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within behaviors: [behaviors/Controls, behaviors/Eye Candy, behaviors/Game, behaviors/GUI, behaviors/Mobile, behaviors/Motion, behaviors/Rules, behaviors/Utilities]
+2015-11-03 13:54:32,432 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/Controls/Scene. It does not exist or is not a directory.
+2015-11-03 13:54:32,436 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Eye Candy/Scene: [behaviors/Eye Candy/Scene/Intro Title.png]
+2015-11-03 13:54:32,439 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Game/Scene: [behaviors/Game/Scene/Background Music.png, behaviors/Game/Scene/Pause On Losing Focus.png, behaviors/Game/Scene/Region Scene Switcher.png, behaviors/Game/Scene/Switch Scene on Click or Touch.png, behaviors/Game/Scene/Switch Scene on Enter Region.png]
+2015-11-03 13:54:32,443 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/GUI/Scene. It does not exist or is not a directory.
+2015-11-03 13:54:32,447 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/Mobile/Scene. It does not exist or is not a directory.
+2015-11-03 13:54:32,450 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/Motion/Scene. It does not exist or is not a directory.
+2015-11-03 13:54:32,454 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Rules/Scene: [behaviors/Rules/Scene/Items Remaining.png, behaviors/Rules/Scene/Score Manager.png]
+2015-11-03 13:54:32,458 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Utilities/Scene: [behaviors/Utilities/Scene/Behavior Inspector.png, behaviors/Utilities/Scene/Custom Mouse Cursor.png, behaviors/Utilities/Scene/Draw Regions.png, behaviors/Utilities/Scene/Draw Terrain.png, behaviors/Utilities/Scene/Game Debugger.png, behaviors/Utilities/Scene/Video Player.png]
+2015-11-03 13:54:34,460 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/Controls/Scene. It does not exist or is not a directory.
+2015-11-03 13:54:35,146 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Eye Candy/Scene: [behaviors/Eye Candy/Scene/Intro Title.png]
+2015-11-03 13:54:35,879 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Game/Scene: [behaviors/Game/Scene/Background Music.png, behaviors/Game/Scene/Pause On Losing Focus.png, behaviors/Game/Scene/Region Scene Switcher.png, behaviors/Game/Scene/Switch Scene on Click or Touch.png, behaviors/Game/Scene/Switch Scene on Enter Region.png]
+2015-11-03 13:54:46,377 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/GUI/Scene. It does not exist or is not a directory.
+2015-11-03 13:54:47,827 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/Mobile/Scene. It does not exist or is not a directory.
+2015-11-03 13:54:48,720 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/Motion/Scene. It does not exist or is not a directory.
+2015-11-03 13:54:49,387 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Rules/Scene: [behaviors/Rules/Scene/Items Remaining.png, behaviors/Rules/Scene/Score Manager.png]
+2015-11-03 13:54:52,492 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Utilities/Scene: [behaviors/Utilities/Scene/Behavior Inspector.png, behaviors/Utilities/Scene/Custom Mouse Cursor.png, behaviors/Utilities/Scene/Draw Regions.png, behaviors/Utilities/Scene/Draw Terrain.png, behaviors/Utilities/Scene/Game Debugger.png, behaviors/Utilities/Scene/Video Player.png]
+2015-11-03 13:54:59,252 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of behaviors/Controls/Scene. It does not exist or is not a directory.
+2015-11-03 13:55:00,893 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Game/Scene: [behaviors/Game/Scene/Background Music.png, behaviors/Game/Scene/Pause On Losing Focus.png, behaviors/Game/Scene/Region Scene Switcher.png, behaviors/Game/Scene/Switch Scene on Click or Touch.png, behaviors/Game/Scene/Switch Scene on Enter Region.png]
+2015-11-03 13:55:01,931 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within behaviors/Eye Candy/Scene: [behaviors/Eye Candy/Scene/Intro Title.png]
+2015-11-03 13:55:16,031 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Deselect
+2015-11-03 13:55:16,031 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Clear Selection
+2015-11-03 13:55:16,034 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:55:25,142 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Work only with Tiles
+2015-11-03 13:55:38,789 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Work only with Terrain
+2015-11-03 13:55:44,363 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Toggle Screen Bounds
+2015-11-03 13:55:46,995 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Toggle Grid
+2015-11-03 13:55:57,878 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Toggle Opacity and Blendmode Preview
+2015-11-03 13:55:58,263 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Toggle Opacity and Blendmode Preview
+2015-11-03 13:56:02,449 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.Designer: Brush Changed
+2015-11-03 13:56:08,859 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.TopSceneBar: Work only with Terrain
+2015-11-03 13:56:09,607 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: null
+2015-11-03 13:56:09,607 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Working with Terrain Regions
+2015-11-03 13:56:09,611 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 1: Select New Object (Nothing Previously Selected).
+2015-11-03 13:56:09,765 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 0, 384 -1 ]
+2015-11-03 13:56:10,413 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 0, 384 -1 ]
+2015-11-03 13:56:10,413 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: [X,Y: 0, 384 -1 ]
+2015-11-03 13:56:10,413 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: [X,Y: 0, 384 -1 ]
+2015-11-03 13:56:10,413 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Case 2B: Select Same Object.
+2015-11-03 13:56:10,423 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.scene.select.SelectionController: Checking if no items: [X,Y: 0, 384 -1 ]
+2015-11-03 13:56:37,236 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Stencylpedia
+2015-11-03 13:56:37,237 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Opening URL in browser: http://www.stencyl.com/help/
+2015-11-03 13:56:37,237 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: invoking isDesktopSupported
+2015-11-03 13:56:37,237 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: Launching http://www.stencyl.com/help/ using Desktop.browse()
+2015-11-03 13:57:08,987 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-03 13:57:53,839 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: dragEnter event.
+2015-11-03 13:57:53,883 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border saved.
+2015-11-03 13:57:53,883 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drag border set.
+2015-11-03 13:57:53,883 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: event accepted.
+2015-11-03 13:57:54,023 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: dragExit event.
+2015-11-03 13:57:54,023 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border restored.
+2015-11-03 13:57:54,023 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: dragEnter event.
+2015-11-03 13:57:54,025 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border saved.
+2015-11-03 13:57:54,025 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drag border set.
+2015-11-03 13:57:54,025 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: event accepted.
+2015-11-03 13:57:54,380 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drop event.
+2015-11-03 13:57:54,385 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: file list accepted.
+2015-11-03 13:57:54,388 DEBUG [AWT-EventQueue-0] stencyl.sw.SW: Dragged In: /Users/pome012/Downloads/Crash Course Kit.stencyl
+2015-11-03 13:57:54,521 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: drop complete.
+2015-11-03 13:57:54,521 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.comp.FileDrop: FileDrop: normal border restored.
+2015-11-03 13:57:59,882 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Scene
+2015-11-03 13:58:09,275 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: First Scene*
+2015-11-03 13:58:09,921 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-03 13:58:11,484 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Settings
+2015-11-03 13:58:22,320 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Test Game...
+2015-11-03 13:58:22,321 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-11-03 13:58:22,329 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/game.xml.bak.
+2015-11-03 13:58:24,283 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-11-03 13:58:24,285 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/resources/data.xml.bak.
+2015-11-03 13:58:24,286 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-11-03 13:58:24,304 DEBUG [pool-1-thread-2] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: /Users/pome012/stencylworks/games/First Game/scenes/0.png
+2015-11-03 13:58:24,317 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-11-03 13:58:24,319 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2015-11-03 13:58:24,319 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2015-11-03 13:58:24,319 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2015-11-03 13:58:24,319 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2015-11-03 13:58:24,320 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 1ms
+2015-11-03 13:58:24,320 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-11-03 13:58:24,362 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene First Scene
+2015-11-03 13:58:24,362 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-11-03 13:58:24,366 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/snippets/list.xml.bak.
+2015-11-03 13:58:24,403 DEBUG [pool-1-thread-2] stencyl.sw.app.doc.StencylDoc: Marking as written to disk: First Scene
+2015-11-03 13:58:24,404 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-11-03 13:58:24,405 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games/First Game/behavior-hx/SceneEvents_0.hx
+2015-11-03 13:58:24,406 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/pome012/stencylworks/games/First Game/snippets/SceneEvents_0.design
+2015-11-03 13:58:24,419 DEBUG [pool-3-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/SceneEvents_0.hx. Took 11 ms.
+2015-11-03 13:58:24,419 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-11-03 13:58:24,420 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-11-03 13:58:24,477 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-11-03 13:58:24,480 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/game.xml.bak.
+2015-11-03 13:58:26,219 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-11-03 13:58:26,220 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/resources/data.xml.bak.
+2015-11-03 13:58:26,221 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-11-03 13:58:26,224 DEBUG [pool-1-thread-2] stencyl.sw.editors.scene.SceneRenderer: Saving thumbnail: /Users/pome012/stencylworks/games/First Game/scenes/0.png
+2015-11-03 13:58:26,235 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SceneWriter: Writing terrain.
+2015-11-03 13:58:26,236 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Num Tiles: 0
+2015-11-03 13:58:26,236 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Coverage: 0.0%
+2015-11-03 13:58:26,236 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Segments: (1,1)
+2015-11-03 13:58:26,236 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Using Pairwise
+2015-11-03 13:58:26,236 DEBUG [pool-1-thread-2] stencyl.thirdparty.org.phys2d.Combiner: Combine took: 0ms
+2015-11-03 13:58:26,236 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SceneWriter: Terrain processing took: 0ms
+2015-11-03 13:58:26,239 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.ScenesWriter: Writing out Scene First Scene
+2015-11-03 13:58:26,239 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-11-03 13:58:26,241 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/snippets/list.xml.bak.
+2015-11-03 13:58:26,252 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Copy from opened to disk: SceneEvents_0
+2015-11-03 13:58:26,253 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games/First Game/behavior-hx/SceneEvents_0.hx
+2015-11-03 13:58:26,269 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Copied to: /Users/pome012/stencylworks/games/First Game/snippets/SceneEvents_0.design
+2015-11-03 13:58:26,273 DEBUG [pool-4-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/SceneEvents_0.hx. Took 2 ms.
+2015-11-03 13:58:26,274 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-11-03 13:58:26,277 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-11-03 13:58:26,311 INFO  [AWT-EventQueue-0] stencyl.sw.io.write.resource.HXWriter: Building game with arguments: FLASH, TESTING
+2015-11-03 13:58:26,311 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-11-03 13:58:26,347 DEBUG [Thread-10] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 13:58:26,350 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 13:58:26,350 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-11-03 13:58:26,358 DEBUG [Thread-11] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 13:58:26,358 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 13:58:26,358 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-11-03 13:58:26,365 DEBUG [Thread-12] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 13:58:26,365 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 13:58:26,365 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-11-03 13:58:26,373 DEBUG [Thread-13] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 13:58:26,373 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 13:58:26,374 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-11-03 13:58:26,380 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 13:58:26,380 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 13:58:26,381 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-11-03 13:58:26,388 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 13:58:26,388 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 13:58:26,405 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/Library/Preferences/Macromedia/Flash Player/Logs/flashlog.txt
+2015-11-03 13:58:26,410 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games-generated/First Game/Assets/graphics
+2015-11-03 13:58:26,413 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games-generated/First Game/Export/iPhone/build
+2015-11-03 13:58:26,414 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games-generated/First Game/Export/cpp/mac/bin
+2015-11-03 13:58:26,438 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games-generated/First Game/Assets/graphics/3x
+2015-11-03 13:58:26,446 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/game.xml.bak.
+2015-11-03 13:58:28,120 DEBUG [pool-5-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/SceneEvents_0.hx. Took 3 ms.
+2015-11-03 13:58:28,139 DEBUG [pool-1-thread-3] stencyl.sw.util.Util: Running command: [/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/haxelib, run, openfl, -verbose, build, -debug, project.xml, flash]
+2015-11-03 13:58:28,622 INFO  [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib] OpenFL Command-Line Tools (3.3.8-LPNIQF)
+2015-11-03 13:58:28,622 INFO  [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib] Initializing project...
+2015-11-03 13:58:28,622 INFO  [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib] Using project file: project.xml
+2015-11-03 13:58:28,622 INFO  [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib] Reading HXCPP config: /Users/pome012/.hxcpp_config.xml
+2015-11-03 13:58:28,841 INFO  [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib] Using target platform: FLASH
+2015-11-03 13:58:28,841 INFO  [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib] Running command: UPDATE
+2015-11-03 13:58:28,841 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Creating directory: Export/flash
+2015-11-03 13:58:28,841 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Creating directory: Export/flash/bin
+2015-11-03 13:58:28,841 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-11-03 13:58:28,842 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-11-03 13:58:28,843 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-11-03 13:58:28,843 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-11-03 13:58:28,843 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-11-03 13:58:28,843 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-11-03 13:58:28,843 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-11-03 13:58:28,843 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-11-03 13:58:28,843 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-11-03 13:58:28,843 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Creating directory: Export/flash/obj
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-11-03 13:58:28,844 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-11-03 13:58:28,845 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-11-03 13:58:28,845 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-11-03 13:58:28,845 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-11-03 13:58:28,845 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-11-03 13:58:28,845 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-11-03 13:58:28,845 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-11-03 13:58:28,845 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-11-03 13:58:28,845 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-11-03 13:58:29,042 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Creating directory: Export/flash/haxe
+2015-11-03 13:58:29,043 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-11-03 13:58:29,048 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/haxe/DefaultAssetLibrary.hx -> Export/flash/haxe/DefaultAssetLibrary.hx
+2015-11-03 13:58:29,058 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-11-03 13:58:29,063 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/haxe/NMEPreloader.hx -> Export/flash/haxe/NMEPreloader.hx
+2015-11-03 13:58:29,066 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-11-03 13:58:29,070 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-11-03 13:58:29,074 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-11-03 13:58:29,078 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-11-03 13:58:29,081 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-11-03 13:58:29,085 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-11-03 13:58:29,089 INFO  [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib] Running command: BUILD
+2015-11-03 13:58:29,091 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [haxelib]  - Running command: haxe -main ApplicationMain -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl" -D openfl=3.3.8 -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/lime/lime" -D lime=2.6.8 -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/actuate/1,6,5" -D actuate=1.6.5 -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/console/1,00" -D console=0.0.0 -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/polygonal-ds/1,4,1" -D polygonal-ds=1.4.1 -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/polygonal-printf/1,0,0-beta" -D polygonal-printf=1.0.0-beta -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/box2d/1,11" -D box2d=0.0.0 -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/stencyl/1,00" -D stencyl=0.0.0 -cp Source -cp "/Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/extensions/gestures" -D native-trace -D openfl-next -D tools=2.6.8 -D flash-use-stage -D no-compilation -D openfl-flash -D verbose=1 -D web --remap nme:openfl -D network-sandbox -D as3_native -D swf-directblit -swf-lib newgrounds.swf -swf-lib cpmstar.swf -resource Assets/graphics/preloader-bg.png@preloader-bg -resource Assets/graphics/preloader-badge.png@preloader-badge -swf-lib Export/flash/obj/assets.swf -swf-version 11 -swf "Export/flash/bin/First Game.swf" -cp Export/flash/haxe -debug
+2015-11-03 13:58:35,323 DEBUG [pool-1-thread-3] stencyl.sw.util.Util: Process 'haxelib' exited with code: 0
+2015-11-03 13:58:35,326 INFO  [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Finished: Building for Flash.
+2015-11-03 13:58:35,326 DEBUG [pool-1-thread-3] stencyl.sw.util.Util: Running command: [open, -a, /Users/pome012/Downloads/Stencyl-full (1)/ext-tools/players/flash-10-mac.app, /Users/pome012/stencylworks/games-generated/First Game/Export/flash/bin/First Game.swf]
+2015-11-03 13:58:39,506 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(194): Stage Width: 640
+2015-11-03 13:58:39,507 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(195): Stage Height: 480
+2015-11-03 13:58:39,507 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(196): Screen Width: 640
+2015-11-03 13:58:39,507 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(197): Screen Height: 480
+2015-11-03 13:58:39,507 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(198): Screen DPI: 72
+2015-11-03 13:58:39,507 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(377): Max Scale: 4
+2015-11-03 13:58:39,507 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(378): Engine Scale: 1x
+2015-11-03 13:58:39,507 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(732): Scale X: 1
+2015-11-03 13:58:39,507 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(733): Scale Y: 1
+2015-11-03 13:58:48,281 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: First Scene
+2015-11-03 13:58:49,078 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-03 13:58:50,004 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Import Resource...
+2015-11-03 13:59:27,377 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Import Resource...
+2015-11-03 13:59:44,838 ERROR [AWT-EventQueue-0] stencyl.sw.app.App: No registered ImageReader available for file /Users/pome012/Downloads/Crash Course Kit.stencyl
+java.io.IOException: No registered ImageReader available for file /Users/pome012/Downloads/Crash Course Kit.stencyl
+	at stencyl.sw.util.gfx.ImageUtil.readRasterImage(ImageUtil.java:161)
+	at stencyl.sw.app.App.dropInResource(App.java:1313)
+	at stencyl.sw.app.App.importResource(App.java:1305)
+	at stencyl.sw.app.App.actionPerformed(App.java:364)
+	at stencyl.sw.actions.ActionManager.actionPerformed(ActionManager.java:54)
+	at stencyl.sw.actions.SAction.actionPerformed(SAction.java:120)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:290)
+	at java.awt.Component.processMouseEvent(Component.java:6535)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6300)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2750)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2015-11-03 13:59:49,033 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: First Scene
+2015-11-03 13:59:49,548 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-03 13:59:51,378 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: First Scene
+2015-11-03 13:59:51,397 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-03 13:59:51,400 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Closed Document: First Scene0
+2015-11-03 13:59:55,156 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/games/First Game/scenes/0.png
+2015-11-03 13:59:55,162 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (First Scene) from: scenes/0.xml
+2015-11-03 13:59:55,172 INFO  [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Removing scene-specific snippets from First Scene
+2015-11-03 13:59:55,172 INFO  [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Removing... SceneEvents_0
+2015-11-03 13:59:55,173 DEBUG [AWT-EventQueue-0] stencyl.sw.util.NotifierHashMap: HashMapEvent [type=VALUE_REMOVED, value=SceneEvents_0]
+2015-11-03 13:59:55,187 INFO  [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: End Removing scene-specific snippets from First Scene
+2015-11-03 13:59:59,673 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Scene
+2015-11-03 14:00:22,704 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Scene
+2015-11-03 14:00:27,635 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: StencylForge
+2015-11-03 14:00:27,674 DEBUG [AWT-EventQueue-0] stencyl.sw.app.forge.ForgeCenter: Visiting: forge://landing/home/
+2015-11-03 14:00:27,678 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: StencylForge
+2015-11-03 14:00:27,744 DEBUG [SwingWorker-pool-2-thread-2] stencyl.sw.app.tasks.LoadLandingPageTask: Download Took 69ms
+2015-11-03 14:00:27,781 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.LoadLandingPageTask: Total Took 106ms
+2015-11-03 14:00:37,482 DEBUG [AWT-EventQueue-0] stencyl.sw.app.forge.ForgeCenter: Visiting: forge://landing/home/
+2015-11-03 14:00:37,486 DEBUG [SwingWorker-pool-2-thread-3] stencyl.sw.app.tasks.LoadLandingPageTask: Download Took 2ms
+2015-11-03 14:00:37,520 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.LoadLandingPageTask: Total Took 36ms
+2015-11-03 14:00:40,957 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Import Resource...
+2015-11-03 14:00:47,084 ERROR [AWT-EventQueue-0] stencyl.sw.app.App: No registered ImageReader available for file /Users/pome012/Downloads/Crash Course Kit.stencyl
+java.io.IOException: No registered ImageReader available for file /Users/pome012/Downloads/Crash Course Kit.stencyl
+	at stencyl.sw.util.gfx.ImageUtil.readRasterImage(ImageUtil.java:161)
+	at stencyl.sw.app.App.dropInResource(App.java:1313)
+	at stencyl.sw.app.App.importResource(App.java:1305)
+	at stencyl.sw.app.App.actionPerformed(App.java:364)
+	at stencyl.sw.actions.ActionManager.actionPerformed(ActionManager.java:54)
+	at stencyl.sw.actions.SAction.actionPerformed(SAction.java:120)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:290)
+	at java.awt.Component.processMouseEvent(Component.java:6535)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6300)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2750)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2015-11-03 14:00:49,704 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-03 14:00:55,368 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Save Game
+2015-11-03 14:00:55,369 INFO  [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-11-03 14:00:55,376 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/game.xml.bak.
+2015-11-03 14:00:57,128 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-11-03 14:00:57,131 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/resources/data.xml.bak.
+2015-11-03 14:00:57,132 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-11-03 14:00:57,132 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-11-03 14:00:57,135 DEBUG [pool-1-thread-4] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/First Game/snippets/list.xml.bak.
+2015-11-03 14:00:57,135 DEBUG [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-11-03 14:00:57,136 INFO  [pool-1-thread-4] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-11-03 14:01:00,341 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-11-03 14:01:02,651 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-11-03 14:01:02,674 DEBUG [Thread-21] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 14:01:02,675 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 14:01:02,675 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-11-03 14:01:02,685 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 14:01:02,686 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 14:01:02,686 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-11-03 14:01:02,693 DEBUG [Thread-23] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 14:01:02,694 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 14:01:02,694 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-11-03 14:01:02,701 DEBUG [Thread-24] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 14:01:02,701 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 14:01:02,701 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-11-03 14:01:02,708 DEBUG [Thread-25] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 14:01:02,708 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 14:01:02,708 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-11-03 14:01:02,714 DEBUG [Thread-26] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-03 14:01:02,715 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-03 14:01:02,715 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-11-03 14:01:02,715 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-11-03 14:01:02,716 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...
+2015-11-03 14:01:02,716 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-11-03 14:01:02,716 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl2347817243369466929

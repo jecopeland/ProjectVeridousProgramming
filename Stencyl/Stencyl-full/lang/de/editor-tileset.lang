@@ -1,0 +1,51 @@
+
+# Tileset Creator
+tset.top.tileset=Tileset
+tset.top.properties=Eigenschaften
+tset.title=Tileset Ersteller
+tset.stile=das ausgewählte tile
+tset.stiles=die ausgewählten tiles
+tset.properties=Tileset Umbenennen
+tset.details1=Beinhaltet <0> tiles
+tset.details2=Tileset Größe: <0> x <1>
+tset.details3=Tile Größe: <0> x <1>
+tset.details4=Tile ID: <0>
+tset.details5=TilesetID: <0>
+tset.tile.create=Importiere die Tiles vom Sheet
+tset.tile.resize=Ändere die Tile-Größe
+tset.tile.resize.w=Tile Weite
+tset.tile.resize.h=Tile Höhe
+tset.menu.import=Importiere vorhandenes Tile
+tset.tile.add.title=Importiere Tiles vom Sheet
+tset.col.add.before=Füge eine Spalte davor ein
+tset.col.add.after=Füge eine Spalte danach ein
+tset.col.delete=Lösche Spalte
+tset.col.duplicate=Verdopple Spalte
+tset.row.add.before=Füge eine Reihe davor ein
+tset.row.add.after=Füge eine Reihe danach ein
+tset.row.delete=Lösche Reihe
+tset.row.duplicate=Verdopple Reihe
+tset.blank=Wähle ein Tile um es zu ändern.
+tset.inst2=Verwende die Felder auf der linken Seite um das Tile-Sheet zu kürzen.
+# Tile Editor
+tset.anim.collision=Kollisionsabgenzung
+tset.anim.title2=Rahmen
+tset.menu.addframe=Rahmen hinzufügen
+tset.menu.editframe=Rahmen ändern
+tset.menu.removeframe=Rahmen entfernen
+tset.anim.add.import=Importiere Rahmen
+# Shape Editor
+tset.shapes.add.box=Recheck erstellen...
+tset.shapes.add.poly=Polygon erstellen...
+tset.shapes.add=Form hinzufügen
+tset.shapes.remove=Form entfernen
+tset.shapes.edit=Form ändern
+tset.shapes.add.title=Erstelle ein Rechteck...
+tset.shapes.edit.title=Ändere ein Rechteck...
+tset.poly.add.title=Erstelle ein Polygon...
+tset.poly.edit.title=Ändere ein Polygon...
+tset.shapes.x=X Position
+tset.shapes.y=Y Position
+tset.poly.add=Punkt hinzufügen
+tset.poly.remove=Punkt entfernen
+tset.poly.inst=Definiere die Punktefolge <b>gegen den Uhrzeigersinn</b>.

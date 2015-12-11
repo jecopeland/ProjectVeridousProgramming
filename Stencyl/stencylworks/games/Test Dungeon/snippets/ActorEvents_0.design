@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="2" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <ignore-screen-tolerance comment="false" x="26" y="40">
+                    <ACTOR eid="this" id="0"/>
+                </ignore-screen-tolerance>
+            </group>
+        </init>
+    </group>
+    <group eventID="2" id="-1"/>
+    <group eventID="3" id="0">
+        <to-screen-space comment="false" x="87" y="179"/>
+        <draw-text comment="false" x="87" y="199">
+            <int id="0" val="TEST LABEL"/>
+            <get-xy comment="false" id="1" x="0" y="0">
+                <ACTOR eid="this" id="0"/>
+                <int id="1" val="0"/>
+            </get-xy>
+            <get-xy comment="false" id="2" x="0" y="0">
+                <ACTOR eid="this" id="0"/>
+                <int id="1" val="1"/>
+            </get-xy>
+        </draw-text>
+        <draw-transtoby comment="false" x="87" y="232">
+            <int id="0" val="1"/>
+            <int id="1" val="32"/>
+            <int id="2" val="32"/>
+        </draw-transtoby>
+        <draw-image-actor comment="false" x="87" y="259">
+            <ACTOR eid="this" id="0"/>
+        </draw-image-actor>
+        <drawfill-rect comment="false" x="87" y="286">
+            <int id="0" val="1"/>
+            <int id="1" val="15"/>
+            <int id="2" val="15"/>
+            <int id="3" val="16"/>
+            <int id="4" val="16"/>
+        </drawfill-rect>
+    </group>
+    <group eventID="3" id="1">
+        <draw comment="false" x="45" y="29">
+            <group eventID="3" id="-1">
+                <to-screen-space comment="false" x="56" y="54"/>
+                <set-alpha comment="false" x="56" y="74">
+                    <int id="0" val="20"/>
+                </set-alpha>
+                <draw-image-actor comment="false" x="56" y="94">
+                    <ACTOR eid="this" id="0"/>
+                </draw-image-actor>
+            </group>
+        </draw>
+    </group>
+    <group eventID="3" id="2">
+        <to-local-space comment="false" x="159" y="545">
+            <ACTOR eid="this" id="0"/>
+        </to-local-space>
+        <draw-text comment="false" x="159" y="572">
+            <int id="0" val="TEST LABEL"/>
+            <int id="1" val="0"/>
+            <int id="2" val="0"/>
+        </draw-text>
+        <draw-transtoby comment="false" x="159" y="592">
+            <int id="0" val="1"/>
+            <int id="1" val="32"/>
+            <int id="2" val="32"/>
+        </draw-transtoby>
+        <drawfill-rect comment="false" x="159" y="619">
+            <int id="0" val="1"/>
+            <int id="1" val="0"/>
+            <int id="2" val="0"/>
+            <int id="3" val="16"/>
+            <int id="4" val="16"/>
+        </drawfill-rect>
+        <draw-image-actor comment="false" x="159" y="646">
+            <ACTOR eid="this" id="0"/>
+        </draw-image-actor>
+    </group>
+    <group eventID="3" id="-1"/>
+</groups>

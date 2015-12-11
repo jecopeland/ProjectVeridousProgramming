@@ -1,0 +1,22 @@
+
+# BYOB
+byob.create.title=Создать новый самодельный блок 
+byob.create.title2=Создать новый ОБЩЕДОСТУПНЫЙ самодельный блок 
+byob.edit.title=Именить самодельный блок
+byob.dg.name=Название
+byob.dg.desc=Описание
+byob.dg.spec=Внешний вид блока
+byob.dg.spec.i=Как блок будет выглядеть. Например: излечить %0 на %1
+byob.dg.blanks=Поля (разъемы) блока 
+byob.dg.blanks.add=Добавить поле
+byob.dg.blanks.remove=Удалить поле
+byob.dg.return=Тип возвращаемого значения
+byob.dg.return.i=Тип значения, который блок дает как результат. 
+byob.dg.return.none=Не возвращает значения (Блок действия)
+byob.dg.title.spec=Детали блока
+byob.dg.error.spec=Введите что-нибудь.
+byob.col.spec=Пояснение для поля на картинке блока 
+byob.blank.add=Добавить разъем в самодельный блок
+byob.blank.remove=Удалить раъем из самодельного блока
+byob.blank.type=Тип
+byob.blank.type.i=Задайте какого типа блоки можно воткнуть в этот разъем.

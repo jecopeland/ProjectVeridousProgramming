@@ -1,0 +1,20 @@
+
+# SCENE PAGE
+scene.edit.title=Modifica proprietà Scena
+scene.new.info=Generale
+scene.new.terrain=Dimensione
+scene.new.background=Sfondo
+scene.new.name=Nome
+scene.new.type=Tipo Scena
+scene.new.type.normal=Normale
+scene.new.tiles=tasselli
+scene.new.pixels=pixel
+scene.new.width=Larghezza
+scene.new.height=Altezza
+scene.new.tilex=Largh. Tasselli
+scene.new.tiley=Altezza Tasselli
+scene.new.background.color=Colore
+scene.new.background.edit=Modifica Immagini...
+scene.new.background.style.solid=Colore uniforme
+scene.new.background.style.none=Nessun colore
+scene.new.background.style.vert=Gradiente verticale

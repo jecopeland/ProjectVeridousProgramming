@@ -1,0 +1,65 @@
+
+# STENCYLTALK
+# DO NOT TRANSLATE STENCYLTALK
+chat.name=StencylTalk
+chat.list.title=Miei amici
+chat.list.pop=Apri in una finestra
+chat.list.return=Ritorna alla finestra principale
+chat.list.add=Aggiungi amico
+chat.list.add.input=Inserisci il nome del tuo amico:
+chat.list.add.error.title=Questo utente non esiste.
+chat.list.add.error.desc=Verifica di aver scritto correttamente il nome.
+chat.list.remove=Rimuovi amico
+chat.list.remove.error=Non posso rimuovere l'utente dall'elenco contatti.
+chat.list.rooms=Stanze
+chat.list.online=In linea
+chat.list.offline=Non in linea
+chat.list.online2=In linea (<0>)
+chat.list.offline2=Non in linea (<0>)
+chat.list.central=Piazza
+chat.status.set=Cambia stato
+chat.status.available=Disponibile
+chat.status.away=Fuori
+chat.status.busy=Occupato
+chat.status.offline=Non in linea
+chat.status.setmessage=Imposta messaggio di stato
+chat.status.setmessage.input=Inserisci messaggio di stato:
+chat.connecting=Connessione...
+chat.reconnecting=Riconnessione...
+chat.action.setstatus=Imposta lo stato a: <0>
+chat.action.link=Inserisci link
+chat.action.transfer=Invia file
+chat.action.transfer.input=Seleziona un amico a cui inviare il file.
+# STENCYLTALK - TRANSFER
+chat.transfer.image.send=Trasferimento immagine...
+chat.transfer.project.send=Trasferimento progetto gioco...
+chat.transfer.resource.send=Trasferimento risorsa...
+chat.transfer.game.send=Trasferimento gioco...
+game.chooser.title=Selezionare un gioco...
+# STENCYLTALK - OUTGOING
+chat.transfer.game.swf=SWF
+chat.transfer.game.current=Gioco corrente
+chat.transfer.game.project=Gioco (Progetto)
+chat.transfer.game.title=Vorrei inviare <0> a...
+chat.transfer.game.generateswf=Generazione SWF...
+chat.transfer.game.chooseswf=Seleziona SWF...
+chat.transfer.game.chooseswf.filter=SWF (Gioco Flash)
+chat.transfer.game.error.title=Non posso trasferire il gioco.
+chat.transfer.image.error.title=Non posso trasferire l'immagine.
+chat.transfer.game.error.desc=Controlla la tua connessione internet, o verifica che il destinatario abbia accettato il trasferimento.
+# STENCYLTALK - INCOMING
+chat.transfer.incoming.error.title=Il trasferimento file è stato annullato.
+chat.transfer.incoming.error.desc=Controlla la tua connessione internet, o verifica con il mittente.
+chat.transfer.incoming.receive=Scaricamento <0>...
+chat.transfer.incoming.request=<0> ti vorrebbe inviare un file.
+chat.transfer.incoming.request.full=<0> ti vorrebbe inviare <1> (<2>)
+chat.transfer.incoming.request.desc=Accetta solamente file da amici fidati.
+chat.transfer.incoming.accept=Accetta file
+chat.transfer.incoming.reject=Rifiuta file
+chat.transfer.incoming.done=<0> ha finito di inviarti un file.
+chat.transfer.incoming.error.generic=Non può caricare <0>.
+chat.transfer.incoming.error.generic.desc=Chiedi al mittente di verificare che sia stato inviato un <0> valido.
+chat.transfer.incoming.success.game=Il gioco può essere visto dal centro di benvenuto.
+chat.transfer.incoming.success.game.desc=Se stai lavorando su un gioco, devi chiuderlo o far ripartire Stencyl per visualizzarlo.
+chat.transfer.incoming.error.game.msg=Il trasferimento è stato annullato perchè il destinatario non ha un gioco aperto.
+chat.transfer.incoming.error.game.reason=Devi avere un gioco aperto per ricevere una risorsa gioco.

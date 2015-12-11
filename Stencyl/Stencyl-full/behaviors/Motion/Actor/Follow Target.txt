@@ -1,0 +1,1 @@
+[INSTANCE CUSTOMIZE] - Makes the actor follow the given target. You must instance customize the actor for this to work. (Double-click the actor in the scene)

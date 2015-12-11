@@ -1,0 +1,29 @@
+
+# UPDATER
+update.title=Update Stencyl
+update.remind.action=Remind me Later
+update.download.action=Download and Upgrade
+update.restart.title=Success!
+update.restart.action=Restart Stencyl
+update.restart=You have updated to <0> (b<1>). Stencyl must restart to complete this update.
+update.restart2=You have updated to <0> (b<1>). Stencyl will need to continue the update process after a restart.
+update.noneed=You're up to date!
+update.noneed2=<0> (b<1>) is currently the newest version available.
+update.need=A new version of Stencyl is available!
+update.need2=<0> (b<1>) is now available - you have <2> (b<3>). Would you like to upgrade?
+update.check=Checking Version...
+update.gather=Getting File List...
+update.download=Downloading...
+update.download.dg.title=Downloading Update...
+update.download.lang=Updating Languages...
+update.finalize=Finalizing...
+update.fail=Oops!
+update.fail2=Stencyl was unable to complete the update process. <br><br>Ensure that your computer is connected to the Internet and then try again.
+update.lang=You have updated the language packs.<br><br>Stencyl must restart to complete the update.
+update.cancel=Cancel Update
+update.progress.top=Downloading <0> of <1>:
+update.progress.bottom=<0>K of <1>K - About <2> seconds remaining
+upload.progress.top=Uploading: <0>
+upload.progress.bottom=<0>K of <1>K
+update.redownload.title=Redownload Required
+update.redownload.desc=You must redownload Stencyl from our site to update.<br><br>Click OK to visit our download site.

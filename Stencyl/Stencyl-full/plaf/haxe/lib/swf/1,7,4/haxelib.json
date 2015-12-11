@@ -1,0 +1,11 @@
+{
+  "name": "swf",
+  "url": "http://github.com/openfl/swf",
+  "license": "MIT",
+  "tags": [ ],
+  "description": "Provides support for parsing and displaying SWF content",
+  "version": "1.7.4",
+  "releasenote": "Improved SWFLite font handling, fixed iOS 'generate' support, updated SWF parser version",
+  "contributors": [ "singmajesty" ],
+  "dependencies": { }
+}

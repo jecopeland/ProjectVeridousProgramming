@@ -1,0 +1,23 @@
+
+# ATTRIBUTES
+att.type.number=Number
+att.type.text=Text
+att.type.bool=Boolean
+att.type.boolean=Boolean
+att.type.list=List
+att.type.map=Map
+att.name=Name
+att.type=Type
+att.value=Initial Value
+att.cat=Category
+att.about=What are Game Attributes?
+att.none=Click here to create a Game Attribute.
+att.new=Create New Game Attribute
+att.cat.refresh=Apply New Category
+att.cat.new=Add Category
+att.cat.new.placeholder=Enter Category Name...
+att.cat.rename=Rename Category
+att.cat.inst=Choose an existing category, or type in a new one and click Apply.
+att.cat.new.inst=Choose an existing category, or type in a new one.
+att.show=Show Game Attributes
+att.getset=Game Attribute Getter/Setter

@@ -1,0 +1,20 @@
+
+# BACKGROUND CREATOR
+bg.top.main=Декорация
+bg.top.properties=Свойства
+bg.top.attach=Привязать к сцене
+bg.rename=Переименовать
+bg.resize=Переопределить размер
+bg.scroll=Установить скорость прокрутки
+bg.preview=Предварительный просмотр
+bg.scroll.title=Скорость прокрутки
+bg.resize.title=Изменить размер декорации
+bg.resize.inst=Переопределяет стандартный размер декорации. Обычно, размеры декорации основываются на размерах первых кадрах-изображениях.
+bg.scroll.inst=По умолчанию, декорация остается на одном месте. Настройка ее cкорости автоматически включает прокрутку.
+bg.props.xscroll=Горизонтальная скорость прокрутки
+bg.props.yscroll=Вертикальная скорость прокрутки
+bg.props.width=Ширина
+bg.props.height=Высота
+bg.error.size=Введите положительное число.
+bg.repeat.title=Повторять декорацию?
+bg.repeat.inst=Tiles the background and scrolls statically like terrain.Делить декорацию на плитки и прокручивает его постоянно, как местность.

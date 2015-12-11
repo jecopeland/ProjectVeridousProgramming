@@ -1,0 +1,25 @@
+
+# BYOB
+byob.create.title=Crear un nuevo bloque personalizado
+byob.create.title2=Crear un nuevo bloque personalizado global
+byob.edit.title=Editar bloque personalizado
+byob.dg.name=Nombre
+byob.dg.desc=Descripción
+byob.dg.icon=Icono
+byob.dg.icon.i=El tamaño óptimo es de 32 x 32 píxeles. Para StencylForge.
+byob.dg.spec=Especificación del bloque
+byob.dg.spec.i=Qué aspecto tendrá el bloque. Ejemplo: curar %0 en %1
+byob.dg.blanks=Campos del bloque
+byob.dg.blanks.i=Especifica qué campos (blancos) contiene este bloque.
+byob.dg.blanks.add=Añadir campo
+byob.dg.blanks.remove=Borrar campo
+byob.dg.return=Tipo de retorno
+byob.dg.return.i=El tipo de este bloque.
+byob.dg.return.none=Ninguno (bloque de acción)
+byob.dg.title.spec=Detalles del bloque
+byob.dg.error.spec=Introduce algo.
+byob.col.spec=Referencia del campo de especificación de bloque.
+byob.blank.add=Añadir blanco al bloque personalizado
+byob.blank.remove=Quitar blanco del bloque personalizado
+byob.blank.type=Tipo
+byob.blank.type.i=Especifica qué tipo de bloques acepta este blanco.

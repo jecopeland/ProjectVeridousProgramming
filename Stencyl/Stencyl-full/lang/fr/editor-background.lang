@@ -1,0 +1,20 @@
+
+# BACKGROUND CREATOR
+bg.top.main=Arrière Plan
+bg.top.properties=Propriétés
+bg.top.attach=Attacher à la Scène
+bg.rename=Renommer
+bg.resize=Outrepasser la Taille
+bg.scroll=Définir la Vitesse de Défilement
+bg.preview=Prévisualiser
+bg.scroll.title=Vitesse de Défilement
+bg.resize.title=Redimensionner l'Arrière Plan
+bg.resize.inst=Outrepasser la Taille de l'Arrière Plan par défaut.Normalement, les Arrières Plans ont une taille basée sur la première image définie.
+bg.scroll.inst=Par défaut, les Arrières Plans sont statiques. Définir une Vitesse de Défilement les fera défiler automatiquement.
+bg.props.xscroll=Vitesse de défilement Horizontale
+bg.props.yscroll=Vitesse de défilement Verticale
+bg.props.width=Largeur
+bg.props.height=Hauteur
+bg.error.size=Entrer un entier positif.
+bg.repeat.title=Répéter Arrière Plan?
+bg.repeat.inst=Entuile l'Arrière Plan et défile statiquement comme le terrain.

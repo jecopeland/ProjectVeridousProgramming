@@ -1,0 +1,7 @@
+
+# PUBLISHER
+publish.finish.title=Gotowe
+publish.finish.msg=Twoja gra została opublikowana.<br><br>Wciśnij OK, aby zobaczyć ją w swojej przeglądarce.<br><br>
+publish.save=Czy chcesz zapisać grę przed wysłaniem?
+publish.fail=Wysyłanie nie powiodło się. Spróbuj jeszcze raz.<br><br>Jeżeli problem będzie się powtarzał, sprawdź swoje połączenie z Internetem.<br><br>
+publish.nobrowser=Nie znaleziono przeglądarki.

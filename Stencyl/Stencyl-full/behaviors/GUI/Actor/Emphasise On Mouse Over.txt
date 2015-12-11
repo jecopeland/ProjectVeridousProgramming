@@ -1,0 +1,1 @@
+Apply growing, shrinking, fading, rotating and other effects when this actor is moused over. Useful for UI elements.

@@ -1,0 +1,52 @@
+
+# EULA
+eula.about=L'utilisation de ce logiciel est assujettie aux Contrat de Licence de Stencyl.
+eula.online=Lisez une copie de ce contrat sur <0>
+eula.missing=Uh Oh!
+uela.missing.i=Nous n'avons pu charger les conditions générales d'utilisations, cependant vous pouvez en faire la lecture sur <0>
+eula.agree=J'accepte
+eula.disagree=Je refuse
+eula.error.refuse=Vous devez accepter les contrat de licence pour procéder.
+eula.error.refuse.i=Des questions ou des doutes? Contactez nous sur stencyl.com
+# WELCOME SCREEN
+welcome.cc.title=Procédez à notre Cours Intensif ("Crash Course") (30 minutes) (disponible en français sur www.didacthic.com)
+welcome.cc.desc=Apprenez à créer des jeux à la manière de Stencyl et familiarisez vous avec la boite à outils.
+welcome.pedia.title=Allez sur StencylPedia
+welcome.pedia.desc=StencylPedia est notre guide officiel d'utilisation. Il couvre tous les fondamentaux de Stencyl.
+welcome.forum.title=Découvrir la Communauté de Stencyl
+welcome.forum.desc=Découvrez notre forum Communautaire, vous pouvez y poser toutes vos questions et rencontrer d'autres utilisateurs de Stencyl tels que vous.
+# SIGN IN
+signin.yes=Se Loguer
+signin.no=Se Souvenir de Moi
+signin.info=Disposez vous déjà d'un compte?
+signin.info2=Mot de passe oublié?
+signin.register=Inscrivez-vous
+signin.name=Nom d'utilisateur
+signin.name.error=Connectez-vous avec votre non d'utilisateur plutôt qu'avec votre adresse email.
+signin.key=Mot de Passe
+signin.key.again=Mot de Passe (Encore)
+signin.email=email
+signin.as=Loguer en tant que: <0>
+# REGISTER
+register.info=Tous les champs sont requis
+register.limit.info=Note: Merci de n'utiliser ques des lettres ou des chiffres pour le
+register.limit.info2=nom d'utilisateur et mot de passe.
+register.error.sorry=Désolé, <0>
+register.error.server=Le serveur a rencontré une erreur. Nous nous penchons sur celui-ci. Merci de réessayer plus tard.
+register.error.beta=Compte de Beta non valide
+register.error.name.taken=Ce nom d'utilisateur est déjà utilisé.
+register.error.email.taken=Cet email est déjà utilisé.
+register.error.email.invalid=Adresse email non valide.
+register.error.name.length=Le nom d'utilisateur doit comporter entre 5 et 20 caractères.
+register.error.password.length=Le mot de Passe doit comporter entre 5 et 20 caractères.
+register.error.name.invalid=Merci de n'utiliser ques des lettres ou des chiffres pour le nom d'utilisateur.
+register.error.password=Mot de passe incorrect
+register.error.password2=Entrez les de nouveau
+register.error.email=email non valide
+register.error.email2=name@gmail.com - n(utilisez pas + ou d'autres caractères spéciaux
+register.error.field=Remplissez l'ensemble des champs.
+register.error.field2=Certains champs sont vides.
+register.info2=Vous pouvez utiliser ce compte pour accéder à StencylForge, Stencyl.com et nos Forums.
+# SIGN OUT
+signout.promp=Stencyl va maintenant se fermer pour finaliser le processus de déconnection.
+signout.promp.i=Il vous sera demandé d'enregistrer votre Jeu s'il en existe un d'ouvert.

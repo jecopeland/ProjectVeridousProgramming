@@ -1,0 +1,29 @@
+
+# UPDATER
+update.title=Mise à jour Stencyl
+update.remind.action=Me le rappeler plus tard
+update.download.action=Télécharger et mettre à jour
+update.restart.title=Succès!
+update.restart.action=Relancer Stencyl
+update.restart=Vous avez mis à jour vers <0> (b<1>). Stencyl doit redémarrer pour finaliser celle-ci.
+update.restart2=Vous avez mis à jour vers <0> (b<1>). Stencyl continuera de se mettre à jour après le redémarrage de l'application.
+update.noneed=Vous êtes à Jour!
+update.noneed2=<0> (b<1>) est actuellement la version la plus récente.
+update.need=Une nouvelle version de Stencyl est disponible!
+update.need2=<0> (b<1>) est à présent disponible - vous aveze <2> (b<3>). Voulez-vous mettre à jour?
+update.check=Vérification de Version...
+update.gather=Obtention de la liste des Fichers...
+update.download=Téléchargement...
+update.download.dg.title=Téléchargement de la mise à jour...
+update.download.lang=Mise à jour de Langues...
+update.finalize=Finalisation...
+update.fail=Oops!
+update.fail2=Stencyl n'a pu finir la mise à jour. <br><br>Assurez-vous que votre ordinateur est connecté à internet et essayez de nouveau.
+update.lang=Vous avez mis à jour le pack de langues.<br><br>Stencyl doit redémarrer pour finaliser celle-ci.
+update.cancel=Annuler Mise à jour
+update.progress.top=Téléchargement de <0> sur <1>:
+update.progress.bottom=<0>K de <1>K - environ <2> secondes restantes
+upload.progress.top=Chargement: <0>
+upload.progress.bottom=<0>K de <1>K
+update.redownload.title=Re-téléchargement Requis
+update.redownload.desc=Vous devez re-télécharger Stencyl à partir de notre site internet pour le mettre à jour.<br><br>Cliquez sur "Ok" pour vous rendre sur notre page de téléchargement.

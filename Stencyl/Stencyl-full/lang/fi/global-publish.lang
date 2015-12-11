@@ -1,0 +1,7 @@
+
+# PUBLISHER
+publish.finish.title=Valmis
+publish.finish.msg=Pelisi julkaistiin onnistuneesti.
+publish.save=Haluatko tallentaa pelisi ennen sen julkaisua?
+publish.fail=StencylWorks ei pystynyt julkaisemaan peliäsi. Yritä hetken kuluttua uudelleen.
+publish.nobrowser=StencylWorks ei onnistunut löytämään aktiivista nettiselainta.

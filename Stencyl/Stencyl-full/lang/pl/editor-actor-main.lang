@@ -1,0 +1,31 @@
+
+# Actor Creator
+actor.props=Edytuj właściwości
+actor.rename=Zmień nazwę
+actor.group.edit=Edytuj grupy
+actor.regroup=Wybierz grupę
+actor.regroup.info=Grupy wykorzystuje się do określenia, jakie typy postaci zderzają się ze sobą.
+actor.props.title=Właściwości postaci
+actor.props.newtitle=Nowa postać
+actor.title=Kreator postaci
+actor.title.new=Stwórz nowy typ postaci
+actor.title.edit=Edytuj typ postaci
+actor.physics=Właściwości fizyczne
+actor.physics.info=Edytuj wartości fizyczne odpowiednie dla tej postaci. Tarcie i inne wartości zależne od kształtu edytuje się w edytorze kształtów.
+# Properties
+actor.name=Nazwa
+actor.group=Grupa
+actor.sprite=Sprite
+actor.sprite.choose=Wybierz
+actor.sprite.edit=Edytuj
+actor.sprite.new=Stwórz
+# Sprite Chooser
+actor.chooser.title=Wybierz sprite
+# Warnings
+actor.warning.name=Wpisz nazwę.
+actor.warning.number=Wartość musi być dodatnia.
+actor.warning.nosnippets=Nie zaznaczono snippetu.
+actor.warning.noprops=Snippet nie ma właściwości do edytowania.
+actor.warning.float=Wpisz poprawny numer.
+actor.warning.int=Wpisz poprawną liczbę całkowitą.
+actor.warning.general=Wpisz poprawne wartości dla pól zaznaczonych na czerwono.

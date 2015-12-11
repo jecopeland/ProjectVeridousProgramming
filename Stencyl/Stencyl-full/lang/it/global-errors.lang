@@ -1,0 +1,30 @@
+
+# ERRORS
+error.nan=Inserisci un numero.
+error.negative=Inserisci un numero positivo.
+error.blank=Inserisci un valore.
+error.anim.load=Attenzione: Non ci sono immagini
+error.anim.load.i=Stencyl non trova immagini per uno o più tipi di attori e ha sostituito con immagini vuote per proseguire. Chiudi il gioco, non salvare e invia notifica al forum.
+error.corrupt.xml=Non può caricare <0>/game.xml
+error.corrupt.xml.i=Comprimi in uno ZIP il gioco e invialo al forum Stencyl.
+error.save.kittogame=Impossibile convertire '<0>' da kit a gioco.
+error.preview.html5=Non posso testare giochi HTML5.
+error.preview.noscenes.title=Impossibile avere anteprima del gioco
+error.preview.noscenes=Questo gioco non contiene scene. Crea una scena prima di avere l'anteprima del gioco.
+error.publish.noscenes.title=Impossibile pubblicare il gioco
+error.publish.noscenes=Questo gioco non contiene scene. Crea una scena prima di pubblicare il gioco.
+error.download.mult.title=Non posso scaricare risorse multiple contemporaneamente
+error.download.mult.desc=Aspetta fino a che il tuo primo download venga completato.
+error.import.game.invalid=Questo file non è un file di tipo Gioco o Kit riconosciuto da Stencyl:
+error.scene.recover=Stencyl ha individuato una file scena corrotto. Vuoi provare a recuperarlo automaticamente?
+error.scene.recover.restart=Se scegli di proseguire, Stencyl verrà automaticamente riavviato alla fine.
+error.write.warn=Fallito aggiornamento automatico
+error.write.win.msg1=Stencyl è stato installato in una directory non scrivibile.
+error.write.win.msg2=Soluzione: avviare stencyl come amministratore.
+error.write.mac.msg1=Stencyl è stato installato in una directory non scrivibile.
+error.write.mac.msg2=Soluzione: avviare stencyl come amministratore.
+error.write.linux.msg1=Stencyl è stato installato in una directory non scrivibile.
+error.write.linux.msg2=Soluzione: avviare stencyl come amministratore.
+# WARNINGS
+error.memory.usage=Stencyl ha raggiunto il 90% della memoria disponibile.
+error.memory.usage.i=Devi salvare il tuo lavoro e riavviare Stencyl. Visita la sezione 'Ask a Question' nel forum di Stencyl.com per trovare delle soluzioni.

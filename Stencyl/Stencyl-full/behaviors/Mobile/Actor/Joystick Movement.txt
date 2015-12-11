@@ -1,0 +1,1 @@
+Control the actor movement with a virtual joystick when you touch the screen.

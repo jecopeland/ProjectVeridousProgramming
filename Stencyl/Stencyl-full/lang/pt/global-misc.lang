@@ -1,0 +1,56 @@
+
+# MULTI INSTANCE
+multi.main=Aviso: Stencyl já se encontra aberto ou foi fechado abruptamente. Deseja continuar?
+multi.sub=A execução simultânea de várias instâncias do Stencyl é altamente desaconselhável.
+# LEGAL
+cp=© Copyright 2008-2009 Stencyl, LLC. Todos os Direitos Reservados.**
+# MISC
+progress=Progresso
+statusbar=Barra de Estado
+welcome.newgame=Criar um Novo Jogo...
+welcome.importgame=Importar Jogo...
+welcome.exportgame=Exportar Jogo...
+welcome.opengame=Abrir Jogo
+welcome.tabtitle=Bem-vindo
+welcome.title1=Os Meus Jogos
+welcome.title2=Os Meus Kits
+welcome.tour=Faça uma visita guiada.
+welcome.published=Os meus Jogos Publicados
+# LOADING
+load.loading=A Carregar
+load.lnf=Estilo
+load.ui=Interface
+load.plug=Plugins
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>
+pixels=pixels
+# FEEDBACK
+feedback.bug=Denúncia de Bugs
+feedback.sugg=Sugestão
+feedback.stuck=Estou Aflito
+feedback.other=Outro
+feedback.title=Sumário
+feedback.msg=Mensagem
+feedback.comments=Os Seus Comentários
+feedback.success=Obrigado por submeter a sua questão ou opinião. Um membro da nossa equipa vai contactar-te via e-mail o mais depressa que conseguir.
+feedback.privacy=<b>Privacidade:</b> O Stencyl angaria estatísticas de utilização e hardware anónimas para ajudar a Equipa Stencyl a resolver bugs mais eficientemente. Para mais informações, por favor veja o seu Acordo de Beta Tester.
+# HELP
+help.gui.prev=Pagina Anterior
+help.gui.next=Próxima Pagina
+test.game.progress1=Preparar  %d de %d.
+test.game.progress2=A Processar Comportamentos.
+# TIME
+date.short=MMM d, yyyy
+date.realtime=h:mm:ss a
+today=Hoje
+yesterday=Ontem
+hours.ago=<0> horas atrás
+days.ago=<0> dias atrás
+week.ago=Semana Passada
+# TEMPORARY
+temp.followinst=Siga estas instruções.
+temp.resourcepack=Para adicionar um recurso a um pacote, faz clique direito e escolha a opção 'Adicionar ao Pacote' através do menu de contexto.

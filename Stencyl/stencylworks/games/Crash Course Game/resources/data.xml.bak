@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pack>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="6" fixedrot="false" fric="0.2" gid="4" id="5" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Clown" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="6" static="false">
+        <snippets>
+            <s enabled="true" id="3">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="2"/>
+                <prop id="2" list="0" val="Stomped"/>
+                <prop id="3" list="0" val="40"/>
+                <prop id="4" list="0" val="50"/>
+            </s>
+        </snippets>
+    </actor>
+    <tileset across="6" atlasID="0" desc="" down="17" id="0" name="Grass Land Tileset" oid="-1" shared="false" th="32" tw="32">
+        <tile collision="0" data="" durations="100" frames="0" id="0" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="1" id="1" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="2" id="2" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="3" id="3" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="4" id="4" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="5" id="5" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="6" id="6" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="7" id="7" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="8" id="8" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="9" id="9" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="10" id="10" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="11" id="11" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="12" id="12" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="13" id="13" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="14" id="14" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="15" id="15" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="16" id="16" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="17" id="17" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="18" id="18" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="19" id="19" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="20" id="20" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="21" id="21" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="22" id="22" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="23" id="23" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="24" id="24" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="25" id="25" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="26" id="26" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="27" id="27" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="28" id="28" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="29" id="29" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="30" id="30" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="31" id="31" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="32" id="32" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="33" id="33" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="34" id="34" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="35" id="35" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="36" id="36" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="37" id="37" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="38" id="38" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="39" id="39" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="40" id="40" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="41" id="41" order="-1"/>
+        <tile collision="11" data="" durations="100" frames="42" id="42" order="-1"/>
+        <tile collision="12" data="" durations="100" frames="43" id="43" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="44" id="44" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="45" id="45" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="46" id="46" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="47" id="47" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="48" id="48" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="49" id="49" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="50" id="50" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="51" id="51" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="52" id="52" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="53" id="53" order="-1"/>
+        <tile collision="6" data="" durations="100" frames="54" id="54" order="-1"/>
+        <tile collision="5" data="" durations="100" frames="55" id="55" order="-1"/>
+        <tile collision="6" data="" durations="100" frames="56" id="56" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="57" id="57" order="-1"/>
+        <tile collision="5" data="" durations="100" frames="58" id="58" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="59" id="59" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="60" id="60" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="61" id="61" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="62" id="62" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="63" id="63" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="64" id="64" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="65" id="65" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="66" id="66" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="67" id="67" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="68" id="68" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="69" id="69" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="70" id="70" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="71" id="71" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="72" id="72" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="73" id="73" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="74" id="74" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="75" id="75" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="76" id="76" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="77" id="77" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="78" id="78" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="79" id="79" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="80" id="80" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="81" id="81" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="82" id="82" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="83" id="83" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="84" id="84" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="85" id="85" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="86" id="86" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="87" id="87" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="88" id="88" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="89" id="89" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="90" id="90" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="91" id="91" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="92" id="92" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="93" id="93" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="94" id="94" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="95" id="95" order="-1"/>
+        <tile collision="0" data="" durations="100" frames="96" id="96" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="97" id="97" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="98" id="98" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="99" id="99" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="100" id="100" order="-1"/>
+        <tile collision="-1" data="" durations="100" frames="101" id="101" order="-1"/>
+    </tileset>
+    <music atlasID="0" desc="" id="1" loop="true" name="Jump" oid="-1" pan="0" shared="false" stream="false" type="mp3" volume="1"/>
+    <sprite atlasID="0" default="2" defaultAnimation="2" desc="" height="32" id="4" name="Mambo" shared="false" width="32">
+        <anim across="2" down="2" durations="100,100,100,100" height="64" id="0" loop="true" name="Walk Right" numframes="4" originx="16" originy="16" sync="false" version="2" width="64">
+            <poly data="4,4,4,28,4,28,32,4,32" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="2" down="2" durations="100,100,100,100" height="64" id="1" loop="true" name="Walk Left" numframes="4" originx="16" originy="16" sync="false" version="2" width="64">
+            <poly data="4,4,4,28,4,28,32,4,32" density="0.1" fric="0.2" gid="-1000" id="0" name="Walk_Left" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="32" id="2" loop="true" name="Idle Right" numframes="1" originx="16" originy="16" sync="false" version="2" width="32">
+            <poly data="4,4,4,28,4,28,32,4,32" density="0.1" fric="0.2" gid="-1000" id="0" name="Idle_Right" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="32" id="3" loop="true" name="Idle Left" numframes="1" originx="16" originy="16" sync="false" version="2" width="32">
+            <poly data="4,4,4,28,4,28,32,4,32" density="0.1" fric="0.2" gid="-1000" id="0" name="Idle_Left" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="32" id="4" loop="true" name="Jump Right" numframes="1" originx="16" originy="16" sync="false" version="2" width="32">
+            <poly data="4,4,4,28,4,28,32,4,32" density="0.1" fric="0.2" gid="-1000" id="0" name="Hurt_Right" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="32" id="5" loop="true" name="Jump Left" numframes="1" originx="16" originy="16" sync="false" version="2" width="32">
+            <poly data="4,4,4,28,4,28,32,4,32" density="0.1" fric="0.2" gid="-1000" id="0" name="Hurt_Left" rest="0.0" sensor="false"/>
+        </anim>
+    </sprite>
+    <actor adamp="0.0" ascale="true" atlasID="0" bodytype="2" continuous="true" desc="" eventsnippetid="5" fixedrot="true" fric="0.2" gid="0" id="3" ignoreg="false" inertia="1.0" ldamp="0.0" mass="1.0" name="Noni" oid="-1" pausable="true" physicsMode="0" rest="0.0" shared="false" sprite="4" static="false">
+        <snippets>
+            <s enabled="true" id="0">
+                <prop id="2147483647" list="0" val="thisactor"/>
+            </s>
+            <s enabled="true" id="1">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="up"/>
+                <prop id="2" list="0" val="1"/>
+                <prop id="3" list="0" val="50"/>
+                <prop id="4" list="0" val="Jump Left"/>
+                <prop id="5" list="0" val="Jump Right"/>
+            </s>
+            <s enabled="true" id="2">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="4"/>
+                <prop id="2" list="0" val="left"/>
+            </s>
+            <s enabled="true" id="4">
+                <prop id="2147483647" list="0" val="thisactor"/>
+                <prop id="1" list="0" val="Walk Right"/>
+                <prop id="2" list="0" val="Walk Left"/>
+                <prop id="3" list="0" val="Idle Left"/>
+                <prop id="4" list="0" val="Idle Right"/>
+                <prop id="5" list="0" val="left"/>
+                <prop id="6" list="0" val="right"/>
+                <prop id="7" list="0" val="15"/>
+            </s>
+        </snippets>
+    </actor>
+    <music atlasID="0" desc="" id="2" loop="true" name="Stomp" oid="-1" pan="0" shared="false" stream="false" type="mp3" volume="1"/>
+    <sprite atlasID="0" default="0" defaultAnimation="0" desc="" height="64" id="6" name="Stomper" shared="false" width="32">
+        <anim across="3" down="2" durations="100,100,100,100,100,100" height="128" id="0" loop="true" name="Idle" numframes="6" originx="16" originy="32" sync="false" version="2" width="96">
+            <poly data="4,0,34,32,34,32,64,0,64" density="0.1" fric="0.2" gid="-1000" id="0" name="Animation 0" rest="0.0" sensor="false"/>
+        </anim>
+        <anim across="1" down="1" durations="100" height="64" id="1" loop="true" name="Stomped" numframes="1" originx="21" originy="32" sync="false" version="2" width="42"/>
+    </sprite>
+</pack>

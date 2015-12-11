@@ -1,0 +1,60 @@
+
+# DESKTOP PAGE
+desktop.pages.mac=Mac App Store
+desktop.pages.windows=Windows Store
+# WEB PAGE
+web.services.title=External Services
+web.style.title=Loading Screen Style
+web.ad.cpm=CPMStar Ad
+web.ad.ng=Newgrounds Ad
+web.ng.id=Newgrounds Game API ID
+web.ng.key=Newgrounds Game Key
+web.cpm.id=CPMStar ID
+web.pages.main=Settings
+web.pages.services=Services
+web.pages.splash=Preloaders
+web.swf=Custom SWF
+web.swf.title=Custom SWF Loading Screen
+web.swf.title.info=A custom SWF (movie) for the loading screen. Must select 'Custom SWF' in the dropdown above.
+# SETTINGS PAGE
+general.pages.main=Main
+general.pages.screen=Display
+general.pages.other=Advanced
+general.info.appname=App Name
+general.info.appid=App ID
+general.info.author=Author
+# WINDOWS
+windows.bgcolor=Splash Background Color
+windows.tile=Tile Image
+windows.tile.info=Must be 150 x 150 px. Shown on the Windows 8 start screen and store.
+windows.splash=Splash Image
+windows.splash.info=No specific size required. This is shown in the center of the screen.
+# HAXE - WIN8
+build.hx.error.win.name=You must provide a Windows App Name.
+build.hx.error.win.id=You must provide a Windows App ID.
+build.hx.error.win.author=You must provide a Windows App Author Name.
+build.hx.win.pass=Windows will prompt you several (usually 3) times for passwords after this.
+build.hx.win.pass2=Enter in 'password' into all fields.
+build.hx.win.success=Success: Generated Windows Certificates
+build.hx.win.success2=Click OK to continue with the export process.
+build.hx.win.failure=Could not generate Windows certificates.
+build.hx.win.install=Install the Windows SDK
+build.hx.win.install2=The Windows SDK is required to publish Windows Store apps.
+build.hx.error.win.install=Unable to locate where the Windows SDK is installed.
+build.hx.error.win.install2=Provide the location. In typical installs, it's at: C:\Program Files (x86)\Windows Kits\8.0\ or C:\Program Files\Windows Kits\8.0\
+build.hx.error.win.install3=That is not the Windows SDK directory.
+build.hx.error.win.install4=Consult our help article, or ask for help on the forums.
+build.hx.error.win.locate=Locate the Windows SDK folder.
+build.hx.win.vs.install=This feature requires Visual Studio 2010 or above.
+build.hx.win.vs.install2=Click OK to download and install Visual Studio Express. After installation, restart Stencyl to proceed.
+build.hx.win.vs.install3=Run the Visual Studio Installer.
+build.hx.win.vs.install4=Double-click visual-studio.exe to run the installer.
+build.hx.win.vs.title=Visual Studio Express
+build.hx.win.vs.title2=Visual Studio could not be installed due to insufficient file permissions.
+# HAXE - MAC
+build.hx.error.mac.xc=This feature requires Xcode.
+build.hx.error.mac.xc2=Install Xcode, or use xcode-select to set the active developer directory, and try again.
+build.hx.error.mac.sign=Could not sign app for the Mac App Store.
+build.hx.error.mac.sign2=Could not sign app installer for the Mac App Store.
+build.hx.error.mac.bundle=Missing Mac Bundle ID.
+build.hx.error.mac.bundle2=You need to specify a Mac Bundle ID.

@@ -1,0 +1,7 @@
+
+# PUBLISHER
+publish.finish.title=成功
+publish.finish.msg=你的遊戲出版成功.請按OK來網頁瀏覽器觀看.
+publish.save=在出版前,你是否要保存遊戲?
+publish.fail=StencylWorks 未能出版你的遊戲.請再一試.如果還有問題,請核查你的網路.
+publish.nobrowser=StencylWorks 未能找到可利用的網頁瀏覽器 .

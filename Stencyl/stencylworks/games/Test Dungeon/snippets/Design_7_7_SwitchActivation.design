@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="2" id="0">
+        <event-collide-actortogroup comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <if comment="false" x="26" y="47">
+                    <group eventID="-1" id="-1">
+                        <setanim comment="false" x="37" y="80">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="switched"/>
+                        </setanim>
+                        <play-sound4 comment="false" x="37" y="107">
+                            <int id="0" val="0"/>
+                            <sound eid="var" id="1" vid="2"/>
+                        </play-sound4>
+                        <die comment="false" x="37" y="134">
+                            <ACTOR eid="var" id="0" vid="1"/>
+                        </die>
+                        <disable-snippet comment="false" x="37" y="161"/>
+                    </group>
+                    <keystate comment="false" id="0" x="0" y="0">
+                        <int id="0" val="0"/>
+                        <control eid="7" id="1"/>
+                    </keystate>
+                </if>
+            </group>
+            <ACTOR eid="this" id="0"/>
+            <actorgroup eid="0" id="1"/>
+        </event-collide-actortogroup>
+    </group>
+    <group eventID="2" id="-1"/>
+</groups>

@@ -1,0 +1,9 @@
+
+# SOUND CREATOR
+sounds=聲響
+sound.choose=選擇文件...
+sound.rename=更改名字
+sound.mix=編輯聲響
+sound.rename.title=更改聲響名字
+sound.props.name=名字
+sound.error.name=請填寫名字.

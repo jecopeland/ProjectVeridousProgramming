@@ -1,0 +1,67 @@
+
+# LEGAL
+cp=Copyright Stencyl, LLC. Tutti i diritti riservati. Stencyl, il logo Stencyl e Stencyl cog sono trademarks di Stencyl, LLC negli Stati Uniti e/oppure in altri paesi. Utilizzo di Stencyl è regolato dalla nostra licenza d'uso (EULA).
+# MISC
+progress=Avanzamento
+statusbar=Barra di stato
+welcome.newgame=Crea un nuovo gioco...
+welcome.importgame=Importa Gioco...
+welcome.exportgame=Esporta Gioco...
+welcome.opengame=Apri un gioco
+welcome.tabtitle=Benvenuto in Stencyl
+welcome.title1=I miei Giochi
+welcome.title2=I miei Kit
+welcome.published=I miei Giochi pubblicati
+# LOADING
+load.loading=Caricamento
+load.lnf=Grafica
+load.ui=Interfaccia
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>
+pixels=pixels
+# DEBUG
+crusher.prompt=Desideri ottimizzare la dimensione di <0>?
+crusher.prompt.i=Devi fare il backup del tuo gioco prima di proseguire.
+crusher.success=Stencyl ha completato l'ottimizzazione delle dimensioni del gioco.
+logger.success=Scrivi i log nella posizione seguente:
+# FEEDBACK
+feedback.ask=Fai una domanda
+feedback.bug=Riporta errori
+feedback.sugg=Suggerimenti
+feedback.stuck=Sono bloccato
+feedback.other=Altro
+feedback.title=Sommario
+feedback.msg=Messaggio
+feedback.comments=I tuoi commenti
+feedback.info=Specifica il più possibile. Se trovi un problema, descrivi esattamente come riprodurlo.
+feedback.info2=Ti ricontatteremo tramite email se necessario.
+feedback.success=Grazie per aver inviato la tua domanda o suggerimenti. Un membro del nostro team ti ricontatterà tramite email se necessario.
+# CALL
+call.title=Chiedi aiuto
+call.subtitle=Bloccato? L'aiuto è distante solo un click.
+call.forums=Chiedi sul forum
+call.forums2=La cosa migliore per una risposta rapida.
+call.pedia=Stencylpedia
+call.pedia2=La guida definitiva per conoscere ogni cosa di Stencyl.
+call.chat=Chat
+call.chat2=Parla in tempo reale con altri utilizzatori di Stencyl come te.
+# HELP
+help.gui.prev=Pagina precedente
+help.gui.next=Prossima pagina
+help.error.img=Non posso caricare l'immagine.
+# TIME
+date.short=MMM d, yyyy
+date.realtime=h:mm:ss a
+today=Oggi
+yesterday=Ieri
+hours.ago=<0> ore fa
+# TEMPORARY
+temp.followinst=Segui queste istruzioni.
+temp.resourcepack=Per aggiungere una risorsa a un pacchetto, tasto destro su una risorsa e scegli l'opzione 'Aggiungi a un pacchetto' dal menu contestuale.
+# SIGN OUT
+signout.prompt=Stencyl verrà chiuso per completare il processo di uscita.
+signout.prompt.i=Ti verrà chiesto di salvare il tuo gioco se uno è aperto.

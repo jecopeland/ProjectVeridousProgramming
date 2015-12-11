@@ -1,0 +1,116 @@
+
+# GLOBAL
+sb.title=Σχεδιαστής Συμπεριφοράς
+sb.open.title=Άνοιγμα Συμπεριφορών
+sb.confirm=Εφαρμογή αλλαγών στο <0>;
+# MODULES
+sb.mode.vars=Γνωρίσματα
+sb.mode.favorites=Αγαπημένα
+sb.mode.props=Επεξεργασία Ιδιοτήτων
+sb.mode.snippets=Επεξεργασία Υπό-Συμπεριφορών
+# MENU
+menu.top.run=Εκτέλεση
+sb.file.new=Νέα Συμπεριφορά
+sb.file.open=Άνοιγμα Συμπεριφοράς
+sb.file.recent=Άνοιγμα Πρόσφατου
+sb.file.close=Κλείσιμο
+sb.file.closeall=Κλείσιμο Όλων
+sb.file.save=Αποθήκευση Συμπεριφοράς
+sb.file.saveall=Αποθήκευση Όλων των Συμπεριφορών
+sb.file.saveas=Αποθήκευση Ως...
+sb.file.style=Παραμετροποίηση Επεξεργαστή Κώδικα...
+sb.file.shortcut=Παραμετροποίηση Συντομεύσεων...
+sb.file.exit=Έξοδος από Σχεδιαστή Συμπεριφοράς
+sb.file.undo=Αναίρεση
+sb.file.redo=Επανάληψη
+sb.file.cut=Αποκοπή
+sb.file.copy=Αντιγραφή
+sb.file.paste=Επικόλληση
+sb.file.delete=Διαγραφή
+sb.file.select=Επιλογή Όλων
+sb.file.find=Εύρεση...
+sb.file.replace=Αντικατάσταση...
+sb.run.check=Έλεγχος Σύνταξης
+sb.run.refresh=Ανανέωση Γνωρισμάτων
+sb.run.build=Κτίσιμο Όλων
+sb.building=Κτίσιμο...
+sb.builddone=Τέλος. Το <0> χρειάστηκε κλάσματα του δευτερολέπτου για να κτιστεί.
+sb.help.javadoc=Προβολή API
+sb.help.wiki=Wiki
+sb.help.whatsnew=Τι Νεότερο υπάρχει;
+sb.help.toggle=Stencylpedia
+sb.help.toggle.menu=Προβολή Stencylpedia
+sb.help.call=Χρειάζομαι Βοήθεια
+sb.chat.toggle=Συνομιλία
+sb.chat.toggle.menu=Προβολή Συνομιλίας
+sb.answers=StencylAnswers
+sb.help.crashcourse=Ξεκινώντας
+sb.help.faq=Stencylpedia
+sb.help.faq.mobile=Βοήθεια iStencyl (στη Stencylpedia)
+sb.help.attributes=Μάθετε πώς να δημιουργείτε γνωρίσματα.
+sb.refresh=Ανανέωση Κώδικα Source
+# TYPE CHOOSER
+actortype.chooser.title=Επιλογή Τύπου Ηθοποιού
+actor.type.choose=Επιλέξτε Τύπο Ηθοποιού...
+# LIBRARY
+sb.lib.actors=Συμπεριφορές Ηθοποιού
+sb.lib.scenes=Συμπεριφορές Σκηνής
+sb.lib.sscenes=Συμπεριφορές Σχετικές με τη Σκηνή
+# MESSAGES
+sb.noattributes=Αυτή η Συμπεριφορά δεν περιέχει γνωρίσματα <br> του τύπου '<0>'.
+sb.preview.fail.open=Η Συμπεριφορά '<0>' περιέχει πεδία τα οποία ή είναι κενά ή περιέχουν εσφαλμένες πληροφορίες.<br><br>Το Stencyl θα ανοίξει τώρα το '<0>'
+sb.preview.fail=Το Stencyl εντόπισε συντακτικά σφάλματα στη '<0>' Συμπεριφορά.<br><br>'<0>' θα ανοίξει τώρα για την επίλυση αυτών των σφαλμάτων.
+# BEHAVIOR PAGE TABS
+snip.tab.categories=Κατηγορίες
+snip.tab.bycategory=Ανά Κατηγορία
+snip.tab.byscene=Ανά Σκηνή
+snip.tab.byactor=Ανά Ηθοποιό
+snip.tab.bycode=Ανά Κώδικα
+snip.tab.all=Όλα
+snip.tab.popular=Δημοφιλή
+snip.tab.recent=Πρόσφατο
+# DEFAULT CATEGORIES
+snip.cat.none=Άλλο
+snip.cat.ai=AI
+snip.cat.collisions=Προσκρούσεις
+snip.cat.fx=Εφέ
+snip.cat.debug=Αποσφαλμάτωση
+snip.cat.motion=Κίνηση
+snip.cat.gui=GUI
+snip.cat.scoring=Σκορ
+snip.cat.sound=Ήχος
+snip.cat.stats=Στατιστικές
+snip.cat.drawing=Σχεδιασμός
+snip.cat.web=Δίκτυο
+snip.cat.ss=Σχετικές με τη Σκηνή
+snip.cat.health=Υγεία
+snip.cat.actions=Πράξεις
+snip.cat.cutscenes=Cutscenes
+snip.cat.saving=Αποθήκευση
+# PAGES
+snip.page.main=Κεντρικό
+snip.page.previewcode=Προεπισκόπηση Κώδικα
+snip.page.errors=Προβλήματα
+snip.page.convertcode=Μετατροπή σε Κώδικα
+snip.page.properties=Ιδιότητες
+snip.page.attach=Προσάρτηση στο <0>
+# ERRORS
+annotate.error.dupe=Η ID (<0>) που χρησιμοποιεί το '<1>' υπάρχει ήδη. Επιλέξτε μια άλλη.
+annotate.error.private=Τα ιδιωτικά γνωρίσματα δεν μπορούν να εκτεθούν: '<0>'. Μετατροπή του γνωρίσματος σε κοινοτικό.
+sb.var.forbidden=Αυτό το γνώρισμα δεν μεταβάλλετε.
+sb.var.none=Τα Γνωρίσματα επιτρέπουν στους χρήστες να διαμορφώνουν μια Συμπεριφορά για τις ανάγκες τους<br> (πχ. ρύθμιση ύψους ενός άλματος)<br><br>Κάντε Κλικ στο πλήκτρο + για τη δημιουργία γνωρίσματος
+# ICON
+snip.icon=Εικονίδιο
+snip.icon.info=Η Βέλτιστη διάσταση είναι 48 x 48 pixels.
+# DESIGN MODE
+sb.design.toggle.palette=Προβολή Παλέτας
+sb.design.arrange=Διευθέτηση των Μπλοκ
+sb.design.toggle.events=Προβολή Πλευρικής Μπάρας Γεγονότων
+sb.design.capture=Λήψη Στιγμιότυπου
+sb.design.capture2=Λήψη Στιγμιότυπου και Αποστολή σε Φίλο
+sb.design.clean=Καθαρισμός των Αδέσποτων Μπλοκ
+sb.design.reset=Μηδενισμός Layout
+sb.trash.info=Σύρετε τα μπλοκ στον κάδο αχρήστων για να τα αφαιρέσετε.
+sb.design.events.show=Προσθήκη Γεγονότος...
+sb.design.events.next=Επόμενο Γεγονός
+sb.design.events.prev=Προηγούμενο Γεγονός

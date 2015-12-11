@@ -1,0 +1,21 @@
+
+# ATTRIBUTES
+att.type.number=Nomrbe
+att.type.text=Texte
+att.type.bool=Booleen (Oui ou Non)
+att.type.list=Liste
+att.name=Nom
+att.type=Type
+att.value=Valezur Initiale
+att.cat=Categorie
+att.about=Que sont les Attribut de Jeu?
+att.none=Cliquez ici pour créer un Attribut de Jeu.
+att.new=Créer un nouvel Attribut de Jeu
+att.cat.refresh=Appliquer Nouvelle Catégorie
+att.cat.new=Ajouter Catégorie
+att.cat.new.placeholder=Entrer le Nom de Catégorie...
+att.cat.rename=Renommer Catégorie
+att.cat.inst=Choisir une Catégorie existante ou entrez en une nouvelle, puis cliquez sur Appliquer.
+att.cat.new.inst=Choisir une Catégorie existante ou entrez en une nouvelle.
+att.show=Afficher les Attributs de Jeu
+att.getset=Définisseur/Récupérateur d'Attribut de Jeu

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<palette>
+	<block tag="native-test-alert" spec="show alert with title: %0 msg: %1" code="NativeTest.showAlert(~,~);" type="action" color="gray" returns="void">
+		<fields>
+			<text order="0"></text>
+			<text order="1"></text>
+		</fields>
+	</block>
+</palette>

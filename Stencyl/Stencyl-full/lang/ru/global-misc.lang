@@ -1,0 +1,46 @@
+
+# LEGAL
+cp=Copyright 2010 Stencyl, LLC. Все права защищены. Stencyl, Stencyl logo и Stencyl cog товарные знаки Stencyl, LLC в Соединённых Штатах и/или других странах. Используя Stencyl вы подтверждаете принятие End User License Agreement (EULA).
+# MISC
+progress=Прогресс
+statusbar=Панель состояния
+welcome.newgame=Создать новую игру...
+welcome.importgame=Импортировать игру...
+welcome.exportgame=Экспортировать игру...
+welcome.opengame=Открыть игру
+welcome.tabtitle=Добро пожаловать!
+welcome.title1=Мои игры
+welcome.title2=Мои наборы
+welcome.published=Мои выложенные игры
+# LOADING
+load.loading=Загрузка
+load.lnf=Внешний вид
+load.ui=Интерфейс
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=N
+s=sec
+kg.m2=kg m<0>
+pixels=pixels
+# FEEDBACK
+feedback.bug=Сообщить об ошибках
+feedback.sugg=Предложение
+feedback.stuck=Я застрял
+feedback.other=Другое
+feedback.title=Тема
+feedback.msg=Сообщение
+feedback.comments=Ваш отзыв
+feedback.success=Спасибо за отправку вашего вопроса или отзыва. Кто-нибудь из нашей команды свяжется с вами по e-mail в ближайшее время.
+# HELP
+help.gui.prev=Предыдущая страница
+help.gui.next=Следующая страница
+# TIME
+date.short=MM dd, yyyy
+date.realtime=hh:mm:ss
+today=Сегодня
+yesterday=Вчера
+hours.ago=<0> часов назад
+# TEMPORARY
+temp.followinst=Следуйте следующим инструкциям.
+temp.resourcepack=Чтобы добавить ресурс в сборку, щелкните правой кнопкой мыши по ресурсу и выберите строку "Добавить в сборку" из контекстного меню.

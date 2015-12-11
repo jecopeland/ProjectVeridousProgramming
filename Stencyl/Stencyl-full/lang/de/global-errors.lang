@@ -1,0 +1,24 @@
+
+# ERRORS
+error.nan=Enter a number.
+error.negative=Enter a positive number.
+error.blank=Enter a value.
+error.anim.load=Warning: Missing Image Data
+error.anim.load.i=Stencyl could not locate image data for one or more actor types and has substituted blank images to continue. Close the game, do not save and post it to the forums.
+error.save.kittogame=Unable to convert '<0>' from kit to game.
+error.preview.noscenes.title=Cannot Preview Game
+error.preview.noscenes=This game has no scenes. Create a scene before previewing the game.
+error.publish.noscenes.title=Cannot Publish Game
+error.publish.noscenes=This game has no scenes. Create a scene before publishing the game.
+error.download.mult.title=Cannot download multiple resources at a time
+error.download.mult.desc=Wait until your first download is complete.
+error.import.game.invalid=This file isn't a valid Stencyl Game or Kit:
+error.scene.recover=Stencyl has detected a corrupted scene file. Would you like to auto-recover the file?
+error.scene.recover.restart=If you choose to continue, Stencyl will automatically restart when finished.
+error.write.warn=Auto-Update Failed
+error.write.win.msg1=Stencyl is installed to an unwritable directory.
+error.write.win.msg2=Solution: Run Stencyl as an administrator.
+error.write.mac.msg1=Stencyl is installed to an unwritable directory.
+error.write.mac.msg2=Solution: Run Stencyl as an administrator.
+error.write.linux.msg1=Stencyl is installed to an unwritable directory.
+error.write.linux.msg2=Solution: Run Stencyl as an administrator.

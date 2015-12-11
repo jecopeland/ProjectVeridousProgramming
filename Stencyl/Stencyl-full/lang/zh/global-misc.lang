@@ -1,0 +1,25 @@
+
+# MULTI INSTANCE
+multi.main=警告: StencylWorks已經打開或意外的關閉了.你要不要繼續?
+multi.sub=我們不建議你打開多份的StencylWorks.
+# LEGAL
+cp=© Copyright 2008-2009 Stencyl, LLC. 版權所有‧不得轉載.所有Stencyl商標全是屬於美國Stencyl, LLC 和其他國家.使用StencylWorks是支配於End User License Agreement (EULA).
+# MISC
+progress=進展
+statusbar=狀態目錄
+welcome.newgame=創作新的遊戲...
+welcome.opengame=打開遊戲
+welcome.tabtitle=歡迎光臨StencylWorks
+welcome.title1=我的遊戲
+welcome.tour=觀賞我們的錄影節目
+# LOADING
+load.loading=在裝載中...
+load.lnf=視覺感受
+load.ui=用戶界面;連繫裝置
+load.plug=插入軟體
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=m
+s=s
+kg.m2=kg m<0>

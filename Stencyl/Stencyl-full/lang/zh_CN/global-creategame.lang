@@ -1,0 +1,15 @@
+
+# New Game Dialog
+dg.game.new.title=创作新的游戏
+dg.game.new.info.name=游戏名称
+dg.game.new.info.size=银幕大小
+dg.game.new.info.default=550 x 400 (银幕原型)
+dg.game.new.info.standard=640 x 480
+dg.game.new.info.custom=特制...
+dg.game.new.info.width=阔度
+dg.game.new.info.height=高度
+dg.game.new.info.engine=游戏发动机译本
+dg.game.new.save.prompt=你就要开始创作新的游戏.
+# Rename
+dg.game.rename=如果你要完成这个行动,你首先需要保存你的游戏.你要不要保存你的游戏?
+dg.game.rename2=如果你要更改游戏的名字,你首先需要保存你的游戏. 

@@ -1,0 +1,14 @@
+
+sb.var.title=Edytuj zmienne snippetów
+sb.var.add=Utwórz nową zmienną
+sb.var.remove=Usuń zmienną
+sb.var.default=Zmień domyślną wartość
+sb.var.header.name=Nazwa
+sb.var.header.lname=Opis
+sb.var.header.type=Typ
+sb.var.header.val=Domyślna wartość
+sb.var.error.val=Wprowadź poprawną <0>.
+sb.var.edit.val=Domyślna wartość
+sb.var.edit.nosound=Brak dźwięku
+sb.var.error.name=Wprowadź nazwę wyjątkową dla tej zmiennej. Dozwolone są wyłącznie litery i cyfry, bez odstępów.
+sb.var.error.desc=Wprowadź opis zmiennej.

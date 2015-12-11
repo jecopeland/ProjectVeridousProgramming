@@ -1,0 +1,23 @@
+
+# ATTRIBUTES
+att.type.number=Número
+att.type.text=Texto
+att.type.bool=Booleano (Sí o No)
+att.type.list=Lista
+att.name=Nombre
+att.type=Tipo
+att.value=Valor inicial
+att.cat=Categoría
+att.cat.default=Por defecto
+att.create=Pulsa para crear un nuevo atributo.
+att.newname=Atributo <0>
+att.about=¿Qué son los atributos del juego?
+att.none=Pulsa aquí para crear un atributo del juego.
+att.new=Crear nuevo atributo del juego
+att.cat.refresh=Aplicar nueva categoría
+att.cat.new=Añadir categoría
+att.cat.new.placeholder=Introducir nombre de la categoría...
+att.cat.rename=Renombrar categoría
+att.cat.inst=Elige una categoría existente, o escribe una nueva y pulsa Aplicar.
+att.cat.new.inst=Elige una categoría existente, o escribe una nueva.
+att.show=Mostrar atributos del juego

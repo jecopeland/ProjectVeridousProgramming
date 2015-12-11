@@ -1,0 +1,25 @@
+
+# BYOB
+byob.create.title=Δημιουργία Νέου Παραμετροποιημένου Μπλοκ
+byob.create.title2=Δημιουργία Νέου Παγκόσμιου Παραμετροποιημένου Μπλοκ
+byob.edit.title=Επεξεργασία Παραμετροποιημένου Μπλοκ
+byob.dg.name=Ονομασία
+byob.dg.desc=Περιγραφή
+byob.dg.icon=Εικονίδιο
+byob.dg.icon.i=Η Βέλτιστη διάσταση είναι 32 x 32 pixels. Για το StencylForge.
+byob.dg.spec=Λεπτ Μπλοκ
+byob.dg.spec.i=Πώς θα είναι το μπλοκ. Δείγμα: heal %0 by %1
+byob.dg.blanks=Πεδία του Μπλοκ
+byob.dg.blanks.i=Επισημάνετε τι (κενά) πεδία περιέχει το μπλοκ.
+byob.dg.blanks.add=Προσθήκη Πεδίου
+byob.dg.blanks.remove=Απαλοιφή Πεδίου
+byob.dg.return=Τύπος Επιστροφής
+byob.dg.return.i=Ο τύπος του μπλοκ
+byob.dg.return.none=Καμία (Μπλοκ Πράξεις)
+byob.dg.title.spec=Λεπτομέρειες Μπλοκ
+byob.dg.error.spec=Εισάγετε κάτι.
+byob.col.spec=Παραπομπή για Λεπτ Πεδίου Μπλοκ
+byob.blank.add=Εισάγετε Κενό στο Παραμετροποιημένο Μπλοκ
+byob.blank.remove=Απαλοιφή Κενού από Παραμετρoποιημένο Μπλοκ
+byob.blank.type=Τύπος
+byob.blank.type.i=Διευκρίνηση τύπου μπλοκ που δέχεται αυτό το κενό.

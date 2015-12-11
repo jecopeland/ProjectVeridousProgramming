@@ -1,0 +1,30 @@
+
+# Tileset Creator
+tset.title=Laattapaketin tekijä
+tset.title.edit=Muokkaa laattapakettia
+tset.tiles=Laatat
+tset.properties=Uudelleennimeä laattapaketti
+tset.tile.create=Uusi
+tset.menu.import=Tuo laatta
+tset.tile.add.title=Tee uusi laattapaketti
+# Tile Editor
+tset.anim.collision=Rajat (törmäys)
+tset.anim.collision.edit=Muokkaa
+tset.anim.looping=Toistuva?
+tset.anim.rect=Neliö
+tset.anim.poly=Monikulmio
+tset.anim.title1=Laatan ominaisuudet
+tset.anim.title2=Kuvat (vedä ja pudota järjestääksesi)
+tset.menu.addframe=Lisää kuva
+tset.menu.editframe=Muokkaa kuvaa
+tset.menu.removeframe=Poista kuva
+tset.anim.add.import=Lisää useita kuvia
+# Tileset Properties
+tset.props.title=Muokkaa laattapaketin ominaisuuksia
+tset.props.name=Nimi
+# Warnings
+tset.warning.name=Kirjoita yksilöllinen nimi.
+tset.warning.duration=Kirjoita positiivinen kokonaisluku.
+tset.warning.notiles=Tämä laattapaketti ei sisällä laattoja.
+tset.warning.blank=Tämä on tyhjä laatta. Et voi muokata sitä.
+# Shape Editor

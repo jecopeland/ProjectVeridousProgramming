@@ -1,0 +1,226 @@
+
+# SCENE LIBRARY
+scene.edit=Edit this Scene
+scene.create=Create a New Scene
+scene.delete=Delete this Scene
+# SCENE PAGES
+scene.top.main=Scene
+scene.top.gui=GUI
+scene.top.behavior=Behaviors
+scene.top.atlases=Atlases
+scene.top.properties=Properties
+scene.top.background=Background
+scene.top.physics=Physics
+scene.top.test=Test Scene
+# SCENE MODES
+scene.mode.layer=Layer Mode
+scene.mode.working=Working Mode
+# BAR
+bar.grid=<0> Grid
+bar.anim=<0> Animations
+bar.screen=<0> Screen Bounds
+bar.bg=<0> Background
+bar.fg=<0> Foreground
+bar.autoSnap=Snap to Grid: When enabled, snap to grid is automatic. When disabled, hold SHIFT down to snap to grid.
+# EMPTY
+library.empty.palette=This game contains no <0>.
+library.empty.palette.actor=Create Actor Type
+# PHYSICS
+scene.physics.gravx=Gravity (Horizontal)
+scene.physics.left=Left
+scene.physics.right=Right
+scene.physics.gravy=Gravity (Vertical)
+scene.physics.up=Up
+scene.physics.down=Down
+scene.physics.desc=Use value of '85 Down' to simulate real world gravity.
+# BACKGROUNDS / FOREGROUNDS
+scene.background.explanation=Backgrounds and Foregrounds scroll in parallax with the scene.<br>Backgrounds are drawn behind the scene while Foregrounds are drawn in front.
+scene.backgrounds=Backgrounds
+scene.foregrounds=Foregrounds
+scene.background.new=Add New Background
+scene.background.delete=Remove Background
+scene.background.up=Move Background Up
+scene.background.down=Move Background Down
+scene.foreground.new=Add New Foreground
+scene.foreground.delete=Remove Foreground
+scene.foreground.up=Move Foreground Up
+scene.foreground.down=Move Foreground Down
+scene.background.create=Create a New Background
+scene.background.edit=Edit this Background
+scene.foreground.edit=Edit this Foreground
+scene.background.chooser.title=Choose a Background
+scene.chooser.title=Choose a Scene
+scene.actorinstance.title=Edit Behavior for '<0>'
+# UNDO/REDO
+scene.action.tile.place=Place Tile
+scene.action.tiles.place=Place Tiles
+scene.action.actor.place=Place Actor
+scene.action.actors.place=Place Actors
+scene.action.actor.rotate=Rotate Actor
+scene.action.actor.scale=Scale Actor
+scene.action.actors.scale=Scale Actors
+scene.action.select.delete=Delete Selection
+scene.action.select.nudge=Move Selection
+scene.action.select.move=Move Selection
+scene.action.select.switchlayer=Switch Layer
+scene.action.select.back=Send Back
+scene.action.select.toback=Send to Back
+scene.action.select.forward=Bring Forward
+scene.action.select.tofront=Bring to Front
+scene.action.layer.add=Add Layer
+scene.action.layer.remove=Remove Layer
+# LAYERS
+scene.layer=Layer <0>
+scene.layer.header.name=Name
+scene.layer.header.color=Color
+scene.layer.header.show=Show?
+scene.layer.new=New Layer
+scene.layer.newtilelayer=New Tile Layer
+scene.layer.newbackgroundlayer=New Background Layer
+scene.layer.delete=Delete Layer
+scene.layer.up=Bring Layer Forward
+scene.layer.down=Send Layer Back
+scene.layer.rename=Rename Layer
+scene.layer.properties=Layer Properties
+scene.layer.editbackground=Edit this Background
+scene.layer.opacity=Opacity
+scene.layer.blendmode=Blend Mode
+scene.layer.sfx=Scroll Factor X
+scene.layer.sfy=Scroll Factor Y
+scene.layer.bg.customize=Customize Background
+scene.layer.bg.customizepar=Customize Parallax
+# MODES
+scene.mode.layer=Layer Mode
+scene.mode.working=Working Mode
+# ROLLOVER
+actor.rollover=<0> (ID: <1>)    (<2>, <3>)  
+actor.rollovershort=<0>
+# JOINTS
+joints.stick=Stick Joint
+joints.hinge=Hinge Joint
+joints.sliding=Sliding Joint
+joints.info.selected=<0> (<1>). Double-click it to edit its properties.
+joint.edit.title=Edit Joint Properties
+joint.edit.general=General
+joint.edit.stick=Advanced
+joint.edit.hinge.limit=Limits
+joint.edit.slide.limit=Limits
+joint.edit.hinge.motor=Motor
+joint.edit.slide.motor=Motor
+joint.edit.direction=Sliding Direction
+joint.edit.name=Name
+joint.edit.namei=Use a descriptive name to help you identify this joint.
+joint.edit.name.err=Enter a non-empty name.
+joint.edit.collide=Should Actors Collide?
+joint.edit.collidei=When actors are connected by a joint, it's common to disable collisions between these two actors.
+joint.edit.damping=Damping
+joint.edit.dampingi=Reduces the effect of any disturbances on this joint. Think of it like a door that closes smoothly rather than swinging around abruptly. A value of 1 is considered "critically damped" and will not oscillate at all.
+joint.edit.dampingl=None
+joint.edit.dampingh=Critical
+joint.edit.freq=Stiffness
+joint.edit.freqi=Determines how stiff or loose the joint is. Loose joints are like rubber.
+joint.edit.freql=Stiff
+joint.edit.freqh=Loose
+joint.edit.hlimit=Enable Limit?
+joint.edit.hlimiti=Limits prevent this joint from rotating beyond certain angles.
+joint.edit.hlower=Lower Limit
+joint.edit.hloweri=In Degrees relative to starting angle.
+joint.edit.hlowere=Enter a number.
+joint.edit.hupper=Upper Limit
+joint.edit.hupperi=In Degrees relative to starting angle.
+joint.edit.huppere=Enter a number.
+joint.edit.slimit=Enable Limit?
+joint.edit.slimiti=Limits prevent this joint from sliding beyond certain points.
+joint.edit.slower=Lower Limit
+joint.edit.sloweri=In pixels relative to the starting point.
+joint.edit.slowere=Enter a number.
+joint.edit.supper=Upper Limit
+joint.edit.supperi=In pixels relative to the starting point.
+joint.edit.suppere=Enter a number.
+joint.edit.hmotor=Enable Motor?
+joint.edit.hmotori=Makes the joint automatically rotate.
+joint.edit.htorque=Stiffness
+joint.edit.htorquei=The amount of resistance that this joint will put up when powered by a motor. Also called torque.
+joint.edit.htorquee=Enter a positive number.
+joint.edit.hspeed=Velocity
+joint.edit.hspeedi=The velocity at which the joint rotates, in degrees per frame. Can be negative, which will rotate it counter-clockwise.
+joint.edit.hspeede=Enter a number. 
+joint.edit.smotor=Enable Motor?
+joint.edit.smotori=Makes the joint automatically slide.
+joint.edit.sforce=Stiffness
+joint.edit.sforcei=The amount of resistance that this joint will put up when powered by a motor.
+joint.edit.sforcee=Enter a positive number.
+joint.edit.sspeed=Velocity
+joint.edit.sspeedi=The velocity at which the joint slides. Can be negative.
+joint.edit.sspeede=Enter a number. 
+joint.edit.x=X Direction
+joint.edit.xi=Direction that the actor will slide, relative to the primary actor.
+joint.edit.xe=Enter a number.
+joint.edit.y=Y Direction
+joint.edit.yi=Direction that the actor will slide, relative to the primary actor.
+joint.edit.ye=Enter a number.
+joint.edit.hinge1=Hinge Joint will mount <0> to the background.
+joint.edit.hinge2=Hinge Joint will mount <0> to <1>.
+joint.edit.slide1=Sliding Joint will mount <0> to the background.
+joint.edit.slide2=Sliding Joint will mount <0> to <1>.
+# PICKING
+actor.choose=Choose Actor...
+joint.choose=Choose Joint...
+region.choose=Choose Region...
+terrain.region.choose=Choose Terrain...
+actor.choose.i=Click on an actor to choose it.
+joint.choose.i=Click on a joint to choose it.
+region.choose.i=Click on a region to choose it.
+terrain.region.choose.i=Click on a terrain to choose it.
+# REGIONS
+region.info.selected=<0> (<1>)    (Pos: <2>, <3>)
+region.info.dim=(<0>, <1>)    (Width: <2>  Height: <3>)
+region.edit.name=Name
+region.edit.namee=Enter a name.
+region.edit.title=Edit Region Properties
+region.edit.color=Color
+# TERRAIN REGIONS
+terrain.region.info.selected=<0> (<1>)    (Pos: <2>, <3>)
+terrain.region.info.dim=(<0>, <1>)    (Width: <2>  Height: <3>)
+terrain.region.edit.name=Name
+terrain.region.edit.namee=Enter a name.
+terrain.region.edit.title=Edit Terrain Properties
+terrain.region.edit.color=Color
+terrain.region.edit.group=Group
+# OTHER
+general.info=Moving to (<0>, <1>)
+# BEHAVIORS
+scene.snippet.instance.add=Create Scene-Specific Event
+scene.snippet.instance.open=Edit Behavior
+scene.snippet.instance.import=Import Behavior from Library
+scene.snippet.instance.delete=Remove Behavior
+# SCREEN CAPTURE
+capture.title=Screenshot Taken
+capture.body=%s has been saved to the chosen location.
+capture.error=Could not take a screenshot. Try again.
+# MODULES
+mod.palette=Palette
+mod.history=History
+mod.layers=Layers
+mod.game=Library
+mod.properties=Properties
+mod.scenes=Scenes
+mod.output=Output
+mod.variables=Attributes
+mod.inventory=Inventory
+mod.inspector=Inspector
+# PALETTE
+palette.tile=Tiles
+palette.actor=Actors
+palette.tilesets=Tilesets
+palette.tilesets.create=Create a New Tileset
+# INVENTORY
+inventory.actors=Actors
+inventory.regions=Regions
+inventory.joints=Joints
+inventory.terrains=Terrains
+inventory.all=All
+# PAGES
+scene.spec.event=Scene Specific Events
+scene.view.backgrounds=Show Backgrounds Page
+scene.view.atlases=Show Atlases Page

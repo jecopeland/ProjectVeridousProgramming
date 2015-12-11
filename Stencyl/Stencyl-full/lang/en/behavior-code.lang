@@ -1,0 +1,9 @@
+
+code.edit.compat.i=Select a Code Editor under Preferences > Workspace
+code.edit.compat.i2=We recommend TextWrangler, Smultron, Fraise as free, lightweight options. SublimeText is a good commercial text editor.
+code.edit.ext=Open In External Editor
+code.edit.find=Find
+code.edit.replace=Replace
+code.edit.replaceall=Replace All
+code.edit.regex=Regex
+code.edit.case=Case Sensitive

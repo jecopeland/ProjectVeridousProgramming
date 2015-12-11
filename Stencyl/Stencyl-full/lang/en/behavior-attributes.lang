@@ -1,0 +1,33 @@
+
+# ATTRIBUTES PANE
+sb.var.single=attribute
+sb.var.add=Create an Attribute...
+sb.var.add2=Add Attribute
+sb.var.addlist=Create a List Attribute...
+sb.var.addmap=Create a Map Attribute...
+sb.var.remove=Remove Attribute
+sb.var.default=Edit Attribute
+sb.var.viewcontrols=Show Controls Page
+sb.var.up=Move Up
+sb.var.down=Move Down
+sb.var.header.name=Internal Name
+sb.var.header.aname=Apply Name
+sb.var.header.lname=Name
+sb.var.header.desc=Description
+sb.var.header.type=Type
+sb.var.hidden=Hidden?
+sb.var.hidden.info=Hidden attributes do not appear when a user configures this behavior. They are like local variables.
+sb.var.error.val=Enter a valid <0>.
+sb.var.edit.val=Default Value
+sb.var.edit.nosound=No Sound
+sb.var.edit.nocontrol=No Control
+sb.var.edit.nofont=Default Font
+sb.var.error.name=Enter a unique name.
+sb.var.cat.general=General
+sb.var.cat.dropdown=Dropdown
+sb.var.cat.range=Range
+sb.var.drop.title=Dropdown Data
+sb.var.drop.desc=Show as a dropdown instead of a text field.<br> The format is one entry per line, name[eq]value.<br> For example:<br><br>Name[eq]Value<br>Stencyl[eq]Awesome<br>Peking Duck[eq]Yummy<br><br>Enter {GAME ATTRIBUTES} to create a dropdown<br> of all available game attributes.
+sb.var.refresh1=Requires a Refresh
+sb.var.refresh2=This document will close and reopen to apply the name change.
+sb.var.error.name=Must be unique, only alphanumeric chars and _

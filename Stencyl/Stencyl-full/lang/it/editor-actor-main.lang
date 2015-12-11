@@ -1,0 +1,34 @@
+
+# Actor Creator
+actor.props=Proprietà
+actor.rename=Rinomina tipo attore
+actor.group.edit=Modifica gruppi...
+actor.regroup=Seleziona gruppo
+actor.regroup.info=I gruppi sono utilizzati per determinare quali tipi di attori potranno collidere.
+actor.title=Creatore tipo attore
+actor.physics=Modifica fisica
+# Actor Top Bar
+actor.top.appearance=Aspetto
+actor.top.behavior=Comportamento
+actor.top.collision=Collisione
+actor.top.physics=Fisica
+actor.top.properties=Proprietà
+actor.top.attach=Aggiungi alla scena
+# Properties
+actor.name=Nome
+actor.description=Descrizione
+actor.group=Gruppo
+actor.sprite.choose=Seleziona sprite
+actor.anim.choose=Seleziona animazione...
+actor.scene.choose=Seleziona scena...
+# Sprite Chooser
+actor.chooser.title=Seleziona sprite
+# Warnings
+actor.warning.name=Questo nome esiste già.
+actor.warning.name.invalid=Nome invalido.
+actor.warning.blank=Inserisci un nome.
+actor.warning.number=Inserisci un numero intero positivo.
+actor.warning.nosnippets=Clicca qui per selezionare un comportamento da collegare a questo tipo di attore.
+actor.warning.nosnippets2=Clicca qui per selezionare un comportamento da collegare a questa scena.
+actor.warning.float=Inserire un numero valido.
+actor.warning.int=Inserire un numero intero valido.

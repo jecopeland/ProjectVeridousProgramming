@@ -1,0 +1,47 @@
+
+# LEGAL
+cp=  Copyright Stencyl, LLC. All Rights Reserved. Stencyl, the Stencyl logo and the Stencyl cog are trademarks of Stencyl, LLC in the United States and/or other countries. Usage of Stencyl is governed by our End User License Agreement (EULA).
+# MISC
+progress=Progress
+statusbar=Status Bar
+welcome.newgame=Create a New Game...
+welcome.importgame=Import Game...
+welcome.exportgame=Export Game...
+welcome.opengame=Open Game
+welcome.tabtitle=Welcome Center
+welcome.title1=My Games
+welcome.title2=My Kits
+welcome.published=My Published Games
+# LOADING
+load.loading=Loading
+load.lnf=Look
+load.ui=Interface
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>
+pixels=pixels
+# FEEDBACK
+feedback.bug=Bug Report
+feedback.sugg=Suggestion
+feedback.stuck=I'm Stuck
+feedback.other=Other
+feedback.title=Summary
+feedback.msg=Message
+feedback.comments=Your Comments
+feedback.success=Thanks for submitting your question or feedback. A member of our team may contact you via e-mail if necessary.
+# HELP
+help.gui.prev=Previous Page
+help.gui.next=Next Page
+test.game.progress1=Prepping %d of %d.
+# TIME
+date.short=MMM d, yyyy
+date.realtime=h:mm:ss a
+today=Today
+yesterday=Yesterday
+hours.ago=<0> hours ago
+# TEMPORARY
+temp.followinst=Follow these instructions.
+temp.resourcepack=To add a resource to a pack, right-click a resource and choose the 'Add to Pack' option from the context menu.

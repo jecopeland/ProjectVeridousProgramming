@@ -1,0 +1,65 @@
+
+# STENCYLTALK
+# DO NOT TRANSLATE STENCYLTALK
+chat.name=StencylTalk
+chat.list.title=My Friends
+chat.list.pop= Pop Out into Window
+chat.list.return=Return to Main Window
+chat.list.add=Add Friend
+chat.list.add.input=Enter your friend's username:
+chat.list.add.error.title=That user does not exist.
+chat.list.add.error.desc=Verify that you spelled the name correctly.
+chat.list.remove=Remove Friend
+chat.list.remove.error=Could not remove user from contact list.
+chat.list.rooms=Rooms
+chat.list.online=Online
+chat.list.offline=Offline
+chat.list.online2=Online (<0>)
+chat.list.offline2=Offline (<0>)
+chat.list.central=Town Square
+chat.status.set=Change Status
+chat.status.available=Available
+chat.status.away=Away
+chat.status.busy=Busy
+chat.status.offline=Offline
+chat.status.setmessage=Set Status Message
+chat.status.setmessage.input=Enter your status message:
+chat.connecting=Connecting...
+chat.reconnecting=Reconnecting...
+chat.action.setstatus=Set status to: <0>
+chat.action.link=Insert Link
+chat.action.transfer=Send File
+chat.action.transfer.input=Choose a friend to send the file to.
+# STENCYLTALK - TRANSFER
+chat.transfer.image.send=Transferring Image...
+chat.transfer.project.send=Transferring Game Project...
+chat.transfer.resource.send=Transferring Resource...
+chat.transfer.game.send=Transferring Game...
+game.chooser.title=Choose a Game...
+# STENCYLTALK - OUTGOING
+chat.transfer.game.swf=SWF
+chat.transfer.game.current=Current Game
+chat.transfer.game.project=Game (Project)
+chat.transfer.game.title=I would like to send <0> a...
+chat.transfer.game.generateswf=Generating SWF...
+chat.transfer.game.chooseswf=Choose a SWF...
+chat.transfer.game.chooseswf.filter=SWF (Flash Games)
+chat.transfer.game.error.title=Could not transfer the game.
+chat.transfer.image.error.title=Could not transfer the image.
+chat.transfer.game.error.desc=Check your internet connection, or verify that the recipient accepted the transfer.
+# STENCYLTALK - INCOMING
+chat.transfer.incoming.error.title=The file transfer was aborted.
+chat.transfer.incoming.error.desc=Check your internet connection, or verify with the sender.
+chat.transfer.incoming.receive=Downloading <0>...
+chat.transfer.incoming.request=<0> would like to send you a file.
+chat.transfer.incoming.request.full=<0> would like to send you <1> (<2>)
+chat.transfer.incoming.request.desc=Only accept files from friends you trust.
+chat.transfer.incoming.accept=Accept File
+chat.transfer.incoming.reject=Reject File
+chat.transfer.incoming.done=<0> finished sending you a file.
+chat.transfer.incoming.error.generic=Could not load <0>.
+chat.transfer.incoming.error.generic.desc=Ask sender to verify that a valid <0> was sent.
+chat.transfer.incoming.success.game=The game can be viewed from the Welcome Center.
+chat.transfer.incoming.success.game.desc=If you're currently working on a game, you must close it or restart Stencyl to see it.
+chat.transfer.incoming.error.game.msg=File transfer was aborted because recipient has not opened a game.
+chat.transfer.incoming.error.game.reason=You must have a game open to receive a game resource.

@@ -1,0 +1,31 @@
+
+# Actor Creator
+actor.props=Editar Propriedades
+actor.rename=Renomear Personagem
+actor.group.edit=Editar Grupos...
+actor.regroup=Escolher Grupo
+actor.regroup.info=Grupos são usados para determinar qual tipo de Personagens vão colidir uns com os outros.
+actor.props.title=Propriedades do Personagem
+actor.props.newtitle=Novo Personagem
+actor.title=Criador de Personagens
+actor.title.new=Criar Novo Tipo de Personagem
+actor.title.edit=Editar Tipo de Personagem
+actor.physics=Editar Física
+actor.physics.info=Editar valores físicos que se aplicam ao Personagem como um todo. Atrito e outros atributos característicos de formas devem ser editados no Editor de Formas
+# Properties
+actor.name=Nome
+actor.group=Grupo de Objetos
+actor.sprite=Sprite
+actor.sprite.choose=Escolher
+actor.sprite.edit=Editar
+actor.sprite.new=Criar
+# Sprite Chooser
+actor.chooser.title=Escolha um Sprite
+# Warnings
+actor.warning.name=Favor completar com nome.
+actor.warning.number=Favor completar com número inteiro e positivo.
+actor.warning.nosnippets=Nenhum Snippet selecionado.
+actor.warning.noprops=O Snippet não tem propriedades para serem configuradas.
+actor.warning.float=Favor completar com número válido.
+actor.warning.int=Favor completar com número inteiro válido.
+actor.warning.general=Favor entrar com valores válidos para as entradas marcadas em vermelho.

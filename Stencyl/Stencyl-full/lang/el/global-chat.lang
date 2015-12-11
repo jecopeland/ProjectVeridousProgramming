@@ -1,0 +1,71 @@
+
+# STENCYLTALK
+# DO NOT TRANSLATE STENCYLTALK
+chat.name=StencylTalk
+chat.list.title=Οι Φίλοι μου
+chat.list.pop= Pop Out into Window
+chat.list.return=Επιστροφή στο Κεντρικό Παράθυρο
+chat.list.add=Προσθήκη Φίλου
+chat.list.add.input=Εισάγεται το όνομα χρήστη του φίλου σας:
+chat.list.add.error.title=Αυτός ο χρήστης δεν υπάρχει.
+chat.list.add.error.desc=Επαληθεύστε πως γράψατε το όνομα σωστά.
+chat.list.remove=Αφαίρεση Φίλου
+chat.list.remove.error=Δεν μπορώ να αφαιρέσω τον χρήστη από την λίστα επαφών.
+chat.list.rooms=Δωμάτια
+chat.list.online=Συνδεμένος
+chat.list.offline=Αποσυνδεμένος
+chat.list.online2=Συνδεμένος (<0>)
+chat.list.offline2=Αποσυνδεμένος (<0>)
+chat.list.central=Πλατεία Πόλης
+chat.status.set=Αλλαγή Κατάστασης
+chat.status.available=Διαθέσιμος
+chat.status.away=Εκτός
+chat.status.busy=Απασχολημένος
+chat.status.offline=Αποσυνδεμένος
+chat.status.setmessage=Εισάγεται Μήνυμα κατάστασης
+chat.status.setmessage.input=Εισάγεται μήνυμα κατάστασης:
+chat.connecting=Σύνδεση...
+chat.reconnecting=Επανασύνδεση...
+chat.connectedas=Συνδεμένος ως <0>
+chat.group.action=<0> έχει <1>.
+chat.group.action.joined=συνδέθηκε
+chat.group.action.left=έφυγε
+chat.action.setstatus=Αλλαγή κατάστασης σε: <0>
+chat.notification.room=<0> σε <1>
+chat.action.link=Εισαγωγή Link
+chat.action.transfer=Αποστολή Αρχείου
+chat.action.transfer.input=Επιλέξτε φίλο για αποστολή αρχείου.
+chat.subscribe=<0> θα ήθελε να γίνει φίλος σας
+# STENCYLTALK - TRANSFER
+chat.transfer.image.send=Μεταφορά Εικόνας...
+chat.transfer.project.send=Μεταφορά Project Παιχνιδιού...
+chat.transfer.resource.send=Μεταφορά Πόρου...
+chat.transfer.game.send=Μεταφορά Παιχνιδιού...
+game.chooser.title=Επιλέξτε Παιχνίδι...
+# STENCYLTALK - OUTGOING
+chat.transfer.game.swf=SWF
+chat.transfer.game.current=Τωρινό Παιχνίδι
+chat.transfer.game.project=Παιχνίδι (Project)
+chat.transfer.game.title=I would like to send <0> a...
+chat.transfer.game.generateswf=Παραγωγή SWF...
+chat.transfer.game.chooseswf=Επιλογή SWF...
+chat.transfer.game.chooseswf.filter=SWF (Παιχνίδια Flash)
+chat.transfer.game.error.title=Το παιχνίδι δεν μπορούσε να μεταφερθεί.
+chat.transfer.image.error.title=Η εικόνα δεν μπορούσε να μεταφερθεί.
+chat.transfer.game.error.desc=Ελέγξτε την σύνδεση σας στο διαδίκτυο, η επαληθεύστε με τον παραλήπτη αν αποδέχτηκε την μεταφορά.
+# STENCYLTALK - INCOMING
+chat.transfer.incoming.error.title=Η μεταφορά αρχείου ακυρώθηκε.
+chat.transfer.incoming.error.desc=Ελέγξτε την σύνδεση σας στο διαδίκτυο, η επαληθεύστε με τον αποστολέα.
+chat.transfer.incoming.receive=Λήψη <0>...
+chat.transfer.incoming.request=<0> θα ήθελε να σας αποστείλει ένα αρχείο.
+chat.transfer.incoming.request.full=<0> Θα θέλατε να σας αποστείλει <1> (<2>)
+chat.transfer.incoming.request.desc=Αποδοχή αρχείων μόνο από φίλους που εμπιστεύεστε.
+chat.transfer.incoming.accept=Αποδοχή Αρχείου
+chat.transfer.incoming.reject=Απόρριψη Αρχείου
+chat.transfer.incoming.done=<0> τελείωσε την αποστολή αρχείου.
+chat.transfer.incoming.error.generic=Δεν μπορούσε να φορτωθεί το <0>.
+chat.transfer.incoming.error.generic.desc=Ρωτήστε των αποστολέα να επιβεβαιώσει πως ένα έγκυρο το <0> σας έχει αποσταλεί.
+chat.transfer.incoming.success.game=Το παιχνίδι μπορεί να προβληθεί στο Κέντρο Υποδοχής.
+chat.transfer.incoming.success.game.desc=Αν εργάζεστε προσωρινά σε παιχνίδι, πρέπει να το κλείσετε η να επανεκκινήσετε το StencylWorks για να το δείτε.
+chat.transfer.incoming.error.game.msg=Η μεταφορά αρχείου ακυρώθηκε επειδή ο παραλήπτης δεν έχει ανοιχτό παιχνίδι.
+chat.transfer.incoming.error.game.reason=Πρέπει να έχετε παιχνίδι ανοιχτό για να λάβετε πόρο για παιχνίδι.

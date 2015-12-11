@@ -1,0 +1,15 @@
+
+# WELCOME SCREEN
+welcome.cc.title=Пройди наш курс для «чайников» (30 минут)
+welcome.cc.desc=Узнайте как создаются игры в Stencyl и познакомьтесь с его инструментами.
+welcome.forum.title=Посетите сообщество разработчиков игр Stencyl
+welcome.forum.desc=Посетите наши форумы, где вы можете задать любой вопрос и познакомиться с другими разработчиков игр Stencyl, такими же как вы.
+# SIGN IN
+signin.yes=Войти (под именем)
+signin.no=Напомнить мне позднее
+signin.info=Уже зарегистрированы?
+signin.info2=Забыли пароль?
+signin.register=Войти (под именем)
+signin.name=Имя пользователя
+signin.key=Пароль
+signin.as=Вы вошли под именем: <0>

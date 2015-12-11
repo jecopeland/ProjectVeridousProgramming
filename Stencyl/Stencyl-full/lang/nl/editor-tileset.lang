@@ -1,0 +1,30 @@
+
+# Tileset Creator
+tset.title=Tegelsetmaker
+tset.title.edit=Wijzig Tegelset
+tset.tiles=Tegels
+tset.properties=Tegelset Hernoemen
+tset.tile.create=Toevoegen
+tset.menu.import=Bestaande Tegel Importeren
+tset.tile.add.title=Nieuwe Tegels Maken
+# Tile Editor
+tset.anim.collision=Inslagpunten
+tset.anim.collision.edit=Wijzig
+tset.anim.looping=Doorlopend?
+tset.anim.rect=Vierhoek
+tset.anim.poly=Polygoon
+tset.anim.title1=Tegeleigenschappen
+tset.anim.title2=Beelden (Slepen om te herschikken)
+tset.menu.addframe=Beeld Toevoegen
+tset.menu.editframe=Beeld Wijzigen
+tset.menu.removeframe=Beeld Verwijderen
+tset.anim.add.import=Meerdere Beelden Toevoegen
+# Tileset Properties
+tset.props.title=Tegelseteigenschappen wijzigen
+tset.props.name=Naam
+# Warnings
+tset.warning.name=Gelieve een unieke naam in te geven.
+tset.warning.duration=Gelieve een positief getal in te geven.
+tset.warning.notiles=Deze tegelset bevat geen tegels.
+tset.warning.blank=Dit is een blanco tegel. Wijzigen niet mogelijk.
+# Shape Editor

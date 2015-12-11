@@ -1,0 +1,45 @@
+
+# GLOBAL
+sb.title=Edytor snippetów
+sb.open.title=Otwórz snippety
+sb.confirm=Zapisać zmiany w <0>?
+# MODULES
+sb.mode.vars=Zmienne
+sb.mode.props=Właściwości
+# MENU
+menu.top.run=Uruchom
+sb.file.new=Nowy Snippet...
+sb.file.open=Otwórz Snippet
+sb.file.recent=Ostatnio otwierane
+sb.file.close=Zamknij okno
+sb.file.closeall=Zamknij wszystkie
+sb.file.save=Zapisz
+sb.file.saveall=Zapisz wszystkie
+sb.file.saveas=Zapisz jako...
+sb.file.style=Dostosuj edytor kodu...
+sb.file.shortcut=Dostosuj skróty...
+sb.file.exit=Wyjdź z edytora
+sb.file.undo=Cofnij
+sb.file.redo=Powtórz
+sb.file.cut=Wytnij
+sb.file.copy=Kopiuj
+sb.file.paste=Wklej
+sb.file.delete=Usuń
+sb.file.select=Zaznacz wszystko
+sb.file.find=Znajdź...
+sb.file.replace=Zamień...
+sb.run.check=Sprawdź kod
+sb.run.build=Kompiluj
+sb.building=Kompilacja...
+sb.builddone=Zakończono. Kompilacja trwała <0> milisekund.
+sb.help.javadoc=Obejrzyj API
+# TYPE CHOOSER
+actortype.chooser.title=Wybierz typ postaci
+actor.type.choose=Wybierz typ postaci...
+# LIBRARY
+sb.lib.actors=Snippety postaci
+sb.lib.scenes=Snippety scen
+sb.lib.sscenes=Snippety określonych scen
+# MESSAGES
+sb.preview.fail=Znaleziono błędy składniowe w kodzie.<br><br>Proszę otworzyć edytor snippetów i poprawić błędy przed testowaniem.
+# ERRORS

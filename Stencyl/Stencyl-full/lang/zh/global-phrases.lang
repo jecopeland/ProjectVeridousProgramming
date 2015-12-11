@@ -1,0 +1,43 @@
+
+# GLOBALS
+globals.missing=欠缺
+globals.yes=是
+globals.no=不是
+globals.ok=OKAY
+globals.cancel=取消
+globals.save=保存
+globals.nosave=不要保存
+globals.open=開動
+globals.close=關閉
+globals.error=錯誤
+globals.true=是
+globals.false=不是
+globals.create=創作
+globals.apply=應用
+globals.savechanges=實施更改
+globals.done=完成
+globals.saveclose=保存及關閉
+globals.add=添加
+globals.confirmchanges=你要不要把更改應用於<0>?
+globals.confirmchanges.lost=如果你不保存更改,你的更改會全部失去.
+globals.confirmdelete=<0> 會被除去.你要不要繼續?
+globals.confirmgame=在繼續前,你要不要保存你的遊戲?
+globals.confirmgameclose=在離開前,你要不要保存你的遊戲?
+globals.confirmpublish=你就要開始出版你的遊戲.
+globals.confirmupdate=StencylWorks 會重開來完成更新程序.
+# GENERAL MESSAGES
+msg.opening=在開動中...
+msg.saving=在保存中...
+msg.saving.temp=準備遊戲...
+msg.publishing=上載遊戲...
+msg.publishing.code=上載遊戲邏輯...
+msg.publishing.assets=上載遊戲資源...
+show=展示
+hide=藏起
+# EMPTY STRINGS
+empty.properties=沒有任何選擇
+empty.history=沒有歷史來錄
+empty.scenes=沒有打開的遊戲
+empty.library=沒有打開的遊戲
+empty.layers=沒有打開的景象
+empty.palette=沒有打開的遊戲

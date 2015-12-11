@@ -1,0 +1,45 @@
+
+# GLOBAL
+sb.title=Criador de Snippets
+sb.open.title=Abrir Snippets
+sb.confirm=Salvar mudanças em <0>?
+# MODULES
+sb.mode.vars=Variáveis
+sb.mode.props=Editar Propriedades
+# MENU
+menu.top.run=Executar
+sb.file.new=Novo Snippet...
+sb.file.open=Abrir Snippet
+sb.file.recent=Abrir recente
+sb.file.close=Fechar
+sb.file.closeall=Fechas tudo
+sb.file.save=Salvar
+sb.file.saveall=Salvar todos os Snippets
+sb.file.saveas=Salvar Como...
+sb.file.style=Personalizar Editor de Código
+sb.file.shortcut=Personalizar Atalhos...
+sb.file.exit=Sair do Criador de Snippets
+sb.file.undo=Desfazer
+sb.file.redo=Refazer
+sb.file.cut=Cortar
+sb.file.copy=Copiar
+sb.file.paste=Colar
+sb.file.delete=Apagar
+sb.file.select=Selecionar tudo
+sb.file.find=Localizar...
+sb.file.replace=Substituir...
+sb.run.check=Checar Sintaxe
+sb.run.build=Combilar Tudo
+sb.building=Compilando...
+sb.builddone=Feito. A compilação levou <0> ms.
+sb.help.javadoc=Ver API
+# TYPE CHOOSER
+actortype.chooser.title=Escolha um Tipo de Personagem
+actor.type.choose=Escolher Tipo de Personagem...
+# LIBRARY
+sb.lib.actors=Snippets de Personagem
+sb.lib.scenes=Snippets de Cena
+sb.lib.sscenes=Snippets específicos de Cena
+# MESSAGES
+sb.preview.fail=O StencylWorks detectou erros de Sintaxe em seu código.<br><br>Favor abrir o Criador de Snippets e eliminar esses erros antes de continuar.
+# ERRORS

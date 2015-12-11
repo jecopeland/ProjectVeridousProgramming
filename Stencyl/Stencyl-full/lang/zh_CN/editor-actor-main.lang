@@ -1,0 +1,31 @@
+
+# Actor Creator
+actor.props=编辑特性
+actor.rename=更改演员名字
+actor.group.edit=编辑组合...
+actor.regroup=选择组合
+actor.regroup.info=组合是用来决定那些演员可跟其他演员相撞.
+actor.props.title=演员特性
+actor.props.newtitle=新的演员
+actor.title=演员创作者
+actor.title.new=创作新演员类型
+actor.title.edit=编辑演员类型
+actor.physics=编辑物理特性
+actor.physics.info=用来编辑整个演员的数值.摩擦力和其他形状的数值要用Shape Editor(形状编辑箱)来编辑.
+# Properties
+actor.name=名称
+actor.group=演员组合
+actor.sprite=图片
+actor.sprite.choose=挑选
+actor.sprite.edit=编辑
+actor.sprite.new=创作
+# Sprite Chooser
+actor.chooser.title=挑选其中一个图片
+# Warnings
+actor.warning.name=请填写名字
+actor.warning.number=请填写正加整体数码
+actor.warning.nosnippets=没有已选择的游戏逻辑
+actor.warning.noprops=这个游戏逻辑没有特性去装配
+actor.warning.float=请填写合法数码
+actor.warning.int=请填写合法整体数码
+actor.warning.general=请在红色格内填写合法数据

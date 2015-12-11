@@ -1,0 +1,32 @@
+
+# New Game Dialog
+dg.game.new.title=Δημιουργία Καινούργιου Παιχνιδιού...
+dg.game.new.title2=Θέλω να κάνω <0>
+dg.kit.new.title=Δημιουργία Νέου Kit...
+dg.game.new.info.basic=Βασικές Πληροφορίες
+dg.game.new.info.name=Όνομα
+dg.game.new.info.size=Μέγεθος Εικόνας (Διαδίκτυο)
+dg.game.new.info.default=640 x 400 (Προκαθορισμένο)
+dg.game.new.info.standard=640 x 480
+dg.game.new.info.custom=Παραμετροποίηση
+dg.game.new.info.width=Πλάτος
+dg.game.new.info.height=Ύψος
+dg.game.new.info.advanced=Προχωρημένους
+dg.game.new.info.engine=Έκδοση Engine
+dg.game.new.save.prompt=Είσαστε στην διαδικάσια δημιουργίας νέου παιχνιδιού.
+# Rename
+dg.game.rename=Πρέπει να αποθηκεύσετε το παιχνίδι για να ολοκληρώσετε τι διαδικασία. Θα θέλατε να αποθηκεύσετε;
+dg.game.rename2=Η Μετονομασία παιχνιδιού απαιτεί αποθήκευση.
+# LOGO
+dg.game.logo=Λογότυπο Παιχνιδιού
+dg.game.logo.info=Οι ιδανικές διαστάσεις είναι 120 x 90 pixels.
+# Kits
+dg.game.step1=Τι είδους παιχνίδι θέλετε να δημιουργήσετε;
+dg.game.step1.info=(Βήμα 1 από 2)
+dg.game.step2=Παιχνίδι Βασισμένο Σε: <0>
+dg.game.step2.info=(Βήμα 2 από 2)
+dg.game.kits.blank=Κενό Παιχνίδι
+dg.game.kits.blank.desc=Εκκίνηση παιχνιδιού από το μηδέν.
+# MISSING KIT
+dg.game.kit.missing=Δεν εντοπίζεται το <0> Kit.
+dg.game.kit.missing.i=Λήψη απών Kit από το StencylForge.

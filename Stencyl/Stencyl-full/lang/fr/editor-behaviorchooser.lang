@@ -1,0 +1,31 @@
+
+# Behavior Library
+actor.snippet.fields=Attributs
+actor.snippet.fields.none=Ce Comportement ne contient rien à configurer.
+actor.snippet.fields.none.short= 
+actor.snippet.order=Ordre
+actor.snippet.add=Nouveau Comportement
+actor.snippet.delete=Supprimer
+actor.snippet.edit=Éditer
+actor.snippets=Choisir un Comportement
+# Snippet List
+actor.snippet.instance.add=Ajouter Comportement
+actor.snippet.instance.open=Éditer Comportement
+actor.snippet.instance.delete=Supprimer Comportement
+actor.snippet.instance.enable=Activer Comportement
+actor.snippet.instance.disable=Désactiver Comportement
+actor.snippet.instance.reset=Réinitialiser Toutes les Valeurs
+actor.snippet.instance.toggle.e=Activer la Personnalisation
+actor.snippet.instance.toggle.d=Désactiver la Personnalisation
+actor.snippet.instance.disabled=Cliquez ici pour commencer la personnalisation du comportement de cet Acteur.
+# Behavior Page
+list.add=Ajouter l'Élément à la Liste
+list.remove=Supprimer l'Élément de la Liste
+list.edit=Éditer Élément
+list.up=Déplacer l'Élément vers le Haut
+list.down=Déplacer l'Élément vers le Bas
+list.import=Importer à partir du Fichier Texte...
+behavior.choose.normal=Choisir à partir de ce Jeu
+behavior.choose.online=Chercher en Ligne
+behavior.choose.fromgame=Pour Ce Jeu
+behavior.choose.fromlibrary=Pour Cette Librairie

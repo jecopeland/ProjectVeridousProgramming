@@ -1,0 +1,1 @@
+Assigns a random starting velocity (speed + direction) to the actor.

@@ -1,0 +1,31 @@
+
+actor.snippet.fields=Atributes
+actor.snippet.fields.none=Este comportamento contém nada para configurar.
+actor.snippet.fields.none.short=Nada para configurar.
+actor.snippet.order=Ordem
+actor.snippet.add=Novo Comportamento
+actor.snippet.delete=Apagar
+actor.snippet.edit=Editar
+actor.snippets=Escolhe um Comportamento
+actor.snippet.filter=Filtrar Comportamentos
+# Snippet List
+actor.snippet.instance.instructions=Comportamentos
+actor.snippet.instance.add=Adicionar Comportamento
+actor.snippet.instance.open=Editar Comportamento
+actor.snippet.instance.delete=Remover Comportamento
+actor.snippet.instance.enable=Ativar Comportamento
+actor.snippet.instance.disable=Desativar Comportamento
+actor.snippet.instance.reset=Reiniciar Todos os Valores
+actor.snippet.instance.toggle.e=Ativar Personalização
+actor.snippet.instance.toggle.d=Desativar Personalização
+actor.snippet.instance.disabled=Clique aqui para começar a personalizar o comportamento deste ator.
+# Behavior Page
+list.add=Adicionar Item à Lista
+list.remove=Remover Item da Lista
+list.edit=Editar Item
+list.up=Mover Item para Cima
+list.down=Mover Item para Baixo
+list.import=Importar por um Ficheiro de Texto...
+behavior.choose.normal=Escolher neste jogo
+behavior.choose.online=Pesquisar Online
+behavior.choose.search=O que quer que o seu <0> faça?

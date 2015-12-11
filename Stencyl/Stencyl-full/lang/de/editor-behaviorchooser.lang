@@ -1,0 +1,29 @@
+
+# Behavior Library
+actor.snippet.fields=Attribute
+actor.snippet.fields.none=Dieses Verhalten beinhaltet keine Eigenschaften.
+actor.snippet.fields.none.short=Keine Eigenschaften zum konfigurieren vorhanden.
+actor.snippet.order=Ordnung
+actor.snippet.add=Neues Verhalten
+actor.snippet.delete=Löschen
+actor.snippet.edit=Ändern
+actor.snippets=Verhalten auswählen
+# Snippet List
+actor.snippet.instance.add=Verhalten hinzufügen
+actor.snippet.instance.open=Verhalten ändern
+actor.snippet.instance.delete=Verhalten löschen
+actor.snippet.instance.enable=Verhalten aktivieren
+actor.snippet.instance.disable=Verhalten deaktivieren
+actor.snippet.instance.reset=Alle Werte zurücksetzen
+actor.snippet.instance.toggle.e=Eigene Einstellungen aktivieren
+actor.snippet.instance.toggle.d=Eigene Einstellungen deaktivieren
+actor.snippet.instance.disabled=Klicke hier um eigene Einstellungen für das Spielerverhalten zu erstellen.
+# Behavior Page
+list.add=Element zur Liste Hinzufügen
+list.remove=Element aus der Liste löschen
+list.edit=Element ändern
+list.up=Bewege Element nach oben
+list.down=Bewege Element nach unten
+list.import=Importiere aus Text-Datei...
+behavior.choose.normal=Wähle aus diesem Spiel aus
+behavior.choose.online=Onlinesuche

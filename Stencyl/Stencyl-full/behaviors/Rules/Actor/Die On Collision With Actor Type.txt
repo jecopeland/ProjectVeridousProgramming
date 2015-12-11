@@ -1,0 +1,1 @@
+Kills the actor when it collides with an actor type.

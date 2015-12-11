@@ -1,0 +1,14 @@
+
+sb.var.title=Editar Variáveis do Snippet
+sb.var.add=Criar Nova Variável
+sb.var.remove=Remover Variável
+sb.var.default=Editar Variável
+sb.var.header.name=Nome
+sb.var.header.lname=Descrição
+sb.var.header.type=Tipo
+sb.var.header.val=Valor Padrão
+sb.var.error.val=Favor entrar com um <0> válido.
+sb.var.edit.val=Valor Padrão
+sb.var.edit.nosound=Sem som
+sb.var.error.name=Entrar com um nome único.
+sb.var.error.desc=Entrar com uma descrição não vazia.

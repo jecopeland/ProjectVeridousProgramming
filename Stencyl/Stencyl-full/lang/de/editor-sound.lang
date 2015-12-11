@@ -1,0 +1,16 @@
+
+# SOUND CREATOR
+sound.top.main=Sound
+sound.top.properties=Properties
+sound.choose=Choose File...
+sound.mix=Edit Sound
+sound.rename.title=Rename Sound
+sound.play.title=Playback
+sound.info.title=Sound Info
+sound.import=Click here to import a sound file.
+sound.info.channels=Channels:
+sound.info.rate=Rate:
+sound.chooser.title=Choose a Sound...
+sound.import1=Decoding...
+sound.import2=Encoding - <0>%
+sound.import3=Finalizing...

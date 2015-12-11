@@ -1,0 +1,12 @@
+
+# PUBLISHER
+publish.finish.title=Συγχαρητήρια!
+publish.finish.msg=Το παιχνίδι σας εκδόθηκε στο Stencyl.com.
+publish.save=Θα θέλατε να αποθηκεύσετε το παιχνίδι πριν το εκδώσετε;
+publish.fail=Το StencylWorks δεν μπόρεσε να εκδώσει το παιχνίδι σας. Δοκιμάστε ξανά.<br><br>Αν το πρόβλημα επιμένει, βεβαιωθείτε πως η σύνδεση σας στο Internet δουλεύει.<br><br>
+publish.filesize=Το StencylWorks δεν μπόρεσε να εκδώσει το παιχνίδι σας.  Το μέγεθος του αρχείου είναι μεγαλύτερο από 16MB.
+publish.nobrowser=Το StencylWorks δεν μπόρεσε να εντοπίσει διαθέσιμο περιηγητή διαδικτύου για χρήση.
+publish.play=Διαθέσιμο στο Stencyl.com
+publish.fb=Μοιραστείτε το στο Facebook
+publish.tweet=Μοιραστείτε το στο Twitter
+publish.embed=Επισύναψη στον ιστότοπο μου

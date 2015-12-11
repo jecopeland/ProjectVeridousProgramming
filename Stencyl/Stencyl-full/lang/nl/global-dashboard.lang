@@ -1,0 +1,35 @@
+
+gamecenter.title=Spel Centrum
+gamecenter.controls=Besturingen
+gamecenter.actorgroups=Karaktergroepen
+gamecenter.cgroups=Inslagpunten
+gamecenter.props=Speleigenschappen
+gamecenter.stats=Statistieken
+gamecenter.scenes=Scenes zijn de speelvelden voor spelletjes.
+gamecenter.actors=Karakters zijn de dynamische objecten die alles in een spel doen gebeuren.
+gamecenter.backs=Achtergronden zijn grote afbeeldingen die voor of achter scenes worden getekend en meestal mee bewegen met de karakters.
+gamecenter.sounds=Geluiden kunnen ofwel korte effecten of lange liedjes zijn.
+gamecenter.sprites=Afbeeldingen zijn animaties die het uiterlijk van een Karakter bepalen.
+gamecenter.tilesets=Tegelsets zijn verzamelingen met Tegels waarmee je een Scene kan maken.
+# SCENE EDIT
+scene.open.title=Open een Scene
+# TYPES
+type.actor=Karakter
+type.bg=Achtergrond
+type.sprite=Afbeelding
+type.shape=Inslagvorm
+type.sound=Geluid
+type.tset=Tegelset
+# LIBRARY
+library.scenes=Scenes
+library.snippets=Snippets
+library.actors=Karakters
+library.bgs=Achtergronden
+library.sprites=Afbeeldingen
+library.shapes=Inslagvormen
+library.sounds=Geluiden
+library.menu.edit=Wijzigen
+library.menu.delete=Verwijderen
+library.menu.create=Maak nieuw
+library.filter=Zoeken...
+library.tset=Tegelsets

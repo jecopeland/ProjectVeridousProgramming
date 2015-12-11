@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+<category id="0" key="snip.cat.none" type="both"/>
+<category id="1" key="snip.cat.ai" type="both"/>
+<category id="2" key="snip.cat.collisions" type="both"/>
+<category id="3" key="snip.cat.fx" type="both"/>
+<category id="4" key="snip.cat.motion" type="both"/>
+<category id="5" key="snip.cat.gui" type="both"/>
+<category id="6" key="snip.cat.scoring" type="both"/>
+<category id="7" key="snip.cat.sound" type="both"/>
+<category id="8" key="snip.cat.stats" type="both"/>
+<category id="9" key="snip.cat.drawing" type="both"/>
+<category id="10" key="snip.cat.web" type="both"/>
+<category id="11" key="snip.cat.debug" type="both"/>
+<category id="12" key="snip.cat.health" type="both"/>
+<category id="13" key="snip.cat.actions" type="both"/>
+<category id="14" key="snip.cat.cutscenes" type="both"/>
+<category id="15" key="snip.cat.saving" type="both"/>
+</categories>

@@ -1,0 +1,30 @@
+
+# Tileset Creator
+tset.title=瓷砖收集创作者
+tset.title.edit=编辑瓷砖收集
+tset.tiles=瓷砖
+tset.properties=更改瓷砖收集名字
+tset.tile.create=新的
+tset.menu.import=输入现有瓷砖
+tset.tile.add.title=创造新的瓷砖
+# Tile Editor
+tset.anim.collision=相撞范围
+tset.anim.collision.edit=选择...
+tset.anim.looping=循环?
+tset.anim.rect=长方形物
+tset.anim.poly=多角形物
+tset.anim.title1=瓷砖特性
+tset.anim.title2=画面 (重新排列拖拉和丢下)
+tset.menu.addframe=添加画面 
+tset.menu.editframe=编辑画面 
+tset.menu.removeframe=删除画面 
+tset.anim.add.import=添加多项画面 
+# Tileset Properties
+tset.props.title=编辑瓷砖收集特性
+tset.props.name=名称
+# Warnings
+tset.warning.name=请填写独一名字
+tset.warning.duration=请填写正加数
+tset.warning.notiles=这瓷砖收集没有瓷砖
+tset.warning.blank=这个瓷砖是空白的(你不可编辑)
+# Shape Editor

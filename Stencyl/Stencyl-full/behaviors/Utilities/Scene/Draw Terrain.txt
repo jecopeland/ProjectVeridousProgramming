@@ -1,0 +1,1 @@
+Draw all terrain with custom fill and outline.

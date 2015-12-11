@@ -1,0 +1,34 @@
+
+# Actor Creator
+actor.props=Свойства
+actor.rename=Переименовать тип актера
+actor.group.edit=Изменить группы...
+actor.regroup=Выбрать группу
+actor.regroup.info=Группы показывают, с какими актерами будет сталкиваться этот актер, а с какими нет.
+actor.title=Создание типа актёра
+actor.physics=Редактировать физику
+# Actor Top Bar
+actor.top.appearance=Спрайты (внешний вид)
+actor.top.behavior=Поведения
+actor.top.collision=Столкновения
+actor.top.physics=Физика
+actor.top.properties=Свойства
+actor.top.attach=Добавить актёра на сцену
+# Properties
+actor.name=Название
+actor.description=Описание
+actor.group=Группа
+actor.sprite.choose=Выберите спрайт
+actor.anim.choose=Выберите анимацию...
+actor.scene.choose=Выберите сцену...
+# Sprite Chooser
+actor.chooser.title=Выбрать спрайт
+# Warnings
+actor.warning.name=Это название уже занято.
+actor.warning.name.invalid=Недопустимое название.
+actor.warning.blank=Введите название.
+actor.warning.number=Введите положительное число.
+actor.warning.nosnippets=У актера нет поведений. Щелкните и добавьте!
+actor.warning.nosnippets2=У сцены нет поведений. Щелкните и добавьте!
+actor.warning.float=Введите правильное число.
+actor.warning.int=Введите целое число.

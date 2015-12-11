@@ -1,0 +1,24 @@
+
+# SOUND CREATOR
+sound.top.main=Sonido
+sound.top.properties=Propiedades
+sounds=Sonidos
+sound.choose=Elegir archivo...
+sound.rename=Renombrar
+sound.mix=Editar sonido
+sound.rename.title=Renombrar sonido
+sound.props.name=Nombre
+sound.error.name=Introduce un nombre.
+sound.play.title=Reproducción
+sound.info.title=Información del sonido
+sound.import=Pulsa para importar un archivo de sonido.
+sound.info.format=Formato:
+sound.info.encoding=Codificación:
+sound.info.bitssample=Bits/muestra:
+sound.info.channels=Canales:
+sound.info.rate=Tasa:
+sound.streaming=¿Streaming?
+sound.chooser.title=Elegir sonido...
+sound.import1=Decodificando...
+sound.import2=Codificando - <0>%
+sound.import3=Finalizando...

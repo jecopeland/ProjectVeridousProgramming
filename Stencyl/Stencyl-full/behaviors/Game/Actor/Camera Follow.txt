@@ -1,0 +1,1 @@
+Attach to an actor to make the camera follow it.

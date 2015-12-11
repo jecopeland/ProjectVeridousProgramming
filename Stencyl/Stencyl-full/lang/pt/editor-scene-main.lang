@@ -1,0 +1,216 @@
+
+# SCENE LIBRARY
+scene.type=Cena
+scene.edit=Editar esta Cena
+scene.create=Criar uma Nova Cena
+scene.delete=Eliminar esta Cena
+scene.filter=Procurar...
+# SCENE PAGES
+scene.top.main=Cena
+scene.top.gui=GUI
+scene.top.behavior=Comportamentos
+scene.top.properties=Propriedades
+scene.top.background=Fundo
+scene.top.physics=Física
+scene.top.test=Testar Cena
+# SCENE MODES
+scene.mode.layer=Modo de Camada
+scene.mode.working=Modo de Trabalho
+# BAR
+bar.grid=<0> Grelha
+bar.anim=<0> Animações
+bar.screen=<0> Limites do Ecrã
+bar.bg=<0> Fundo
+bar.fg=<0> Primeiro Plano
+bar.autoSnap=Encaixar na Grelha: Quando ativado, encaixar na grelha é automático. Quando desativado, fique com a tecla SHIFT pressionada para encaixar na grelha.
+# EMPTY
+library.empty.palette=Este jogo não contém <0>.
+library.empty.palette.actor=Criar um Novo Tipo de Ator
+# PHYSICS
+scene.physics.gravx=Gravidade (Horizontal)
+scene.physics.left=Esquerda
+scene.physics.right=Direita
+scene.physics.gravy=Gravidade (Vertical)
+scene.physics.up=Cima
+scene.physics.down=Baixo
+scene.physics.desc=Utilize o valor '85 baixo' para simular a gravidade terrestre.
+# BACKGROUNDS / FOREGROUNDS
+scene.background.explanation=Adiciona imagens de fundo e de primeiro plano que se deslocarão em paralaxe com a cena.<br>Um Fundo é desenhado por detrás da cena enquanto que um Primeiro Plano é desenhado à frente.
+scene.backgrounds=Fundos
+scene.foregrounds=Primeiros Planos
+scene.background.new=Adicionar um Novo Fundo
+scene.background.delete=Remover Fundo
+scene.background.up=Mover Fundo para Cima
+scene.background.down=Mover Fundo para Baixo
+scene.foreground.new=Adicionar um Novo Primeiro Plano
+scene.foreground.delete=Remvoer Primeiro Plano
+scene.foreground.up=Mover Primeiro Plano para Cima
+scene.foreground.down=Mover Primeiro Plano para Baixo
+scene.background.create=Criar um Novo Fundo
+scene.background.edit=Editar este Fundo
+scene.foreground.edit=Editar este Primeiro Plano
+scene.background.chooser.title=Escolha um Fundo
+scene.chooser.title=Escolha uma Cena
+scene.actorinstance.title=Editar Comportamento para '<0>'
+# UNDO/REDO
+scene.action.tile.place=Colocar Azulejo
+scene.action.tiles.place=Colocar Azulejos
+scene.action.actor.place=Colocar Ator
+scene.action.actors.place=Colocar Atores
+scene.action.actor.rotate=Rodar Ator
+scene.action.actors.rotate=Rodar Atores
+scene.action.actor.scale=Escalar Ator
+scene.action.actors.scale=Escalar Atores
+scene.action.select.delete=Eliminar Seleção
+scene.action.select.nudge=Mover Seleção
+scene.action.select.move=Mover Seleção
+scene.action.select.switchlayer=Mudar de Camada
+scene.action.select.back=Para trás
+scene.action.select.toback=Enviar para trás
+scene.action.select.forward=Para a frente
+scene.action.select.tofront=Trazer para a frente
+scene.action.layer.add=Adicionar Camada
+scene.action.layer.remove=Remover Camada
+# LAYERS
+scene.layer=Camada <0>
+scene.layer.header.name=Nome
+scene.layer.header.color=Cor
+scene.layer.header.show=Mostrar?
+scene.layer.new=Nova Camada
+scene.layer.delete=Eliminar Camada
+scene.layer.up=Trazer Camada para a frente
+scene.layer.down=Enviar camada para trás
+scene.layer.rename=Renomear Camada
+# ROLLOVER
+actor.rollover=<0> (ID: <1>)    (<2>, <3>)  
+actor.rollovershort=<0>
+# JOINTS
+joints.stick=Articulação Fixa
+joints.hinge=Articulação Dobradiça
+joints.sliding=Articulação Deslizante
+joints.pulley=Junta de Roldana
+joints.gear=Junta de Roda Dentada
+joints.info.selected=<0> (<1>). Duplo-clique para editar as suas propriedades.
+joint.edit.title=Editar Propriedades da Articulação
+joint.edit.general=Geral
+joint.edit.stick=Avançado
+joint.edit.hinge.limit=Limites
+joint.edit.slide.limit=Limites
+joint.edit.hinge.motor=Motor
+joint.edit.slide.motor=Motor
+joint.edit.direction=Direção do deslize
+joint.edit.name=Nome
+joint.edit.namei=Use um nome descritivo para ajudar a identificar esta Articulação.
+joint.edit.name.err=Introduza um nome não vazio.
+joint.edit.collisions=Colisões
+joint.edit.collide=Os atores devem colidir?
+joint.edit.collidei=Quando uns atores estão unidos por uma Articulação, é habitual desativar as colisões entre eles.
+joint.edit.damping=Amortecimento
+joint.edit.dampingi=Reduz o efeito de perturbações nesta Articulação. Imagine uma porta que fecha mais suavemente e não abruptamente. Um valor de 1 é considerado "amortecido críticamente" e não haverão oscilações.
+joint.edit.dampingl=Nenhum
+joint.edit.dampingh=Crítico
+joint.edit.freq=Rigidez
+joint.edit.freqi=Determina quão rígida ou solta é a Articulação. Juntas soltas são como borracha.
+joint.edit.freql=Rígida
+joint.edit.freqh=Solta
+joint.edit.hlimit=Ativar Limite?
+joint.edit.hlimiti=Os limites evitam que a Articulação roda para além de certos ângulos.
+joint.edit.hlower=Limite Inferior
+joint.edit.hloweri=Em Graus relativamente ao ângulo inicial.
+joint.edit.hlowere=Introduza um número.
+joint.edit.hupper=Limite Superior
+joint.edit.hupperi=Em Graus relativamente ao ângulo inicial.
+joint.edit.huppere=Introduza um número.
+joint.edit.slimit=Ativar Limite?
+joint.edit.slimiti=Os limites evitam que a Articulação deslize para além de certos pontos.
+joint.edit.slower=Limite Inferior
+joint.edit.sloweri=Em píxeis, relativo ao ponto de partida.
+joint.edit.slowere=Introduza um número.
+joint.edit.supper=Limite Superior
+joint.edit.supperi=Em píxeis, relativo ao ponto de partida.
+joint.edit.suppere=Introduza um número.
+joint.edit.hmotor=Ativar Motor?
+joint.edit.hmotori=Faz a Articulação rodar automaticamente.
+joint.edit.htorque=Rigidez
+joint.edit.htorquei=Quantidade de resistência que esta Articulação exerce quando alimentada por um motor. Também designado por torque.
+joint.edit.htorquee=Introduza um número positivo.
+joint.edit.hspeed=Velocidade
+joint.edit.hspeedi=A velocidade à qual a Articulação roda, em graus por frame. Pode ser negativa, rodando-a no sentido contrário aos dos ponteiros do relógio.
+joint.edit.hspeede=Introduza um número. 
+joint.edit.smotor=Ativar Motor?
+joint.edit.smotori=Faz a Articulação deslizar automaticamente.
+joint.edit.sforce=Rigidez
+joint.edit.sforcei=Quantidade de resistência que esta Articulação exerce quando alimentada por um motor.
+joint.edit.sforcee=Introduza um número positivo.
+joint.edit.sspeed=Velocidade
+joint.edit.sspeedi=Velocidade à qual a Articulação desliza. Pode ser negativa.
+joint.edit.sspeede=Introduza um número. 
+joint.edit.x=Direção X
+joint.edit.xi=Direção na qual o ator desliza, relativamente ao ator primário.
+joint.edit.xe=Introduza um número.
+joint.edit.y=Direção Y
+joint.edit.yi=Direção na qual o ator desliza, relativamente ao ator primário.
+joint.edit.ye=Introduza um número.
+joint.edit.hinge1=A Articulação de Dobradiça irá afixar <0> ao fundo.
+joint.edit.hinge2=A Articulação de Dobradiça irá afixar <0> a <1>.
+joint.edit.slide1=A Articulação de Deslize irá afixar <0> ao fundo.
+joint.edit.slide2=A Articulação de Deslize irá afixar <0> a <1>.
+# PICKING
+actor.choose=Escolha um Ator...
+joint.choose=Escolha uma Articulação desta cena...
+region.choose=Escolha uma Região deste cena...
+terrain.region.choose=Escolha um Terreno desta cena...
+actor.choose.i=Clique num ator para o escolher.
+joint.choose.i=Clique numa junta para a escolher.
+region.choose.i=Clique numa região para a escolher.
+terrain.region.choose.i=Clique num terreno para o escolher.
+# REGIONS
+region.info.selected=<0> (<1>) (Posição: <2>, <3>)
+region.info.dim=(<0>, <1>) (Comprimento: <2> Largura: <3>)
+region.edit.name=Nome
+region.edit.namee=Introduza um nome.
+region.edit.title=Editar as Propriedades da Região
+region.edit.color=Cor
+# TERRAIN REGIONS
+terrain.region.info.selected=<0> (<1>) (Posição: <2>, <3>)
+terrain.region.info.dim=(<0>, <1>) (Largura: <2> Altura: <3>)
+terrain.region.edit.name=Nome
+terrain.region.edit.namee=Introduza um nome.
+terrain.region.edit.title=Editar as Propriedades do Terreno
+terrain.region.edit.color=Cor
+terrain.region.edit.group=Grupo
+# OTHER
+general.info=A mover para (<0>, <1>)
+# BEHAVIORS
+scene.snippet.instance.add=Criar um Comportamento Específico de Cena
+scene.snippet.instance.open=Editar Comportamento
+scene.snippet.instance.import=Importar Comportamento da Biblioteca
+scene.snippet.instance.delete=Remover Comportamento
+# SCREEN CAPTURE
+capture.title=Captura de ecrã capturada
+capture.body=%s foi guardado no sua Área de Trabalho.
+capture.error=Não foi possível capturar uma Captura de Ecrã. Tente novamente.
+# MODULES
+mod.palette=Palete
+mod.history=História
+mod.layers=Camadas
+mod.game=Biblioteca
+mod.properties=Propriedades
+mod.scenes=Cenas
+mod.tools=Ferramentas
+mod.output=Output
+mod.variables=Atributos
+mod.inventory=Inventório
+mod.inspector=Inspetor
+# PALETTE
+palette.tile=Azulejos
+palette.actor=Atores
+palette.custom=Personalizado
+palette.tilesets=Conjunto de Azulejos
+palette.tilesets.create=Criar um Novo Conjunto de Azulejos
+# INVENTORY
+inventory.actors=Atores
+inventory.regions=Regiões
+inventory.joints=Articulações
+inventory.terrains=Terrenos
+inventory.all=Tudo

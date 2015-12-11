@@ -1,0 +1,7 @@
+
+# PUBLISHER
+publish.finish.title=Publicado com Sucesso!
+publish.finish.msg=Seu Jogo foi publicado com sucesso!<br><br>Clique em OK para visualizá-lo no browser.
+publish.save=Você gostaria de salvar seu jogo antes de publicá-lo?
+publish.fail=StencylWorks não pôde
+publish.nobrowser=StencylWorks não pôde achar um browser disponível para usar.

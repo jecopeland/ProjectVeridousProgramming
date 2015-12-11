@@ -1,0 +1,6 @@
+name=Test Extension (Flash SWF)
+description=A test extension for Flash
+author=Jon
+website=http://www.stencyl.com
+version=1.0
+compatibility=flash

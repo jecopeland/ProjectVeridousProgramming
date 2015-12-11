@@ -1,0 +1,91 @@
+
+# Sprite Editor
+sprite.title=圖片創作者
+sprite.title.new=創造新的圖片
+sprite.title.edit=編輯圖片
+sprite.animations=漫畫
+sprite.properties=更改圖片名字
+sprite.menu.create=創造新的漫畫
+sprite.menu.import=輸入現有漫畫
+sprite.menu.delete=刪除漫畫
+sprite.menu.default=定立為基本漫畫
+sprite.anim.name=名稱
+sprite.anim.collision=相撞範圍
+sprite.anim.collision.edit=編輯
+sprite.anim.looping=循環?
+sprite.anim.rect=長方形物
+sprite.anim.poly=多角形物
+sprite.anim.none=沒有相撞
+# <0> is the animation's name
+sprite.anim.title1=<0>'s特性
+sprite.anim.title2=畫面(重新排列拖拉和丟下)
+sprite.anim.duration=持續時間
+sprite.menu.addframe=添加畫面
+sprite.menu.editframe=編輯畫面
+sprite.menu.removeframe=刪除畫面
+# Frame Editor
+sprite.frame.title.edit=編輯畫面
+sprite.frames.title.edit=編輯持續時間(多種畫面)
+sprite.frame.duration=持續時間(毫米秒)
+sprite.frame.image=現時映像
+sprite.menu.changeimage=選擇其中一個映像
+sprite.menu.paintimage=使用Pencyl編輯這個映像
+sprite.frame.filechooser.filter=映像
+sprite.frame.filechooser.select=選擇映像
+sprite.frame.title.add=添加畫面
+# Add Animation
+sprite.anim.title.add=添加漫畫
+sprite.anim.add.import=輸入畫面
+# Sprite Properties
+sprite.props.title=更改圖片名字
+sprite.props.newtitle=新的圖片
+sprite.props.name=名字
+# Import Image Strip / Sheet
+sprite.strip.title=從映像細片輸入畫面
+sprite.strip.choose=選擇映像
+sprite.strip.rows=列號
+sprite.strip.cols=欄號
+# Warnings
+sprite.warning.name=請填寫獨一名字
+sprite.warning.duration=請填寫正加數碼
+sprite.warning.noanims=這個圖片沒有漫畫
+# SHAPE CHOOSER
+shape.title=選擇其中一個相撞範圍
+shape.none=沒有相撞
+# Shape Editor
+shape.main=拖拉和丟下形狀.
+shape.shape=現時形狀
+shape.add.box=添加四方形
+shape.add.circle=添加圓形
+shape.add.poly=添加多角形
+shape.rename=更改形狀名字
+shape.remove=刪除形狀
+shape.editphys=編輯物理特性...
+shape.editphys.title=編輯物理特性
+shape.name=名稱
+shape.x=X(左右)方位
+shape.y=Y(上下)方位
+shape.w=闊度
+shape.h=高度
+shape.xc=X方位(左面)
+shape.yc=Y方位(上面)
+shape.r=半徑範圍
+shape.box=四方形
+shape.poly=多角形
+shape.circle=圓形
+shape.select.none=沒有已選擇的形狀<br><br> 請挑選要來編輯的形狀.
+shape.select.many=你已經選擇了多個形狀<br><br>你只可選擇一個形狀來編輯.
+shape.fric=摩擦力
+shape.nofric=沒有
+shape.allfric=高
+shape.rest=彈力
+shape.elastic=高
+shape.inelastic=沒有
+shape.density=重量
+shape.fric.info=使物件與其他物件滑動自餘和逼真.
+shape.rest.info=使物件有彈力.有彈性(高)會使球體彈至原本發球時的高度.沒有彈性(沒有)表示球體不會彈動.
+shape.sensor=是不是固體?
+shape.sensor.info=不是固體的形狀仍然可以察覺相撞.但是不會產生反應.這是遊戲邏輯常用的.
+shape.density.info=與質量有關.會裁定這個物件的重量.
+shape.light=輕
+shape.heavy=重

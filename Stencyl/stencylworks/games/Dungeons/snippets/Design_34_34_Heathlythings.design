@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="2" id="0">
+        <step comment="false" x="153" y="50">
+            <group eventID="2" id="-1">
+                <if comment="false" x="164" y="75">
+                    <group eventID="2" id="-1">
+                        <save-game comment="false" x="175" y="108">
+                            <group eventID="2" id="-1">
+                                <if comment="false" x="186" y="133">
+                                    <group eventID="2" id="-1">
+                                        <rotate comment="false" x="197" y="158">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="90"/>
+                                        </rotate>
+                                        <dolater comment="false" x="197" y="185">
+                                            <group eventID="2" id="-1">
+                                                <rotate comment="false" x="208" y="212">
+                                                    <ACTOR eid="this" id="0"/>
+                                                    <int id="1" val="90"/>
+                                                </rotate>
+                                            </group>
+                                            <int id="0" val="0.5"/>
+                                            <ACTOR eid="this" id="2"/>
+                                        </dolater>
+                                        <dolater comment="false" x="197" y="251">
+                                            <group eventID="2" id="-1">
+                                                <rotate comment="false" x="208" y="278">
+                                                    <ACTOR eid="this" id="0"/>
+                                                    <int id="1" val="90"/>
+                                                </rotate>
+                                            </group>
+                                            <int id="0" val="0.5"/>
+                                            <ACTOR eid="this" id="2"/>
+                                        </dolater>
+                                        <dolater comment="false" x="197" y="317">
+                                            <group eventID="2" id="-1">
+                                                <rotate comment="false" x="208" y="344">
+                                                    <ACTOR eid="this" id="0"/>
+                                                    <int id="1" val="90"/>
+                                                </rotate>
+                                            </group>
+                                            <int id="0" val="0.5"/>
+                                            <ACTOR eid="this" id="2"/>
+                                        </dolater>
+                                    </group>
+                                    <save-success comment="false" id="0" x="0" y="0"/>
+                                </if>
+                            </group>
+                        </save-game>
+                    </group>
+                    <is-in-region comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="this" id="0"/>
+                        <REGION eid="var" id="1" vid="1"/>
+                    </is-in-region>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="2" id="-1"/>
+    <group eventID="3" id="0">
+        <init comment="false" x="110" y="38">
+            <group eventID="3" id="-1">
+                <load-game comment="false" x="121" y="63">
+                    <group eventID="3" id="-1">
+                        <if comment="false" x="132" y="88">
+                            <group eventID="3" id="-1">
+                                <rotate comment="false" x="143" y="113">
+                                    <ACTOR eid="this" id="0"/>
+                                    <int id="1" val="90"/>
+                                </rotate>
+                                <dolater comment="false" x="143" y="140">
+                                    <group eventID="3" id="-1">
+                                        <rotate comment="false" x="154" y="167">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="90"/>
+                                        </rotate>
+                                    </group>
+                                    <int id="0" val="0.5"/>
+                                    <ACTOR eid="this" id="2"/>
+                                </dolater>
+                                <dolater comment="false" x="143" y="206">
+                                    <group eventID="3" id="-1">
+                                        <rotate comment="false" x="154" y="233">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="90"/>
+                                        </rotate>
+                                        <dolater comment="false" x="154" y="260">
+                                            <group eventID="3" id="-1">
+                                                <rotate comment="false" x="165" y="287">
+                                                    <ACTOR eid="this" id="0"/>
+                                                    <int id="1" val="90"/>
+                                                </rotate>
+                                            </group>
+                                            <int id="0" val="0.5"/>
+                                            <ACTOR eid="this" id="2"/>
+                                        </dolater>
+                                    </group>
+                                    <int id="0" val="0.5"/>
+                                    <ACTOR eid="this" id="2"/>
+                                </dolater>
+                                <dolater comment="false" x="143" y="338">
+                                    <group eventID="3" id="-1">
+                                        <disable-snippet comment="false" x="154" y="365"/>
+                                    </group>
+                                    <int id="0" val="10"/>
+                                    <ACTOR eid="this" id="2"/>
+                                </dolater>
+                            </group>
+                            <load-success comment="false" id="0" x="0" y="0"/>
+                        </if>
+                    </group>
+                </load-game>
+            </group>
+        </init>
+    </group>
+    <group eventID="3" id="-1"/>
+    <group eventID="4" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="4" id="-1">
+                <if comment="false" x="26" y="40">
+                    <group eventID="4" id="-1">
+                        <die comment="false" x="37" y="70">
+                            <ACTOR eid="this" id="0"/>
+                        </die>
+                    </group>
+                    <lesseq comment="false" id="0" x="0" y="0">
+                        <get-game-val-1 comment="false" id="0" x="0" y="0"/>
+                        <int id="1" val="0"/>
+                    </lesseq>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="4" id="-1"/>
+</groups>

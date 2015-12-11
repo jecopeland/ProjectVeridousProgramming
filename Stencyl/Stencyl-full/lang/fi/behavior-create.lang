@@ -1,0 +1,23 @@
+
+# MODES
+sb.mode.code=Koodi
+sb.mode.design=Suunnittelu
+sb.mode.coded=<b>Koodaustila</b><br>Kirjoita yksinkertaista Java-koodia tehdäksesi höysteitä.
+sb.mode.designd=<b>Suunnittelutila</b><br>Liitä yhteen laatikoita luodaksesi käyttäytymismalleja.
+sb.new.title=Luo uusi höyste
+sb.edit.title=Muokkaa höysteen ominaisuuksia
+sb.new.mode=Tila
+sb.new.props=Perusteet
+sb.new.name=Nimi
+sb.new.class=Luokka
+sb.new.category=Kategoria
+sb.new.type=Tyyppi
+sb.new.type.help=Tyyppi määrittää voiko höystettä käyttää hahmon vai lavasteen kanssa.
+sb.new.type.actor=Hahmo
+sb.new.type.scene=Lavaste
+sb.new.description=Kuvaus
+sb.new.draw=Piirtämisjärjestys
+sb.new.update=Päivitysjärjestys
+sb.error.name=Kirjoita ainutlaatuinen nimi.
+sb.error.class=Kirjoita ainutlaatuinen luokka (A-Z, a-z, 0-9).
+sb.error.category=Kirjoita kategoria.

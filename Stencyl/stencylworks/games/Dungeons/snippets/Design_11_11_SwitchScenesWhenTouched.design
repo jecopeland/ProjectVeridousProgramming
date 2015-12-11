@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="2" id="0">
+        <event-collide-actortogroup comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <if comment="false" x="26" y="47">
+                    <group eventID="-1" id="-1">
+                        <scene-change-new comment="false" x="37" y="85">
+                            <SCENE eid="var" id="0" vid="1"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="0.2"/>
+                            <int id="3" val="0"/>
+                            <int id="4" val="1"/>
+                        </scene-change-new>
+                    </group>
+                    <eq comment="false" id="0" x="0" y="0">
+                        <collision-shape-group comment="false" id="0" x="0" y="0"/>
+                        <pick-group comment="false" id="1" x="0" y="0">
+                            <int id="0" val="0"/>
+                        </pick-group>
+                    </eq>
+                </if>
+            </group>
+            <ACTOR eid="this" id="0"/>
+            <GROUP eid="0" id="1"/>
+        </event-collide-actortogroup>
+    </group>
+    <group eventID="2" id="-1"/>
+</groups>

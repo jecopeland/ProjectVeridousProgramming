@@ -1,0 +1,1 @@
+Make a button that opens an URL in the default web browser when clicked or touched.

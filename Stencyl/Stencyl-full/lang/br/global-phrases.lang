@@ -1,0 +1,36 @@
+
+# GLOBALS
+globals.missing=Faltando
+globals.yes=Sim
+globals.no=Não
+globals.ok=OK
+globals.cancel=Cancelar
+globals.open=Abrir
+globals.close=Fechar
+globals.error=Erro
+globals.true=Verdadeiro
+globals.false=Falso
+globals.apply=Aplicar
+globals.savechanges=Salvar Alterações
+globals.done=Feito!
+globals.saveclose=Salvar e Sair
+globals.add=Adicionar
+globals.confirmchanges=Aplicar alterações em <0>?
+globals.confirmchanges.lost=Caso clique <b>Não</b>, suas alterações serão perdidas.
+globals.confirmdelete=<0> será removido. Gostaria de continuar?
+# GENERAL MESSAGES
+msg.opening=Abrindo...
+msg.saving=Salvando...
+msg.saving.temp=Preparando Jogo...
+msg.publishing=Enviando Jogo...
+msg.publishing.code=Enviando Snippets...
+msg.publishing.assets=Enviando Materiais...
+show=Mostrar
+hide=Esconder
+# EMPTY STRINGS
+empty.properties=Nada Selecionado.
+empty.history=Não há Histórico.
+empty.scenes=Nenhum Jogo Aberto.
+empty.library=Nenhum Jogo Aberto.
+empty.layers=Nenhuma Cena Aberta.
+empty.palette=Nenhum Jogo Aberto.

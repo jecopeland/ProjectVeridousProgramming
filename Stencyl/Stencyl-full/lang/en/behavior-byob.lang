@@ -1,0 +1,23 @@
+
+# BYOB
+byob.create.title=Create a New Custom Block
+byob.create.title2=Create a New Global Custom Block
+byob.edit.title=Edit Custom Block
+byob.dg.name=Name
+byob.dg.desc=Description
+byob.dg.spec=Block Spec
+byob.dg.spec.i=How the block will look. Sample: heal %0 by %1
+byob.dg.blanks=Block Fields
+byob.dg.blanks.add=Add Field
+byob.dg.blanks.remove=Remove Field
+byob.dg.return=Return Type
+byob.dg.return.i=The type of this block
+byob.dg.return.none=None (Action Block)
+byob.dg.title.spec=Block Details
+byob.dg.error.spec=Enter something.
+byob.col.spec=Reference for Block Spec Field
+byob.blank.add=Add Blank to Custom Block
+byob.blank.remove=Remove Blank from Custom Block
+byob.blank.type=Type
+byob.blank.type.i=Specify what kind of blocks this blank accepts.
+byob.warn.abc=Only use alphanumeric chars

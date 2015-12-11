@@ -1,0 +1,31 @@
+
+# Actor Creator
+actor.props=Eigenschappen Wijzigen
+actor.rename=Naam wijzigen
+actor.group.edit=Groepen Wijzigen...
+actor.regroup=Kies Groep
+actor.regroup.info=Groepen worden gebruikt om te bepalen welk soort karakters met elkaar botsen.
+actor.props.title=Karaktereigenschappen
+actor.props.newtitle=Nieuw Karakter
+actor.title=Karaktermaker
+actor.title.new=Maak Nieuw Soort Karakter
+actor.title.edit=Wijzig Karaktersoort
+actor.physics=Wijzig Fysica
+actor.physics.info=Wijzig fysieke eigenschappen die voor het karakter gelden. Frictie en vorm-eigenschappen moeten via de Vorm Bewerker gewijzigd worden.
+# Properties
+actor.name=Naam
+actor.group=Karaktergroep
+actor.sprite=Afbeelding
+actor.sprite.choose=Kiezen
+actor.sprite.edit=Wijzigen
+actor.sprite.new=Maken
+# Sprite Chooser
+actor.chooser.title=Kies een Afbeelding
+# Warnings
+actor.warning.name=Gelieve een naam in te geven.
+actor.warning.number=Gelieve een positief getal in te geven.
+actor.warning.nosnippets=Geen Snippet geselecteerd.
+actor.warning.noprops=Deze Snippet heeft geen eigenschappen.
+actor.warning.float=Gelieve een geldig nummer in te geven.
+actor.warning.int=Gelieve een geldig getal in te geven.
+actor.warning.general=Gelieve geldige waarden in te geven voor de velden in het rood.

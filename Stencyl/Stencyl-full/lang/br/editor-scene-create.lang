@@ -1,0 +1,25 @@
+
+scene.new.title=Nova Cena
+scene.edit.title=Editar Propriedades da Cena
+scene.edit.bg.title=Editar Imagens de Fundo
+scene.new.info=Informações Básicas
+scene.new.terrain=Tamanho
+scene.new.background=Fundo
+scene.new.name=Nome
+scene.new.type=Tipo de Cena
+scene.new.type.normal=Normal
+scene.new.type.iso=Isométrica
+scene.new.type.hex=Hexagonal
+scene.new.tiles=tiles
+scene.new.pixels=pixels
+scene.new.width=Largura
+scene.new.height=Altura
+scene.new.tilex=Largura do Tile
+scene.new.tiley=Altura do Tile
+scene.new.background.color=Cor
+scene.new.background.edit=Mais...
+scene.new.color.title=Pipeta de Cores
+scene.new.background.style.solid=Cor Sólida
+scene.new.background.style.none=Sem Cor
+scene.new.background.style.vert=Gradiente Vertical
+scene.warning.name=Favor preencher com um nome único.

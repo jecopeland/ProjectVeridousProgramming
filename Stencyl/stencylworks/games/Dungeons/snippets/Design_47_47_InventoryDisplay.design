@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <draw comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <if comment="false" x="26" y="40">
+                    <group eventID="1" id="-1">
+                        <set-font-new comment="false" x="37" y="73">
+                            <font eid="67" id="0"/>
+                        </set-font-new>
+                        <draw-text comment="false" x="37" y="100">
+                            <int id="0" val="[Inventory]"/>
+                            <int id="1" val="100"/>
+                            <int id="2" val="80"/>
+                        </draw-text>
+                        <draw-text comment="false" x="37" y="120">
+                            <get-game-val-3 comment="false" id="0" x="0" y="0"/>
+                            <int id="1" val="100"/>
+                            <int id="2" val="100"/>
+                        </draw-text>
+                    </group>
+                    <is-special-down comment="false" id="0" x="0" y="0">
+                        <int id="0" val="0"/>
+                    </is-special-down>
+                </if>
+            </group>
+        </draw>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

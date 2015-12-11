@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<palette>
+	<block tag="tile-coord-at" spec="get %0 coordinate of %1 in scene" code="TileAPI.getTilePosition(~,~)" type="normal" color="blue" returns="number">
+		<fields>
+			<dropdown order="0">
+				<choices>
+					<c text="Column (X)" code="0"></c>
+					<c text="Row (Y)" code="1"></c>
+				</choices>
+			</dropdown>
+			<number order="1"></number>
+		</fields>
+	</block>
+					
+	<block tag="set-tile-at" spec="set tile at row: %0 col: %1 layerID: %2 using tileID: %4 from tilesetID: %3" code="TileAPI.setTileAt(Std.int(~),Std.int(~),~,~,~);" type="action" color="blue" returns="void">
+		<fields>
+			<number order="0"></number>
+			<number order="1"></number>
+			<number order="2"></number>
+			<number order="3"></number>
+			<number order="4"></number>
+		</fields>
+	</block>
+	<block tag="tile-exists-at" spec="tile exists at row: %0 col: %1 layerID: %2" code="TileAPI.tileExistsAt(Std.int(~),Std.int(~),~)" type="normal" color="blue" returns="boolean">
+		<fields>
+			<number order="0"></number>
+			<number order="1"></number>
+			<number order="2"></number>
+		</fields>
+	</block>
+	<block tag="tileID-at" spec="ID for tile at row: %0 col: %1 layerID: %2" code="TileAPI.getTileIDAt(Std.int(~),Std.int(~),~)" type="normal" color="blue" returns="number">
+		<fields>
+			<number order="0"></number>
+			<number order="1"></number>
+			<number order="2"></number>
+		</fields>
+	</block>
+	<block tag="tileCollisionAt" spec="tile collision shape found at row: %0 col: %1 layerID: %2" code="TileAPI.tileCollisionAt(Std.int(~),Std.int(~),~)" type="normal" color="blue" returns="boolean">
+		<fields>
+			<number order="0"></number>
+			<number order="1"></number>
+			<number order="2"></number>
+		</fields>
+	</block>
+	<block tag="tileColID-at" spec="collision ID for tile at row: %0 col: %1 layerID: %2" code="TileAPI.getTileColIDAt(Std.int(~),Std.int(~),~)" type="normal" color="blue" returns="number">
+    	<fields>
+      		<number order="0"></number>
+      		<number order="1"></number>
+      		<number order="2"></number>
+    	</fields>
+    </block>
+	<block tag="tilesetID-at" spec="ID for tile's tileset at row: %0 col: %1 layerID: %2" code="TileAPI.getTilesetIDAt(Std.int(~),Std.int(~),~)" type="normal" color="blue" returns="number">
+		<fields>
+			<number order="0"></number>
+			<number order="1"></number>
+			<number order="2"></number>
+		</fields>
+	</block>
+	<block tag="remove-tile-at" spec="remove tile at row: %0 col: %1 layerID: %2" code="TileAPI.removeTileAt(Std.int(~),Std.int(~),~);" type="action" color="blue" returns="void">
+		<fields>
+			<number order="0"></number>
+			<number order="1"></number>
+			<number order="2"></number>
+		</fields>
+	</block>
+	<block tag="tile-data-at" spec="data for tile at row: %0 col: %1 layerID: %2" code="TileAPI.getTileDataAt(Std.int(~),Std.int(~),~)" type="normal" color="blue" returns="text">
+		<fields>
+			<number order="0"></number>
+			<number order="1"></number>
+			<number order="2"></number>
+		</fields>
+	</block>
+	<block tag="tile-data-for-collision" spec="data for collided tile" code="TileAPI.getTileDataForCollision(actor, event, point)" type="normal" color="green" returns="text">
+		<fields />
+	</block>
+</palette>

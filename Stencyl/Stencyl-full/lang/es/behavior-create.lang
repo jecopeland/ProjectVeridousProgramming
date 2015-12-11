@@ -1,0 +1,27 @@
+
+# MODES
+sb.mode.code=Modo código
+sb.mode.design=Modo diseño
+sb.mode.coded=<b>Modo código</b><br>Escribe código simple para crear conductas.
+sb.mode.designd=<b>Modo diseño</b><br>Junta bloques para definir el comportamiento de tus entidades y escenas.
+# NEW BEHAVIOR DIALOG
+sb.new.title=Crear nueva conducta
+sb.edit.title=Editar propiedades
+sb.new.mode=Modo
+sb.new.props=Básico
+sb.new.name=Nombre
+sb.new.class=Nombre de clase
+sb.new.category=Categoría
+sb.new.type=Tipo
+sb.new.type.help=Tipo de conducta
+sb.new.type.actor=<b>Conducta de entidad</b><br>Sólo aplicable a entidades.
+sb.new.type.scene=<b>Conducta de escena</b><br>Sólo aplicable a escenas.
+sb.new.description=Descripción
+sb.new.draw=Orden de aparición
+sb.new.update=Orden de ejecución
+sb.error.integer=Introduce un entero.
+sb.error.number=Introduce un número.
+sb.error.text=Introduce texto.
+sb.error.name=Introduce un nombre único.
+sb.error.class=Nombre de clase no válido.
+sb.error.category=Introduce una categoría.

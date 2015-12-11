@@ -1,0 +1,1 @@
+Slides an intro title at the beginning of the scene.

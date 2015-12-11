@@ -1,0 +1,205 @@
+
+# SCENE LIBRARY
+scene.type=Escena
+scene.edit=Editar esta escena
+scene.create=Crear una nueva escena
+scene.delete=Eliminar esta escena
+scene.filter=Buscar...
+# SCENE PAGES
+scene.top.main=Escena
+scene.top.gui=Interfaz de usuario
+scene.top.behavior=Conductas
+scene.top.properties=Propiedades
+scene.top.background=Fondo
+scene.top.physics=Física
+scene.top.test=Probar escena
+# SCENE MODES
+scene.mode.layer=Modo de capa
+scene.mode.working=Modo de trabajo
+# BAR
+bar.grid=<0> cuadrícula
+bar.anim=<0> animaciones
+bar.screen=<0> límites de pantalla
+bar.bg=<0> fondos
+bar.fg=<0> frentes
+# EMPTY
+library.empty.palette=Este juego no contiene <0>.
+library.empty.palette.actor=Crear nueva entidad
+# PHYSICS
+scene.physics.gravx=Gravedad (horizontal)
+scene.physics.left=Izquierda
+scene.physics.right=Derecha
+scene.physics.gravy=Gravedad (vertical)
+scene.physics.up=Arriba
+scene.physics.down=Abajo
+scene.physics.desc=Usa un valor de '85 abajo' para simular la gravedad del mundo real.
+# BACKGROUNDS / FOREGROUNDS
+scene.background.explanation=Añade imágenes de fondo y de frente que se desplazarán en parallax con la escena.<br>Los fondos se presentan detrás de la escena, mientras que los frentes se presentan en primer plano.
+scene.backgrounds=Fondos
+scene.foregrounds=Frentes
+scene.background.new=Añadir nuevo fondo
+scene.background.delete=Quitar fondo
+scene.background.up=Mover fondo hacia arriba
+scene.background.down=Mover fondo hacia abajo
+scene.foreground.new=Añadir nuevo frente
+scene.foreground.delete=Quitar frente
+scene.foreground.up=Mover frente hacia arriba
+scene.foreground.down=Mover frente hacia abajo
+scene.background.create=Crear nuevo fondo
+scene.background.edit=Editar este fondo
+scene.foreground.edit=Editar este frente
+scene.background.chooser.title=Elegir un fondo
+scene.chooser.title=Elegir una escena
+scene.actorinstance.title=Editar conducta de '<0>'
+# UNDO/REDO
+scene.action.tile.place=Colocar baldosa
+scene.action.tiles.place=Colocar baldosas
+scene.action.actor.place=Colocar entidad
+scene.action.actors.place=Colocar entidades
+scene.action.actor.rotate=Rotar entidad
+scene.action.actors.rotate=Rotar entidades
+scene.action.select.delete=Eliminar selección
+scene.action.select.nudge=Mover selección
+scene.action.select.move=Mover selección
+scene.action.select.switchlayer=Cambiar de capa
+scene.action.select.back=Atrasar
+scene.action.select.toback=Enviar al fondo
+scene.action.select.forward=Adelantar
+scene.action.select.tofront=Traer al frente
+scene.action.layer.add=Añadir capa
+scene.action.layer.remove=Quitar capa
+# LAYERS
+scene.layer=Capa <0>
+scene.layer.header.name=Nombre
+scene.layer.header.color=Color
+scene.layer.header.show=¿Mostrar?
+scene.layer.new=Nueva capa
+scene.layer.delete=Eliminar capa
+scene.layer.up=Adelantar capa
+scene.layer.down=Atrasar capa
+scene.layer.rename=Renombrar capa
+# ROLLOVER
+actor.rollover=<0> (ID: <1>) (<2>, <3>)
+actor.rollovershort=<0>
+# JOINTS
+joints.stick=Articulación de palo
+joints.hinge=Articulación de bisagra
+joints.sliding=Articulación deslizante
+joints.pulley=Articulación de polea
+joints.gear=Articulación de engranaje
+joints.info.selected=<0> (<1>) seleccionado. Haz doble clic para editar sus propiedades.
+joint.edit.title=Editar propiedades de la articulación
+joint.edit.general=General
+joint.edit.stick=Avanzado
+joint.edit.hinge.limit=Límites
+joint.edit.slide.limit=Límites
+joint.edit.hinge.motor=Motor
+joint.edit.slide.motor=Motor
+joint.edit.direction=Dirección de deslizamiento
+joint.edit.name=Nombre
+joint.edit.namei=Usa un nombre descriptivo para ayudarte a identificar esta articulación.
+joint.edit.name.err=Introduce un nombre no vacío.
+joint.edit.collisions=Colisiones
+joint.edit.collide=¿Deben colisionar las entidades?
+joint.edit.collidei=Cuando dos entidades están conectadas por una articulación, lo normal es deshabilitar las colisiones entre ellas.
+joint.edit.damping=Amortiguamiento
+joint.edit.dampingi=Reduce el efecto de cualquier perturbación en esta articulación. Es como una puerta que se cierra suavemente en vez de oscilar bruscamente. Un valor de 1 se considera "amortiguamiento crítico" y no oscilará en absoluto.
+joint.edit.dampingl=Ninguno
+joint.edit.dampingh=Crítico
+joint.edit.freq=Rigidez
+joint.edit.freqi=Determina lo rígida o suelta que es la articulación. Las articulaciones sueltas son como de goma.
+joint.edit.freql=Rígida
+joint.edit.freqh=Suelta
+joint.edit.hlimit=¿Activar límite?
+joint.edit.hlimiti=Los límites evitan que esta articulación rote más allá de determinados ángulos.
+joint.edit.hlower=Límite inferior
+joint.edit.hloweri=En grados, relativo al ángulo inicial.
+joint.edit.hlowere=Introduce un número.
+joint.edit.hupper=Límite superior
+joint.edit.hupperi=En grados, relativo al ángulo inicial.
+joint.edit.huppere=Introduce un número.
+joint.edit.slimit=¿Activar límite?
+joint.edit.slimiti=Los límites evitan que esta articulación se deslice más allá de determinados puntos.
+joint.edit.slower=Límite inferior
+joint.edit.sloweri=En píxeles, relativo al punto inicial.
+joint.edit.slowere=Introduce un número.
+joint.edit.supper=Límite superior
+joint.edit.supperi=En píxeles, relativo al punto inicial.
+joint.edit.suppere=Introduce un número.
+joint.edit.hmotor=¿Activar motor?
+joint.edit.hmotori=Hace que la articulación rote automáticamente.
+joint.edit.htorque=Rigidez
+joint.edit.htorquei=La resistencia que esta articulación opondrá al ser impulsada por un motor. También llamada par de torsión.
+joint.edit.htorquee=Introduce un número positivo.
+joint.edit.hspeed=Velocidad
+joint.edit.hspeedi=La velocidad a la que rota la articulación, en grados por fotograma. Un valor negativo la hace rotar en el sentido contrario a las agujas del reloj.
+joint.edit.hspeede=Introduce un número.
+joint.edit.smotor=¿Activar motor?
+joint.edit.smotori=Hace que la articulación se deslice automáticamente.
+joint.edit.sforce=Rigidez
+joint.edit.sforcei=La resistencia que esta articulación opondrá al ser impulsada por un motor.
+joint.edit.sforcee=Introduce un número positivo.
+joint.edit.sspeed=Velocidad
+joint.edit.sspeedi=La velocidad a la que se desliza la articulación. Puede ser negativa.
+joint.edit.sspeede=Introduce un número.
+joint.edit.x=Dirección en X
+joint.edit.xi=Dirección en la que se deslizará la entidad, relativa a la entidad primaria.
+joint.edit.xe=Introduce un número.
+joint.edit.y=Dirección en Y
+joint.edit.yi=Dirección en la que se deslizará la entidad, relativa a la entidad primaria.
+joint.edit.ye=Introduce un número.
+joint.edit.hinge1=La articulación de bisagra montará <0> con el fondo.
+joint.edit.hinge2=La articulación de bisagra montará <0> con <1>.
+joint.edit.slide1=La articulación deslizante montará <0> con el fondo.
+joint.edit.slide2=La articulación deslizante montará <0> con <1>.
+# PICKING
+actor.choose=Elige una entidad de esta escena...
+joint.choose=Elige una articulación de esta escena...
+region.choose=Elige una zona de esta escena...
+terrain.region.choose=Elige un terreno de esta escena...
+actor.choose.i=Pulsa sobre una entidad para seleccionarla.
+joint.choose.i=Pulsa sobre una articulación para seleccionarla.
+region.choose.i=Pulsa sobre una zona para seleccionarla.
+terrain.region.choose.i=Pulsa sobre un terreno para seleccionarlo.
+# REGIONS
+region.info.selected=<0> (<1>) (Pos: <2>, <3>)
+region.info.dim=(<0>, <1>) (Anchura: <2> Altura: <3>)
+region.edit.name=Nombre
+region.edit.namee=Introduce un nombre.
+region.edit.title=Editar propiedades de la zona
+region.edit.color=Color
+# TERRAIN REGIONS
+terrain.region.info.selected=<0> (<1>) (Pos: <2>, <3>)
+terrain.region.info.dim=(<0>, <1>) (Anchura: <2> Altura: <3>)
+terrain.region.edit.name=Nombre
+terrain.region.edit.namee=Introduce un nombre.
+terrain.region.edit.title=Editar propiedades del terreno
+terrain.region.edit.color=Color
+terrain.region.edit.group=Grupo
+# OTHER
+general.info=Moviendo a (<0>, <1>)
+# BEHAVIORS
+scene.snippet.instance.add=Crear conducta específica de escena
+scene.snippet.instance.open=Editar conducta
+scene.snippet.instance.import=Importar conducta desde biblioteca
+scene.snippet.instance.delete=Quitar conducta
+# SCREEN CAPTURE
+capture.title=Pantalla capturada
+capture.body=%s se ha guardado en tu Escritorio.
+capture.error=No se pudo capturar la pantalla. Inténtalo de nuevo.
+# MODULES
+mod.palette=Paleta
+mod.history=Historial
+mod.layers=Capas
+mod.game=Biblioteca
+mod.properties=Propiedades
+mod.scenes=Escenas
+mod.tools=Herramientas
+mod.output=Salida
+mod.variables=Atributos
+# PALETTE
+palette.tile=Baldosas
+palette.actor=Entidades
+palette.custom=Personalizados
+palette.tilesets=Elige un set de baldosas
+palette.tilesets.create=Crear nuevo set de baldosas

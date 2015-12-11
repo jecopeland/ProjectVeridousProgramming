@@ -1,0 +1,33 @@
+
+# ATTRIBUTES PANE
+sb.var.single=atributo
+sb.var.title=Editar atributos
+sb.var.add=Crear un atributo...
+sb.var.addlist=Crear un atributo lista...
+sb.var.remove=Borrar atributo
+sb.var.default=Editar atributo
+sb.var.viewcontrols=Mostrar página de controles
+sb.var.up=Mover arriba
+sb.var.down=Mover abajo
+sb.var.header.name=Nombre interno
+sb.var.header.aname=Aplicar nombre
+sb.var.header.lname=Nombre
+sb.var.header.desc=Descripción
+sb.var.header.order=Orden de exposición
+sb.var.header.type=Tipo
+sb.var.hidden=¿Oculto?
+sb.var.hidden.info=Los atributos ocultos no aparecen cuando el usuario configura esta conducta. <br>Son como variables locales.
+sb.var.header.val=Valor por defecto
+sb.var.default.info=El valor por defecto determina el valor mostrado por defecto en<br> la página de conductas cuando el usuario configura esta conducta.
+sb.var.error.val=Introduce un <0> válido.
+sb.var.edit.val=Valor por defecto
+sb.var.edit.nosound=Ningún sonido
+sb.var.edit.nocontrol=Ningún control
+sb.var.edit.nofont=Fuente por defecto
+sb.var.error.name=Introduce un nombre único.
+sb.var.error.desc=Introduce una descripción no vacía.
+sb.var.cat.general=General
+sb.var.cat.dropdown=Desplegable
+sb.var.cat.range=Rango
+sb.var.drop.title=Datos de desplegable
+sb.var.drop.desc=Muestra un desplegable en lugar de un campo de texto.<br>El formato es una entrada por línea, nombre[eq]valor.<br>Por ejemplo: <br><br>Nombre[eq]Valor<br>Stencyl[eq]Maravilloso<br>Pato pequinés[eq]Delicioso<br><br>Esta interfaz será reemplazada en el futuro.

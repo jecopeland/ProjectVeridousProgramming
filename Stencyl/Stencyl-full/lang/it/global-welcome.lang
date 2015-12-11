@@ -1,0 +1,54 @@
+
+# EULA
+eula.about=L'utilizzo di questo software è soggetto alla licenza Stencyl License Agreement.
+eula.online=Leggi online la copia di questo contratto a <0>
+eula.missing=Oh Oh!
+uela.missing.i=Non posso scaricare il contratto EULA, ma lo puoi trovare a <0>
+eula.agree=Approvo
+eula.disagree=Non approvo
+eula.error.refuse=Devi approvare la nostra licenza prima di procedere.
+eula.error.refuse.i=Domande o perplessità? Contattaci a stencyl.com
+# WELCOME SCREEN
+welcome.cc.title=Fai il corso veloce (30 minuti)
+welcome.cc.desc=Impara come creare un gioco in Stencyl e a familiarizzare con il tool.
+welcome.pedia.title=Visita Stencylpedia
+welcome.pedia.desc=Stencylpedia è la guida ufficiale. Copre tutti i fondamenti.
+welcome.forum.title=Visita la comunità Stencyl
+welcome.forum.desc=Visita il nostro forum, dove potrai fare domande e socializzare con altri utilizzatori Stencyl come te.
+# SIGN IN
+signin.yes=Accedi
+signin.no=Ricordamelo dopo
+signin.info=Sei già registrato?
+signin.info2=Password dimenticata?
+signin.register=Registrati
+signin.name=Nome utente
+signin.name.error=Accedi con il tuo nome utente e non con l'email.
+signin.key=Password
+signin.key.again=Password (Ripeti)
+signin.email=E-Mail
+signin.as=Registrato come: <0>
+# REGISTER
+register.info=Sono richiesti tutti i campi.
+register.limit.info=Nota: prego utilizzare solo letteri e numeri per
+register.limit.info2=nome utente e password.
+register.error.sorry=Ci dispiace, <0>
+register.error.server=Il server ha trovato un errore. Stiamo cercando di capire il problema. Prego riprovare più tardi.
+register.error.beta=Account Beta non valida.
+register.error.name.taken=Questo nome è già stato utilizzato.
+register.error.email.taken=Questa e-mail è già stata utilizzata.
+register.error.email.invalid=Indirizzo E-Mail non valido.
+register.error.name.length=Nome utente dev'essere di 3-20 caratteri.
+register.error.password.length=Password dev'essere di 5-20 caratteri.
+register.error.name.invalid=Solo lettere e numeri per il nome utente.
+register.error.password=Le password non coincidono
+register.error.password2=Inseriscile nuovamente.
+register.error.email=E-Mail non valida
+register.error.email2=name@gmail.com - non utilizzare + o altri caratteri speciali.
+register.error.field=Riempi tutti i campi.
+register.error.field2=Alcuni sono ancora vuoti.
+# REGISTER
+register.info=Grazie <0>!
+register.info2=Puoi usare il tuo account per accedere a StencylForge, Stencyl.com e i nostri Forums.
+# SIGN OUT
+signout.promp=Stencyl verrà chiuso per completare il processo di uscire.
+signout.promp.i=Ti verrà chiesto di salvare il tuo gioco se aperto.

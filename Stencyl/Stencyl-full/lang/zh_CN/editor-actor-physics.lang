@@ -1,0 +1,37 @@
+
+# Physics
+physics.general=全体
+physics.damping=阻尼
+physics.mass=质量
+physics.material=物质
+actor.physics.title=编辑物理特性
+actor.adamp=角度阻尼(Angular Damping)
+actor.adamp.info=降低演员的角度速度.
+actor.ldamp=直线阻尼(Linear Damping)
+actor.ldamp.info=降低演员的直线速度
+actor.damp.full=满
+actor.damp.none=空
+actor.grav=不顾地心吸力?
+actor.grav.info=如选择了,演员会不顾地心吸力.
+actor.mass=质量(Mass)
+actor.mass.info=用来决定物体有多重.
+actor.inert=角度质量(Angular Mass)
+actor.inert.info=又称moment of intertia
+actor.light=轻
+actor.heavy=重
+actor.rot=可不可旋转?
+actor.rot.info=如选择了,演员可随意旋转.
+actor.static=演员是否于静态?
+actor.static.info=在静态内的演员是不可移动,是四周环境的一部分.
+actor.material=预先订立物质
+actor.material.info=以你方便,你可预先订立物质如冰块.
+actor.material.choose=选择一个物质
+actor.material.ice=冰块
+actor.material.wood=木块
+actor.material.metal=金属
+actor.material.stone=石块
+actor.material.plastic=塑胶
+actor.material.rubber=橡胶
+actor.material.dead=完全没有弹性
+actor.material.bouncy=超级球
+actor.material.custom=特制

@@ -1,0 +1,71 @@
+
+# EULA
+eula.about=Use of this software is subject to the Stencyl License Agreement.
+eula.online=Read an online copy of this agreement at <0>
+eula.missing=Uh Oh!
+uela.missing.i=We couldn't load the EULA, but you can still find it at <0>
+eula.agree=I agree
+eula.disagree=I don't agree
+eula.error.refuse=You must agree to our license to proceed.
+eula.error.refuse.i=Questions or concerns? Contact us at stencyl.com
+# WELCOME SCREEN
+welcome.cc.title=Run Through our Crash Course (30 minutes)
+welcome.cc.desc=Learn the Stencyl way of creating games and get accustomed to the toolset.
+welcome.pedia.title=Visit Stencylpedia
+welcome.pedia.desc=Stencylpedia is our official guide. It covers all of the fundamentals.
+welcome.forum.title=Visit the Stencyl Community
+welcome.forum.desc=Visit our community forums, where you can ask questions and socialize with Stencylers like yourself.
+# SIGN IN
+signin.yes=Sign In
+signin.no=Remind Me Later
+signin.info=Already have an account?
+signin.info2=Forgot Password?
+signin.register=Sign Up
+signin.name=Username
+signin.name.error=Sign in with your username rather than e-mail address.
+signin.key=Password
+signin.key.again=Password (Again)
+signin.email=E-Mail
+signin.as=Logged in as: <0>
+# REGISTER
+register.info.inst=All fields are required.
+register.limit.info=Note: Please use only letters & numbers for the username and password.
+register.limit.info2=
+register.error.sorry=Sorry, <0>
+register.error.server=The server encountered an error. We're looking into the problem. Please try again later.
+register.error.beta=Invalid Beta Account.
+register.error.name.taken=That username is already taken.
+register.error.email.taken=That e-mail is already taken.
+register.error.email.invalid=Invalid E-Mail Address.
+register.error.name.length=Username needs to be 3-20 characters.
+register.error.password.length=Password needs to be 5-20 characters.
+register.error.name.invalid=Only letters and numbers for the username.
+register.error.password=Passwords don't match
+register.error.password2=Type them in again.
+register.error.email=Invalid E-Mail
+register.error.email2=name@gmail.com - don't use + or other special characters.
+register.error.field=Fill in all of the fields.
+register.error.field2=Some are currently blank.
+# REGISTER
+register.info=Thanks <0>!
+register.info2=You can use this account to access StencylForge, Stencyl.com and our Forums.
+# SIGN OUT
+signout.promp=Stencyl will now close to complete the sign out process.
+signout.promp.i=You'll be asked to save your game if one is open.
+# WELCOME CENTER
+welcome.cc.panel.title=Is this your first time? Run through our Crash Course.
+welcome.cc.panel.start=Start Crash Course
+welcome.workspace.games=View Games Folder
+welcome.delete.title=Stencyl could not delete this game.
+welcome.delete.desc=Remove it manually from the games folder. Stencyl will attempt to show where the game is.
+# UPGRADE
+upgrade.30.msg1=Upgrade this game to the Stencyl 3.0 project format?
+upgrade.30.msg2=Stencyl needs to upgrade this game to make it compatible with 3.0.
+upgrade.30.yes=Upgrade and Continue
+upgrade.30.no=Close Game - Don't Upgrade
+upgrade.30.success=Your game has been successfully upgraded.
+upgrade.format.msg1=Upgrade this game to the Stencyl <0> project format?
+upgrade.format.msg2=Stencyl needs to upgrade this game to make it compatible with <0>.
+upgrade.format.yes=Upgrade and Continue
+upgrade.format.no=Close Game - Don't Upgrade
+upgrade.format.success=Your game has been successfully upgraded.

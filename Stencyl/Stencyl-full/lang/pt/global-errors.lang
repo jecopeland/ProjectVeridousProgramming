@@ -1,0 +1,36 @@
+
+# ERRORS
+generic.warning.name=Introduza um nome.
+error.nan=Introduza um número.
+error.negative=Introduza um número positivo.
+error.blank=Introduza um valor.
+error.anim.load=Aviso: Informação da Imagem Não Encontrada
+error.anim.load.i=Stencyl não pode localizar a informação da imagem para um ou mais tipos de ator e substituir por imagens em branco continuar. Fecha o jogo, não guarde e coloca-o no fórum.
+error.save.kittogame=Não foi possível converter '<0>' de um kit para um game.
+error.preview.noscenes.title=Não foi possível pre-visualizar o jogo
+error.preview.noscenes=Este jogo não tem cenas. Crie uma cena antes de pre-visualizar o jogo.
+error.publish.noscenes.title=Não foi possível publicar o jogo.
+error.publish.noscenes=Este jogo não tem cenas. Crie uma cena antes de pre-visualizar o jogo.
+error.download.mult.title=Não é possível transferir vários recursos ao mesmo tempo
+error.download.mult.desc=Espere até que a sua primeira transferência esteja completa.
+error.import.game.invalid=Este ficheiro não é um jogo ou kit Stencyl válido:
+error.scene.recover=Stencyl detetou um ficheiro de cena corrupto. Gostaria de auto-recuperar o ficheiro?
+error.scene.recover.restart=Se optar por continuar, o Stencyl vai automaticamente reniciar quando terminado.
+error.write.warn=Atualização automática falhada
+error.write.win.msg1=O Stencyl está instalado numa diretoria que não pode ser escrita.
+error.write.win.msg2=Solução: Executar o Stencyl como um administrador.
+error.write.mac.msg1=O Stencyl está instalado numa diretoria que não pode ser escrita.
+error.write.mac.msg2=Solução: Executar o Stencyl como um administrador.
+error.write.linux.msg1=O Stencyl está instalado numa diretoria que não pode ser escrita.
+error.write.linux.msg2=Solução: Executar o Stencyl como um administrador.
+error.write.work.msg1=O Stencyl está instalado numa diretoria que não pode ser escrita.
+error.write.work.msg2=O Stencyl vai tentar mudar o Espaço de Trabalho para '<0>'
+error.loc.warn=Aviso!
+error.loc.work.msg1=O Stencyl gostaria de migrar os seus jogos e definições para a sua pasta pessoal.
+error.loc.work.msg2=Separar a sua data da diretoria onde o Stencyl está instalado faz-a mais segura, mais portátil e segue melhores práticas.
+error.loc.work.msg3=O Stencyl gostaria de converter as suas pastas de jogos e definições para um novo estilo de hierarquia.
+error.loc.work.msg4=Jogos e definições vão agora estar num espaço de trabalho para melhor organização.
+error.loc.work.restart1=Espaço de Trabalho mudado com sucesso!
+error.loc.work.restart2=Stencyl necessita de ser reiniciado para completar as mudanças.
+error.loc.work.missing1=O espaço de trabalho definido numa instalação prévia do Stencyl está desaparecido.
+error.loc.work.missing2=Stencyl vai tentar criar um novo espaço de trabalho em '<0>'

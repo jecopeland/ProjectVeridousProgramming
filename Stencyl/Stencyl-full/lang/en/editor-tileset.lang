@@ -1,0 +1,61 @@
+
+# Tileset Creator
+tset.top.tileset=Tileset
+tset.top.properties=Properties
+tset.title=Tileset Creator
+tset.stile=the selected tile
+tset.stiles=the selected tiles
+tset.properties=Rename Tileset
+tset.details1=Contains <0> tiles
+tset.details2=Tileset Size: <0> x <1>
+tset.details3=Tile Size: <0> x <1>
+tset.details4=Tile ID: <0>
+tset.details5=TilesetID: <0>
+tset.tile.create=Add Tiles
+tset.tile.resize=Change Tile Size
+tset.tile.modify=Replace Selected Tiles
+tset.tile.modify.external=Edit Image
+tset.tile.resize.w=Tile Width
+tset.tile.resize.h=Tile Height
+tset.tile.overlay=Shape Overlay
+tset.tile.select=Select Tiles
+tset.tile.move=Move Tiles
+tset.menu.import=Import Existing Tile
+tset.tile.add.title=Import Tiles from Sheet
+tset.col.add.before=Insert Column Before
+tset.col.add.after=Insert Column After
+tset.col.delete=Delete Column
+tset.col.duplicate=Duplicate Column
+tset.row.add.before=Insert Row Before
+tset.row.add.after=Insert Row After
+tset.row.delete=Delete Row
+tset.row.duplicate=Duplicate Row
+tset.blank=Select a tile to edit it.
+tset.inst2=Use the fields on the left to chop up the tile sheet.
+# Tile Editor
+tset.anim.collision=Collision Bounds
+tset.anim.title2=Frames
+tset.data=Data
+tset.menu.addframe=Add Frame
+tset.menu.editframe=Edit Frame
+tset.menu.removeframe=Remove Frame
+tset.anim.add.import=Import Frames
+# Shape Editor
+tset.shapes.add.box=Create Box...
+tset.shapes.add.poly=Create Polygon...
+tset.shapes.add=Add Shape
+tset.shapes.remove=Remove Shape
+tset.shapes.edit=Edit Shape
+tset.shapes.add.title=Create a Box...
+tset.shapes.edit.title=Edit a Box...
+tset.poly.add.title=Create a Polygon...
+tset.poly.edit.title=Edit Polygon...
+tset.shapes.x=X Position
+tset.shapes.y=Y Position
+tset.poly.add=Add Point
+tset.poly.remove=Remove Point
+tset.poly.inst=Define points in <b>counter-clockwise</b> order.
+tset.poly.inst2=Drag and drop the points.
+tset.poly.inst3=Concave shapes are not allowed.
+# OTHER
+tset.error.size=Warning: Your image is not a multiple of the tile size.

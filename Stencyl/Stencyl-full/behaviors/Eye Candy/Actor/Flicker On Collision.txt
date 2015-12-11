@@ -1,0 +1,1 @@
+Makes the actor flicker when it collides with something.

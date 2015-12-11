@@ -1,0 +1,45 @@
+
+# Actor Creator
+actor.props=Propriedades
+actor.rename=Renomear Tipo de Ator
+actor.group.edit=Editar Grupos...
+actor.regroup=Escolher Grupo
+actor.regroup.info=Grupos são usados para determinar que tipos de Atores colidem entre si.
+actor.props.title=Propriedades do Tipo de Ator
+actor.props.newtitle=Novo Tipo de Ator
+actor.title=Criador de Tipos de Ator
+actor.title.new=Criar um novo Tipo de Ator
+actor.title.edit=Editar o Tipo de Ator
+actor.physics=Editar Física
+actor.physics.info=Editar valores físicos que se aplicam ao Actor inteiro. Fricção e outros valores específicos de formas devem ser editados no editor de Formas.
+# Actor Top Bar
+actor.top.overview=Panorâmica
+actor.top.appearance=Aparência
+actor.top.behavior=Comportamentos
+actor.top.collision=Colisão
+actor.top.physics=Física
+actor.top.properties=Propriedades
+actor.top.attach=Adicionar à Cena
+# Properties
+actor.name=Nome
+actor.description=Descrição
+actor.group=Grupo 
+actor.sprite=Sprite
+actor.sprite.choose=Seleccionar Sprite
+actor.anim.choose=Escolha uma Animação...
+actor.scene.choose=Escolha uma Cena...
+actor.sprite.edit=Editar
+actor.sprite.new=Criar
+# Sprite Chooser
+actor.chooser.title=Seleccione uma Sprite
+# Warnings
+actor.warning.name=Por favor, introduza um nome.
+actor.warning.name.invalid=Nome invalido.
+actor.warning.blank=Introduza um nome.
+actor.warning.number=Introduza um número inteiro e positivo.
+actor.warning.nosnippets=Clique aqui para escolher um Comportamento para anexar a este Tipo de Ator.
+actor.warning.nosnippets2=Clique aqui para escolher um Comportamento para anexar a esta Cena.
+actor.warning.noprops=Este Comportamento não contém propriedades para configurar.
+actor.warning.float=Por favor, introduza um número válido.
+actor.warning.int=Por favor, introduza um número inteiro.
+actor.warning.general=Introduza valores válidos nos campos assinalados a vermelho.

@@ -1,0 +1,217 @@
+2015-12-01 13:59:59,864 INFO  [main] stencyl.sw.Session: Logfile: /Users/pome012/stencylworks/logs/2015-12-01_13-59-59.log
+2015-12-01 13:59:59,873 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-12-01 13:59:59,874 INFO  [main] stencyl.sw.Session: OS Version: 10.10.5
+2015-12-01 13:59:59,874 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_65
+2015-12-01 13:59:59,874 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2015-12-01 13:59:59,875 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/pome012/
+2015-12-01 13:59:59,876 INFO  [main] stencyl.sw.Session: User Working Directory: /Users/pome012/Stencyl/Stencyl-full (1)
+2015-12-01 13:59:59,876 INFO  [main] stencyl.sw.Session: User Home Directory: /Users/pome012
+2015-12-01 13:59:59,877 INFO  [main] stencyl.sw.Session: System Path: /usr/bin:/bin:/usr/sbin:/sbin
+2015-12-01 13:59:59,913 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl7678612048448469263
+2015-12-01 13:59:59,915 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-phrases.lang
+2015-12-01 13:59:59,924 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-errors.lang
+2015-12-01 13:59:59,927 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-menu.lang
+2015-12-01 13:59:59,935 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-welcome.lang
+2015-12-01 13:59:59,944 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-dashboard.lang
+2015-12-01 13:59:59,951 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-publish.lang
+2015-12-01 13:59:59,956 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-updater.lang
+2015-12-01 13:59:59,960 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-chat.lang
+2015-12-01 13:59:59,966 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-misc.lang
+2015-12-01 13:59:59,970 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-forge.lang
+2015-12-01 13:59:59,974 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-prefs.lang
+2015-12-01 13:59:59,977 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-creategame.lang
+2015-12-01 13:59:59,981 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-main.lang
+2015-12-01 13:59:59,985 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blocks.lang
+2015-12-01 14:00:00,015 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blockhelp.lang
+2015-12-01 14:00:00,042 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-events.lang
+2015-12-01 14:00:00,046 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-code.lang
+2015-12-01 14:00:00,050 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-attributes.lang
+2015-12-01 14:00:00,057 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-create.lang
+2015-12-01 14:00:00,061 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-byob.lang
+2015-12-01 14:00:00,065 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-main.lang
+2015-12-01 14:00:00,071 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-physics.lang
+2015-12-01 14:00:00,074 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-background.lang
+2015-12-01 14:00:00,077 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-behaviorchooser.lang
+2015-12-01 14:00:00,081 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-desktop.lang
+2015-12-01 14:00:00,084 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-font.lang
+2015-12-01 14:00:00,088 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-sound.lang
+2015-12-01 14:00:00,091 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-tileset.lang
+2015-12-01 14:00:00,095 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-preloader.lang
+2015-12-01 14:00:00,099 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-mobile.lang
+2015-12-01 14:00:00,103 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-groups.lang
+2015-12-01 14:00:00,106 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-attributes.lang
+2015-12-01 14:00:00,110 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-input.lang
+2015-12-01 14:00:00,113 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-animation.lang
+2015-12-01 14:00:00,117 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-main.lang
+2015-12-01 14:00:00,122 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-create.lang
+2015-12-01 14:00:00,125 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-tools.lang
+2015-12-01 14:00:00,128 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-phrases.lang
+2015-12-01 14:00:00,130 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-errors.lang
+2015-12-01 14:00:00,130 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-menu.lang
+2015-12-01 14:00:00,131 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-welcome.lang
+2015-12-01 14:00:00,132 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-dashboard.lang
+2015-12-01 14:00:00,133 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-publish.lang
+2015-12-01 14:00:00,134 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-updater.lang
+2015-12-01 14:00:00,135 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-chat.lang
+2015-12-01 14:00:00,136 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-misc.lang
+2015-12-01 14:00:00,137 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-forge.lang
+2015-12-01 14:00:00,138 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-prefs.lang
+2015-12-01 14:00:00,138 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-creategame.lang
+2015-12-01 14:00:00,139 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-main.lang
+2015-12-01 14:00:00,141 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blocks.lang
+2015-12-01 14:00:00,148 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blockhelp.lang
+2015-12-01 14:00:00,163 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-events.lang
+2015-12-01 14:00:00,164 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-code.lang
+2015-12-01 14:00:00,164 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-attributes.lang
+2015-12-01 14:00:00,165 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-create.lang
+2015-12-01 14:00:00,165 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-byob.lang
+2015-12-01 14:00:00,166 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-main.lang
+2015-12-01 14:00:00,166 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-physics.lang
+2015-12-01 14:00:00,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-background.lang
+2015-12-01 14:00:00,167 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-behaviorchooser.lang
+2015-12-01 14:00:00,168 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-desktop.lang
+2015-12-01 14:00:00,168 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-font.lang
+2015-12-01 14:00:00,169 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-sound.lang
+2015-12-01 14:00:00,170 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-tileset.lang
+2015-12-01 14:00:00,171 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-preloader.lang
+2015-12-01 14:00:00,171 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-mobile.lang
+2015-12-01 14:00:00,172 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-groups.lang
+2015-12-01 14:00:00,173 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-attributes.lang
+2015-12-01 14:00:00,173 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-input.lang
+2015-12-01 14:00:00,173 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-animation.lang
+2015-12-01 14:00:00,174 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-main.lang
+2015-12-01 14:00:00,175 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-create.lang
+2015-12-01 14:00:00,176 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-tools.lang
+2015-12-01 14:00:01,890 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-12-01 14:00:01,895 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2015-12-01 14:00:01,975 DEBUG [Thread-2] stencyl.sw.util.StreamGobbler: [xcode-select] xcode-select: error: unable to get active developer directory, use `xcode-select --switch` to set one (or see `man xcode-select`)
+2015-12-01 14:00:01,982 DEBUG [Thread-3] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: xcode-select: error: unable to get active developer directory, use `xcode-select --switch` to set one (or see `man xcode-select`)
+2015-12-01 14:00:01,986 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: 
+2015-12-01 14:00:01,990 DEBUG [Thread-5] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: /Applications/Xcode.app/Contents/Developer
+2015-12-01 14:00:01,994 DEBUG [Thread-6] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: /Developer
+2015-12-01 14:00:02,078 WARN  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: No Xcode found.
+2015-12-01 14:00:02,863 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2015-12-01 14:00:02,871 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2015-12-01 14:00:02,879 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2015-12-01 14:00:02,886 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2015-12-01 14:00:02,890 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2015-12-01 14:00:02,894 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2015-12-01 14:00:02,898 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2015-12-01 14:00:02,905 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2015-12-01 14:00:02,913 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2015-12-01 14:00:02,920 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2015-12-01 14:00:02,927 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2015-12-01 14:00:02,931 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2015-12-01 14:00:02,942 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2015-12-01 14:00:02,946 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2015-12-01 14:00:02,953 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2015-12-01 14:00:02,960 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2015-12-01 14:00:02,969 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2015-12-01 14:00:02,978 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within /Users/pome012/stencylworks/extensions: []
+2015-12-01 14:00:02,978 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within /Users/pome012/stencylworks/extensions: []
+2015-12-01 14:00:02,979 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2015-12-01 14:00:02,979 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within /Users/pome012/stencylworks/engine-extensions: [/Users/pome012/stencylworks/engine-extensions/ads, /Users/pome012/stencylworks/engine-extensions/gamecenter, /Users/pome012/stencylworks/engine-extensions/gestures, /Users/pome012/stencylworks/engine-extensions/google, /Users/pome012/stencylworks/engine-extensions/hypertouch, /Users/pome012/stencylworks/engine-extensions/joystick, /Users/pome012/stencylworks/engine-extensions/label, /Users/pome012/stencylworks/engine-extensions/native, /Users/pome012/stencylworks/engine-extensions/purchases, /Users/pome012/stencylworks/engine-extensions/test, /Users/pome012/stencylworks/engine-extensions/test-flash, /Users/pome012/stencylworks/engine-extensions/test-native, /Users/pome012/stencylworks/engine-extensions/tileapi]
+2015-12-01 14:00:02,979 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: ads is a core engine extension. Skip.
+2015-12-01 14:00:02,979 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: gamecenter is a core engine extension. Skip.
+2015-12-01 14:00:02,979 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: gestures is a core engine extension. Skip.
+2015-12-01 14:00:02,980 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: google is not a valid engine extension. Skip.
+2015-12-01 14:00:02,981 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: hypertouch is a core engine extension. Skip.
+2015-12-01 14:00:02,981 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: joystick is a core engine extension. Skip.
+2015-12-01 14:00:02,988 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: label is engine extension: Labels (1.0.0).
+2015-12-01 14:00:02,988 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: native is a core engine extension. Skip.
+2015-12-01 14:00:02,988 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: purchases is a core engine extension. Skip.
+2015-12-01 14:00:02,998 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test is engine extension: Test Extension (1.0.0).
+2015-12-01 14:00:03,005 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test-flash is engine extension: Test Extension (Flash SWF) (1.0.0).
+2015-12-01 14:00:03,013 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: test-native is engine extension: Test Extension (Native) (1.0.0).
+2015-12-01 14:00:03,020 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: tileapi is engine extension: Tile API (1.0.0).
+2015-12-01 14:00:03,021 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: [Labels (1.0.0), Test Extension (1.0.0), Test Extension (Flash SWF) (1.0.0), Test Extension (Native) (1.0.0), Tile API (1.0.0)]
+2015-12-01 14:00:03,022 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2015-12-01 14:00:03,027 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2015-12-01 14:00:03,313 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-12-01 14:00:03,319 WARN  [AWT-EventQueue-0] stencyl.sw.app.App: Stencyl Install Path: /Users/pome012/Stencyl/Stencyl-full (1)/plaf
+2015-12-01 14:00:03,321 WARN  [AWT-EventQueue-0] stencyl.sw.util.dg.MessageDialog: Stencyl's install path contains special characters. - Stencyl may be unable to compile games if it's path contains '(' or ')'. Move Stencyl or change the path to enable game compiling.
+2015-12-01 14:00:05,040 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-12-01 14:00:05,040 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2015-12-01 14:00:05,273 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-12-01 14:00:05,275 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/prefs/auth.txt
+2015-12-01 14:00:05,279 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: POME012
+2015-12-01 14:00:05,279 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-12-01 14:00:05,600 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-12-01 14:00:12,131 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Failed to list contents of /Users/pome012/stencylworks/lang. It does not exist or is not a directory.
+2015-12-01 14:00:12,133 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within lang: [lang/br, lang/de, lang/el, lang/en, lang/es, lang/fi, lang/fr, lang/it, lang/nl, lang/pl, lang/pt, lang/ru, lang/zh, lang/zh_CN]
+2015-12-01 14:00:12,160 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Breton in lang/br
+2015-12-01 14:00:12,162 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found German in lang/de
+2015-12-01 14:00:12,162 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Greek in lang/el
+2015-12-01 14:00:12,162 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found English in lang/en
+2015-12-01 14:00:12,163 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Spanish in lang/es
+2015-12-01 14:00:12,163 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Finnish in lang/fi
+2015-12-01 14:00:12,164 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found French in lang/fr
+2015-12-01 14:00:12,164 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Italian in lang/it
+2015-12-01 14:00:12,165 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Dutch in lang/nl
+2015-12-01 14:00:12,165 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Polish in lang/pl
+2015-12-01 14:00:12,166 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Portuguese in lang/pt
+2015-12-01 14:00:12,166 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Russian in lang/ru
+2015-12-01 14:00:12,167 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese in lang/zh
+2015-12-01 14:00:12,168 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.LanguagePage: Found Chinese (China) in lang/zh_CN
+2015-12-01 14:00:20,784 DEBUG [AWT-EventQueue-0] stencyl.sw.prefs.GeneralPage: Choose Folder...
+2015-12-01 14:00:27,932 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/Stencyl/temp
+2015-12-01 14:00:33,105 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is: /Users/pome012/
+2015-12-01 14:00:33,106 INFO  [AWT-EventQueue-0] stencyl.sw.Session: The Stencyl workspace is being set to: /Users/pome012/Stencyl/
+2015-12-01 14:00:33,110 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: /Users/pome012/stencylworks/prefs to: /Users/pome012/Stencyl/stencylworks/prefs
+2015-12-01 14:00:33,111 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/prefs/auth.txt to: /Users/pome012/Stencyl/stencylworks/prefs/auth.txt
+2015-12-01 14:00:33,119 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/prefs/boot.txt to: /Users/pome012/Stencyl/stencylworks/prefs/boot.txt
+2015-12-01 14:00:33,120 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/prefs/favorites.xml to: /Users/pome012/Stencyl/stencylworks/prefs/favorites.xml
+2015-12-01 14:00:33,125 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/prefs/log4j.xml to: /Users/pome012/Stencyl/stencylworks/prefs/log4j.xml
+2015-12-01 14:00:33,134 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/prefs/picker-favorites.xml to: /Users/pome012/Stencyl/stencylworks/prefs/picker-favorites.xml
+2015-12-01 14:00:33,135 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: /Users/pome012/stencylworks/games to: /Users/pome012/Stencyl/stencylworks/games
+2015-12-01 14:00:33,135 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui
+2015-12-01 14:00:33,136 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/favorites.xml to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/favorites.xml
+2015-12-01 14:00:33,137 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/game.xml to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/game.xml
+2015-12-01 14:00:33,138 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-120.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-120.png
+2015-12-01 14:00:33,139 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-128.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-128.png
+2015-12-01 14:00:33,140 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-152.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-152.png
+2015-12-01 14:00:33,141 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-16.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-16.png
+2015-12-01 14:00:33,141 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-24.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-24.png
+2015-12-01 14:00:33,142 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-256.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-256.png
+2015-12-01 14:00:33,143 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-32.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-32.png
+2015-12-01 14:00:33,144 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-48.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-48.png
+2015-12-01 14:00:33,144 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-512.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-512.png
+2015-12-01 14:00:33,146 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-76.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-76.png
+2015-12-01 14:00:33,149 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-96.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/Icon-96.png
+2015-12-01 14:00:33,150 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/inner-joystick.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/inner-joystick.png
+2015-12-01 14:00:33,151 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/inner-joystick@1.5x.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/inner-joystick@1.5x.png
+2015-12-01 14:00:33,154 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/inner-joystick@2x.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/inner-joystick@2x.png
+2015-12-01 14:00:33,158 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/inner-joystick@4x.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/inner-joystick@4x.png
+2015-12-01 14:00:33,159 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-icon-half.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-icon-half.png
+2015-12-01 14:00:33,160 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-icon.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-icon.png
+2015-12-01 14:00:33,161 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash-half.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash-half.png
+2015-12-01 14:00:33,163 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash.png
+2015-12-01 14:00:33,164 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash5.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash5.png
+2015-12-01 14:00:33,165 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash6.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash6.png
+2015-12-01 14:00:33,167 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash6p.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ios-splash6p.png
+2015-12-01 14:00:33,172 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ipad-icon-half.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ipad-icon-half.png
+2015-12-01 14:00:33,175 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ipad-icon.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ipad-icon.png
+2015-12-01 14:00:33,176 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ipad-splash-half.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ipad-splash-half.png
+2015-12-01 14:00:33,180 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ipad-splash.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/ipad-splash.png
+2015-12-01 14:00:33,182 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/linked to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/linked
+2015-12-01 14:00:33,182 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/linked/data.xml to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/linked/data.xml
+2015-12-01 14:00:33,184 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/master-icon.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/master-icon.png
+2015-12-01 14:00:33,189 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/outer-joystick.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/outer-joystick.png
+2015-12-01 14:00:33,190 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/outer-joystick@1.5x.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/outer-joystick@1.5x.png
+2015-12-01 14:00:33,192 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/outer-joystick@2x.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/outer-joystick@2x.png
+2015-12-01 14:00:33,196 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/outer-joystick@4x.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/outer-joystick@4x.png
+2015-12-01 14:00:33,197 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/preloader.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/preloader.png
+2015-12-01 14:00:33,198 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/resources to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/resources
+2015-12-01 14:00:33,199 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/resources/data.xml to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/resources/data.xml
+2015-12-01 14:00:33,200 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/resources/data.xml.bak to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/resources/data.xml.bak
+2015-12-01 14:00:33,204 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/resources.xml to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/resources.xml
+2015-12-01 14:00:33,207 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/scenes to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/scenes
+2015-12-01 14:00:33,208 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/scenes/scenes.xml to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/scenes/scenes.xml
+2015-12-01 14:00:33,209 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/snippets to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/snippets
+2015-12-01 14:00:33,209 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/snippets/list.xml to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/snippets/list.xml
+2015-12-01 14:00:33,210 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/win8-splash.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/win8-splash.png
+2015-12-01 14:00:33,211 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/win8-tile.png to: /Users/pome012/Stencyl/stencylworks/games/GUOdfblufhdsuaytlhfeiydsugsoui/win8-tile.png
+2015-12-01 14:00:33,212 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy directory from: /Users/pome012/stencylworks/logs to: /Users/pome012/Stencyl/stencylworks/logs
+2015-12-01 14:00:33,212 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/logs/2015-11-03_13-49-00.log to: /Users/pome012/Stencyl/stencylworks/logs/2015-11-03_13-49-00.log
+2015-12-01 14:00:33,221 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/logs/2015-12-01_13-58-40.log to: /Users/pome012/Stencyl/stencylworks/logs/2015-12-01_13-58-40.log
+2015-12-01 14:00:33,228 DEBUG [SwingWorker-pool-2-thread-1] stencyl.sw.util.FileHelper: Copy File: /Users/pome012/stencylworks/logs/2015-12-01_13-59-59.log to: /Users/pome012/Stencyl/stencylworks/logs/2015-12-01_13-59-59.log

@@ -1,0 +1,1 @@
+llows the actor to move like the spaceship in the Asteroids game. The actor will be able to turn and to accelerate forward or backward.

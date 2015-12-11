@@ -1,0 +1,322 @@
+2015-11-09 14:33:32,070 INFO  [main] stencyl.sw.Session: Logfile: /Users/pome012/stencylworks/logs/2015-11-09_14-33-31.log
+2015-11-09 14:33:32,078 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-11-09 14:33:32,079 INFO  [main] stencyl.sw.Session: OS Version: 10.10.5
+2015-11-09 14:33:32,079 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_65
+2015-11-09 14:33:32,080 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2015-11-09 14:33:32,081 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/pome012/
+2015-11-09 14:33:32,082 INFO  [main] stencyl.sw.Session: User Working Directory: /Users/pome012/Desktop/Stencyl-full (1)
+2015-11-09 14:33:32,082 INFO  [main] stencyl.sw.Session: User Home Directory: /Users/pome012
+2015-11-09 14:33:32,083 INFO  [main] stencyl.sw.Session: System Path: /usr/bin:/bin:/usr/sbin:/sbin
+2015-11-09 14:33:32,120 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl6593627206242819273
+2015-11-09 14:33:32,121 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-phrases.lang
+2015-11-09 14:33:32,130 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-errors.lang
+2015-11-09 14:33:32,133 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-menu.lang
+2015-11-09 14:33:32,141 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-welcome.lang
+2015-11-09 14:33:32,147 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-dashboard.lang
+2015-11-09 14:33:32,153 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-publish.lang
+2015-11-09 14:33:32,158 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-updater.lang
+2015-11-09 14:33:32,162 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-chat.lang
+2015-11-09 14:33:32,165 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-misc.lang
+2015-11-09 14:33:32,171 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-forge.lang
+2015-11-09 14:33:32,180 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-prefs.lang
+2015-11-09 14:33:32,184 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-creategame.lang
+2015-11-09 14:33:32,187 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-main.lang
+2015-11-09 14:33:32,192 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blocks.lang
+2015-11-09 14:33:32,210 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blockhelp.lang
+2015-11-09 14:33:32,221 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-events.lang
+2015-11-09 14:33:32,224 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-code.lang
+2015-11-09 14:33:32,228 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-attributes.lang
+2015-11-09 14:33:32,232 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-create.lang
+2015-11-09 14:33:32,235 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-byob.lang
+2015-11-09 14:33:32,239 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-main.lang
+2015-11-09 14:33:32,242 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-physics.lang
+2015-11-09 14:33:32,246 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-background.lang
+2015-11-09 14:33:32,249 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-behaviorchooser.lang
+2015-11-09 14:33:32,253 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-desktop.lang
+2015-11-09 14:33:32,257 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-font.lang
+2015-11-09 14:33:32,260 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-sound.lang
+2015-11-09 14:33:32,264 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-tileset.lang
+2015-11-09 14:33:32,268 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-preloader.lang
+2015-11-09 14:33:32,271 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-mobile.lang
+2015-11-09 14:33:32,276 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-groups.lang
+2015-11-09 14:33:32,279 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-attributes.lang
+2015-11-09 14:33:32,283 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-input.lang
+2015-11-09 14:33:32,287 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-animation.lang
+2015-11-09 14:33:32,291 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-main.lang
+2015-11-09 14:33:32,295 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-create.lang
+2015-11-09 14:33:32,298 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-tools.lang
+2015-11-09 14:33:32,302 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-phrases.lang
+2015-11-09 14:33:32,303 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-errors.lang
+2015-11-09 14:33:32,304 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-menu.lang
+2015-11-09 14:33:32,305 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-welcome.lang
+2015-11-09 14:33:32,305 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-dashboard.lang
+2015-11-09 14:33:32,306 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-publish.lang
+2015-11-09 14:33:32,307 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-updater.lang
+2015-11-09 14:33:32,307 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-chat.lang
+2015-11-09 14:33:32,308 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-misc.lang
+2015-11-09 14:33:32,309 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-forge.lang
+2015-11-09 14:33:32,310 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-prefs.lang
+2015-11-09 14:33:32,310 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-creategame.lang
+2015-11-09 14:33:32,311 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-main.lang
+2015-11-09 14:33:32,312 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blocks.lang
+2015-11-09 14:33:32,317 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blockhelp.lang
+2015-11-09 14:33:32,331 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-events.lang
+2015-11-09 14:33:32,332 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-code.lang
+2015-11-09 14:33:32,332 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-attributes.lang
+2015-11-09 14:33:32,333 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-create.lang
+2015-11-09 14:33:32,333 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-byob.lang
+2015-11-09 14:33:32,333 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-main.lang
+2015-11-09 14:33:32,334 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-physics.lang
+2015-11-09 14:33:32,334 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-background.lang
+2015-11-09 14:33:32,335 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-behaviorchooser.lang
+2015-11-09 14:33:32,335 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-desktop.lang
+2015-11-09 14:33:32,336 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-font.lang
+2015-11-09 14:33:32,336 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-sound.lang
+2015-11-09 14:33:32,337 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-tileset.lang
+2015-11-09 14:33:32,337 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-preloader.lang
+2015-11-09 14:33:32,338 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-mobile.lang
+2015-11-09 14:33:32,339 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-groups.lang
+2015-11-09 14:33:32,340 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-attributes.lang
+2015-11-09 14:33:32,340 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-input.lang
+2015-11-09 14:33:32,341 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-animation.lang
+2015-11-09 14:33:32,342 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-main.lang
+2015-11-09 14:33:32,343 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-create.lang
+2015-11-09 14:33:32,344 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-tools.lang
+2015-11-09 14:33:34,067 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-11-09 14:33:34,072 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2015-11-09 14:33:34,155 DEBUG [Thread-2] stencyl.sw.util.StreamGobbler: [xcode-select] xcode-select: error: unable to get active developer directory, use `xcode-select --switch` to set one (or see `man xcode-select`)
+2015-11-09 14:33:34,162 DEBUG [Thread-3] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: xcode-select: error: unable to get active developer directory, use `xcode-select --switch` to set one (or see `man xcode-select`)
+2015-11-09 14:33:34,166 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: 
+2015-11-09 14:33:34,170 DEBUG [Thread-5] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: /Applications/Xcode.app/Contents/Developer
+2015-11-09 14:33:34,174 DEBUG [Thread-6] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: /Developer
+2015-11-09 14:33:34,207 WARN  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: No Xcode found.
+2015-11-09 14:33:34,996 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2015-11-09 14:33:35,004 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2015-11-09 14:33:35,012 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2015-11-09 14:33:35,015 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2015-11-09 14:33:35,019 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2015-11-09 14:33:35,023 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2015-11-09 14:33:35,027 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2015-11-09 14:33:35,031 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2015-11-09 14:33:35,035 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2015-11-09 14:33:35,040 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2015-11-09 14:33:35,044 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2015-11-09 14:33:35,048 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2015-11-09 14:33:35,056 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2015-11-09 14:33:35,060 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2015-11-09 14:33:35,064 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2015-11-09 14:33:35,071 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2015-11-09 14:33:35,079 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2015-11-09 14:33:35,088 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within /Users/pome012/stencylworks/extensions: []
+2015-11-09 14:33:35,090 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within /Users/pome012/stencylworks/extensions: []
+2015-11-09 14:33:35,090 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2015-11-09 14:33:35,090 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within /Users/pome012/stencylworks/engine-extensions: []
+2015-11-09 14:33:35,090 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: []
+2015-11-09 14:33:35,092 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2015-11-09 14:33:35,096 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2015-11-09 14:33:35,378 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-11-09 14:33:35,386 WARN  [AWT-EventQueue-0] stencyl.sw.app.App: Stencyl Install Path: /Users/pome012/Desktop/Stencyl-full (1)/plaf
+2015-11-09 14:33:35,387 WARN  [AWT-EventQueue-0] stencyl.sw.util.dg.MessageDialog: Stencyl's install path contains special characters. - Stencyl may be unable to compile games if it's path contains '(' or ')'. Move Stencyl or change the path to enable game compiling.
+2015-11-09 14:33:37,038 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-11-09 14:33:37,039 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2015-11-09 14:33:37,277 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-11-09 14:33:37,278 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/prefs/auth.txt
+2015-11-09 14:33:37,281 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: POME012
+2015-11-09 14:33:37,281 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-11-09 14:33:37,465 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-11-09 14:34:10,144 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Opening URL in browser: http://www.stencyl.com/developers/samples/
+2015-11-09 14:34:10,150 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: invoking isDesktopSupported
+2015-11-09 14:34:10,151 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: Launching http://www.stencyl.com/developers/samples/ using Desktop.browse()
+2015-11-09 14:34:51,674 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.settings.GamePropertiesDialog: Creating a blank game.
+2015-11-09 14:34:51,688 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving a new game.
+2015-11-09 14:34:51,696 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-11-09 14:34:51,704 ERROR [pool-1-thread-2] stencyl.sw.util.FileHelper: File /Users/pome012/stencylworks/games/Enarged Proof of Concept/game.xml is not a valid XML file. Aborting Backup.
+2015-11-09 14:34:54,485 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-11-09 14:34:54,488 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/Enarged Proof of Concept/resources/data.xml.bak.
+2015-11-09 14:34:54,489 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-11-09 14:34:54,490 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-11-09 14:34:54,494 ERROR [pool-1-thread-2] stencyl.sw.util.FileHelper: File /Users/pome012/stencylworks/games/Enarged Proof of Concept/snippets/list.xml is not a valid XML file. Aborting Backup.
+2015-11-09 14:34:54,495 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-11-09 14:34:54,497 DEBUG [pool-1-thread-2] stencyl.sw.editors.snippet.designer.palette.FavoriteManager: Favorites file /Users/pome012/stencylworks/games/Enarged Proof of Concept/favorites.xml does not exist.
+2015-11-09 14:34:54,499 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-11-09 14:34:54,534 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl6593627206242819273/sandbox/test/temp
+2015-11-09 14:34:54,535 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/preview/scripts
+2015-11-09 14:34:54,537 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/preview/game
+2015-11-09 14:34:54,538 INFO  [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Opening game: Enarged Proof of Concept
+2015-11-09 14:34:54,697 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-09 14:34:54,698 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl6593627206242819273/sandbox/build/code
+2015-11-09 14:34:54,698 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl6593627206242819273/sandbox/test/temp
+2015-11-09 14:34:54,759 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 221ms
+2015-11-09 14:34:54,869 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-11-09 14:34:54,875 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-11-09 14:34:54,879 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-11-09 14:34:54,882 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-11-09 14:34:54,889 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-11-09 14:34:55,611 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-11-09 14:34:55,616 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-11-09 14:34:55,619 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-11-09 14:34:55,621 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-11-09 14:34:57,151 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Import Resource...
+2015-11-09 14:35:25,323 ERROR [AWT-EventQueue-0] stencyl.sw.app.App: No registered ImageReader available for file /Users/pome012/stencylworks/games-generated/Dungeons/Export/ios/Dungeons/Images.xcassets/LaunchImage.launchimage/Contents.json
+java.io.IOException: No registered ImageReader available for file /Users/pome012/stencylworks/games-generated/Dungeons/Export/ios/Dungeons/Images.xcassets/LaunchImage.launchimage/Contents.json
+	at stencyl.sw.util.gfx.ImageUtil.readRasterImage(ImageUtil.java:161)
+	at stencyl.sw.app.App.dropInResource(App.java:1313)
+	at stencyl.sw.app.App.importResource(App.java:1305)
+	at stencyl.sw.app.App.actionPerformed(App.java:364)
+	at stencyl.sw.actions.ActionManager.actionPerformed(ActionManager.java:54)
+	at stencyl.sw.actions.SAction.actionPerformed(SAction.java:120)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:290)
+	at java.awt.Component.processMouseEvent(Component.java:6535)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6300)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2750)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2015-11-09 14:35:36,492 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Log Viewer
+2015-11-09 14:35:46,745 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Import Resource...
+2015-11-09 14:36:12,742 ERROR [AWT-EventQueue-0] stencyl.sw.app.App: No registered ImageReader available for file /Users/pome012/stencylworks/games-generated/Dungeons/Assets/sfx/sound-47.mp3
+java.io.IOException: No registered ImageReader available for file /Users/pome012/stencylworks/games-generated/Dungeons/Assets/sfx/sound-47.mp3
+	at stencyl.sw.util.gfx.ImageUtil.readRasterImage(ImageUtil.java:161)
+	at stencyl.sw.app.App.dropInResource(App.java:1313)
+	at stencyl.sw.app.App.importResource(App.java:1305)
+	at stencyl.sw.app.App.actionPerformed(App.java:364)
+	at stencyl.sw.actions.ActionManager.actionPerformed(ActionManager.java:54)
+	at stencyl.sw.actions.SAction.actionPerformed(SAction.java:120)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:290)
+	at java.awt.Component.processMouseEvent(Component.java:6535)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6300)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2750)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2015-11-09 14:37:04,106 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Import Resource...
+2015-11-09 14:37:48,072 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Import Resource...
+2015-11-09 14:38:54,266 ERROR [AWT-EventQueue-0] stencyl.sw.app.App: No registered ImageReader available for file /Users/pome012/Downloads/Dungeons (1).stencyl
+java.io.IOException: No registered ImageReader available for file /Users/pome012/Downloads/Dungeons (1).stencyl
+	at stencyl.sw.util.gfx.ImageUtil.readRasterImage(ImageUtil.java:161)
+	at stencyl.sw.app.App.dropInResource(App.java:1313)
+	at stencyl.sw.app.App.importResource(App.java:1305)
+	at stencyl.sw.app.App.actionPerformed(App.java:364)
+	at stencyl.sw.actions.ActionManager.actionPerformed(ActionManager.java:54)
+	at stencyl.sw.actions.SAction.actionPerformed(SAction.java:120)
+	at javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:2022)
+	at javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2348)
+	at javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:402)
+	at javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:259)
+	at javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:252)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:290)
+	at java.awt.Component.processMouseEvent(Component.java:6535)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3324)
+	at java.awt.Component.processEvent(Component.java:6300)
+	at java.awt.Container.processEvent(Container.java:2236)
+	at java.awt.Component.dispatchEventImpl(Component.java:4891)
+	at java.awt.Container.dispatchEventImpl(Container.java:2294)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4888)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4525)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4466)
+	at java.awt.Container.dispatchEventImpl(Container.java:2280)
+	at java.awt.Window.dispatchEventImpl(Window.java:2750)
+	at java.awt.Component.dispatchEvent(Component.java:4713)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+	at java.awt.EventQueue$4.run(EventQueue.java:731)
+	at java.awt.EventQueue$4.run(EventQueue.java:729)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2015-11-09 14:39:21,477 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-11-09 14:39:23,004 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-11-09 14:39:23,023 DEBUG [Thread-12] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-09 14:39:23,024 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-09 14:39:23,024 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-11-09 14:39:23,033 DEBUG [Thread-13] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-09 14:39:23,034 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-09 14:39:23,034 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-11-09 14:39:23,043 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-09 14:39:23,043 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-09 14:39:23,043 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-11-09 14:39:23,050 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-09 14:39:23,051 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-09 14:39:23,051 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-11-09 14:39:23,058 DEBUG [Thread-16] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-09 14:39:23,058 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-09 14:39:23,059 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-11-09 14:39:23,066 DEBUG [Thread-17] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-09 14:39:23,066 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-09 14:39:23,067 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-11-09 14:39:23,067 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-11-09 14:39:23,068 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...
+2015-11-09 14:39:23,069 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-11-09 14:39:23,069 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl6593627206242819273

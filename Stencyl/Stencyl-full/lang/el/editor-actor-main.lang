@@ -1,0 +1,45 @@
+
+# Actor Creator
+actor.props=Ιδιότητες
+actor.rename=Μετονομασία Τύπου Ηθοποιού
+actor.group.edit=Επεξεργασία Ομάδας...
+actor.regroup=Επιλογή Ομάδας
+actor.regroup.info= Οι ομάδες χρησιμοποιούνται για να προσδιορίσουν τα είδη των Ηθοποιών που συγκρούονται μεταξύ τους.
+actor.props.title=Ιδιότητες Τύπου Ηθοποιού
+actor.props.newtitle=Νέος Τύπος Ηθοποιού
+actor.title=Δημιουργός Τύπου Ηθοποιού
+actor.title.new=Δημιουργία Νέου Τύπου Ηθοποιού
+actor.title.edit=Επεξεργασία Τύπου Ηθοποιού
+actor.physics=Επεξεργασία Φυσικής
+actor.physics.info=Επεξεργασία φυσικών τιμών που απευθύνονται στον Ηθοποιό. Τριβή και υπόλοιπες τιμές που απευθύνονται στη μορφή πρέπει να επεξεργαστούν από την Επεξεργασία Μορφής.
+# Actor Top Bar
+actor.top.overview=Επισκόπηση
+actor.top.appearance=Παρουσία
+actor.top.behavior=Συμπεριφορά
+actor.top.collision=Σύγκρουση
+actor.top.physics=Φυσική
+actor.top.properties=Ιδιότητες
+actor.top.attach=Προσθήκη στην Σκηνή
+# Properties
+actor.name=Ονομασία
+actor.description=Περιγραφή
+actor.group=Ομάδα
+actor.sprite=Sprite
+actor.sprite.choose=Επιλογή Sprite
+actor.anim.choose=Επιλογή Animation...
+actor.scene.choose=Επιλογή Σκηνής...
+actor.sprite.edit=Επεξεργασία
+actor.sprite.new=Δημιουργία
+# Sprite Chooser
+actor.chooser.title=Επιλογή Sprite
+# Warnings
+actor.warning.name=Αυτή η ονομασία υπάρχει ήδη.
+actor.warning.name.invalid=Άκυρη ονομασία.
+actor.warning.blank=Επιλογή ονομασίας.
+actor.warning.number=Εισάγεται έναν θετικό ακέραιο.
+actor.warning.nosnippets=Κλικ εδώ για να επιλέξετε τη Συμπεριφορά που θα προσαρτήσετε στον ηθοποιό.
+actor.warning.nosnippets2=Κλικ εδώ για να επιλέξετε τη Συμπεριφορά που θα προσαρτήσετε στην σκηνή.
+actor.warning.noprops=Αυτή η Συμπεριφορά δεν έχει ιδιότητες για διαμόρφωση.
+actor.warning.float=Εισάγεται ένα έγκυρο αριθμό.
+actor.warning.int=Εισάγεται ένα έγκυρο ακέραιο.
+actor.warning.general=Εισάγεται έγκυρες αξίες στα κόκκινα πεδία.

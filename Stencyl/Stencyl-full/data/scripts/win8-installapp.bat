@@ -1,0 +1,1 @@
+powershell -command "Add-AppxPackage \%1\; exit;"

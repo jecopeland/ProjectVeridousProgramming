@@ -1,0 +1,22 @@
+
+# BYOB
+byob.create.title=Erstelle einen neuen selbst erstellten Block
+byob.create.title2=Erstelle einen neuen globalen selbst erstellten Block
+byob.edit.title=Verändere den selbst erstellten Block
+byob.dg.name=Name
+byob.dg.desc=Beschreibung
+byob.dg.spec=Block Spezifikation
+byob.dg.spec.i=Wie der Block aussehen wird. Beispiel: heile %0 mit %1
+byob.dg.blanks=Block-Felder
+byob.dg.blanks.add=Feld hinzufügen
+byob.dg.blanks.remove=Feld entfernen
+byob.dg.return=Typ zurückgeben
+byob.dg.return.i=Der Typ dieses Blocks
+byob.dg.return.none=Kein (Aktion Block)
+byob.dg.title.spec=Block Details
+byob.dg.error.spec=Gebe etwas ein.
+byob.col.spec=Referenz für das Block-Spezifikations-Feld
+byob.blank.add=Füge den leeren Bereich für den eigenen erstellten Block ein
+byob.blank.remove=Entferne den leeren Bereich für den eigenen erstellten Block
+byob.blank.type=Typ
+byob.blank.type.i=Gebe an welche Art Block der leere Bereich akzeptiert.

@@ -1,0 +1,158 @@
+
+# LEGAL
+cp=  Copyright Stencyl, LLC. All Rights Reserved. Stencyl, the Stencyl logo and the Stencyl cog are trademarks of Stencyl, LLC in the United States and/or other countries. Usage of Stencyl is governed by our End User License Agreement (EULA).
+# MISC
+progress=Progress
+statusbar=Status Bar
+welcome.newgame=Create a New Game...
+welcome.importgame=Import Game...
+welcome.exportgame=Export Game...
+welcome.opengame=Open Game
+welcome.tabtitle=Welcome Center
+welcome.title1=My Games
+welcome.title2=My Kits
+welcome.published=My Published Games
+# LOADING
+load.loading=Loading
+load.lnf=Look
+load.ui=Interface
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>
+pixels=pixels
+# DEBUG
+crusher.prompt=Would you like to optimize the size of <0>?
+crusher.prompt.i=You should back up your game before proceeding.
+crusher.success=Stencyl has completed optimization of your game's size.
+logger.success=Wrote out Logs to the following location:
+logger.fail=The Logs could not be written at the chosen location.
+# FEEDBACK
+feedback.ask=Ask Us a Question
+feedback.bug=Bug Report
+feedback.sugg=Suggestion
+feedback.stuck=I'm Stuck
+feedback.other=Other
+feedback.title=Summary
+feedback.msg=Message
+feedback.comments=Your Comments
+feedback.info=Be as specific as possible. If you are running into a problem, describe exactly how to reproduce it.
+feedback.info2=We'll contact you through e-mail if necessary.
+feedback.success=Thanks for submitting your question or feedback. A member of our team may contact you via e-mail if necessary.
+# CALL
+call.title=Request Help
+call.subtitle=Stuck with something? Help is just a click away.
+call.forums=Ask on the Forums
+call.forums2=Your best bet for a quick answer.
+call.pedia=Stencylpedia
+call.pedia2=The definitive guide to everything about Stencyl.
+call.chat=Chat
+call.chat2=Talk in real-time with other Stencylers like you.
+# HELP
+help.gui.prev=Previous Page
+help.gui.next=Next Page
+help.error.img=Could not load image.
+# TIME
+date.short=MMM d, yyyy
+date.realtime=h:mm:ss a
+today=Today
+yesterday=Yesterday
+hours.ago=<0> hours ago
+# TEMPORARY
+temp.followinst=Follow these instructions.
+temp.resourcepack=To add a resource to a pack, right-click a resource and choose the 'Add to Pack' option from the context menu.
+# SIGN OUT
+signout.prompt=Stencyl will now close to complete the sign out process.
+signout.prompt.i=You'll be asked to save your game if one is open.
+# DIALOGS
+image.jpg=JPEG Image
+image.gif=GIF Image
+image.tiff=TIFF Image
+image.png=PNG Image
+# DOWNLOADER
+downloader.generic=Downloading...
+downloader.title=Downloading <0>...
+downloader.fail=Could not Download or Save: <0>
+downloader.success=<0> successfully downloaded.
+downloader.caches=The caches
+downloader.pencyl=Pencyl - Image Editor
+downloader.pencyl.title=Download Pencyl
+downloader.pencyl.desc=Pencyl is a simple image editor. Click OK to download it. If you don't see a progress bar, drag the current dialog to the side.
+downloader.pencyl.error=Pencyl could not be installed. Share your logs on the forums.
+downloader.pencyl.success=Pencyl has now been installed. Repeat your prior action to start editing.
+# EXTENSIONS
+extensions.engine=Engine Extensions
+extensions.title=Extensions
+extensions.more=Get More Extensions...
+# EXTERNAL APPS
+external.image.send=Sending to Image Editor...
+external.image.error=Could not open Image Editor
+external.image.error.desc=Verify in File > Preferences > Editors that your image editor is valid.
+# BUILDING
+build.swf.generate=Generating SWF...
+build.swf.finalize=Finalizing SWF...
+build.swf.behaviors=Generating SWF (<0>%)
+build.resource.error1=Could not save Resource Listing.
+build.resource.error2=Close and reopen the game. If that fails, post your logs to the forums and mention this message.
+build.resource.error3=Could not save one of more resources.
+build.atlas.error1=Atlas (<0>) exceeds 2048 x 2048 in size.
+build.atlas.error2=Break up the atlas into 2 or more smaller atlases.
+# CHROME
+build.chrome.title=Publish to Chrome Web Store
+build.chrome.icon16=16 x 16 Icon
+build.chrome.icon128=128 x 128 Icon
+build.chrome.error.icon1=16 x 16 icon is either non existent, not an image or not 16 x 16 in size.
+build.chrome.error.icon2=128 x 128 icon is either non existent, not an image or not 128 x 128 in size.
+build.chrome.error=Unable to Export
+build.chrome.error.info=Check your logs. The icons you picked may not exist.
+build.chrome.done=Follow Google's instructions to publish your game.
+build.chrome.done.info=We'll reveal the ZIP file that you need to upload to Google.
+build.chrome.done.error=Unable to Export. Check your logs and verify that the following file exists.
+# HAXE
+build.hx.eventsfor=Events for '<0>'
+build.hx.error.sound=Sounds for desktop games must be imported in OGG format.
+build.hx.error.sound.i=Import an OGG for: <0>
+build.hx.error.actor=Actors cannot have 0-frame animations.
+build.hx.error.actor.i=<0> has a 0-frame animation ('<1>').
+build.hx.msg.building=Building...
+build.hx.msg.finalizing=Finalizing...
+build.hx.msg.compiling=Compiling...
+build.hx.msg.launching=Launching...
+build.hx.msg.copying=Copying...
+build.hx.msg.success=Your game has been exported.
+build.hx.msg.install=Installing <0> of <1>
+build.hx.msg.fail=Unable to export game to the requested location. (Check your logs)
+build.hx.error.generic=Encountered errors while building your game.
+build.hx.error.generic.i=Check your logs and post them to the forums. <0>
+build.hx.error.behavior=Encountered errors while building your game. The problematic behaviors will now open up.
+build.hx.error.sound=MP3 Encoding Error
+build.hx.error.sound.i=Only Layer-III MP3 files are supported by Flash. You provided a Layer-I or Layer-II MP3.
+build.hx.error.sound.i2=Only Layer-III MP3 files are supported by Flash. You provided a Layer-I or Layer-II MP3 for sound: <0>.
+build.hx.error.sound.ogg=This platform requires OGG sounds
+build.hx.error.sound.ogg.i=Import your sounds as OGGs. The problematic sound will now open up.
+build.hx.error.sound.mp3=This platform requires MP3 sounds
+build.hx.error.sound.mp3.i=Import your sounds as MP3s. The problematic sound will now open up.
+build.hx.error.server=Could not start web server since port 18524 is in use or blocked.
+build.hx.error.server2=On Windows, you may get a Windows Firewall dialog. Click 'Allow access' to proceed.
+build.hx.msg.js=Note: You may have to upload the game to a web server in order to play it.
+build.hx.error.amd=Device <-> Computer Version Mismatch
+build.hx.error.amd.i=Your device's iOS version must match your computer's iOS version. ("AMDeviceInstallApplication failed: -402653058")
+build.hx.error.cltools=Could not build app ("object file format unrecognized, invalid, or unsuitable")
+build.hx.error.cltools.i=Install Xcode's Command Line Tools. (Xcode > Preferences > Downloads)
+build.hx.error.devicedir=Unable to locate DeviceSupport directory
+build.hx.error.devicedir.i=Inside Xcode.app, copy & rename the most recent iOS folder to "Latest" (See: http://community.stencyl.com/index.php/topic,17240.15.html)
+# HAXE - JDK
+build.hx.jdk.title=Java JDK Installation
+build.hx.jdk.required=Stencyl requires the Java JDK in order to use this feature.
+build.hx.jdk.install=No JDK was found. Do you want to install it?
+build.hx.jdk.reinstall=A Java JDK is already installed. Do you want to reinstall it?
+build.hx.jdk.orcale=Install the Java JDK from Oracle.
+build.hx.jdk.act1=Your web browser will open up.
+build.hx.jdk.act2=Download and install the Java JDK. Run your game again to proceed.
+build.hx.jdk.act2.locate=Download and install the Java JDK. Then locate the JDK folder.
+build.hx.jdk.locate=Locate the Java JDK folder (ex: 'jdk-8-oracle-x64')
+build.hx.jdk.locate.notvalid=Sorry, that folder is not a valid Java JDK installation.
+build.hx.jdk.locate.tryagain=Would you like to look around some more?
+build.hx.jdk.locate.tryagainbutton=Try Another Folder

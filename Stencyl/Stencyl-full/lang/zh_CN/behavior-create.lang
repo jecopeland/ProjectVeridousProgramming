@@ -1,0 +1,23 @@
+
+# MODES
+sb.mode.code=电码程式
+sb.mode.design=设计程式
+sb.mode.coded=电码程式编写简易的 Java 程序来创作游戏逻辑.
+sb.mode.designd=设计程式将逻辑方块叠起来创作演员和景象的特性.
+sb.new.title=创作新的游戏逻辑
+sb.edit.title=编辑游戏逻辑特性
+sb.new.mode=程式
+sb.new.props=基本
+sb.new.name=名字
+sb.new.class=classname名字
+sb.new.category=种类
+sb.new.type=类型
+sb.new.type.help=用类型来决定这个游戏逻辑可否用于演员或景象
+sb.new.type.actor=演员
+sb.new.type.scene=景象
+sb.new.description=叙述
+sb.new.draw=绘制次序
+sb.new.update=更新次序
+sb.error.name=请填写独一名字.
+sb.error.class=请填写合法的 Java classname 名字.(只可英文字母和数目,不可空白)
+sb.error.category=请填写类型.

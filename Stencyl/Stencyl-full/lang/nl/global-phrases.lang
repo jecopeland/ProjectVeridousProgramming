@@ -1,0 +1,36 @@
+
+# GLOBALS
+globals.missing=Ontbrekend
+globals.yes=Ja
+globals.no=Nee
+globals.ok=Ok
+globals.cancel=Annuleren
+globals.open=Openen
+globals.close=Sluiten
+globals.error=Fout
+globals.true=Waar
+globals.false=Onwaar
+globals.apply=Toepassen
+globals.savechanges=Wijzigingen Opslaan
+globals.done=Klaar
+globals.saveclose=Opslaan en sluiten
+globals.add=toevoegen
+globals.confirmchanges=wijzigingen opslaan naar <0>?
+globals.confirmchanges.lost=Als je <b>Nee</b> klikt, gaan alle wijzigingen verloren.
+globals.confirmdelete=Weet u zeker dat u <0> wil verwijderen?
+# GENERAL MESSAGES
+msg.opening=Bezig met Openen...
+msg.saving=Bezig met opslaan...
+msg.saving.temp=Spel Voorbereiden...
+msg.publishing=Spel aan het Uploaden...
+msg.publishing.code=Snippets aan het Uploaden...
+msg.publishing.assets=Assets aan het Uploaden...
+show=Tonen
+hide=Verbergen
+# EMPTY STRINGS
+empty.properties=Niets geselecteerd.
+empty.history=Geen geschiedenis.
+empty.scenes=Geen Spel geopend.
+empty.library=Geen Spel geopend.
+empty.layers=Geen geopende Scenes.
+empty.palette=Geen Spel geopend

@@ -1,0 +1,15 @@
+
+# WELCOME SCREEN
+welcome.cc.title=Run Through our Crash Course (30 minutes)
+welcome.cc.desc=Learn the Stencyl way of creating games and get accustomed to the toolset.
+welcome.forum.title=Visit the Stencyl Community
+welcome.forum.desc=Visit our community forums, where you can ask questions and socialize with Stencylers like yourself.
+# SIGN IN
+signin.yes=Sign In
+signin.no=Remind Me Later
+signin.info=Already have an account?
+signin.info2=Forgot Password?
+signin.register=Sign Up
+signin.name=Username
+signin.key=Password
+signin.as=Logged in as: <0>

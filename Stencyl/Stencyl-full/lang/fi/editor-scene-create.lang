@@ -1,0 +1,25 @@
+
+scene.new.title=Uusi lavaste
+scene.edit.title=Muokkaa lavasteen ominaisuuksia
+scene.edit.bg.title=Muokkaa taustakuvia
+scene.new.info=Perusteet
+scene.new.terrain=Koko
+scene.new.background=Tausta
+scene.new.name=Nimi
+scene.new.type=Lavastetyyppi
+scene.new.type.normal=Tavallinen
+scene.new.type.iso=Isometrinen
+scene.new.type.hex=Kuusikulmainen
+scene.new.tiles=laataa
+scene.new.pixels=pikseliä
+scene.new.width=Leveys
+scene.new.height=Korkeus
+scene.new.tilex=Laatan leveys
+scene.new.tiley=Laatan korkeus
+scene.new.background.color=Väri
+scene.new.background.edit=Lisää...
+scene.new.color.title=Värivalitsin
+scene.new.background.style.solid=Mattaväri
+scene.new.background.style.none=Ei väriä
+scene.new.background.style.vert=Poikittainen liukuväri
+scene.warning.name=Kirjoita yksilöllinen nimi

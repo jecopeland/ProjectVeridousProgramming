@@ -1,0 +1,23 @@
+
+# MODES
+sb.mode.code=電碼程式
+sb.mode.design=設計程式
+sb.mode.coded=<b>電碼程式</b><br>編寫簡易的 Java 程式來創作遊戲邏輯.
+sb.mode.designd=<b>設計程式</b><br>將邏輯方塊疊起來創作演員和景象的特性.
+sb.new.title=創作新的遊戲邏輯
+sb.edit.title=編輯遊戲邏輯特性
+sb.new.mode=程式
+sb.new.props=基本
+sb.new.name=名字
+sb.new.class=classname名字
+sb.new.category=種類
+sb.new.type=類型
+sb.new.type.help=用類型來決定這個遊戲邏輯可否用於演員或景象
+sb.new.type.actor=演員
+sb.new.type.scene=景象
+sb.new.description=敘述
+sb.new.draw=繪製次序
+sb.new.update=更新次序
+sb.error.name=請填寫獨一名字.
+sb.error.class=請填寫合法的 Java classname 名字.(只可英文字母和數目,不可空白)
+sb.error.category=請填寫類型.

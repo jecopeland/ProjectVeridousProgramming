@@ -1,0 +1,28 @@
+
+# ATTRIBUTES PANE
+sb.var.single=attributo
+sb.var.add=Crea un attributo
+sb.var.addlist=Crea un elenco di attributi...
+sb.var.remove=Rimuovi attributo
+sb.var.default=Modifica attributo
+sb.var.viewcontrols=Mostra controlli pagina
+sb.var.up=Muovi su
+sb.var.down=Muovi giù˘
+sb.var.header.name=Nome interno
+sb.var.header.aname=Applica nome
+sb.var.header.lname=Nome
+sb.var.header.desc=Descrizione
+sb.var.header.type=Tipo
+sb.var.hidden=Nascosto?
+sb.var.hidden.info=Gli attributi nascosti non vengono visualizzati quando un utente configura questo comportamento. <br>Sono come variabili locali.
+sb.var.error.val=Inserire <0> valido.
+sb.var.edit.val=Valore predefinito
+sb.var.edit.nosound=Nessun Suono
+sb.var.edit.nocontrol=Nessun controllo
+sb.var.edit.nofont=Carattere predefinito
+sb.var.error.name=Inserisci un nome unico.
+sb.var.cat.general=Generale
+sb.var.cat.dropdown=Tendina
+sb.var.cat.range=Gamma
+sb.var.drop.title=Dati tendina
+sb.var.drop.desc=Mostra come una tendina invece di un file di testo.<br> Il formato è di una voce per linea, nome[eq]valore.<br> Ad esempio:<br><br>Nome[eq]Valore<br>Stencyl[eq]Fantastico<br>Nome[eq]Mario

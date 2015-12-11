@@ -1,0 +1,1 @@
+Spawn bullets in all directions from the actor's position.

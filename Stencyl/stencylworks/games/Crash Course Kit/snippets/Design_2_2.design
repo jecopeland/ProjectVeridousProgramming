@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <collide comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <if comment="false" x="26" y="45">
+                    <group eventID="1" id="-1">
+                        <if comment="false" x="37" y="78">
+                            <group eventID="1" id="-1">
+                                <if comment="false" x="48" y="111">
+                                    <group eventID="1" id="-1">
+                                        <if comment="false" x="59" y="149">
+                                            <group eventID="1" id="-1">
+                                                <say comment="false" x="70" y="192">
+                                                    <ACTOR eid="lastcollided" id="0"/>
+                                                    <int id="1" val="Stompable"/>
+                                                    <int id="2" val="Stomped"/>
+                                                </say>
+                                                <if comment="false" x="70" y="219">
+                                                    <group eventID="1" id="-1">
+                                                        <push-shove comment="false" x="81" y="257">
+                                                            <ACTOR eid="this" id="0"/>
+                                                            <int id="1" val="1"/>
+                                                            <int id="2" val="0"/>
+                                                            <int id="3" val="-1"/>
+                                                            <get-attribute comment="false" id="4" x="0" y="0">
+                                                                <ACTOR eid="lastcollided" id="0"/>
+                                                                <int id="1" val="Stompable"/>
+                                                                <int id="2" val="_PushPlayerJumpForce"/>
+                                                            </get-attribute>
+                                                        </push-shove>
+                                                    </group>
+                                                    <keystate comment="false" id="0" x="0" y="0">
+                                                        <int id="0" val="0"/>
+                                                        <get-val-2-2 comment="false" id="1" x="0" y="0"/>
+                                                    </keystate>
+                                                </if>
+                                                <else comment="false" x="70" y="309">
+                                                    <group eventID="1" id="-1">
+                                                        <push-shove comment="false" x="81" y="329">
+                                                            <ACTOR eid="this" id="0"/>
+                                                            <int id="1" val="1"/>
+                                                            <int id="2" val="0"/>
+                                                            <int id="3" val="-1"/>
+                                                            <get-attribute comment="false" id="4" x="0" y="0">
+                                                                <ACTOR eid="lastcollided" id="0"/>
+                                                                <int id="1" val="Stompable"/>
+                                                                <int id="2" val="_PushPlayerForce"/>
+                                                            </get-attribute>
+                                                        </push-shove>
+                                                    </group>
+                                                </else>
+                                            </group>
+                                            <not comment="false" id="0" x="0" y="0">
+                                                <as-boolean comment="false" id="0" x="0" y="0">
+                                                    <actor-get-prop comment="false" id="0" x="0" y="0">
+                                                        <ACTOR eid="lastcollided" id="0"/>
+                                                        <int id="1" val="_BeingStomped"/>
+                                                    </actor-get-prop>
+                                                </as-boolean>
+                                            </not>
+                                        </if>
+                                    </group>
+                                    <eq comment="false" id="0" x="0" y="0">
+                                        <collision-shape-group2 comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="1"/>
+                                        </collision-shape-group2>
+                                        <get-val-2-1 comment="false" id="1" x="0" y="0"/>
+                                    </eq>
+                                </if>
+                            </group>
+                            <collision-bottom comment="false" id="0" x="0" y="0">
+                                <int id="0" val="0"/>
+                                <int id="1" val="0"/>
+                            </collision-bottom>
+                        </if>
+                    </group>
+                    <collision-type2 comment="false" id="0" x="0" y="0">
+                        <int id="0" val="0"/>
+                        <int id="1" val="0"/>
+                        <int id="2" val="0"/>
+                    </collision-type2>
+                </if>
+            </group>
+        </collide>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

@@ -1,0 +1,1 @@
+Keeps track of the number of items remaining in the specified actor group.

@@ -1,0 +1,1 @@
+Make the actor appear on the opposite site of the screen when it leaves the screen.

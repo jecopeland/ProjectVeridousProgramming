@@ -1,0 +1,32 @@
+
+# UPDATER
+update.title=Ανανέωση του StencylWorks
+update.remind.action=Υπενθύμιση Αργότερα
+update.download.action=Λήψη και Αναβάθμιση
+update.restart.title=Επιτυχία!
+update.restart.action=Επανεκκίνηση του StencylWorks
+update.restart=Έχετε ανανεώσει σε <0> (b<1>). Το StencylWorks πρέπει να επανεκινηθεί για να ολοκληρωθεί η ανανέωση.
+update.restart2=Έχετε ανανεώσει σε <0> (b<1>). Το StencylWorks πρέπει να συνεχίσει τη διαδικασία αναβάθμισης μετά από επανεκκίνηση.
+update.save=Θα θέλατε να αποθηκεύσετε το παιχνίδι σας προτού αναβαθμίσετε το StencylWorks; (Συνιστάται)
+update.noneed=Είσαστε ενημερωμένος!
+update.noneed2=<0> (b<1>) είναι η νεώτερη διαθέσιμη έκδοση.
+update.need=Μία νέα έκδοση του StencylWorks είναι διαθέσιμη!
+update.need2=<0> (b<1>) είναι τώρα διαθέσιμη - έχετε <2> (b<3>). Θα θέλατε να αναβαθμίσετε;
+update.check=Έλεγχος Έκδοσης...
+update.archive=Αποθήκευση Αρχείου Ασφάλειας...
+update.gather=Ανάκτηση Λίστα Αρχείων...
+update.download=Λήψη...
+update.download.dg.title=Λήψη Αναβάθμισης...
+update.download.lang=Αναβάθμιση Γλώσσας...
+update.patch=Ενημέρωση...
+update.finalize=Τελείωμα...
+update.fail=Ούπς!
+update.fail2=Το StencylWorks δεν μπόρεσε να ολοκληρώσει την διαδικασία αναβάθμισης. <br><br>Βεβαιωθείτε πως ο υπολογιστής σας είναι συνδεμένος με το Διαδίκτυο και δοκιμάστε ξανά.
+update.lang=Έχετε αναβαθμίση τα πακέτα γλώσσας.<br><br>Το StencylWorks πρέπει να επανεκκινηθεί για να ολοκληρωθεί η αναβάθμιση.
+update.cancel=Ακύρωση Αναβάθμισης
+update.progress.top=Λήψη <0> από <1>:
+update.progress.bottom=<0>K από <1>K - Περίπου <2> δευτερόλεπτα απομένουν
+upload.progress.top=Μεταφόρτωση: <0>
+upload.progress.bottom=<0>K από <1>K
+update.redownload.title=Απαιτείτε Λήψη Ξανά
+update.redownload.desc=Πρέπει να ξανακάνετε λήψη το StencylWorks από την ιστοσελίδα μας για αναβάθμιση.<br><br>Κάντε κλικ ΟΚ για να επισκεφτείτε την σελίδα λήψης.

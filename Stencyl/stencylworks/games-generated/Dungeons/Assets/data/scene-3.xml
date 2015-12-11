@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="33" extheight="1344" extwidth="1984" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="1280" id="3" name="End" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1920">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="true" group="3" id="63" name="Amari 1" sx="1.0" sy="1.0" x="32" y="32" z="0">
+            <snippets>
+                <s enabled="true" id="32">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="-1"/>
+                </s>
+                <s enabled="true" id="22">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="0.0"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="0.0"/>
+                    <prop id="9" list="0" val="0.0"/>
+                </s>
+                <s enabled="true" id="10">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="Walk Up"/>
+                    <prop id="2" list="0" val="Walk Down"/>
+                    <prop id="3" list="0" val="Walk Left"/>
+                    <prop id="4" list="0" val="Walk Right"/>
+                    <prop id="5" list="0" val="up"/>
+                    <prop id="6" list="0" val="down"/>
+                    <prop id="7" list="0" val="left"/>
+                    <prop id="8" list="0" val="right"/>
+                    <prop id="9" list="0" val="4"/>
+                    <prop id="10" list="0" val="50"/>
+                    <prop id="11" list="0" val="18"/>
+                    <prop id="12" list="0" val="0"/>
+                    <prop id="13" list="0" val="Idle Up"/>
+                    <prop id="14" list="0" val="Idle Down"/>
+                    <prop id="15" list="0" val="Idle Left"/>
+                    <prop id="16" list="0" val="Idle Right"/>
+                    <prop id="17" list="0" val="true"/>
+                    <prop id="18" list="0" val="false"/>
+                    <prop id="19" list="0" val="false"/>
+                    <prop id="20" list="0" val="false"/>
+                    <prop id="21" list="0" val="false"/>
+                    <prop id="22" list="0" val="0.03"/>
+                    <prop id="23" list="0" val="false"/>
+                    <prop id="24" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="27"/>
+            </snippets>
+        </actor>
+    </actors>
+    <snippets/>
+    <terrain>
+        <p pts="6,32.0,32.0,32.0,0.0,1920.0,0.0,1920.0,1280.0,0.0,1280.0,0.0,32.0" x="0.0" y="0.0"/>
+        <p pts="4,1856.0,1216.0,1856.0,0.0,0.0,0.0,0.0,1216.0" x="32.0" y="32.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

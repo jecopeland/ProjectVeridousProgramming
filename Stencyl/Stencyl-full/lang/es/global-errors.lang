@@ -1,0 +1,17 @@
+
+# ERRORS
+generic.warning.name=Introduce un nombre.
+error.nan=Introduce un número.
+error.negative=Introduce un número positivo.
+error.blank=Introduce un valor.
+error.anim.load=Aviso: Faltan datos de imágenes
+error.anim.load.i=StencylWorks no pudo encontrar datos de imágenes de una o más entidades y ha sustituido las imágenes en blanco para permitir que continúe la carga.
+error.save.kittogame=No se ha podido convertir '<0>' de kit a juego.
+error.preview.noscenes.title=No se puede probar el juego
+error.preview.noscenes=Este juego no tiene escenas. Crea una escena antes de probar el juego.
+error.publish.noscenes.title=No se puede publicar el juego
+error.publish.noscenes=Este juego no tiene escenas. Crea una escena antes de publicar el juego.
+error.download.mult.title=No se pueden descargar varios recursos a la vez
+error.download.mult.desc=Espera a que termine tu primera descarga.
+error.scene.recover=StencylWorks ha detectado un fichero de escena corrupto. ¿Quieres autorrecuperarlo?
+error.scene.recover.restart=Si eliges continuar, StencylWorks se reiniciará automáticamente al acabar.

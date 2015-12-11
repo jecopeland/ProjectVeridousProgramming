@@ -1,0 +1,1 @@
+Rotates the actor to always face its current direction. Good for some top-down games.

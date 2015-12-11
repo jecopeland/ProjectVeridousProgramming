@@ -1,0 +1,37 @@
+
+# Physics
+physics.general=Algemeen
+physics.damping=Verdamping
+physics.mass=Massa
+physics.material=Materiaal
+actor.physics.title=Wijzig Fysieke Eigenschappen
+actor.adamp=Hoek-Verdamping
+actor.adamp.info=Verminder de hoeksnelheid van karakters.
+actor.ldamp=Lineaire verdamping
+actor.ldamp.info=Verminder de lineaire snelheid van karakters. Luchtweerstand is hier een voorbeeld van.
+actor.damp.full=Volledig
+actor.damp.none=Geen
+actor.grav=Aangetrokken door Zwaartekracht?
+actor.grav.info=Zwaartekracht oefent kracht uit op alle karakters in een scene.
+actor.mass=Massa
+actor.mass.info=bepaalt hoe zwaar een object is.
+actor.inert=Hoekmassa
+actor.inert.info=Bepaalt hoe moeilijk het is voor een object om te draaien.
+actor.light=Licht
+actor.heavy=Zwaar
+actor.rot=Kan Draaien?
+actor.rot.info=Bepaald of dit karakter vrij kan ronddraaien.
+actor.static=Stationair?
+actor.static.info=Een stationair karakter kan niet bewegen of ronddraaien.
+actor.material=Sjablonen
+actor.material.info=Voor gebruiksgemak kan je kiezen uit materialen die reeds gemaakt zijn. (vb. ijs)
+actor.material.choose=Kies een Materiaal
+actor.material.ice=Ijs
+actor.material.wood=Hout
+actor.material.metal=Metaal
+actor.material.stone=Steen
+actor.material.plastic=Plastic
+actor.material.rubber=Rubber
+actor.material.dead=Dood Gewicht
+actor.material.bouncy=Botsbal
+actor.material.custom=Zelfgemaakt

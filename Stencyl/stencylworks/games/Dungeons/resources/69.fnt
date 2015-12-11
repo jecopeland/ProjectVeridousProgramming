@@ -1,0 +1,17 @@
+#
+#Thu Dec 03 11:09:37 EST 2015
+style=plain
+alphabet=
+stroke.color=\#000000
+color=\#000000
+shadow.y=0
+family=Monospaced
+shadow.x=0
+shadow.color=\#000000
+gradient.offset=4
+shadow.blur=0
+chars=all
+gradient.color=\#ffffff
+stroke.size=1
+antialias=true
+size=16

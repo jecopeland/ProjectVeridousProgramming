@@ -1,0 +1,21 @@
+
+# MODES
+sb.mode.code=Режим кодирования
+sb.mode.design=Режим конструирования
+sb.mode.coded=<b>Режим кодирования</b><br>Напишите несложный код для задания поведения
+sb.mode.designd=<b>Режим конструирования</b><br>Слепите блоки между собой для получения поведения для вашего актера на сцене.
+sb.mode.arbitrary=<b>Вольный режим</b><br>Напишите произвольный код для вашей игры. Его нелья будет присоединить к актеру или сцене.
+# NEW BEHAVIOR DIALOG
+sb.edit.title=Именить свойства
+sb.new.mode=Режим
+sb.new.props=Основные
+sb.new.name=Название
+sb.new.class=Имя класса
+sb.new.type.help=Тип поведения
+sb.new.type.actor=<b>Поведение актера</b><br>Можно применить только к актерам.
+sb.new.type.scene=<b>Scene Behavior</b><br>Можно применить только к сценам.
+sb.new.description=Описание
+sb.error.integer=Введите целое число.
+sb.error.number=Введите номер.
+sb.error.text=Введите краткий текст.
+sb.error.class=Неправильное имя класса.

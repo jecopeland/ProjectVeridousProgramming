@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <play-sound4 comment="false" x="26" y="40">
+                    <int id="0" val="1"/>
+                    <SOUND eid="62" id="1"/>
+                </play-sound4>
+            </group>
+        </init>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <event-delay comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <scene-change-new comment="false" x="26" y="42">
+                    <SCENE eid="0" id="0"/>
+                    <int id="1" val="0"/>
+                    <int id="2" val="0.1"/>
+                    <int id="3" val="0"/>
+                    <int id="4" val="0.25"/>
+                </scene-change-new>
+            </group>
+            <int id="0" val="0.25"/>
+            <ACTOR eid="lastcreated" id="2"/>
+        </event-delay>
+    </group>
+    <group eventID="2" id="-1"/>
+</groups>

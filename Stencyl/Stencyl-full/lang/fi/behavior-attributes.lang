@@ -1,0 +1,14 @@
+
+sb.var.title=Muokkaa höysteen muuttujia
+sb.var.add=Luo uusi muuttuja
+sb.var.remove=Poista muuttuja
+sb.var.default=Muokkaa muuttujaa
+sb.var.header.name=Nimi
+sb.var.header.lname=Kuvaus
+sb.var.header.type=Tyyppi
+sb.var.header.val=Oletusarvo
+sb.var.error.val=Kirjoita <0>.
+sb.var.edit.val=Oletusarvo
+sb.var.edit.nosound=Ei ääniä
+sb.var.error.name=Kirjoita ainutlaatuinen nimi.
+sb.var.error.desc=Kirjoita kuvaus.

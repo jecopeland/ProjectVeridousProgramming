@@ -1,0 +1,12 @@
+{
+  "name": "stencyl-cppia",
+  "url": "",
+  "license": "MIT",
+  "tags": [ "cpp", "stencyl", "cppia" ],
+  "description": "",
+  "version": "1.0.0",
+  "binaryversion": "1",
+  "releasenote": "",
+  "contributors": [ "" ],
+  "dependencies": {}
+}

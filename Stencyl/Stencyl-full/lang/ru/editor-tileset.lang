@@ -1,0 +1,51 @@
+
+# Tileset Creator
+tset.top.tileset=Набор плиток
+tset.top.properties=Свойства
+tset.title=Создание набора плиток 
+tset.stile=Выбранная плитка
+tset.stiles=Выбранные плитки
+tset.properties=Переименовать набор плиток
+tset.details1=Содержит <0> плиток
+tset.details2=Рамер набора плиток: <0> x <1>
+tset.details3=Размер плитки: <0> x <1>
+tset.details4=Личный номер плитки: <0>
+tset.details5=Личный номер набора плиток: <0>
+tset.tile.create=Вставить плитки из Таблицы
+tset.tile.resize=Изменить размер плитки
+tset.tile.resize.w=Ширина плитки
+tset.tile.resize.h=Высота плитки
+tset.menu.import=Вставить существующую плитку
+tset.tile.add.title=Вставить плитки из Таблицы
+tset.col.add.before=Вставить столбец до
+tset.col.add.after=Вставить столбец после
+tset.col.delete=Удалить столбец
+tset.col.duplicate=Дублировать столбец
+tset.row.add.before=Вставить строку до
+tset.row.add.after=Вставить строку после
+tset.row.delete=Удалить строку
+tset.row.duplicate=Дублировать строку
+tset.blank=Выберите плитку, чтобы изменить её.
+tset.inst2=Используйте поля слева, чтобы заполнить таблицу плиток.
+# Tile Editor
+tset.anim.collision=Границы столкновения
+tset.anim.title2=Кадры
+tset.menu.addframe=Добавить кадр
+tset.menu.editframe=Изменить кадр
+tset.menu.removeframe=Удалить кадр
+tset.anim.add.import=Вставить кадр из...
+# Shape Editor
+tset.shapes.add.box=Создать квадрат...
+tset.shapes.add.poly=Создать многоугольник...
+tset.shapes.add=Добавить фигуру
+tset.shapes.remove=Удалить фигуру
+tset.shapes.edit=Изменить фигуру
+tset.shapes.add.title=Создать квадрат...
+tset.shapes.edit.title=Изменить квадрат...
+tset.poly.add.title=Создать многоугольник...
+tset.poly.edit.title=Изменить многоугольник...
+tset.shapes.x=Положение по X
+tset.shapes.y=Положение по Y
+tset.poly.add=Добавить точку
+tset.poly.remove=Удалить точку
+tset.poly.inst=Задате точки в порядке<b> против часовой стрелки </b>.

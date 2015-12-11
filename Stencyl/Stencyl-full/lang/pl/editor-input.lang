@@ -1,0 +1,6 @@
+
+# CONTROLS
+input.name=Nazwa
+input.error.name=Wprowadź nazwę wyjątkową dla tego klawisza.
+input.key=Standardowy
+input.key.enter=Kliknij i wciśnij odpowiedni klawisz.

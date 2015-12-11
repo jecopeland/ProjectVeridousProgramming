@@ -1,0 +1,1 @@
+Fades the actor out after the given time.

@@ -1,0 +1,45 @@
+
+# GLOBAL
+sb.title=Höstemuokkain
+sb.open.title=Avaa höysteitä
+sb.confirm=Tallenna muutokset höysteeseen <0>?
+# MODULES
+sb.mode.vars=Muuttujat
+sb.mode.props=Muokkaa ominaisuuksia
+# MENU
+menu.top.run=Suorita
+sb.file.new=Uusi höyste...
+sb.file.open=Avaa höyste
+sb.file.recent=Avaa aiempi
+sb.file.close=Sulje
+sb.file.closeall=Sulje kaikki
+sb.file.save=Tallenna
+sb.file.saveall=Tallenna kaikki höysteet
+sb.file.saveas=Tallenna nimellä...
+sb.file.style=Muokkaa koodimuokkainta...
+sb.file.shortcut=Muokkaa pikanäppäimiä...
+sb.file.exit=Poistu höystemuokkaimesta
+sb.file.undo=Kumoa
+sb.file.redo=Tee uudelleen
+sb.file.cut=Leikkaa
+sb.file.copy=Kopioi
+sb.file.paste=Liitä
+sb.file.delete=Poista
+sb.file.select=Valitse kaikki
+sb.file.find=Etsi...
+sb.file.replace=Korvaa...
+sb.run.check=Tarkasta oikeinkirjoitus
+sb.run.build=Rakenna
+sb.building=Rakennetaan...
+sb.builddone=Valmis. Rakennus kesti <0> millisekuntia.
+sb.help.javadoc=Näytä API
+# TYPE CHOOSER
+actortype.chooser.title=Valitse hahmotyyppi
+actor.type.choose=Valitse hahmotyyppi...
+# LIBRARY
+sb.lib.actors=Hahmohöysteet
+sb.lib.scenes=Lavastehöysteet
+sb.lib.sscenes=Lavastekohtaiset höysteet
+# MESSAGES
+sb.preview.fail=StencylWorks löysi kielioppivirheen koodistasi.<br><br>Höysteenrakennustyökalu aukeaa, jotta voit korjata nämä virheet.
+# ERRORS

@@ -1,0 +1,6 @@
+name=Test Extension (Native)
+description=Shows how to make a native extension. Implements Alerts.
+author=Jon
+website=http://www.stencyl.com
+version=1.0
+compatibility=all

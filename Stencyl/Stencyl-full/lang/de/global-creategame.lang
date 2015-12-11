@@ -1,0 +1,29 @@
+
+# New Game Dialog
+dg.game.new.title=Erstelle ein neues Spiel...
+dg.kit.new.title=Neues Kit erstellen...
+dg.game.new.info.basic=Grundlagen Information
+dg.game.new.info.name=Name
+dg.game.new.info.size=Bildschirmgröße (Web)
+dg.game.new.info.standard=640 x 480
+dg.game.new.info.custom=Eigener Wert
+dg.game.new.info.width=Weite
+dg.game.new.info.height=Höhe
+dg.game.new.save.prompt=Du bist dabei ein neues Spiel zu erstellen.
+# Rename
+dg.game.rename=Du musst dein Spiel speichern um diese Aktion fortzuführen. Möchtest du speichern?
+dg.game.rename2=Renaming a game requires you to save it.
+# LOGO
+dg.game.logo=Spiel Logo
+dg.game.logo.info=Die optimale Größe ist 120 x 90 Pixel.
+# Kits
+dg.game.step1=Welche Art von Spiel, möchtest du erstellen?
+dg.game.step1.info=(Schritt 1 von 2)
+dg.game.step2=Spiel basiert auf: <0>
+dg.game.step2.info=(Schritt 2 von 2)
+dg.game.kits.blank=Leeres Spiel
+dg.game.kits.blank.desc=Starte von Anfang an mit einem leeren Spiel.
+# MISSING KIT
+dg.game.kit.missing=Konnte das Kit <0> nicht finden.
+dg.game.kit.missing.i=Lade das fehlende Kit aus der StencylForge herunter.
+# ERRORS

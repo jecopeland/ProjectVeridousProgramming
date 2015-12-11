@@ -1,0 +1,104 @@
+
+# MODULES
+sb.mode.vars=Атрибуты (переменные)
+sb.mode.favorites=Избранное
+sb.mode.props=Изменить свойства
+sb.mode.snippets=Изменить под-поведения.
+# MENU
+menu.top.run=Запуск
+sb.file.new=Новое поведение
+sb.file.open=Открыть поведение
+sb.file.recent=Открыть последнее
+sb.file.close=Закрыть
+sb.file.closeall=Закрыть все
+sb.file.save=Сохранить поведение
+sb.file.saveall=Сохранить все поведения
+sb.file.saveas=Сохранить как...
+sb.file.style=Настроить редактор кода...
+sb.file.shortcut=Настроить горячие клавиши...
+sb.file.exit=Закрыть Конструктор поведения
+sb.file.undo=Отменить
+sb.file.redo=Заново
+sb.file.cut=Вырезать
+sb.file.copy=Копировать
+sb.file.paste=Вставить копию
+sb.file.delete=Стереть
+sb.file.select=Выбрать всё
+sb.file.find=Найти...
+sb.file.replace=Заменить...
+sb.run.check=Проверить правильность
+sb.run.refresh=Обновить атрибуты
+sb.run.build=Собрать всё
+sb.building=Идет сборка...
+sb.builddone=Готово. Потребовалось <0> миллисекунд на сборку.
+sb.help.javadoc=Смотреть API
+sb.help.wiki=Wiki / Вики
+sb.help.whatsnew=Что нового?
+sb.help.toggle=Stencylpedia / Стенсилпедия
+sb.settings.toggle=Настройки игры
+sb.help.call=Нужна помощь!
+sb.chat.toggle=Болталка (Чат)
+sb.answers=Стенсилответы 
+sb.help.crashcourse=Курс для новичков
+sb.help.faq=Стенсилпедия
+sb.help.faq.mobile=iСтенсил cправка (на Стенсилпедии)
+sb.help.attributes=Узнай как создавать атрибуты.
+# TYPE CHOOSER
+actortype.chooser.title=Выбер тип актера
+actor.type.choose=Выберите тип актера...
+# MESSAGES
+sb.noattributes=Это поведение не содержит атрибутов <br> типа '<0>'.
+sb.preview.fail.open=Поведение '<0>' содержит поля, которые или пусты или неправильно заполнены.<br><br>Stencyl сейчас откроет '<0>'
+sb.preview.fail=Stencyl нашел синтаксическую ошибку в поведении '<0>'.<br><br>'<0>' сейчас будет открыто и можно будет исправить ошибки.
+# BEHAVIOR PAGE TABS
+snip.tab.categories=Категории
+snip.tab.bycategory=По категориям
+snip.tab.byscene=По сценам
+snip.tab.byactor=По актерам
+snip.tab.bycode=По коду
+snip.tab.all=Все
+snip.tab.popular=Популярное
+snip.tab.recent=Последнее
+# DEFAULT CATEGORIES
+snip.cat.none=Другие
+snip.cat.ai=Искуств.Разум
+snip.cat.collisions=Столкновения
+snip.cat.fx=«Вкусности»
+snip.cat.debug=Отладка
+snip.cat.motion=Движение
+snip.cat.gui=графический интерфейс пользователя
+snip.cat.scoring=Подсчет очков
+snip.cat.sound=Звук
+snip.cat.stats=Статистика
+snip.cat.drawing=Рисование
+snip.cat.web=Интернет
+snip.cat.ss=Только для сцен
+snip.cat.health=Здоровье
+snip.cat.actions=Действия
+snip.cat.cutscenes=Неигровые вставки / «брифинги»
+snip.cat.saving=Сохранение
+# PAGES
+snip.page.main=Главная
+snip.page.previewcode=Предпросмотр кода
+snip.page.properties=Свойства
+snip.page.attach=Присоединить к <0>
+# ERRORS
+annotate.error.dupe=Личный номер (<0>) намеченный для '<1>' уже используется. Выберите другой.
+annotate.error.private=Персональный атрибут не может быть общедоступным: '<0>'. Сделайте этот атрибут из персонального общедоступным.
+sb.var.forbidden=Этот атрибут нельзя изменять.
+sb.var.none=Атрибуты позволяют конечному разработчику настроить поведение под свои нужды<br> (например, настроить высоту прыжка)<br><br>Щелкните на кнопке + ниже для создания атрибута
+# ICON
+snip.icon=Значек
+snip.icon.info=Наилучший размер – 48 x 48 точек.
+# DESIGN MODE
+sb.design.toggle.palette=Переключиться в палитру
+sb.design.arrange=Отсортировать блоки
+sb.design.toggle.events=Переключится в панель «События»
+sb.design.capture=Сделать снимок экрана
+sb.design.capture2=Сделать снимок экрана и послать друзьям
+sb.design.clean=Очистить от «висящих» блоков
+sb.design.reset=Сбросить раскладку
+sb.trash.info=Перетащив блок в «мусорку» можно его удалить.
+sb.design.events.show=Добавить событие...
+sb.design.events.next=Следующее событие
+sb.design.events.prev=Предыдущее событие

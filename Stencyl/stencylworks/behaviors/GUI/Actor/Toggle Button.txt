@@ -1,0 +1,1 @@
+A button which can be toggled on/off with animations for normal, pressed and hover states.

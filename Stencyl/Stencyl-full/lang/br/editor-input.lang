@@ -1,0 +1,6 @@
+
+# CONTROLS
+input.name=Nome
+input.error.name=Favor entrar com um nome único.
+input.key=Tecla padrão
+input.key.enter=Clique e aperte uma tecla.

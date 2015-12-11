@@ -1,0 +1,34 @@
+
+# Actor Creator
+actor.props=Eigenschaften
+actor.rename=Benenne den Spielertyp um
+actor.group.edit=Überarbeite Gruppen...
+actor.regroup=Wähle Gruppen
+actor.regroup.info=Gruppen werden verwendet um die Kollision Groups are used to determine what kinds of Actor Types collide with each other.
+actor.title=Spielertyp Ersteller
+actor.physics=Physik ändern
+# Actor Top Bar
+actor.top.appearance=Erscheinungsbild
+actor.top.behavior=Verhalten
+actor.top.collision=Kollisionen
+actor.top.physics=Physic
+actor.top.properties=Eigenschaften
+actor.top.attach=Zur Szene hinzufügen
+# Properties
+actor.name=Name
+actor.description=Beschreibung
+actor.group=Gruppe
+actor.sprite.choose=Sprite aussuchen
+actor.anim.choose=Animation aussuchen...
+actor.scene.choose=Szene aussuchen...
+# Sprite Chooser
+actor.chooser.title=Wähle einen Sprite
+# Warnings
+actor.warning.name=Der Name wird schon verwendet.
+actor.warning.name.invalid=Ungültiger Name.
+actor.warning.blank=Gebe einen Namen ein.
+actor.warning.number=Gebe einen positiven Integer ein.
+actor.warning.nosnippets=Klicke hier um ein Verhalten auszuwählen und es zu einem Spielertyp hinzuzufügen.
+actor.warning.nosnippets2=Klicke hier um ein Verhalten auszuwählen und es zu einer Szene hinzuzufügen.
+actor.warning.float=Gebe eine gültige Nummer ein.
+actor.warning.int=Gebe einen gültigen Integer ein.

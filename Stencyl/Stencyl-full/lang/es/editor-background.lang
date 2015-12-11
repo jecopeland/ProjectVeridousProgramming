@@ -1,0 +1,27 @@
+
+# BACKGROUND CREATOR
+bg.top.main=Fondo
+bg.top.properties=Propiedades
+bg.top.attach=Adjuntar a escena
+bg.title.edit=Editar fondo
+bg.title.new=Nuevo fondo
+bg.rename=Renombrar
+bg.resize=Cambiar tamaño
+bg.scroll=Fijar velocidad de desplazamiento
+bg.preview=Vista previa
+bg.rename.title=Renombrar fondo
+bg.scroll.title=Velocidad de desplazamiento
+bg.resize.title=Cambiar tamaño del fondo
+bg.resize.inst=Invalida el tamaño de fondo por defecto. Normalmente, el tamaño de los fondos se basa en las dimensiones del primer fotograma.
+bg.scroll.inst=Por defecto, los fondos se quedan en su sitio. Fijar una velocidad de desplazamiento les hace moverse automáticamente.
+bg.preview.title=Vista previa del fondo
+bg.props.name=Nombre
+bg.props.xscroll=Velocidad de desplazamiento horizontal
+bg.props.yscroll=Velocidad de desplazamiento vertical
+bg.props.width=Anchura
+bg.props.height=Altura
+bg.error.name=Introduce un nombre.
+bg.error.number=Introduce un número positivo.
+bg.error.size=Introduce un entero positivo.
+bg.repeat.title=¿Repetir fondo?
+bg.repeat.inst=Repite el fondo y lo desplaza estáticamente como terreno.

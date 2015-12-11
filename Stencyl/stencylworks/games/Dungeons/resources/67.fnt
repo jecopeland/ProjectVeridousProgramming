@@ -1,0 +1,16 @@
+#
+#Tue Nov 17 14:50:42 EST 2015
+style=bold italic
+alphabet=
+color=\#3366ff
+stroke.color=\#0000ff
+shadow.y=0
+family=Monospaced
+shadow.x=0
+shadow.color=\#000000
+gradient.offset=0
+shadow.blur=1
+chars=all
+stroke.size=1
+antialias=true
+size=18

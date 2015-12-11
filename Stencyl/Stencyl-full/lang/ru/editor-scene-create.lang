@@ -1,0 +1,20 @@
+
+# SCENE PAGE
+scene.edit.title=Изменить свойства сцены
+scene.new.info=Основные свойства
+scene.new.terrain=Размер
+scene.new.background=Цвет декорации (фона).
+scene.new.name=Название
+scene.new.type=Тип сцены
+scene.new.type.normal=Нормальная
+scene.new.tiles=Плитки
+scene.new.pixels=Точки (пикселы)
+scene.new.width=Ширина
+scene.new.height=Высота
+scene.new.tilex=Ширина плитки
+scene.new.tiley=Высота плитки
+scene.new.background.color=Цвет
+scene.new.background.edit=Изменить изображения...
+scene.new.background.style.solid=Однородный цвет
+scene.new.background.style.none=Без цвета
+scene.new.background.style.vert=Вертикальная размывка (градиент) 

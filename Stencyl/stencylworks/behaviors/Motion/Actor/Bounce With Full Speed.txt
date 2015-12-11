@@ -1,0 +1,1 @@
+Makes this actor bounce off objects at the same speed it hit them with like "Breakout"

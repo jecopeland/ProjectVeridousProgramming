@@ -1,0 +1,26 @@
+
+# SCENE PAGE
+scene.new.title=Criar uma Nova Cena
+scene.edit.title=Editar as Propriedades da Cena
+scene.edit.bg.title=Editar Imagens de Fundo
+scene.new.info=Básico
+scene.new.terrain=Tamanho
+scene.new.background=Cor do Fundo
+scene.new.name=Nome
+scene.new.type=Tipo de Cena
+scene.new.type.normal=Normal
+scene.new.type.iso=Isométrico
+scene.new.type.hex=Hexagonal
+scene.new.tiles=azulejos
+scene.new.pixels=pixels
+scene.new.width=Comprimento
+scene.new.height=Largura
+scene.new.tilex=Comprimento do Azulejo
+scene.new.tiley=Largura do Azulejo
+scene.new.background.color=Cor
+scene.new.background.edit=Editar Imagens...
+scene.new.color.title=Seletor de Cores
+scene.new.background.style.solid=Cor Sólida
+scene.new.background.style.none=Sem Cor
+scene.new.background.style.vert=Gradação Vertical
+scene.warning.name=Introduza um nome único.

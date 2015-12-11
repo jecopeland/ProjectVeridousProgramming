@@ -1,0 +1,37 @@
+
+# Behavior Library
+actor.snippet.fields=Attributes
+actor.snippet.fields.none=This behavior contains nothing to configure.
+actor.snippet.fields.none.short=Nothing to configure.
+actor.snippet.order=Order
+actor.snippet.add=New Behavior
+actor.snippet.delete=Delete
+actor.snippet.edit=Edit
+actor.snippets=Choose a Behavior
+# Snippet List
+actor.snippet.instance.add=Add Behavior
+actor.snippet.instance.open=Edit Behavior
+actor.snippet.instance.delete=Remove Behavior
+actor.snippet.instance.enable=Activate Behavior
+actor.snippet.instance.disable=Deactivate Behavior
+actor.snippet.instance.reset=Reset All Values
+actor.snippet.instance.toggle.e=Enable Customization
+actor.snippet.instance.toggle.d=Disable Customization
+actor.snippet.instance.disabled=Click here to begin customizing this actor's behavior.
+actor.snippet.instance.info=This field is only available on Actors placed inside a scene. Double-click the actor in the scene and click 'Enable Customization' to configure this field.
+# Behavior Page
+list.add=Add Item to List
+list.remove=Remove Item from List
+list.edit=Edit Item
+list.up=Move Item Up
+list.down=Move Item Down
+list.import=Import from Text File...
+list.index=Index
+list.import.title=Choose a Text File...
+map.add=Add Key/Value Pair to Map
+map.remove=Remove Key/Value Pair from Map
+map.key=Key
+behavior.choose.normal=Choose from this Game
+behavior.choose.online=Search Online
+behavior.choose.fromgame=From This Game
+behavior.choose.fromlibrary=From Your Library

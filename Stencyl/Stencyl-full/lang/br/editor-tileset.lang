@@ -1,0 +1,30 @@
+
+# Tileset Creator
+tset.title=Criador de Tileset
+tset.title.edit=Editar Tileset
+tset.tiles=Tiles
+tset.properties=Renomear Tileset
+tset.tile.create=Adicionar
+tset.menu.import=Importar Tile Existente
+tset.tile.add.title=Criar Novos Tiles
+# Tile Editor
+tset.anim.collision=Limites de Colisão
+tset.anim.collision.edit=Editar
+tset.anim.looping=Repetição?
+tset.anim.rect=Retângulo
+tset.anim.poly=Polígono
+tset.anim.title1=Propriedades do Tile
+tset.anim.title2=Quadros (Arraste para rearrumar)
+tset.menu.addframe=Adicionar Quadro
+tset.menu.editframe=Editar Quadro
+tset.menu.removeframe=Remover Quadro
+tset.anim.add.import=Adicionar Quadros Múltiplos
+# Tileset Properties
+tset.props.title=Editar Propriedades do Tileset
+tset.props.name=Nome
+# Warnings
+tset.warning.name=Favor preencher com um nome único.
+tset.warning.duration=Favor preencher com um número inteiro positivo.
+tset.warning.notiles=O tileset não contém tiles.
+tset.warning.blank=Esse é um tile em branco. Você não pode editá-lo.
+# Shape Editor

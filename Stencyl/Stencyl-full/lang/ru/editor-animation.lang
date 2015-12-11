@@ -1,0 +1,119 @@
+
+# Sprite Editor
+sprite.animations=Анимации
+sprite.properties=Переименовать спрайт
+sprite.menu.create=Создать анимацию
+sprite.menu.import=Вставка существующей анимации из... 
+sprite.menu.delete=Удалить анимацию
+sprite.menu.default=Установить эту анимацию анимацией по умолчанию
+sprite.menu.duplicate=Дублировать анимацию
+sprite.menu.flip.horiz=Отразить по горизонтали
+sprite.menu.flip.vert=Отразить по вертикали
+sprite.menu.rotcw=Повернуть на 90° по часовой стрелке
+sprite.menu.rotccw=Повернуть на 90° против часовой стрелки
+sprite.anim.name=Название
+sprite.anim.collision.edit=Изменить границы столкновения...
+sprite.anim.looping=Повторять?
+# <0> is the animation's name
+sprite.anim.title1=Свойства
+sprite.anim.title2=Кадры
+sprite.anim.duration=<0> миллисекунд
+sprite.menu.addframe=Добавить кадр
+sprite.menu.editframe.pencyl=Изменить кадр (В другой программе)
+sprite.menu.addframe.pencyl=Создать кадр (В другой программе)
+sprite.menu.editframe=Изменить кадр
+sprite.menu.removeframe=Убрать кадр
+sprite.menu.back=Переместить назад
+sprite.menu.forward=Переместить вперёд
+sprite.anim.empty=Нажмите здесь, чтобы добавить кадр.
+sprite.menu.copy=Копировать кадр
+sprite.menu.paste=Вставить скопированный кадр
+# Origin Points
+sprite.origin=Центральная точка
+sprite.origin.x=Положение центра по Х
+sprite.origin.y=Положение центра по Y
+sprite.origin.topleft=Слева вверху
+sprite.origin.topright=Справа вверху
+sprite.origin.bottomleft=Слева внизу
+sprite.origin.bottomright=Справа внизу
+sprite.origin.leftcenter=Лево по-центру
+sprite.origin.rightcenter=Право по-центру
+sprite.origin.topcenter=Вверху по-центру
+sprite.origin.bottomcenter=Внизу по-центру
+sprite.origin.center=Центр (по умолчанию)
+sprite.origin.custom=Настроить самому
+# Frame Editor
+sprite.frame.title.edit=Именить кадр
+sprite.frames.title.edit=Изменить продолжительность (несколько кадров)
+sprite.frame.duration=Продолжительность (в миллисекундах)
+sprite.menu.changeimage=Вставить картинку из файла...
+sprite.menu.pasteimage=Вставить из буфера обмена
+sprite.menu.paintimage=Изменить картинку...
+sprite.menu.vpaintimage=Изменить картинку в векторном редакторе...
+sprite.frame.filechooser.filter=Изображения
+sprite.frame.filechooser.select=Выбрать изображение
+sprite.frame.title.add=Добавить кадр
+sprite.frame.name=Кадр <0>
+sprite.frame.name.multi=выбранные кадры
+# Add Animation
+sprite.anim.add.import=Вставить кадры и файла...
+sprite.anim.created=Анимация <0>
+# Sprite Properties
+sprite.props.name=Название
+# Import Image Strip / Sheet
+sprite.strip.title=Вставить кадры из ленты картинок
+sprite.strip.choose=Выбрать изображение...
+sprite.strip.rows=Строки
+sprite.strip.cols=Столбцы
+sprite.strip.inst1.double=Вставить картинку с разрешением х 2 (для показа сеточки).
+sprite.strip.inst1=Во-первых, выберите изображение.
+sprite.strip.inst2=Теперь щелкните на изображение, чтобы выбрать цвет, назначаемый прозрачным, если есть прозрачный фон.
+sprite.strip.inst3=Finally, use the fields on the left to chop up your image into frames, if necessary.В конце используйте поля слева, чтобы разрезать Ваши изображения на кадры, если нужно.
+sprite.strip.inst4=Вот и всё! Нажмите на кнопку "Добавить", чтобы завершить этот процесс.
+sprite.strip.trans=Прозрачность цвета
+sprite.strip.xs=Отступ по горизонтали
+sprite.strip.ys=Отступ по вертикали
+sprite.strip.xb=граница по X 
+sprite.strip.yb=граница по Y  
+sprite.strip.size=Размер: <0> x <1> 
+# Warnings
+sprite.warning.name=Введите название, которое еще не применялось.
+sprite.warning.duration=Введите положительное целое число.
+sprite.warning.noanims=Этот актер не содержит анимации. <br> <br> Нажмите здесь, чтобы добавить анимацию.
+# SHAPE CHOOSER
+shape.none=Нет столкновений
+# Shape Editor
+shape.inst1=Каждая анимация связана с фигурой границы столкновения.
+shape.main=Перетаскивайте фигуру вокруг.
+shape.shape=Текущая фигура
+shape.add.box=Добавить квадрат
+shape.add.circle=Добавить круг
+shape.add.poly=Добавить многоугольник
+shape.rename=Переименовать фигуру
+shape.remove=Убрать фигуру
+shape.editphys=Изменить физические свойства...
+shape.editphys.title=Физические свойства
+shape.name=Название
+shape.x=Положение по X
+shape.y=Положение по Y
+shape.w=Ширина
+shape.h=Высота
+shape.xc=Положение по X (Лево)
+shape.yc=Положение по Y (Верх)
+shape.r=Радиус
+shape.box=Квадрат 
+shape.poly=Многоугольник
+shape.circle=Круг
+shape.select.none=Фигура не выбрана.<br><br>Выберите фигуру для изменения.
+shape.select.many=Выбрано несколько фигур сразу.<br><br>Вы можете изменять только одну фигуру за один раз.
+shape.fric=Трение
+shape.rest=Упругость
+shape.fric.info=Замедляет объекты, если они трутся друг о друга.
+shape.rest.info=Заставляет предметы отскакивать. Значение 1.0 означает, что шар будет отскакивать назад к той же высоте, с которой он был сброшен, а значение 0.0 означает, что вообще не отскочет.
+shape.sensor=Есть датчик («сигнализация»)?
+shape.sensor.info=Позволяет фигуре обнаруживать столкновения втихую, без реакции, так что она не выглядит «твердой». 
+shape.density.info=Определяет, насколько тяжелая эта часть по отношению к другим частям.
+shape.light=Легкая
+shape.heavy=Тяжелая
+shape.defaultgroup=То же, что и у актёра (по умолчанию)
+shape.group.desc=Назначьте эту фигуру в другую группу, вместо родительской (тип актера). <br> Полезна для много-фигурных актеров.

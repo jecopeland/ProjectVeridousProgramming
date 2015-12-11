@@ -1,0 +1,34 @@
+
+# PRELOADER
+loader.cat.main=General
+loader.cat.style=Appearance
+loader.cat.bar=Bar Style
+loader.cat.color=Bar Color
+loader.bar.title=Loading Bar
+loader.bar.loc=Bar Location
+loader.bar.width=Bar Width
+loader.bar.height=Bar Height
+loader.bar.thickness=Border Thickness
+loader.bar.offset.x=Bar Offset X
+loader.bar.offset.y=Bar Offset Y
+loader.bar.scale=Bar Scale
+loader.color.title=Loading Bar Colors
+loader.color.color=Bar Color
+loader.color.border=Bar Border Color
+loader.color.bg=Bar Background Color
+loader.url=Your Home Page
+loader.lock=Site Lock
+loader.lock.info=Prevent piracy of your game.<br><br>Format (comma separated):<br> website.com, website2.com
+loader.splash=Stencyl Attribution
+loader.splash1=Splash Screen
+loader.splash2=Preloader (Light)
+loader.splash3=Preloader (Dark)
+loader.splash4=Preloader (Blue)
+loader.splash.info=Applies to Web games. Upgrade your copy of Stencyl to remove.
+loader.splash.thanks=Thanks for subscribing. No splash screen will show up.
+loader.upgrade=Upgrade Stencyl
+loader.style=Appearance
+loader.bg=Background
+loader.bg.clear=Clear Background
+loader.bg.info=Make it the same size as your game.
+loader.bg.info2=For the Web version of your game.<br>The mobile versions use the mobile splash image.

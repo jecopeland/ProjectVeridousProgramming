@@ -1,0 +1,1 @@
+Kill this actor when it is clicked or touched.

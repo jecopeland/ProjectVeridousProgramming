@@ -1,0 +1,74 @@
+
+# SCENE LIBRARY
+scene.type=Lavaste
+scene.edit=Muokkaa lavastetta
+scene.create=Tee uusi lavaste
+scene.delete=Poista tämä lavaste
+scene.filter=Suodata lavasteet.
+# BAR
+bar.grid=<0> Ruudukko
+bar.anim=<0> Animaatiot
+# BACKGROUNDS / FOREGROUNDS
+scene.backgrounds=Taustakuvat
+scene.foregrounds=Kuvat
+scene.background.new=Lisää uusi taustakuva
+scene.background.delete=Poista taustakuva
+scene.background.up=Siirrä taustakuvaa ylös
+scene.background.down=Siirrä taustakuvaa alas
+scene.foreground.new=Lisää uusi kuva
+scene.foreground.delete=Poista kuva
+scene.foreground.up=Siirrä kuvaa ylös
+scene.foreground.down=Siirrä kuvaa alas
+scene.background.chooser.title=Valitse taustakuva
+# UNDO/REDO
+scene.action.tile.place=Sijoita laatta
+scene.action.tiles.place=Sijoita laattoja
+scene.action.actor.place=Sijoita hahmo
+scene.action.actors.place=Sijoita hahmoja
+scene.action.select.delete=Poista valinta
+scene.action.select.nudge=?
+scene.action.select.move=Siirrä valintaa
+scene.action.select.switchlayer=Vaihda tasoa
+scene.action.select.back=Vie taakse
+scene.action.select.toback=Vie taaimmaiseksi
+scene.action.select.forward=Tuo eteen
+scene.action.select.tofront=Tuo etummaiseksi
+scene.action.layer.add=Lisää taso
+scene.action.layer.remove=Poista taso
+# LAYERS
+scene.layer=Taso <0>
+scene.layer.header.name=Nimi
+scene.layer.header.color=Väri
+scene.layer.header.show=Näytä?
+scene.layer.new=Uusi taso
+scene.layer.delete=Poista taso
+scene.layer.up=Tuo taso eteen
+scene.layer.down=Vie taso taakse
+scene.layer.rename=Nimeä taso uudelleen
+# ROLLOVER
+actor.rollover=<0> (id: <1>) (<2>, <3>)
+actor.rollovershort=<0>
+# JOINTS
+# PICKING
+# REGIONS
+# OTHER
+general.info=Siirretään (<0>, <1>)
+scene.snippet.instance.add=Luo uusi höyste
+scene.snippet.instance.open=Muokkaa höystettä
+scene.snippet.instance.import=Tuo kirjastosta
+scene.snippet.instance.delete=Poista höyste
+# MODULES
+mod.palette=Paletti
+mod.history=Historia
+mod.layers=Tasot
+mod.game=Kirjasto
+mod.properties=Ominaisuudet
+mod.scenes=Lavasteet
+mod.tools=Työkalut
+mod.output=Tulos
+mod.variables=Muuttujat
+# PALETTE
+palette.tile=Laatat
+palette.actor=Hahmot
+palette.custom=Muu
+palette.tilesets=Laattapaketit

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="3" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="3" id="-1">
+                <fadeTo comment="false" x="26" y="40">
+                    <ACTOR eid="this" id="0"/>
+                    <int id="1" val="50"/>
+                    <int id="2" val="1"/>
+                    <int id="3" val="0"/>
+                </fadeTo>
+                <anchor-screen comment="false" x="26" y="67">
+                    <ACTOR eid="this" id="0"/>
+                </anchor-screen>
+                <set-val-18-2 comment="false" x="26" y="94">
+                    <false comment="false" id="0" x="0" y="0"/>
+                </set-val-18-2>
+                <backforward comment="false" x="26" y="119">
+                    <ACTOR eid="this" id="0"/>
+                    <int id="1" val="3"/>
+                </backforward>
+                <do-on-platform comment="false" x="26" y="146">
+                    <group eventID="3" id="-1">
+                        <die comment="false" x="37" y="173">
+                            <ACTOR eid="this" id="0"/>
+                        </die>
+                    </group>
+                    <int id="0" val="5"/>
+                </do-on-platform>
+                <do-on-platform comment="false" x="26" y="212">
+                    <group eventID="3" id="-1">
+                        <die comment="false" x="37" y="239">
+                            <ACTOR eid="this" id="0"/>
+                        </die>
+                    </group>
+                    <int id="0" val="2"/>
+                </do-on-platform>
+            </group>
+        </init>
+    </group>
+    <group eventID="3" id="-1"/>
+    <group eventID="4" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="4" id="-1">
+                <if comment="false" x="26" y="40">
+                    <group eventID="4" id="-1">
+                        <if comment="false" x="37" y="70">
+                            <group eventID="4" id="-1">
+                                <simulate-key comment="false" x="48" y="103">
+                                    <int id="0" val="0"/>
+                                    <get-val-18-1 comment="false" id="1" x="0" y="0"/>
+                                </simulate-key>
+                                <set-val-18-2 comment="false" x="48" y="135">
+                                    <true comment="false" id="0" x="0" y="0"/>
+                                </set-val-18-2>
+                            </group>
+                            <amousestate comment="false" id="0" x="0" y="0">
+                                <ACTOR eid="this" id="0"/>
+                                <int id="1" val="0"/>
+                            </amousestate>
+                        </if>
+                    </group>
+                    <not comment="false" id="0" x="0" y="0">
+                        <get-val-18-2 comment="false" id="0" x="0" y="0"/>
+                    </not>
+                </if>
+                <if comment="false" x="26" y="184">
+                    <group eventID="4" id="-1">
+                        <if comment="false" x="37" y="209">
+                            <group eventID="4" id="-1">
+                                <simulate-key comment="false" x="48" y="247">
+                                    <int id="0" val="1"/>
+                                    <get-val-18-1 comment="false" id="1" x="0" y="0"/>
+                                </simulate-key>
+                                <set-val-18-2 comment="false" x="48" y="279">
+                                    <false comment="false" id="0" x="0" y="0"/>
+                                </set-val-18-2>
+                            </group>
+                            <not comment="false" id="0" x="0" y="0">
+                                <amousestate comment="false" id="0" x="0" y="0">
+                                    <ACTOR eid="this" id="0"/>
+                                    <int id="1" val="0"/>
+                                </amousestate>
+                            </not>
+                        </if>
+                    </group>
+                    <get-val-18-2 comment="false" id="0" x="0" y="0"/>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="4" id="-1"/>
+</groups>

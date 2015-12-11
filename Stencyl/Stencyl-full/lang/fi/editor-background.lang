@@ -1,0 +1,22 @@
+
+# BACKGROUND CREATOR
+bg.title.edit=Muokkaa taustaa
+bg.title.new=Uusi tausta
+bg.rename=Nimeä uudelleen
+bg.resize=Muuta kokoa
+bg.scroll=Aseta siirtymänopeus
+bg.preview=Esikatselu
+bg.rename.title=Nimeä tausta uudelleen
+bg.scroll.title=Automaattinen siirtymänopeus
+bg.resize.title=Muuta taustan kokoa
+bg.resize.inst=Ohita taustan oletuskoko. Tavallisesti taustojen koko määräytyy kuvan mittojen mukaan.
+bg.scroll.inst=Tavallisesti taustat pysyvät paikallaan. Siirtymänopeuden asettaminen saa ne siirtymään ruudun mukana.
+bg.preview.title=Esikatsele taustaa
+bg.props.name=Nimi
+bg.props.xscroll=X-rullausnopeus
+bg.props.yscroll=Y-rullausnopeus
+bg.props.width=Leveys
+bg.props.height=Korkeus
+bg.error.name=Kirjoita nimi.
+bg.error.number=Kirjoita positiivinen luku.
+bg.error.size=Kirjoita positiivinen kokonaisluku.

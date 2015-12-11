@@ -1,0 +1,208 @@
+
+# SCENE LIBRARY
+scene.edit=Modifica questa Scena
+scene.create=Crea una nuova Scena
+scene.delete=Elimina questa Scena
+# SCENE PAGES
+scene.top.main=Scena
+scene.top.gui=GUI
+scene.top.behavior=Comportamenti
+scene.top.properties=Proprietà
+scene.top.background=Sfondo
+scene.top.physics=Fisica
+scene.top.test=Prova Scena
+# SCENE MODES
+scene.mode.layer=Modalità strati
+scene.mode.working=Modalità lavoro
+# BAR
+bar.grid=<0> Griglia
+bar.anim=<0> Animazioni
+bar.screen=<0> Confini schermo
+bar.bg=<0> Sfondo
+bar.fg=<0> Primo piano
+bar.autoSnap=Aggancia alla griglia: Quando abilitato, l'aggancio alla griglia è automatico. Se disabilitato, tieni premuto SHIFT (Maiusc) per agganciare alla griglia.
+# EMPTY
+library.empty.palette=Questo gioco non contiene <0>.
+library.empty.palette.actor=Crea attore tipo
+# PHYSICS
+scene.physics.gravx=Gravità (Orizzontale)
+scene.physics.left=Sinistra
+scene.physics.right=Destra
+scene.physics.gravy=Gravità (Verticale)
+scene.physics.up=Su
+scene.physics.down=Giù
+scene.physics.desc=Usa un valore di '85 Giù' per simulare la gravità della terra.
+# BACKGROUNDS / FOREGROUNDS
+scene.background.explanation=È possibile aggiungere alla scena sfondi o sovrimpressioni.<br>Gli sfondi appariranno dietro la scena mentre le sovrimpressioni davanti.
+scene.backgrounds=Sfondi
+scene.foregrounds=Sovrimpressioni
+scene.background.new=Aggiungi nuovo Sfondo
+scene.background.delete=Rimuovi Sfondo
+scene.background.up=Sposta lo Sfondo in su
+scene.background.down=Sposta lo Sfondo in giú
+scene.foreground.new=Aggiungi nuova Sovrimpressione
+scene.foreground.delete=Rimuovi Sovrimpressione
+scene.foreground.up=Sposta Sovrimpressione su
+scene.foreground.down=Sposta Sovrimpressione giú
+scene.background.create=Crea nuovo sfondo
+scene.background.edit=Modifica questo sfondo
+scene.foreground.edit=Modifica questa sovrimpressione
+scene.background.chooser.title=Scegli uno Sfondo
+scene.chooser.title=Seleziona scena
+scene.actorinstance.title=Modifica comportamento per '<0>'
+# UNDO/REDO
+scene.action.tile.place=Posiziona Tassello
+scene.action.tiles.place=Posiziona Tasselli
+scene.action.actor.place=Posiziona attore
+scene.action.actors.place=Posiziona attori
+scene.action.actor.rotate=Ruota attore
+scene.action.actor.scale=Scala attore
+scene.action.actors.scale=Scala attori
+scene.action.select.delete=Elimina selezione
+scene.action.select.nudge=Spingi selezione
+scene.action.select.move=Muovi selezione
+scene.action.select.switchlayer=Cambia Livello
+scene.action.select.back=Abbassa
+scene.action.select.toback=Sposta in fondo
+scene.action.select.forward=Alza
+scene.action.select.tofront=Sposta in cima
+scene.action.layer.add=Aggiungi strato
+scene.action.layer.remove=Rimuovi strato
+# LAYERS
+scene.layer=Livello <0>
+scene.layer.header.name=Nome
+scene.layer.header.color=Colore
+scene.layer.header.show=Visibile?
+scene.layer.new=Nuovo strato
+scene.layer.delete=Elimina strato
+scene.layer.up=Sposta strato sopra
+scene.layer.down=Sposta strato sotto
+scene.layer.rename=Rinomina strato
+# ROLLOVER
+actor.rollover=<0> (ID: <1>) (<2>, <3>)
+actor.rollovershort=<0>
+# JOINTS
+joints.stick=Giunzione statica
+joints.hinge=Giunzione a rotazione
+joints.sliding=Giunzione scorrevole
+joints.info.selected=<0> (<1>). Doppio click per modificare questa proprietà.
+joint.edit.title=Modifica proprietà giunzione
+joint.edit.general=Generale
+joint.edit.stick=Avanzate
+joint.edit.hinge.limit=Limiti
+joint.edit.slide.limit=Limiti
+joint.edit.hinge.motor=Motore
+joint.edit.slide.motor=Motore
+joint.edit.direction=Direzione scorrimento
+joint.edit.name=Nome
+joint.edit.namei=Utilizzare un nome descrittivo per identificare questa giunzione.
+joint.edit.name.err=Inserire un nome.
+joint.edit.collide=L’agente collide?
+joint.edit.collidei=Quando due agenti sono collegati da una giunzione, solitamente la collisione tra questi due è disattivata.
+joint.edit.damping=Ammortizzamento
+joint.edit.dampingi=Riduce l’effetto di perturbazioni contro questa giunzione. Per esempio come una porta che si chiude dolcemente anziché sbattere. Il valore 1 corrisponde al massimo, cioè alla mancanza di oscillazione.
+joint.edit.dampingl=Assente
+joint.edit.dampingh=Massimo
+joint.edit.freq=Rigidità
+joint.edit.freqi=Determina quanto è rigida o allentata questa giunzione.
+joint.edit.freql=Rigida
+joint.edit.freqh=Allentata
+joint.edit.hlimit=Attivare i limiti?
+joint.edit.hlimiti=I limiti impediscono a questa giunzione di ruotare oltre certi angoli.
+joint.edit.hlower=Limite inferiore
+joint.edit.hloweri=In gradi relativi all’angolo di partenza.
+joint.edit.hlowere=Inserire un numero.
+joint.edit.hupper=Limite superiore
+joint.edit.hupperi=In gradi relativi all’angolo di partenza.
+joint.edit.huppere=Inserire un numero.
+joint.edit.slimit=Attivare i limiti?
+joint.edit.slimiti=I limiti impediscono a questa giunzione di scorrere oltre certi punti.
+joint.edit.slower=Limite inferiore
+joint.edit.sloweri=In pixel relativi al punto di partenza.
+joint.edit.slowere=Inserire un numero.
+joint.edit.supper=Limite superiore
+joint.edit.supperi=In pixel relativi al punto di partenza.
+joint.edit.suppere=Inserire un numero.
+joint.edit.hmotor=Attivare il motore?
+joint.edit.hmotori=Fa ruotare automaticamente questa giunzione.
+joint.edit.htorque=Rigidità
+joint.edit.htorquei=La quantità di resistenza che oppone questa giunzione quando è mossa da un motore.
+joint.edit.htorquee=Inserire un numero maggiore di zero.
+joint.edit.hspeed=Velocità
+joint.edit.hspeedi=La velocità alla quale ruota questa giunzione. Se è negativa avviene in senso antiorario.
+joint.edit.hspeede=Inserire un numero.
+joint.edit.smotor=Abilitare il motore?
+joint.edit.smotori=Fa scorrere automaticamente questa giunzione.
+joint.edit.sforce=Rigidità
+joint.edit.sforcei=La quantità di resistenza che oppone questa giunzione quando è mossa da un motore.
+joint.edit.sforcee=Inserire un numero maggiore di zero.
+joint.edit.sspeed=Velocità
+joint.edit.sspeedi=La velocità alla quale scorre questa giunzione. Può essere negativa.
+joint.edit.sspeede=Inserire un numero.
+joint.edit.x=Direzione X
+joint.edit.xi=La direzione nella quale l’agente scorre, relativa all’agente primario.
+joint.edit.xe=Inserire un numero.
+joint.edit.y=Direzione Y
+joint.edit.yi=La direzione nella quale l’agente scorre, relativa all’agente primario.
+joint.edit.ye=Inserire un numero.
+joint.edit.hinge1=La giunzione a rotazione àncora <0> allo sfondo.
+joint.edit.hinge2=La giunzione a rotazione àncora <0> a <1>.
+joint.edit.slide1=La giunzione scorrevole àncora <0> allo sfondo.
+joint.edit.slide2=La giunzione scorrevole àncora <0> a <1>.
+# PICKING
+actor.choose=Seleziona un attore da questa scena...
+joint.choose=Seleziona una Giunzione da questa scena...
+region.choose=Seleziona una Regione da questa scena...
+terrain.region.choose=Selezionare terreno...
+actor.choose.i=Fare clic su un attore per selezionarlo.
+joint.choose.i=Fare clic su una giunzione per selezionarla.
+region.choose.i=Clicca su una regione per selezionarla.
+terrain.region.choose.i=Clicca su un terreno per selezionarlo.
+# REGIONS
+region.info.selected=<0> (<1>) (Pos: <2>, <3>)
+region.info.dim=(<0>, <1>)    (Larghezza: <2>  Altezza: <3>)
+region.edit.name=Nome
+region.edit.namee=Inserire un nome.
+region.edit.title=Modifica proprietà Regione
+region.edit.color=Colore
+# TERRAIN REGIONS
+terrain.region.info.selected=<0> (<1>)    (Pos: <2>, <3>)
+terrain.region.info.dim=(<0>, <1>)    (Larghezza: <2>  Altezza: <3>)
+terrain.region.edit.name=Nome
+terrain.region.edit.namee=Inserire un nome.
+terrain.region.edit.title=Modifica proprietà terreno
+terrain.region.edit.color=Colore
+terrain.region.edit.group=Gruppo
+# OTHER
+general.info=Spostamento a (<0>, <1>)
+# BEHAVIORS
+scene.snippet.instance.add=Crea un evento specifico per la scena
+scene.snippet.instance.open=Modifica comportamento
+scene.snippet.instance.import=Importa comportamento dalla libreria
+scene.snippet.instance.delete=Rimuovi comportamento
+# SCREEN CAPTURE
+capture.title=Istantanea eseguita
+capture.body=%s è stata salvata nella posizione selezionata.
+capture.error=Non posso fare un istantanea. Riprova.
+# MODULES
+mod.palette=Tavolozza
+mod.history=Cronologia
+mod.layers=Livelli
+mod.game=Libreria
+mod.properties=Proprietà
+mod.scenes=Scene
+mod.output=Uscita
+mod.variables=Variabili
+mod.inventory=Inventario
+mod.inspector=Ispettore
+# PALETTE
+palette.tile=Tasselli
+palette.actor=Attori
+palette.tilesets=Set tasselli
+palette.tilesets.create=Crea nuovo set tasselli
+# INVENTORY
+inventory.actors=Attori
+inventory.regions=Regioni
+inventory.joints=Giunzioni
+inventory.terrains=Terreni
+inventory.all=Tutto

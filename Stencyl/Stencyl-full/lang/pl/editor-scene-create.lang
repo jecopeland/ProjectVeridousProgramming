@@ -1,0 +1,25 @@
+
+scene.new.title=Utwórz nową scenę
+scene.edit.title=Właściwości
+scene.edit.bg.title=Tła
+scene.new.info=Podstawy
+scene.new.terrain=Wielkość
+scene.new.background=Tło
+scene.new.name=Nazwa
+scene.new.type=Wybierz typ
+scene.new.type.normal=Normalny
+scene.new.type.iso=Izometryczny
+scene.new.type.hex=Heksagonalny
+scene.new.tiles=elementy
+scene.new.pixels=piksele
+scene.new.width=Szerokość
+scene.new.height=Wysokość
+scene.new.tilex=Szerokość elementu
+scene.new.tiley=Wysokość elementu
+scene.new.background.color=Kolor
+scene.new.background.edit=Edytuj tła...
+scene.new.color.title=Paleta kolorów
+scene.new.background.style.solid=Kolor jednolity
+scene.new.background.style.none=Brak koloru
+scene.new.background.style.vert=Pionowy gradient
+scene.warning.name=Wpisz unikalną nazwę.

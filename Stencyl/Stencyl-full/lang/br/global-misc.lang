@@ -1,0 +1,20 @@
+
+# MULTI INSTANCE
+multi.main=Aviso: StencylWorks já está aberto ou foi fechado inesperadamente. Gostaria de continuar?
+multi.sub=Executar várias instâncias do StencylWorks é altamente desencorajado.
+# LEGAL
+cp=© Copyright 2009 Stencyl, LLC. Todos os direitos reservados. Stencyl, o logotipo Stencyl, e a engrenagem Stencyl são marcas registradas de  Stencyl, LLC nos Estados Unidos e/ou outros países. O uso do StencylWorks é restrito segundo nosso End User License Agreement (EULA).
+# MISC
+progress=Progresso
+statusbar=Barra de Status
+welcome.newgame=Criar Novo Jogo
+welcome.opengame=Abrir Jogo Existente
+welcome.tabtitle=Bem Vindo
+welcome.title1=Escolha uma tarefa:
+welcome.tour=Fazer um Tour
+# LOADING
+load.loading=Carregando
+load.lnf=Estilo Visual
+load.ui=Interface
+load.plug=Plugins
+# PHYSICS UNITS (Leave these as is)

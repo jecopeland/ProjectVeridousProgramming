@@ -1,0 +1,37 @@
+
+# Physics
+physics.general=Ogólne
+physics.damping=Bezwładność
+physics.mass=Masa
+physics.material=Właściwości
+actor.physics.title=Właściwości fizyczne
+actor.adamp=Tłumienie kątowe
+actor.adamp.info=Zmniejsza prędkość kątową postaci.
+actor.ldamp=Tłumienie liniowe
+actor.ldamp.info=Zmniejsza prędkość liniową postaci.
+actor.damp.full=Pełne
+actor.damp.none=Brak
+actor.grav=Ignoruj grawitację
+actor.grav.info=Przy zaznaczeniu grawitacja nie wpływa na tę postać.
+actor.mass=Masa
+actor.mass.info=Odpowiada za "ciężar" obiektu.
+actor.inert=Masa bezwładności
+actor.inert.info=Odpowiada za trudność zmiany kierunku ruchu.
+actor.light=Mała
+actor.heavy=Duża
+actor.rot=Obraca się
+actor.rot.info=Przy zaznaczeniu postać może się dowolnie obracać.
+actor.static=Nieruchoma
+actor.static.info=Nieruchoma (statyczna) postać jest traktowana jak element otoczenia.
+actor.material=Predefiniowane
+actor.material.info=Możesz wykorzystać predefiniowane właściwości np. lodu.
+actor.material.choose=Wybierz materiał
+actor.material.ice=Lód
+actor.material.wood=Drewno
+actor.material.metal=Metal
+actor.material.stone=Kamień
+actor.material.plastic=Plastik
+actor.material.rubber=Guma
+actor.material.dead=Odważnik
+actor.material.bouncy=Kauczuk
+actor.material.custom=Własny

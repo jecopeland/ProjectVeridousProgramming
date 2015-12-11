@@ -1,0 +1,27 @@
+
+# BACKGROUND CREATOR
+bg.top.main=Fundo
+bg.top.properties=Propriedades
+bg.top.attach=Anexar a uma Cena
+bg.title.edit=Editar Fundo
+bg.title.new=Novo Fundo
+bg.rename=Renomear
+bg.resize=Redimensionar
+bg.scroll=Definir Velocidade de Deslocação
+bg.preview=Pré-visualizar
+bg.rename.title=Renomear Fundo
+bg.scroll.title=Velocidade de Deslocação
+bg.resize.title=Redimensionar Fundo
+bg.resize.inst=Substitui a dimensão, por defeito, do Fundo. Normalmente, a dimensão de um Fundo é baseado na dimensão da primeira Frame.
+bg.scroll.inst=Por defeito, um Fundo é estático. Definir a velocidade de deslocação vai os fazer deslocar automaticamente.
+bg.preview.title=Pré-visualizar Fundo
+bg.props.name=Nome
+bg.props.xscroll=Velocidade da Deslocação Horizontal
+bg.props.yscroll=Velocidade da Deslocação Vertical
+bg.props.width=Comprimento
+bg.props.height=Largura
+bg.error.name=Introduza um nome.
+bg.error.number=Introduza um número positivo.
+bg.error.size=Introduza um número inteiro e positivo.
+bg.repeat.title=Repetir o Fundo?
+bg.repeat.inst=Repete o Fundo e desloca de modo estático como terreno.

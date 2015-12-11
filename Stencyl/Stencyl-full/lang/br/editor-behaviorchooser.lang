@@ -1,0 +1,11 @@
+
+actor.snippet.add=Novo Snippet
+actor.snippet.delete=Deletar
+actor.snippet.edit=Editar
+actor.snippets=Snippets
+actor.snippet.filter=Buscar...
+# Snippet List
+actor.snippet.instance.instructions=Snippet
+actor.snippet.instance.add=Adicionar Snippet
+actor.snippet.instance.open=Editar Snippet
+actor.snippet.instance.delete=Remover Snippet

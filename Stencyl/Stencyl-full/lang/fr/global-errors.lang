@@ -1,0 +1,30 @@
+
+# ERRORS
+error.nan=Entre un nombre.
+error.negative=Entrez un nombre positif.
+error.blank=Entrez une valeur.
+error.anim.load=Warning: Données de l'image absentes
+error.anim.load.i=Stencyl ne parvient pas à trouver les données de l'image pour un ou plusieurs type d'Acteurs et va substituer celles-ci par des images vierges pour continuer. Fermer le jeu, ne sauvegarde pas  et le post sur les forums. 
+error.corrupt.xml=Ne peut charger le <0>/game.xml
+error.corrupt.xml.i=Veuillez Compresser votre Jeu en format .ZIP et le poster sur le Forum de Stencyl.
+error.save.kittogame=Ne parvient pas à convertir '<0>' d'un format de Kit à Jeu.
+error.preview.html5=Ne parvient pas à tester le Jeu en HTML5.
+error.preview.noscenes.title=Ne parvient pas à prévisualiser le Jeu
+error.preview.noscenes=Ce Jeu n'a pas de Scènes. Créez une Scène avant de procéder à la prévisualisation du Jeu.
+error.publish.noscenes.title=Ne parvient pas à Publier le Jeu
+error.publish.noscenes=Ce Jeu n'a pas de Scènes. Créez une Scène avant de procéder à la Publication du Jeu.
+error.download.mult.title=Ne parvient pas à télécharger de multiples ressources en même temps
+error.download.mult.desc=Patientez que votre premier téléchargement soit terminé.
+error.import.game.invalid=Ce fichier n'est pas un Jeu ou Kit de Stencyl:
+error.scene.recover=Stencyl a détecté un fichier de Scène corrompu. Voulez-vous auto-restaurer le fichier?
+error.scene.recover.restart=Si vous choisissez de continuer, Stencyl va redémarrer automatique une fois terminé.
+error.write.warn=Auto-Echec de mise à jour
+error.write.win.msg1=Stencyl est installé sur un répertoire protégé en écriture.
+error.write.win.msg2=Solution: Exécutez Stencyl en Administrateur.
+error.write.mac.msg1=Stencyl est installé sur un répertoire protégé en écriture.
+error.write.mac.msg2=Solution: Exécutez Stencyl en Administrateur.
+error.write.linux.msg1=Stencyl est installé sur un répertoire protégé en écriture.
+error.write.linux.msg2=Solution: Exécutez Stencyl en Administrateur.
+# WARNINGS
+error.memory.usage=Stencyl a atteint 90% d'utilisation de mémoire.
+error.memory.usage.i=Vous devriez enregistrer votre travail et relancer Stencyl. Vous pouvez aussi consulter les "questions fréquemment posées" disponible sur le forum en quête d'une solution.

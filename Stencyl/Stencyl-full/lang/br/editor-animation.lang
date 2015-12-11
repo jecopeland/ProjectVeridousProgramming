@@ -1,0 +1,91 @@
+
+# Sprite Editor
+sprite.title=Criador de Sprites
+sprite.title.new=Criar Novo Sprite
+sprite.title.edit=Editar Sprite
+sprite.animations=Animações
+sprite.properties=Renomear Sprite
+sprite.menu.create=Novo
+sprite.menu.import=Importar Animação Existente
+sprite.menu.delete=Apagar
+sprite.menu.default=Configurar como Animação Padrão
+sprite.anim.name=Nome
+sprite.anim.collision=Limites de Colisão
+sprite.anim.collision.edit=Editar
+sprite.anim.looping=Repetição?
+sprite.anim.rect=Retângulo
+sprite.anim.poly=Polígono
+sprite.anim.none=Sem Colisão
+# <0> is the animation's name
+sprite.anim.title1=Propriedades de <0>
+sprite.anim.title2=Quadros (Arrastar para rearrumar)
+sprite.anim.duration=<0> ms
+sprite.menu.addframe=Adicionar Quadro
+sprite.menu.editframe=Editar Quadro
+sprite.menu.removeframe=Remover Quadro
+# Frame Editor
+sprite.frame.title.edit=Editar Quadro
+sprite.frames.title.edit=Editar Duração (Múltiplos Quadros)
+sprite.frame.duration=Duração (em milisegundos)
+sprite.frame.image=Imagem Atual
+sprite.menu.changeimage=Escolha uma imagem diferente
+sprite.menu.paintimage=Editar essa imagem usando o Pencyl
+sprite.frame.filechooser.filter=Imagens
+sprite.frame.filechooser.select=Selecionar Imagem
+sprite.frame.title.add=Adicionar Quadro
+# Add Animation
+sprite.anim.title.add=Adicionar Animação
+sprite.anim.add.import=Adicionar Múltiplos Quadros
+# Sprite Properties
+sprite.props.title=Editar Propriedades do Sprite
+sprite.props.newtitle=Novo Sprite
+sprite.props.name=Nome
+# Import Image Strip / Sheet
+sprite.strip.title=Importar Tira de Imagens
+sprite.strip.choose=Escolher Imagem...
+sprite.strip.rows=Linhas
+sprite.strip.cols=Colunas
+# Warnings
+sprite.warning.name=Favor preencher com um nome único.
+sprite.warning.duration=Favor preencher com um número inteiro positivo.
+sprite.warning.noanims=Esse Sprite não contém animações.
+# SHAPE CHOOSER
+shape.title=Escolha um Formato de Colisão
+shape.none=Sem Colisões
+# Shape Editor
+shape.main=Arraste e solte as formas.
+shape.shape=Forma Atual
+shape.add.box=Adicionar Retângulo
+shape.add.circle=Adicionar Círculo
+shape.add.poly=Adicionar Polígono
+shape.rename=Renomear Forma
+shape.remove=Remover Forma
+shape.editphys=Editar Propriedades Físicas...
+shape.editphys.title=Editar Propriedades Físicas
+shape.name=Nome
+shape.x=Posição X
+shape.y=Posição Y
+shape.w=Largura
+shape.h=Altura
+shape.xc=Posição X (Esquerda)
+shape.yc=Posição Y (Topo)
+shape.r=Raio
+shape.box=Retângulo
+shape.poly=Polígono
+shape.circle=Círculo
+shape.select.none=Nenhuma forma está selecionada.<br><br>Favor selecionar uma forma para editar.
+shape.select.many=Várias formas estão selecionadas.<br><br>Você pode editar apenas uma por vez.
+shape.fric=Atrito
+shape.nofric=Nenhum
+shape.allfric=Alto
+shape.rest=Elasticidade
+shape.elastic=Alta
+shape.inelastic=Nenhuma
+shape.density=Densidade
+shape.fric.info=Faz os objetos desacelerarem quando em contato um com o outro.
+shape.rest.info=Faz os objetos quicarem. Um valor de 1.0 significa que uma bola vai quicar até a mesma altura da qual foi jogada, enquanto um valor de 0 significa que ela não quicará.
+shape.sensor=É um Sensor?
+shape.sensor.info=Um sensor é uma forma que não é sólida mas pode detectar colisões. Geralmente útil para lógicas do jogo.
+shape.density.info=Determinas quão pesado essa parte será relativa às outras partes.
+shape.light=Leve
+shape.heavy=Pesado

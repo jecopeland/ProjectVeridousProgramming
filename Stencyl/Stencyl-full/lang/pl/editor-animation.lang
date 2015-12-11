@@ -1,0 +1,91 @@
+
+# Sprite Editor
+sprite.title=Kreator sprite'ów
+sprite.title.new=Stwórz nowy sprite
+sprite.title.edit=Edytuj sprite
+sprite.animations=Animacje
+sprite.properties=Zmień nazwę sprite'a
+sprite.menu.create=Nowy
+sprite.menu.import=Importuj istniejącą animację
+sprite.menu.delete=Usuń
+sprite.menu.default=Ustaw jako domyślną
+sprite.anim.name=Nazwa
+sprite.anim.collision=Granice kolizji
+sprite.anim.collision.edit=Wybierz...
+sprite.anim.looping=Zapętlone?
+sprite.anim.rect=Prostokąt
+sprite.anim.poly=Wielokąt
+sprite.anim.none=Brak kolizji
+# <0> is the animation's name
+sprite.anim.title1=Właściwości <0>
+sprite.anim.title2=Klatki (przeciągnij i upuść aby przestawić)
+sprite.anim.duration=<0> ms
+sprite.menu.addframe=Dodaj klatkę
+sprite.menu.editframe=Edytuj klatkę
+sprite.menu.removeframe=Usuń klatkę
+# Frame Editor
+sprite.frame.title.edit=Edytuj klatkę
+sprite.frames.title.edit=Edytuj czas trwania (kilka klatek)
+sprite.frame.duration=Czas trwania (w milisekundach)
+sprite.frame.image=Obecny obraz
+sprite.menu.changeimage=Wybierz inny obraz
+sprite.menu.paintimage=Edytuj ten obraz używając Pencyl
+sprite.frame.filechooser.filter=Obrazy
+sprite.frame.filechooser.select=Wybierz obraz
+sprite.frame.title.add=Dodaj klatkę
+# Add Animation
+sprite.anim.title.add=Dodaj animację
+sprite.anim.add.import=Dodaj kilka klatek
+# Sprite Properties
+sprite.props.title=Edytuj właściwości sprite'a
+sprite.props.newtitle=Nowy sprite
+sprite.props.name=Nazwa
+# Import Image Strip / Sheet
+sprite.strip.title=Importuj spritesheet
+sprite.strip.choose=Wybierz obraz...
+sprite.strip.rows=Rzędy
+sprite.strip.cols=Kolumny
+# Warnings
+sprite.warning.name=Wpisz unikalną nazwę.
+sprite.warning.duration=Wartość musi być dodatnia.
+sprite.warning.noanims=Sprite nie zawiera animacji.
+# SHAPE CHOOSER
+shape.title=Wybierz maskę kolizji
+shape.none=Brak kolizji
+# Shape Editor
+shape.main=Przeciągnij i upuść maski
+shape.shape=Obecna maska
+shape.add.box=Dodaj prostokąt
+shape.add.circle=Dodaj elipsę
+shape.add.poly=Dodaj wielokąt
+shape.rename=Zmień nazwę
+shape.remove=Usuń maskę
+shape.editphys=Właściwości fizyczne
+shape.editphys.title=Właściwości fizyczne
+shape.name=Nazwa
+shape.x=Pozycja X
+shape.y=Pozycja Y
+shape.w=Szerokość
+shape.h=Wysokość
+shape.xc=Pozycja X (lewo)
+shape.yc=Pozycja Y (góra)
+shape.r=Promień
+shape.box=Prostokąt
+shape.poly=Wielokąt
+shape.circle=Elipsa
+shape.select.none=Nie wybrano żadnej maski.<br><br>Wybierz maskę, żeby zmienić jej właściwości.
+shape.select.many=Wybrano kilka masek naraz.<br><br>Możesz edytować tylko jedną maskę jednocześnie.
+shape.fric=Tarcie
+shape.nofric=Brak
+shape.allfric=Wysokie
+shape.rest=Sprężystość
+shape.elastic=Wysoka
+shape.inelastic=Brak
+shape.density=Ciężar
+shape.fric.info=Umożliwia realistyczne zsuwanie się obiektów po sobie.
+shape.rest.info=Umożliwia odbijanie się obiektów. Wysoka - obiekt odbije się na tę samą wysokość, z której został upuszczony; brak - nie odbije się wcale.
+shape.sensor=Przepuszczalny?
+shape.sensor.info=Obiekt, który jest nieprzepuszczalny nadal rozpoznaje kolizje, ale nie reaguje na nie.
+shape.density.info=Związane z masą - określa, jak ciężki jest określony obiekt.
+shape.light=Lekki
+shape.heavy=Ciężki

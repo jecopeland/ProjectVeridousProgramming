@@ -1,0 +1,1 @@
+powershell -command "Show-WindowsDeveloperLicenseRegistration; if(-not $?) {Write-Output "FAILURE";} exit;"

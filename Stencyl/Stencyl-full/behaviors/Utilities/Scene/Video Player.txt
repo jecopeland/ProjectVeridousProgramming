@@ -1,0 +1,1 @@
+Allows you to play external FLV video files in your Flash games.

@@ -1,0 +1,1 @@
+Switch scene when an actor enters a region.

@@ -1,0 +1,25 @@
+
+# MULTI INSTANCE
+multi.main=Varoitus: StencylWorks on valmiiksi auki tai suljettiin odottamattomasti. Haluatko jatkaa?
+multi.sub=Useamman StencylWorksin avaaminen yhtä aikaa ei ole suositeltavaa.
+# LEGAL
+cp=© Copyright 2009 Stencyl, LLC. Blah blah.
+# MISC
+progress="Edistys"
+statusbar=Tilapalkki
+welcome.newgame=Uusi peli
+welcome.opengame=Avaa peli
+welcome.tabtitle=Tervetuloa
+welcome.title1=Mitä haluat tehdä?
+welcome.tour=Lue opastus
+# LOADING
+load.loading=Lataa
+load.lnf=Ulkonäkö
+load.ui=Ulkoasu
+load.plug=Lisäosat
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>

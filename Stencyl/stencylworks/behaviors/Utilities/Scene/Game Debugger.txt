@@ -1,0 +1,1 @@
+This behavior allows you to draw the collision shapes of your actors.

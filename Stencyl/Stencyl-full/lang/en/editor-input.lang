@@ -1,0 +1,13 @@
+
+# CONTROLS
+input.newname=Key <0>
+input.apply=Apply Changes
+input.create=Click here to add a new control.
+input.name=Name:
+input.key=Key:
+control.chooser.title=Choose a Control
+control.choose=Choose a Control...
+control.add=Add Key
+control.remove=Remove Key
+control.help=How do Controls work?
+control.explain=Click a Control key in the list and type a key to change it.

@@ -1,0 +1,1 @@
+Assigns the actor a specific initial velocity (speed + direction).

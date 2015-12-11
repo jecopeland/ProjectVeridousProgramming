@@ -1,0 +1,29 @@
+
+# UPDATER
+update.title=Aggiorna Stencyl
+update.remind.action=Ricordamelo più tardi
+update.download.action=Scarica e aggiorna
+update.restart.title=Riuscito!
+update.restart.action=Fai riavviare Stencyl
+update.restart=Hai aggiornato a <0> (b<1>). Stencyl dev'essere riavviato per completare questo aggiornamento.
+update.restart2=Hai aggiornato a <0> (b<1>). Stencyl continuerà il processo di aggiornamento dopo il riavvio.
+update.noneed=Sei aggiornato!
+update.noneed2=<0> (b<1>) è l'ultima versione disponibile.
+update.need=E' disponibile una nuova versione di Stencyl!
+update.need2=<0> (b<1>) è ora disponibile - tu hai <2> (b<3>). Vuoi aggiornare?
+update.check=Controllo versione...
+update.gather=Ottieni elenco file...
+update.download=Scaricamento...
+update.download.dg.title=Scarico aggiornamento...
+update.download.lang=Aggiornamento linguaggi...
+update.finalize=Finalizzazione...
+update.fail=Ops!
+update.fail2=Stencyl non è stao in grado di completare il processo di aggiornamento. <br><br>Assicurati che il computer sia connesso a internet e riprova.
+update.lang=Hai aggiornato il pacchetto delle lingue.<br><br>Devi riavviare Stencyl per completare l'aggiornamento.
+update.cancel=Cancella aggiornamento
+update.progress.top=Scaricamento <0> di <1>:
+update.progress.bottom=<0>K di <1>K - Circa <2> secondi rimanenti 
+upload.progress.top=Caricamento: <0>
+upload.progress.bottom=<0>K di <1>K
+update.redownload.title=Richiesto nuovo download
+update.redownload.desc=Devi scaricare nuovamente Stencyl dal nostro sito per aggiornare.<br><br>Clicca OK per andare sul sito di download.

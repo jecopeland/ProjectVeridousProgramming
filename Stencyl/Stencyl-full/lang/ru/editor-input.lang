@@ -1,0 +1,9 @@
+
+# CONTROLS
+input.newname=Клавиша <0>
+input.apply=Применить изменения
+input.create=Щелкните здесь, чтобы добавить новое клавишу управления.
+input.name=Название:
+input.key=Клавиша:
+control.chooser.title=Выберите клавишу
+control.choose=Выберите клавишу...

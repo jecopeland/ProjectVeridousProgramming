@@ -1,0 +1,103 @@
+
+# MODULES
+sb.mode.vars=Attribute
+sb.mode.favorites=Favoriten
+sb.mode.props=Eigenschaften ändern
+sb.mode.snippets=Zwischen-Verhalten ändern. (Sub-Behaviors)
+# MENU
+menu.top.run=Starten
+sb.file.new=Neues Verhalten
+sb.file.open=Verhalten öffnen
+sb.file.recent=Zuletzt verwendetes öffnen
+sb.file.close=Schließen
+sb.file.closeall=Alle schließen
+sb.file.save=Verhalten speichern
+sb.file.saveall=Alle Verhalten speichern
+sb.file.saveas=Speichern als...
+sb.file.style=Angepasster Code Editor...
+sb.file.shortcut=Angepasste Verknüpfungen...
+sb.file.exit=Verhaltens-Designer beenden
+sb.file.undo=Rückgängig
+sb.file.redo=Wiederholen
+sb.file.cut=Schneiden
+sb.file.copy=Kopieren
+sb.file.paste=Einfügen
+sb.file.delete=Löschen
+sb.file.select=Alles markieren
+sb.file.find=Finden...
+sb.file.replace=Ersetzen...
+sb.run.check=Syntax überprüfen
+sb.run.refresh=Attributes aktualisieren
+sb.run.build=Alles bauen
+sb.building=Baut gerade...
+sb.builddone=Fertig. <0> milliseconds benötigt.
+sb.help.javadoc=API ansehen
+sb.help.wiki=Wiki
+sb.help.whatsnew=Neuigkeiten?
+sb.help.toggle=Stencylpedia
+sb.help.call=Hilfe
+sb.chat.toggle=Chat
+sb.answers=Stencyl antwortet
+sb.help.crashcourse=Loslegen
+sb.help.faq=Stencylpedia
+sb.help.faq.mobile=iStencyl Hilfe (auf Stencylpedia)
+sb.help.attributes=Lerne wie man Attribute erstellt.
+# TYPE CHOOSER
+actortype.chooser.title=Wähle einen Spielertyp
+actor.type.choose=Wähle Spielertyp...
+# MESSAGES
+sb.noattributes=Das Verhalten besitzt keine Attribute <br> des Typs '<0>'.
+sb.preview.fail.open= Das '<0>' Verhalten besitzt Bereiche die leer sind oder mit falschen Daten gefüllt wurden.<br><br>Stencyl öffnet nun '<0>'
+sb.preview.fail=Stencyl hat Syntax Fehler gefunden im '<0>' Verhalten.<br><br>'<0>' wird nun geöffnet, damit du die Fehler beheben kannst.
+# BEHAVIOR PAGE TABS
+snip.tab.categories=Kategorien
+snip.tab.bycategory=Durch Kategorie
+snip.tab.byscene=Über Scene
+snip.tab.byactor=Über Spieler
+snip.tab.bycode=Über Code
+snip.tab.all=Alle
+snip.tab.popular=Populär
+snip.tab.recent=Aktuell
+# DEFAULT CATEGORIES
+snip.cat.none=Andere
+snip.cat.ai=KI
+snip.cat.collisions=Kollisionen
+snip.cat.fx=Blickfang
+snip.cat.debug=Debug
+snip.cat.motion=Bewegung
+snip.cat.gui=GUI
+snip.cat.scoring=Punktestände
+snip.cat.sound=Sound
+snip.cat.stats=Status
+snip.cat.drawing=Zeichnen
+snip.cat.web=Web
+snip.cat.ss=Szenenspezifisch
+snip.cat.health=Gesundheit
+snip.cat.actions=Aktionen
+snip.cat.cutscenes=Zwischenszenen
+snip.cat.saving=Speichern
+# PAGES
+snip.page.main=Haupt
+snip.page.previewcode=Codevorschau
+snip.page.properties=Eigenschaften
+snip.page.attach=An <0> heften
+# ERRORS
+annotate.error.dupe=Die ID (<0>) die für '<1>' verwendet wird, ist bereits vorhanden. Wähle eine andere.
+annotate.error.private=Private Attribute können nicht dargestellt werden: '<0>'. Ändere diese zu einer öffentlichen.
+sb.var.forbidden=Diese Attribute kann nicht geändert werden.
+sb.var.none=Attribute erlauben dem Benutzer Verhalten die sie benötigen zu konfigureren<br> (Z.B. die Höhe eines Sprungs einzustellen)<br><br>klicke auf den +Knopf um eine Attribute zu erstellen
+# ICON
+snip.icon=Icon
+snip.icon.info=Die optimale Größe ist 48 x 48 Pixel.
+# DESIGN MODE
+sb.design.toggle.palette=Palette umschalten
+sb.design.arrange=Blöcke anordnen
+sb.design.toggle.events=Event Seitenleiste umschalten
+sb.design.capture=Screenshot erstellen
+sb.design.capture2=Screenshot erstellen und einem Freund senden
+sb.design.clean=Lose Blöcke entfernen
+sb.design.reset=Gestaltung zurücksetzen
+sb.trash.info=Ziehe Blöcke zum Papierkorb um sie zu löschen.
+sb.design.events.show=Event hinzufügen...
+sb.design.events.next=Nächstes Event
+sb.design.events.prev=Letztes Event

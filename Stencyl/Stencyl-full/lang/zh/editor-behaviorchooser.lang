@@ -1,0 +1,11 @@
+
+actor.snippet.add=新的遊戲邏輯
+actor.snippet.delete=刪除
+actor.snippet.edit=編輯
+actor.snippets=遊戲邏輯
+actor.snippet.filter=搜尋...
+# Snippet List
+actor.snippet.instance.instructions=遊戲邏輯
+actor.snippet.instance.add=添加遊戲邏輯
+actor.snippet.instance.open=編輯遊戲邏輯
+actor.snippet.instance.delete=刪除遊戲邏輯

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <if comment="false" x="26" y="40">
+                    <group eventID="1" id="-1">
+                        <set-val-32-2 comment="false" x="37" y="73">
+                            <ACTOR eid="this" id="0"/>
+                        </set-val-32-2>
+                    </group>
+                    <is-in-region comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="this" id="0"/>
+                        <REGION eid="lastcreated" id="1"/>
+                    </is-in-region>
+                </if>
+                <if comment="false" x="26" y="112">
+                    <group eventID="1" id="-1">
+                        <fade-sounds comment="false" x="37" y="145">
+                            <int id="0" val="0"/>
+                            <int id="1" val="5"/>
+                        </fade-sounds>
+                    </group>
+                    <is-in-region comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="var" id="0" vid="2"/>
+                        <REGION eid="var" id="1" vid="1"/>
+                    </is-in-region>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

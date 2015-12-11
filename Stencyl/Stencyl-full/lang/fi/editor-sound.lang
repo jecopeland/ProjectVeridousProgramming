@@ -1,0 +1,9 @@
+
+# SOUND CREATOR
+sounds=Äänet
+sound.choose=Valitse tiedosto...
+sound.rename=Nimeä uudelleen
+sound.mix=Muokkaa ääntä
+sound.rename.title=Nimeä ääni uudelleen
+sound.props.name=Nimi
+sound.error.name=Kirjoita nimi.

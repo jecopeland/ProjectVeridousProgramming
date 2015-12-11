@@ -1,0 +1,1 @@
+Spawn an explosion and fragments when the actor dies.

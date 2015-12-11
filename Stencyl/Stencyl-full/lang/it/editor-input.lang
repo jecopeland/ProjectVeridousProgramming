@@ -1,0 +1,9 @@
+
+# CONTROLS
+input.newname=Tasto <0>
+input.apply=Applica modifiche
+input.create=Fare clic qui per creare un nuovo controllo.
+input.name=Nome:
+input.key=Tasto:
+control.chooser.title=Seleziona un controllo
+control.choose=Seleziona un controllo...

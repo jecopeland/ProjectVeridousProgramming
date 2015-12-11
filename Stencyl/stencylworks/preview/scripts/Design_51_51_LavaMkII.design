@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <event-periodic comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <if comment="false" x="26" y="42">
+                    <group eventID="1" id="-1">
+                        <set-game-val-1 comment="false" x="37" y="75">
+                            <minus comment="false" id="0" x="0" y="0">
+                                <get-game-val-1 comment="false" id="0" x="0" y="0"/>
+                                <int id="1" val="1"/>
+                            </minus>
+                        </set-game-val-1>
+                    </group>
+                    <is-in-region comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="var" id="0" vid="4"/>
+                        <REGION eid="var" id="1" vid="1"/>
+                    </is-in-region>
+                </if>
+                <if comment="false" x="26" y="117">
+                    <group eventID="1" id="-1">
+                        <set-game-val-1 comment="false" x="37" y="150">
+                            <minus comment="false" id="0" x="0" y="0">
+                                <get-game-val-1 comment="false" id="0" x="0" y="0"/>
+                                <int id="1" val="1"/>
+                            </minus>
+                        </set-game-val-1>
+                    </group>
+                    <is-in-region comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="var" id="0" vid="4"/>
+                        <REGION eid="var" id="1" vid="2"/>
+                    </is-in-region>
+                </if>
+            </group>
+            <int id="0" val="0.5"/>
+            <ACTOR eid="lastcreated" id="2"/>
+        </event-periodic>
+    </group>
+    <group eventID="1" id="1">
+        <get-val-48-4 comment="false" x="602" y="224"/>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

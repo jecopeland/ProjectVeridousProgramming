@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="16" id="0">
+        <event-device-multitouch comment="false" x="15" y="15">
+            <group eventID="16" id="-1">
+                <if comment="false" x="26" y="55">
+                    <group eventID="16" id="-1">
+                        <set-val-26-11 comment="false" x="37" y="80">
+                            <and comment="false" id="0" x="0" y="0">
+                                <and comment="false" id="0" x="0" y="0">
+                                    <more comment="false" id="0" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="1"/>
+                                        </mobile-multitouch>
+                                        <get-xy comment="false" id="1" x="0" y="0">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="0"/>
+                                        </get-xy>
+                                    </more>
+                                    <less comment="false" id="1" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="1"/>
+                                        </mobile-multitouch>
+                                        <plus comment="false" id="1" x="0" y="0">
+                                            <get-xy comment="false" id="0" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="0"/>
+                                            </get-xy>
+                                            <get-wh comment="false" id="1" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="0"/>
+                                            </get-wh>
+                                        </plus>
+                                    </less>
+                                </and>
+                                <and comment="false" id="1" x="0" y="0">
+                                    <more comment="false" id="0" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="2"/>
+                                        </mobile-multitouch>
+                                        <get-xy comment="false" id="1" x="0" y="0">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="1"/>
+                                        </get-xy>
+                                    </more>
+                                    <less comment="false" id="1" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="2"/>
+                                        </mobile-multitouch>
+                                        <plus comment="false" id="1" x="0" y="0">
+                                            <get-xy comment="false" id="0" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="1"/>
+                                            </get-xy>
+                                            <get-wh comment="false" id="1" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="1"/>
+                                            </get-wh>
+                                        </plus>
+                                    </less>
+                                </and>
+                            </and>
+                        </set-val-26-11>
+                        <set-val-26-12 comment="false" x="37" y="133">
+                            <contains-item comment="false" id="0" x="0" y="0">
+                                <get-val-26-10 comment="false" id="0" x="0" y="0"/>
+                                <mobile-multitouch comment="false" id="1" x="0" y="0">
+                                    <int id="0" val="0"/>
+                                </mobile-multitouch>
+                            </contains-item>
+                        </set-val-26-12>
+                        <if comment="false" x="37" y="171">
+                            <group eventID="16" id="-1">
+                                <simulate-key comment="false" x="48" y="211">
+                                    <int id="0" val="0"/>
+                                    <control eid="var" id="1" vid="3"/>
+                                </simulate-key>
+                                <setanim comment="false" x="48" y="238">
+                                    <ACTOR eid="this" id="0"/>
+                                    <get-val-26-2 comment="false" id="1" x="0" y="0"/>
+                                </setanim>
+                                <add-list comment="false" x="48" y="270">
+                                    <get-val-26-10 comment="false" id="0" x="0" y="0"/>
+                                    <mobile-multitouch comment="false" id="1" x="0" y="0">
+                                        <int id="0" val="0"/>
+                                    </mobile-multitouch>
+                                </add-list>
+                            </group>
+                            <and comment="false" id="0" x="0" y="0">
+                                <and comment="false" id="0" x="0" y="0">
+                                    <get-val-26-11 comment="false" id="0" x="0" y="0"/>
+                                    <not comment="false" id="1" x="0" y="0">
+                                        <get-val-26-12 comment="false" id="0" x="0" y="0"/>
+                                    </not>
+                                </and>
+                                <get-val-26-8 comment="false" id="1" x="0" y="0"/>
+                            </and>
+                        </if>
+                        <else-if comment="false" x="37" y="315">
+                            <group eventID="16" id="-1">
+                                <if comment="false" x="48" y="350">
+                                    <group eventID="14" id="-1">
+                                        <simulate-key comment="false" x="59" y="375">
+                                            <int id="0" val="1"/>
+                                            <control eid="var" id="1" vid="3"/>
+                                        </simulate-key>
+                                    </group>
+                                    <get-val-26-8 comment="false" id="0" x="0" y="0"/>
+                                </if>
+                                <setanim comment="false" x="48" y="414">
+                                    <ACTOR eid="this" id="0"/>
+                                    <get-val-26-1 comment="false" id="1" x="0" y="0"/>
+                                </setanim>
+                                <remove-item comment="false" x="48" y="446">
+                                    <get-val-26-10 comment="false" id="0" x="0" y="0"/>
+                                    <mobile-multitouch comment="false" id="1" x="0" y="0">
+                                        <int id="0" val="0"/>
+                                    </mobile-multitouch>
+                                </remove-item>
+                            </group>
+                            <and comment="false" id="0" x="0" y="0">
+                                <not comment="false" id="0" x="0" y="0">
+                                    <get-val-26-11 comment="false" id="0" x="0" y="0"/>
+                                </not>
+                                <get-val-26-12 comment="false" id="1" x="0" y="0"/>
+                            </and>
+                        </else-if>
+                    </group>
+                    <get-val-26-13 comment="false" id="0" x="0" y="0"/>
+                </if>
+            </group>
+            <int id="0" val="1"/>
+        </event-device-multitouch>
+    </group>
+    <group eventID="16" id="-1"/>
+    <group eventID="17" id="0">
+        <event-device-multitouch comment="false" x="15" y="15">
+            <group eventID="17" id="-1">
+                <if comment="false" x="26" y="55">
+                    <group eventID="17" id="-1">
+                        <remove-item comment="false" x="37" y="80">
+                            <get-val-26-10 comment="false" id="0" x="0" y="0"/>
+                            <mobile-multitouch comment="false" id="1" x="0" y="0">
+                                <int id="0" val="0"/>
+                            </mobile-multitouch>
+                        </remove-item>
+                        <set-val-26-11 comment="false" x="37" y="113">
+                            <and comment="false" id="0" x="0" y="0">
+                                <and comment="false" id="0" x="0" y="0">
+                                    <more comment="false" id="0" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="1"/>
+                                        </mobile-multitouch>
+                                        <get-xy comment="false" id="1" x="0" y="0">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="0"/>
+                                        </get-xy>
+                                    </more>
+                                    <less comment="false" id="1" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="1"/>
+                                        </mobile-multitouch>
+                                        <plus comment="false" id="1" x="0" y="0">
+                                            <get-xy comment="false" id="0" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="0"/>
+                                            </get-xy>
+                                            <get-wh comment="false" id="1" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="0"/>
+                                            </get-wh>
+                                        </plus>
+                                    </less>
+                                </and>
+                                <and comment="false" id="1" x="0" y="0">
+                                    <more comment="false" id="0" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="2"/>
+                                        </mobile-multitouch>
+                                        <get-xy comment="false" id="1" x="0" y="0">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="1"/>
+                                        </get-xy>
+                                    </more>
+                                    <less comment="false" id="1" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="2"/>
+                                        </mobile-multitouch>
+                                        <plus comment="false" id="1" x="0" y="0">
+                                            <get-xy comment="false" id="0" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="1"/>
+                                            </get-xy>
+                                            <get-wh comment="false" id="1" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="1"/>
+                                            </get-wh>
+                                        </plus>
+                                    </less>
+                                </and>
+                            </and>
+                        </set-val-26-11>
+                        <if comment="false" x="37" y="166">
+                            <group eventID="17" id="-1">
+                                <simulate-key comment="false" x="48" y="191">
+                                    <int id="0" val="0"/>
+                                    <control eid="var" id="1" vid="3"/>
+                                </simulate-key>
+                                <setanim comment="false" x="48" y="218">
+                                    <ACTOR eid="this" id="0"/>
+                                    <get-val-26-2 comment="false" id="1" x="0" y="0"/>
+                                </setanim>
+                                <add-list comment="false" x="48" y="250">
+                                    <get-val-26-10 comment="false" id="0" x="0" y="0"/>
+                                    <mobile-multitouch comment="false" id="1" x="0" y="0">
+                                        <int id="0" val="0"/>
+                                    </mobile-multitouch>
+                                </add-list>
+                            </group>
+                            <get-val-26-11 comment="false" id="0" x="0" y="0"/>
+                        </if>
+                    </group>
+                    <get-val-26-13 comment="false" id="0" x="0" y="0"/>
+                </if>
+            </group>
+            <int id="0" val="0"/>
+        </event-device-multitouch>
+    </group>
+    <group eventID="17" id="-1"/>
+    <group eventID="1" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="-1" id="-1">
+                <anchor-screen comment="false" x="26" y="40">
+                    <ACTOR eid="this" id="0"/>
+                </anchor-screen>
+                <setanim comment="false" x="26" y="67">
+                    <ACTOR eid="this" id="0"/>
+                    <get-val-26-1 comment="false" id="1" x="0" y="0"/>
+                </setanim>
+                <if comment="false" x="26" y="99">
+                    <group eventID="1" id="-1">
+                        <die comment="false" x="37" y="142">
+                            <ACTOR eid="this" id="0"/>
+                        </die>
+                    </group>
+                    <and comment="false" id="0" x="0" y="0">
+                        <get-val-26-5 comment="false" id="0" x="0" y="0"/>
+                        <not comment="false" id="1" x="0" y="0">
+                            <is-platform comment="false" id="0" x="0" y="0">
+                                <int id="0" val="6"/>
+                            </is-platform>
+                        </not>
+                    </and>
+                </if>
+            </group>
+        </init>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="18" id="0">
+        <event-device-multitouch comment="false" x="15" y="15">
+            <group eventID="17" id="-1">
+                <if comment="false" x="26" y="55">
+                    <group eventID="18" id="-1">
+                        <set-val-26-11 comment="false" x="37" y="80">
+                            <and comment="false" id="0" x="0" y="0">
+                                <and comment="false" id="0" x="0" y="0">
+                                    <more comment="false" id="0" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="1"/>
+                                        </mobile-multitouch>
+                                        <get-xy comment="false" id="1" x="0" y="0">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="0"/>
+                                        </get-xy>
+                                    </more>
+                                    <less comment="false" id="1" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="1"/>
+                                        </mobile-multitouch>
+                                        <plus comment="false" id="1" x="0" y="0">
+                                            <get-xy comment="false" id="0" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="0"/>
+                                            </get-xy>
+                                            <get-wh comment="false" id="1" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="0"/>
+                                            </get-wh>
+                                        </plus>
+                                    </less>
+                                </and>
+                                <and comment="false" id="1" x="0" y="0">
+                                    <more comment="false" id="0" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="2"/>
+                                        </mobile-multitouch>
+                                        <get-xy comment="false" id="1" x="0" y="0">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="1"/>
+                                        </get-xy>
+                                    </more>
+                                    <less comment="false" id="1" x="0" y="0">
+                                        <mobile-multitouch comment="false" id="0" x="0" y="0">
+                                            <int id="0" val="2"/>
+                                        </mobile-multitouch>
+                                        <plus comment="false" id="1" x="0" y="0">
+                                            <get-xy comment="false" id="0" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="1"/>
+                                            </get-xy>
+                                            <get-wh comment="false" id="1" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                                <int id="1" val="1"/>
+                                            </get-wh>
+                                        </plus>
+                                    </less>
+                                </and>
+                            </and>
+                        </set-val-26-11>
+                        <set-val-26-12 comment="false" x="37" y="133">
+                            <contains-item comment="false" id="0" x="0" y="0">
+                                <get-val-26-10 comment="false" id="0" x="0" y="0"/>
+                                <mobile-multitouch comment="false" id="1" x="0" y="0">
+                                    <int id="0" val="0"/>
+                                </mobile-multitouch>
+                            </contains-item>
+                        </set-val-26-12>
+                        <if comment="false" x="37" y="171">
+                            <group eventID="17" id="-1">
+                                <simulate-key comment="false" x="48" y="206">
+                                    <int id="0" val="1"/>
+                                    <control eid="var" id="1" vid="3"/>
+                                </simulate-key>
+                                <remove-item comment="false" x="48" y="233">
+                                    <get-val-26-10 comment="false" id="0" x="0" y="0"/>
+                                    <mobile-multitouch comment="false" id="1" x="0" y="0">
+                                        <int id="0" val="0"/>
+                                    </mobile-multitouch>
+                                </remove-item>
+                                <setanim comment="false" x="48" y="266">
+                                    <ACTOR eid="this" id="0"/>
+                                    <get-val-26-1 comment="false" id="1" x="0" y="0"/>
+                                </setanim>
+                            </group>
+                            <and comment="false" id="0" x="0" y="0">
+                                <or comment="false" id="0" x="0" y="0">
+                                    <get-val-26-11 comment="false" id="0" x="0" y="0"/>
+                                    <get-val-26-8 comment="false" id="1" x="0" y="0"/>
+                                </or>
+                                <get-val-26-12 comment="false" id="1" x="0" y="0"/>
+                            </and>
+                        </if>
+                    </group>
+                    <get-val-26-13 comment="false" id="0" x="0" y="0"/>
+                </if>
+            </group>
+            <int id="0" val="2"/>
+        </event-device-multitouch>
+    </group>
+    <group eventID="18" id="-1"/>
+    <group eventID="8" id="0">
+        <event-mouse-enter-exit-actor comment="false" x="15" y="15">
+            <group eventID="8" id="-1">
+                <if comment="false" x="26" y="42">
+                    <group eventID="8" id="-1">
+                        <simulate-key comment="false" x="37" y="85">
+                            <int id="0" val="0"/>
+                            <control eid="var" id="1" vid="3"/>
+                        </simulate-key>
+                        <setanim comment="false" x="37" y="112">
+                            <ACTOR eid="this" id="0"/>
+                            <get-val-26-2 comment="false" id="1" x="0" y="0"/>
+                        </setanim>
+                        <set-val-26-6 comment="false" x="37" y="144">
+                            <true comment="false" id="0" x="0" y="0"/>
+                        </set-val-26-6>
+                    </group>
+                    <not comment="false" id="0" x="0" y="0">
+                        <and comment="false" id="0" x="0" y="0">
+                            <get-val-26-13 comment="false" id="0" x="0" y="0"/>
+                            <is-platform comment="false" id="1" x="0" y="0">
+                                <int id="0" val="6"/>
+                            </is-platform>
+                        </and>
+                    </not>
+                </if>
+            </group>
+            <ACTOR eid="this" id="0"/>
+            <int id="1" val="2"/>
+        </event-mouse-enter-exit-actor>
+    </group>
+    <group eventID="8" id="-1"/>
+    <group eventID="9" id="0">
+        <event-mouse-enter-exit-actor comment="false" x="15" y="15">
+            <group eventID="9" id="-1">
+                <if comment="false" x="26" y="42">
+                    <group eventID="8" id="-1">
+                        <if comment="false" x="37" y="85">
+                            <group eventID="20" id="-1">
+                                <simulate-key comment="false" x="48" y="110">
+                                    <int id="0" val="1"/>
+                                    <control eid="var" id="1" vid="3"/>
+                                </simulate-key>
+                                <if comment="false" x="48" y="137">
+                                    <group eventID="15" id="-1">
+                                        <setanim comment="false" x="59" y="170">
+                                            <ACTOR eid="this" id="0"/>
+                                            <get-val-26-1 comment="false" id="1" x="0" y="0"/>
+                                        </setanim>
+                                    </group>
+                                    <is-platform comment="false" id="0" x="0" y="0">
+                                        <int id="0" val="6"/>
+                                    </is-platform>
+                                </if>
+                                <else comment="false" x="48" y="214">
+                                    <group eventID="15" id="-1">
+                                        <setanim comment="false" x="59" y="234">
+                                            <ACTOR eid="this" id="0"/>
+                                            <get-val-26-9 comment="false" id="1" x="0" y="0"/>
+                                        </setanim>
+                                    </group>
+                                </else>
+                                <set-val-26-6 comment="false" x="48" y="278">
+                                    <false comment="false" id="0" x="0" y="0"/>
+                                </set-val-26-6>
+                            </group>
+                            <get-val-26-6 comment="false" id="0" x="0" y="0"/>
+                        </if>
+                    </group>
+                    <not comment="false" id="0" x="0" y="0">
+                        <and comment="false" id="0" x="0" y="0">
+                            <get-val-26-13 comment="false" id="0" x="0" y="0"/>
+                            <is-platform comment="false" id="1" x="0" y="0">
+                                <int id="0" val="6"/>
+                            </is-platform>
+                        </and>
+                    </not>
+                </if>
+            </group>
+            <ACTOR eid="this" id="0"/>
+            <int id="1" val="4"/>
+        </event-mouse-enter-exit-actor>
+    </group>
+    <group eventID="9" id="-1"/>
+    <group eventID="14" id="0">
+        <event-mouse-enter-exit-actor comment="false" x="15" y="15">
+            <group eventID="14" id="-1">
+                <if comment="false" x="26" y="42">
+                    <group eventID="8" id="-1">
+                        <if comment="false" x="37" y="85">
+                            <group eventID="14" id="-1">
+                                <simulate-key comment="false" x="48" y="115">
+                                    <int id="0" val="1"/>
+                                    <control eid="var" id="1" vid="3"/>
+                                </simulate-key>
+                            </group>
+                            <and comment="false" id="0" x="0" y="0">
+                                <get-val-26-8 comment="false" id="0" x="0" y="0"/>
+                                <get-val-26-6 comment="false" id="1" x="0" y="0"/>
+                            </and>
+                        </if>
+                        <setanim comment="false" x="37" y="154">
+                            <ACTOR eid="this" id="0"/>
+                            <get-val-26-1 comment="false" id="1" x="0" y="0"/>
+                        </setanim>
+                        <set-val-26-6 comment="false" x="37" y="186">
+                            <false comment="false" id="0" x="0" y="0"/>
+                        </set-val-26-6>
+                    </group>
+                    <not comment="false" id="0" x="0" y="0">
+                        <and comment="false" id="0" x="0" y="0">
+                            <get-val-26-13 comment="false" id="0" x="0" y="0"/>
+                            <is-platform comment="false" id="1" x="0" y="0">
+                                <int id="0" val="6"/>
+                            </is-platform>
+                        </and>
+                    </not>
+                </if>
+            </group>
+            <ACTOR eid="this" id="0"/>
+            <int id="1" val="1"/>
+        </event-mouse-enter-exit-actor>
+    </group>
+    <group eventID="14" id="-1"/>
+    <group eventID="15" id="0">
+        <event-mouse-enter-exit-actor comment="false" x="15" y="15">
+            <group eventID="14" id="-1">
+                <if comment="false" x="26" y="42">
+                    <group eventID="8" id="-1">
+                        <if comment="false" x="37" y="85">
+                            <group eventID="11" id="-1">
+                                <simulate-key comment="false" x="48" y="123">
+                                    <int id="0" val="0"/>
+                                    <control eid="var" id="1" vid="3"/>
+                                </simulate-key>
+                                <setanim comment="false" x="48" y="150">
+                                    <ACTOR eid="this" id="0"/>
+                                    <get-val-26-2 comment="false" id="1" x="0" y="0"/>
+                                </setanim>
+                                <set-val-26-6 comment="false" x="48" y="182">
+                                    <true comment="false" id="0" x="0" y="0"/>
+                                </set-val-26-6>
+                            </group>
+                            <and comment="false" id="0" x="0" y="0">
+                                <get-val-26-8 comment="false" id="0" x="0" y="0"/>
+                                <mousestate comment="false" id="1" x="0" y="0">
+                                    <int id="0" val="0"/>
+                                </mousestate>
+                            </and>
+                        </if>
+                        <else comment="false" x="37" y="219">
+                            <group eventID="15" id="-1">
+                                <setanim comment="false" x="48" y="239">
+                                    <ACTOR eid="this" id="0"/>
+                                    <get-val-26-9 comment="false" id="1" x="0" y="0"/>
+                                </setanim>
+                            </group>
+                        </else>
+                    </group>
+                    <not comment="false" id="0" x="0" y="0">
+                        <and comment="false" id="0" x="0" y="0">
+                            <get-val-26-13 comment="false" id="0" x="0" y="0"/>
+                            <is-platform comment="false" id="1" x="0" y="0">
+                                <int id="0" val="6"/>
+                            </is-platform>
+                        </and>
+                    </not>
+                </if>
+            </group>
+            <ACTOR eid="this" id="0"/>
+            <int id="1" val="0"/>
+        </event-mouse-enter-exit-actor>
+    </group>
+    <group eventID="15" id="-1"/>
+</groups>

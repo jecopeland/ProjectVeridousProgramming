@@ -1,0 +1,35 @@
+
+# New Game Dialog
+dg.game.new.title=Crea nuovo Gioco
+dg.kit.new.title=Create un nuovo kit...
+dg.game.new.info.basic=Informazioni base
+dg.game.new.info.name=Nome Gioco
+dg.game.new.info.size=Dimensione schermo
+dg.game.new.info.standard=640 x 480
+dg.game.new.info.custom=Personalizzato...
+dg.game.new.info.width=Larghezza
+dg.game.new.info.height=Altezza
+dg.game.new.save.prompt=Si sta per creare un nuovo gioco.
+# Rename
+dg.game.rename=È necessario salvare il gioco per completare questa operazione. Si desidera salvarlo?
+dg.game.rename2=Per rinominare un gioco è necessario salvarlo.
+dg.game.rename.samename.warning=Selezionare un nome differente per il nuovo gioco
+dg.game.rename.samename.warning.i=Se vuoi utilizzare questo nome, rinomina il gioco, poi utilizza 'Salva come' assegnando il nome desiderato.
+dg.game.rename.fail=Non puoi rinominare questo gioco
+dg.game.rename.fail.i=Stencyl non ha i permessi necessari per eseguire il comando rinomina. Selezionare un nome differente.
+# LOGO
+dg.game.logo=Logo gioco
+dg.game.logo.info=La dimensione ottimale è di 120 x 90 pixel.
+# Kits
+dg.game.step1=Che tipo di gioco vuoi creare?
+dg.game.step1.info=(Passo 1 di 2)
+dg.game.step2=Gioco basato su: <0>
+dg.game.step2.info=(Passo 2 di 2)
+dg.game.kits.blank=Gioco vuoto
+dg.game.kits.blank.desc=Inizia da zero con un gioco vuoto.
+# MISSING KIT
+dg.game.kit.missing=Non trovo il kit <0>.
+dg.game.kit.missing.i=Scarico il kit mancante da StencylForge.
+# ERRORS
+dg.game.new.error=Non posso creare un nuovo gioco...
+dg.game.new.error.game.open=Non puoi creare un nuovo gioco fino a che non chiudi il corrente.

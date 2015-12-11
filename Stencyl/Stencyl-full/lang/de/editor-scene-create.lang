@@ -1,0 +1,20 @@
+
+# SCENE PAGE
+scene.edit.title=Szeneneigenschaften ändern
+scene.new.info=Grundlagen
+scene.new.terrain=Größe
+scene.new.background=Hintergrundfarbe
+scene.new.name=Name
+scene.new.type=Szenentyp
+scene.new.type.normal=Normal
+scene.new.tiles=Tiles
+scene.new.pixels=Pixel
+scene.new.width=Weite
+scene.new.height=Höhe
+scene.new.tilex=Tile Weite
+scene.new.tiley=Tile Höhe
+scene.new.background.color=Farbe
+scene.new.background.edit=Bilder ändern...
+scene.new.background.style.solid=Durchgehende Farbe
+scene.new.background.style.none=Keine Farbe
+scene.new.background.style.vert=Vertikaler Gradient

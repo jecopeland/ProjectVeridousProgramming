@@ -1,0 +1,22 @@
+
+# BYOB
+byob.create.title=Crea un nuovo blocco custom
+byob.create.title2=Crea un nuovo blocco custom globale
+byob.edit.title=Modifica un blocco custom
+byob.dg.name=Nome
+byob.dg.desc=Descrizione
+byob.dg.spec=Spec blocco
+byob.dg.spec.i=Come il blocco verrà mostrato. Esempio: energia %0 di %1
+byob.dg.blanks=Campi blocco
+byob.dg.blanks.add=Aggiungi campo
+byob.dg.blanks.remove=Rimuovi campo
+byob.dg.return=Torna tipo
+byob.dg.return.i=Il tipo di questo blocco
+byob.dg.return.none=Nessuno (Blocco azione)
+byob.dg.title.spec=Dettagli blocco
+byob.dg.error.spec=Inserire qualcosa.
+byob.col.spec=Riferimento per il campo blocco spec
+byob.blank.add=Aggiungi spazio al blocco custom
+byob.blank.remove=Rimuovi spazio dal blocco custom
+byob.blank.type=Tipo
+byob.blank.type.i=Specifica che tipo di blocchi accetta questo spazio.

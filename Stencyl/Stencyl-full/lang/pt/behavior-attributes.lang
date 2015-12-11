@@ -1,0 +1,33 @@
+
+# ATTRIBUTES PANE
+sb.var.single=Atributo
+sb.var.title=Editar Atributos
+sb.var.add=Criar um Atributo
+sb.var.addlist=Criar um Atributo para Listas
+sb.var.remove=Remover Atributo
+sb.var.default=Editar Atributo
+sb.var.viewcontrols=Mostrar Página dos Controlos
+sb.var.up=Mover Para Cima
+sb.var.down=Mover Para Baixo
+sb.var.header.name=Nome Interno
+sb.var.header.aname=Aplicar Nome
+sb.var.header.lname=Nome
+sb.var.header.desc=Descrição
+sb.var.header.order=Ordem de Visualização
+sb.var.header.type=Tipo
+sb.var.hidden=Escondido?
+sb.var.hidden.info=Atributos escondidos não aparecem quando um utilizador configura este comportamento. <br>Eles são como se fossem variáveis locais.
+sb.var.header.val=Valor por Defeito
+sb.var.default.info=O valor por defeito determina o valor por defeito mostrado na <br> página do Comportamento quando o utilizador configurar este comportamento.
+sb.var.error.val=Insira um <0> valido.
+sb.var.edit.val=Valor por Defeito
+sb.var.edit.nosound=Sem Som
+sb.var.edit.nocontrol=Sem Controlo
+sb.var.edit.nofont=Fonte por defeito.
+sb.var.error.name=Introduza um nome unico.
+sb.var.error.desc=Introduza uma descrição preenchida.
+sb.var.cat.general=Geral
+sb.var.cat.dropdown=Dropdown
+sb.var.cat.range=Alcance
+sb.var.drop.title=Data do Dropdown
+sb.var.drop.desc=Mostrar como um dropdown em vez de um campo de texto.<br> O formato é uma entrada por linha, nome[eq]valor.<br> Por exemplo:<br><br>Nome[eq]Valor<br>Stencyl[eq]Altamente<br>Pato à Pequim[eq]Yummy

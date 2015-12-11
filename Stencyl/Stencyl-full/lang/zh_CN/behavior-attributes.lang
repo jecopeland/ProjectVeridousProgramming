@@ -1,0 +1,14 @@
+
+sb.var.title=编辑游戏逻辑变数
+sb.var.add=创作新的变数
+sb.var.remove=除去变数
+sb.var.default=编辑变数
+sb.var.header.name=名字
+sb.var.header.lname=叙述
+sb.var.header.type=类型
+sb.var.header.val=基本数值
+sb.var.error.val=请填写合法<0>.
+sb.var.edit.val=基本数值
+sb.var.edit.nosound=没有声响
+sb.var.error.name=请填写独一和合法的名字.(只可英文字母和数目字,不可空白)
+sb.var.error.desc=请填写叙述;不可空白

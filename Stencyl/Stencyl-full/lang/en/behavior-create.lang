@@ -1,0 +1,29 @@
+
+# MODES
+sb.mode.code=Code Mode
+sb.mode.design=Design Mode
+sb.mode.coded=<b>Code Mode</b><br>Write simple code to create Behaviors.
+sb.mode.designd=<b>Design Mode</b><br>Snap together blocks to create behaviors for your actors and scenes.
+sb.mode.arbitrary=<b>Freeform Mode</b><br>Write arbitrary code for your game. Cannot be attached to actors or scenes.
+# NEW BEHAVIOR DIALOG
+sb.edit.title=Edit Properties
+sb.new.mode=Mode
+sb.new.props=Basics
+sb.new.name=Name
+sb.new.class=Classname
+sb.new.class.help=Classnames must start with an uppercase letter and must contain only alphanumeric characters and underscores.
+sb.new.package=Package
+sb.new.package.help=Package names must contain only lowercase alphanumeric characters and underscores, and may be nested with dots.
+sb.new.type.help=Behavior Type
+sb.new.type.actor=<b>Actor Behavior</b><br>Only applies to Actors.
+sb.new.type.scene=<b>Scene Behavior</b><br>Only applies to Scenes.
+sb.new.type.actor.short=Actor Behavior
+sb.new.type.scene.short=Scene Behavior
+sb.new.description=Description
+sb.error.integer=Enter an integer.
+sb.error.number=Enter a number.
+sb.error.text=Enter some text.
+sb.error.class=Invalid classname.
+sb.error.class.missing=Enter a classname.
+sb.error.package=Invalid package name.
+sb.error.package.missing=Enter a package name.

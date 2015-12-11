@@ -1,0 +1,20 @@
+
+# SCENE PAGE
+scene.edit.title=Edit Scene Properties
+scene.new.info=Basics
+scene.new.terrain=Size
+scene.new.background=Background Color
+scene.new.name=Name
+scene.new.type=Scene Type
+scene.new.type.normal=Normal
+scene.new.tiles=tiles
+scene.new.pixels=pixels
+scene.new.width=Width
+scene.new.height=Height
+scene.new.tilex=Tile Width
+scene.new.tiley=Tile Height
+scene.new.background.color=Color
+scene.new.background.edit=Edit Images...
+scene.new.background.style.solid=Solid Color
+scene.new.background.style.none=No Color
+scene.new.background.style.vert=Vertical Gradient

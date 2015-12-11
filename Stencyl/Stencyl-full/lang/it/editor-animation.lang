@@ -1,0 +1,119 @@
+
+# Sprite Editor
+sprite.animations=Animazioni
+sprite.properties=Rinomina Sprite
+sprite.menu.create=Crea animazione
+sprite.menu.import=Importa un'animazione esistente
+sprite.menu.delete=Rimuovi animazione
+sprite.menu.default=Imposta come animazione predefinita
+sprite.menu.duplicate=Duplica animazione
+sprite.menu.flip.horiz=Rifletti orizzontale
+sprite.menu.flip.vert=Rifletti verticale
+sprite.menu.rotcw=Ruota 90 gradi senso orario
+sprite.menu.rotccw=Ruota 90 gradi senso antiorario
+sprite.anim.name=Nome
+sprite.anim.collision.edit=Modifica i confini di collisione...
+sprite.anim.looping=Ripetere(loop)?
+# <0> è il nome animazione
+sprite.anim.title1=Proprietà
+sprite.anim.title2=Fotogrammi
+sprite.anim.duration=<0> ms
+sprite.menu.addframe=Aggiungi fotogramma
+sprite.menu.editframe.pencyl=Modifica fotogramma (Esterno)
+sprite.menu.addframe.pencyl=Crea fotogramma (Esterno)
+sprite.menu.editframe=Modifica fotogramma
+sprite.menu.removeframe=Rimuovi fotogramma
+sprite.menu.back=Sposta indietro
+sprite.menu.forward=Sposta avanti
+sprite.anim.empty=Clicca quì per aggiungere un fotogramma.
+sprite.menu.copy=Copia fotogrammi
+sprite.menu.paste=Incolla fotogrammi
+# Origin Points
+sprite.origin=Punto origine
+sprite.origin.x=Origine X Posizione
+sprite.origin.y=Origine Y Posizione
+sprite.origin.topleft=Alto sinistra
+sprite.origin.topright=Alto destra
+sprite.origin.bottomleft=Basso sinistra
+sprite.origin.bottomright=Basso destra
+sprite.origin.leftcenter=Sinistra centro
+sprite.origin.rightcenter=Destra centro
+sprite.origin.topcenter=Alto centro
+sprite.origin.bottomcenter=In mezzo centro
+sprite.origin.center=Centra (Predefinito)
+sprite.origin.custom=Predefinito
+# Frame Editor
+sprite.frame.title.edit=Modifica Fotogramma
+sprite.frames.title.edit=Modifica durata (piú fotogrammi)
+sprite.frame.duration=Durata (in millisecondi)
+sprite.menu.changeimage=Importa immagine...
+sprite.menu.pasteimage=Incolla dagli appunti...
+sprite.menu.paintimage=Modifica immagine...
+sprite.menu.vpaintimage=Modifica immagine nell'editor vettoriale...
+sprite.frame.filechooser.filter=Immagini
+sprite.frame.filechooser.select=Seleziona Immagine
+sprite.frame.title.add=Aggiungi Fotogramma
+sprite.frame.name=Fotogramma <0>
+sprite.frame.name.multi=il fotogramma selezionato
+# Add Animation
+sprite.anim.add.import=Importa fotogrammi
+sprite.anim.created=Animazione <0>
+# Sprite Properties
+sprite.props.name=Nome
+# Import Image Strip / Sheet
+sprite.strip.title=Importazione sequenza di immagini
+sprite.strip.choose=Seleziona immagine...
+sprite.strip.rows=Righe
+sprite.strip.cols=Colonne
+sprite.strip.inst1.double=Importa un immagine con risoluzione 2x per Retina Display).
+sprite.strip.inst1=Prima, seleziona un immagine.
+sprite.strip.inst2=Adesso, clicca su un'immagine per prenderne il colore trasparente, se ne ha uno.
+sprite.strip.inst3=Finalmente, utilizza i campi nella parte sinistra per tagliare l'immagine in fotogrammi, se necessario.
+sprite.strip.inst4=Hai finito! Clicca aggiungi per completare il processo.
+sprite.strip.trans=Colore trasparente
+sprite.strip.xs=Spaziatura orizzontale
+sprite.strip.ys=Spaziatura verticale
+sprite.strip.xb=Bordo X 
+sprite.strip.yb=Bordo Y 
+sprite.strip.size=Dimensione: <0> x <1> 
+# Warnings
+sprite.warning.name=Inserire un nome univoco.
+sprite.warning.duration=Inserire un numero intero positivo.
+sprite.warning.noanims=Questo tipo attore non contiene animazioni.<br><br>Clicca quì per aggiungere un animazione.
+# SHAPE CHOOSER
+shape.none=Nessuna Collisione
+# Shape Editor
+shape.inst1=Ogni animazione è associata con una forma di collisione.
+shape.main=Clicca e trascina le forme.
+shape.shape=Forma corrente
+shape.add.box=Aggiungi riquadro
+shape.add.circle=Aggiungi cerchio
+shape.add.poly=Aggiungi poligono
+shape.rename=Rinomina forma
+shape.remove=Rimuovi forma
+shape.editphys=Modifica proprietà fisiche...
+shape.editphys.title=Modifica proprietà fisiche
+shape.name=Nome
+shape.x=Posizione X
+shape.y=Posizione Y
+shape.w=Larghezza
+shape.h=Altezza
+shape.xc=Posizione X (sinistra)
+shape.yc=Posizione Y (alto)
+shape.r=Raggio
+shape.box=Riquadro
+shape.poly=Poligono
+shape.circle=Cerchio
+shape.select.none=Non è selezionata alcuna forma.<br><br>Selezionarne una per modificarla.
+shape.select.many=Sono selezionate piú forme.<br><br>È possibile modificarne solo una alla volta.
+shape.fric=Attrito
+shape.rest=Elasticità
+shape.fric.info=Fai rallentare gli oggetti se scivolano uno sull'altro.
+shape.rest.info=Fai rimbalzare gli oggetti. Un valore di 1.0 significa che una palla rimbalzera fino all'altezza da cui è stata lasciata, mentre con un valore pari a 0 la palla non rimbalzerà.
+shape.sensor=E' un sensore?
+shape.sensor.info=Permetti alle forme di rilevare la collisione senza produrre<br> una risposta, così da non apparire come solide.
+shape.density.info=Determina quanto sarà pesante questa parte rispetto all'altra parte.
+shape.light=Leggero
+shape.heavy=Pesante
+shape.defaultgroup=Uguale al tipo attore (Predefinito)
+shape.group.desc=Assegna questa forma a un gruppo differente da quello del suo tipo attore genitore. <br>Utile per gli attori contenenti più forme.

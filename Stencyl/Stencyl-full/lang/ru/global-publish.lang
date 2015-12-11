@@ -1,0 +1,13 @@
+
+test.game.progress1=Подготовка %d из %d.
+# SHARING
+# PUBLISHER
+publish.finish.title=Поздравляем!
+publish.finish.msg=Ваша игра была опубликована в Stencyl Arcade.
+publish.fail=Stencyl не может опубликовать вашу игру. Попробуйте ещё раз.<br><br>Если проблема не устранена, проверьте ваше соединение с интернетом.<br><br>
+publish.filesize=Stencyl не может опубликовать вашу игру. Размер файла больше чем 16 Мб.
+publish.nobrowser=Stencyl не смог найти доступный веб-браузер для использования.
+publish.play=Играть прямо сейчас (на Stencyl.com)
+publish.fb=Поделиться на Facebook
+publish.tweet=Поделиться на Twitter
+publish.embed=Вставить в страницу на моём сайте

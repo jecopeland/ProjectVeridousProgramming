@@ -1,0 +1,33 @@
+
+# ATTRIBUTES PANE
+sb.var.single=Γνώρισμα
+sb.var.title=Επεξεργασία Γνωρισμάτων
+sb.var.add=Δημιουργία Γνωρίσματος...
+sb.var.addlist=Δημιουργία Γνωρίσματος Λίστας...
+sb.var.remove=Απαλοιφή Γνωρίσματος
+sb.var.default=Επεξεργασία Γνωρίσματος
+sb.var.viewcontrols=Προβολή Σελίδας Χειρισμού
+sb.var.up=Μετακίνηση Πάνω
+sb.var.down=Μετακίνηση Κάτω
+sb.var.header.name=Εσωτερική Ονομασία
+sb.var.header.aname=Εφαρμογή Ονομασίας
+sb.var.header.lname=Ονομασία
+sb.var.header.desc=Περιγραφή
+sb.var.header.order=Σειρά Προβολής
+sb.var.header.type=Τύπος
+sb.var.hidden=Κρυφό;
+sb.var.hidden.info=Τα κρυφά γνωρίσματα δεν εμφανίζονται όταν ο χρήστης διαμορφώνει αυτή την συμπεριφορά. <br>Είναι σαν τοπικοί παράμετροι.
+sb.var.header.val=Προκαθορισμένη Τιμή
+sb.var.default.info=Η προκαθορισμένη τιμή προσδιορίζει την προσδιορισμένη τιμή που προβάλετε στο<br> στη σελίδα Συμπεριφοράς όταν ο χρήστης παραμετροποίησή αυτή την συμπεριφορά.
+sb.var.error.val=Εισάγετε μια έγκυρη <0>.
+sb.var.edit.val=Προκαθορισμένη Τιμή
+sb.var.edit.nosound=Χωρίς Ήχο
+sb.var.edit.nocontrol=Χωρίς Χειρισμό
+sb.var.edit.nofont=Προκαθορισμένη Γραμματοσειρά
+sb.var.error.name=Εισάγετε μοναδική ονομασία.
+sb.var.error.desc=Εισάγετε μια μη κενή περιγραφή.
+sb.var.cat.general=Γενικά
+sb.var.cat.dropdown=Κατεβατό
+sb.var.cat.range=Εύρος
+sb.var.drop.title=Δεδομένα Κατεβατού
+sb.var.drop.desc=Προβολή ως κατεβατού αντί για κείμενο.<br> Η μορφή είναι μια καταχώρηση ανά γραμμή, name[eq]value.<br> Παράδειγμα:<br><br>Name[eq]Value<br>Stencyl[eq]Awesome<br>Peking Duck[eq]Yummy

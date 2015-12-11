@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <if comment="false" x="26" y="40">
+                    <group eventID="1" id="-1">
+                        <if comment="false" x="37" y="73">
+                            <group eventID="1" id="-1">
+                                <add-list comment="false" x="48" y="106">
+                                    <get-game-val-3 comment="false" id="0" x="0" y="0"/>
+                                    <tostring comment="false" id="1" x="0" y="0">
+                                        <getatype comment="false" id="0" x="0" y="0">
+                                            <ACTOR eid="var" id="0" vid="3"/>
+                                        </getatype>
+                                    </tostring>
+                                </add-list>
+                                <die comment="false" x="48" y="144">
+                                    <ACTOR eid="this" id="0"/>
+                                </die>
+                            </group>
+                            <keystate comment="false" id="0" x="0" y="0">
+                                <int id="0" val="1"/>
+                                <control eid="7" id="1"/>
+                            </keystate>
+                        </if>
+                    </group>
+                    <is-in-region comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="var" id="0" vid="1"/>
+                        <REGION eid="var" id="1" vid="2"/>
+                    </is-in-region>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="1" id="3">
+        <follow-region comment="false" x="69" y="273">
+            <REGION eid="lastcreated" id="0"/>
+            <ACTOR eid="this" id="1"/>
+        </follow-region>
+    </group>
+    <group eventID="1" id="-1">
+        <collision-type2 comment="false" x="600" y="202">
+            <int id="0" val="0"/>
+            <int id="1" val="0"/>
+            <int id="2" val="0"/>
+        </collision-type2>
+        <is-in-region comment="false" x="220" y="219">
+            <ACTOR eid="this" id="0"/>
+            <REGION eid="lastcreated" id="1"/>
+        </is-in-region>
+    </group>
+</groups>

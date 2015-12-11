@@ -1,0 +1,25 @@
+
+scene.new.title=Nieuwe Scene
+scene.edit.title=Scene Eigenschappen...
+scene.edit.bg.title=Wijzig Achtergrondafbeeldingen
+scene.new.info=Basis
+scene.new.terrain=Grootte
+scene.new.background=Achtergrond
+scene.new.name=Naam
+scene.new.type=Soort Scene
+scene.new.type.normal=Normaal
+scene.new.type.iso=Isometrisch
+scene.new.type.hex=Hexagonaal
+scene.new.tiles=tegels
+scene.new.pixels=pixels
+scene.new.width=Breedte
+scene.new.height=Hoogte
+scene.new.tilex=Tegelbreedte
+scene.new.tiley=Tegelhoogte
+scene.new.background.color=Kleur
+scene.new.background.edit=Meer...
+scene.new.color.title=Kleurenkiezer
+scene.new.background.style.solid=Dichte Kleur
+scene.new.background.style.none=Geen Kleur
+scene.new.background.style.vert=Verticale Overgang
+scene.warning.name=Gelieve een unieke naam in te geven.

@@ -1,0 +1,21 @@
+
+# MODES
+sb.mode.code=Mode Code
+sb.mode.design=Mode de Conception
+sb.mode.coded=<b>Code Mode</b><br>Écrivez du code simple pour créer des comportements.
+sb.mode.designd=<b>Design Mode</b><br>Assemblez les blocs pour créer les comportements de vos acteurs et de vos scènes.
+sb.mode.arbitrary=<b>Freeform Mode</b><br>Écriver du code arbitraire pour votre jeu. Ne peut être attaché aux acteurs ou scènes.
+# NEW BEHAVIOR DIALOG
+sb.edit.title=Éditer les Propriétés
+sb.new.mode=Mode
+sb.new.props=Basique
+sb.new.name=Nom
+sb.new.class=Nom de Classe
+sb.new.type.help=Type de Comportement
+sb.new.type.actor=<b>Comportement d'Acteur</b><br>S'applique Seulement sur les Acteurs.
+sb.new.type.scene=<b>Comportement de Scène</b><br>S'applique Seulement sur les Scènes.
+sb.new.description=Description
+sb.error.integer=Entrez un entier.
+sb.error.number=Entrez un nombre.
+sb.error.text=Entrez du texte.
+sb.error.class=Nom de Classe non valide.

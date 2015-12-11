@@ -1,0 +1,22 @@
+
+# BACKGROUND CREATOR
+bg.title.edit=Wijzig Achtergrond
+bg.title.new=Nieuwe Achtergrond
+bg.rename=Hernoemen
+bg.resize=Grootte Wijzigen
+bg.scroll=Wijzig Bewegingssnelheid
+bg.preview=Voorbeeld
+bg.rename.title=Achtergrond Hernoemen
+bg.scroll.title=Auto-Bewegingssnelheid
+bg.resize.title=Wijzig Grootte van Achtergrond
+bg.resize.inst=Verander de standaard achtergrondgrootte. Standaard is de grootte van een achtergrond gebaseerd op de afmetingen van het eerste beeld.
+bg.scroll.inst=Standaard blijven achtergronden stil staan. Door het invoeren van een beweginssnelheid zal de achtergrond automatisch bewegen.
+bg.preview.title=Voorbeeld van Achtergrond
+bg.props.name=Naam
+bg.props.xscroll=X-Beweggingssnelheid
+bg.props.yscroll=Y-Beweggingssnelheid
+bg.props.width=Breedte
+bg.props.height=Hoogte
+bg.error.name=Gelieve een naam in te vullen.
+bg.error.number=Gelieve een positief getal in te vullen.
+bg.error.size=Gelieve een positief geheel getal in te vullen.

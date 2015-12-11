@@ -1,0 +1,51 @@
+
+# Tileset Creator
+tset.top.tileset=Jeu de Tuiles
+tset.top.properties=Propriétés
+tset.title=Créateur de Jeu de Tuiles
+tset.stile=la tuile sélectionnée
+tset.stiles=les tuiles sélectionnées
+tset.properties=Renommer Jeu de Tuiles
+tset.details1=Contient <0> tuiles
+tset.details2=Taille du Jeu de Tuiles: <0> x <1>
+tset.details3=Taille de Tuile: <0> x <1>
+tset.details4=ID de la Tuile: <0>
+tset.details5=ID du Jeu de Tuiles: <0>
+tset.tile.create=Importer les Tuiles à partir de la Plaque
+tset.tile.resize=Changer la Taille de Tuile
+tset.tile.resize.w=Largeur de Tuile
+tset.tile.resize.h=Hauteur de Tuile
+tset.menu.import=Importer une Tuile existante
+tset.tile.add.title=Importer les Tuiles à partir de la Plaque
+tset.col.add.before=Insérer une Colonne Avant
+tset.col.add.after=Insérer une Colonne Après
+tset.col.delete=Supprimer la Colonne
+tset.col.duplicate=Dupliquer la Colonne
+tset.row.add.before=Insérer une Ligne Avant
+tset.row.add.after=Insérer une Ligne Après
+tset.row.delete=Supprimer la Ligne
+tset.row.duplicate=Dupliquer la Ligne
+tset.blank=Selectionner une tuile pour l'éditer.
+tset.inst2=Utilisez les champs sur la gauche pour séparer les tuile de la plaque..
+# Tile Editor
+tset.anim.collision=Contours de Collisions
+tset.anim.title2=Images
+tset.menu.addframe=Ajouter Image
+tset.menu.editframe=Éditer Image
+tset.menu.removeframe=Supprimer Image
+tset.anim.add.import=Importer Image
+# Shape Editor
+tset.shapes.add.box=Créer une Boite...
+tset.shapes.add.poly=Créer un Polygone...
+tset.shapes.add=Ajouter une Forme
+tset.shapes.remove=Supprimer une Forme
+tset.shapes.edit=Éditer une Forme
+tset.shapes.add.title=Créer une Boite...
+tset.shapes.edit.title=Éditer une Boite...
+tset.poly.add.title=Créer un Polygone...
+tset.poly.edit.title=Éditer un Polygone...
+tset.shapes.x=Position X
+tset.shapes.y=Position Y
+tset.poly.add=Ajouter un Point
+tset.poly.remove=Supprimer un Point
+tset.poly.inst=Définir les Points dans l'ordre<b>inverse des aiguilles d'une montre</b> .

@@ -1,0 +1,1 @@
+Fire a wave of bullets from the actor's position.

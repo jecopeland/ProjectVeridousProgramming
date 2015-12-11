@@ -1,0 +1,11 @@
+
+# PUBLISHER
+publish.finish.title=¡Enhorabuena!
+publish.finish.msg=Tu juego se ha publicado en Stencyl.com.
+publish.save=¿Deseas guardar tu juego antes de publicarlo?
+publish.fail=StencylWorks no pudo publicar tu juego. Por favor, inténtalo de nuevo.<br><br>Si el problema persiste, comprueba que tu conexión a Internet funciona.<br><br>
+publish.nobrowser=StencylWorks no pudo encontrar un navegador web disponible.
+publish.play=Jugar en Stencyl.com
+publish.fb=Compartir en Facebook
+publish.tweet=Compartir en Twitter
+publish.embed=Embeber en mi página web

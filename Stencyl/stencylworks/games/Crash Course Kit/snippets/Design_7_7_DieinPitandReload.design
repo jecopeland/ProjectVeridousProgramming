@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <if comment="false" x="26" y="40">
+                    <group eventID="1" id="-1">
+                        <if comment="false" x="37" y="78">
+                            <group eventID="1" id="-1">
+                                <scene-reload-color comment="false" x="48" y="108">
+                                    <int id="0" val="0"/>
+                                    <int id="1" val="1"/>
+                                    <color b="0" g="0" id="2" r="0"/>
+                                    <int id="3" val="0"/>
+                                    <int id="4" val="1"/>
+                                    <color b="0" g="0" id="5" r="0"/>
+                                </scene-reload-color>
+                                <if comment="false" x="48" y="135">
+                                    <group eventID="1" id="-1">
+                                        <die comment="false" x="59" y="168">
+                                            <ACTOR eid="this" id="0"/>
+                                        </die>
+                                    </group>
+                                    <isalive comment="false" id="0" x="0" y="0">
+                                        <ACTOR eid="this" id="0"/>
+                                    </isalive>
+                                </if>
+                            </group>
+                            <not comment="false" id="0" x="0" y="0">
+                                <is-transitioning comment="false" id="0" x="0" y="0"/>
+                            </not>
+                        </if>
+                    </group>
+                    <more comment="false" id="0" x="0" y="0">
+                        <get-xy comment="false" id="0" x="0" y="0">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="5"/>
+                        </get-xy>
+                        <screen-wh comment="false" id="1" x="0" y="0">
+                            <int id="0" val="1"/>
+                        </screen-wh>
+                    </more>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="1" id="-1"/>
+</groups>

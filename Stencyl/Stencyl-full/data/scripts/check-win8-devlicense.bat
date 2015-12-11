@@ -1,0 +1,1 @@
+powershell -command "Get-WindowsDeveloperLicense; if(-not $?) {Write-Output "FAILURE";} exit;"

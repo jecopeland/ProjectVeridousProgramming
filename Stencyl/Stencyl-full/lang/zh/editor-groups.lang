@@ -1,0 +1,9 @@
+
+# ACTOR GROUPS
+groups.create=請按這兒來創作一個新的組合.
+groups.newname=新的組合 <0>
+groups.error.name=另一個組合已持有這個名字.請選擇另一個名字.
+groups.default=請按組合名字來更改他的名字.
+# COLLISION GROUPS
+cgroups.create=請按這兒來創作一個新的相撞組合.
+cgroups.collide=相撞

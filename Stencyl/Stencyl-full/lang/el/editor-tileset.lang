@@ -1,0 +1,68 @@
+
+# Tileset Creator
+tset.chooser.title=Επιλογή ΟμΠλακιδίων...
+tset.top.tileset=ΟμΠλακιδίων
+tset.top.properties=Ιδιότητες
+tset.title=Δημιουργός Πλακιδίου
+tset.title.edit=Επεξεργασία ΟμΠλακιδίων
+tset.tiles=Πλακίδια
+tset.stile=το επιλεγμένο πλακίδιο
+tset.stiles=τα επιλεγμένα πλακίδια
+tset.properties=Μετονομασία ΟμΠλακιδίων
+tset.details1=Περιέχει <0> πλακίδια
+tset.details2=Μέγεθος ΟμΠλακιδίων: <0> x <1>
+tset.details3=Μέγεθος Πλακιδίου: <0> x <1>
+tset.details4=ID Πλακιδίου: <0>
+tset.details5=ID ΟμΠλακιδίων: <0>
+tset.tile.create=Εισαγωγή Πλακιδίων από Φύλλο
+tset.tile.resize=Αλλαγή Μεγέθους Πλακιδίου
+tset.tile.resize.w=Πλάτος Πλακιδίου
+tset.tile.resize.h=Ύψος Πλακιδίου
+tset.menu.import=Εισαγωγή Υπάρχων Πλακιδίου
+tset.tile.add.title=Εισαγωγή Πλακιδίων από Φύλλο
+tset.col.add.before=Εισαγωγή Στήλης Πριν
+tset.col.add.after=Εισαγωγή Στήλης Μετά
+tset.col.delete=Διαγραφή Στήλης
+tset.col.duplicate=Διπλασιασμός Στήλης
+tset.row.add.before=Εισαγωγή Σειράς Πριν
+tset.row.add.after=Εισαγωγή Σειράς Μετά
+tset.row.delete=Διαγραφή Σειράς
+tset.row.duplicate=Διπλασιασμός Σειράς
+tset.blank=Επιλέξτε πλακίδιο για επεξεργασία.
+tset.multi=Επιλέξτε ένα πλακίδιο για επεξεργασία.
+tset.inst2=Χρησιμοποιήστε τα πεδία στα αριστερά για να τεμαχίσετε το φύλλο με τα πλακίδια.
+# Tile Editor
+tset.anim.collision=Σύνορα Πρόσκρουσης
+tset.anim.collision.edit=Επιλέξτε...
+tset.anim.looping=Επαναλαμβάνεται;
+tset.anim.rect=Ορθογώνιο
+tset.anim.poly=Πολύγωνο
+tset.anim.title1=Ιδιότητες Πλακιδίου
+tset.anim.title2=Καρέ
+tset.menu.addframe=Πρόσθεση Καρέ
+tset.menu.editframe=Επεξεργασία Καρέ
+tset.menu.removeframe=Διαγραφή Καρέ
+tset.anim.add.import=Εισαγωγή Καρέ
+# Tileset Properties
+tset.props.title=Μετονομασία ΟμΠλακιδίων
+tset.props.name=Ονομασία
+# Warnings
+tset.warning.name=Εισάγεται ένα μοναδικό όνομα.
+tset.warning.duration=Εισάγεται ένα θετικό ακέραιο.
+tset.warning.notiles=Αυτή η ΟμΠλακιδίων δεν περιέχει πλακίδια.
+tset.warning.blank=Αυτό είναι κενό πλακίδιο. Δεν επεξεργάζεται.
+# Shape Editor
+tset.shapes.add.box=Δημιουργία Κουτιού...
+tset.shapes.add.poly=Δημιουργία Πολύγονου...
+tset.shapes.add=Πρόσθεση Σχήματος
+tset.shapes.remove=Αφαίρεση Σχήματος
+tset.shapes.edit=Επεξεργασία Σχήματος
+tset.shapes.add.title=Δημιουργία Κουτιού...
+tset.shapes.edit.title=Επεξεργασία Κουτιού...
+tset.poly.add.title=Δημιουργία Πολύγωνου...
+tset.poly.edit.title=Επεξεργασία Πολύγωνου...
+tset.shapes.x=X Τοποθεσία
+tset.shapes.y=Y Τοποθεσία
+tset.poly.add=Πρόσθεση Σημείου
+tset.poly.remove=Αφαίρεση Σημείου
+tset.poly.inst=Προσδιορισμός σημείων σε <b>αριστερόστροφα-δεξιόστροφα</b> σειρά.

@@ -1,0 +1,7 @@
+<project name="actuate" url="http://code.google.com/p/fermmmtools/" license="MIT">
+    <user name="fermmmtools"/>
+    <tag v="flash"/>
+    <tag v="cpp"/>
+    <description>Nice Console App.</description>
+    <version name="1.00">Updated for Haxe 2.09</version>
+</project>

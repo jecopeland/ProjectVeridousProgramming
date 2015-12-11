@@ -1,0 +1,1 @@
+<html>[INSTANCE CUSTOMIZE] - Makes the actor "orbit" around another actor (like the earth around the sun). You must instance customize the actor for this to work.<br>(Double-click the actor in the scene)</html>

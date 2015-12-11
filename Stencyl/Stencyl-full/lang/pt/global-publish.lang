@@ -1,0 +1,12 @@
+
+# PUBLISHER
+publish.finish.title=Parabéns!
+publish.finish.msg=O seu Jogo foi publicado para a Stencyl Arcade.
+publish.save=Gostaria de guardar o jogo antes de o publicar?
+publish.fail=Stencylnão conseguiu publicar o Jogo.<br><br>Se o problema persistir, certifique-se que a sua ligação à Internet funciona correctamente.<br><br>
+publish.filesize=Stencyl não conseguiu publicar o seu jogo. O tamanho do ficheiro é superior a 16MB.
+publish.nobrowser=Stencyl não encontrou nenhum Navegador de Internet disponível.
+publish.play=Jogue-o Agora
+publish.fb=Partilhe no Facebook
+publish.tweet=Partilhe no Twitter
+publish.embed=Coloque no meu site

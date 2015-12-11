@@ -1,0 +1,19 @@
+
+# ACTOR GROUPS
+groups.create=Fare clic qui per creare un nuovo gruppo.
+groups.new=Crea un nuovo gruppo...
+groups.newname=Nuovo gruppo <0>
+groups.error.name=Questo nome è già utilizzato. Scegliere un nome differente.
+groups.default=Fare clic sul nome di un gruppo per rinominarlo.
+groups.none=Scegli un gruppo o clicca qui per crearne uno.
+groups.collideswith=Collide con
+groups.nocollide=Questo è un gruppo speciale i cui membri non hanno mai il permesso<br> di collidere con nessun altro.
+# COLLISION GROUPS
+cgroups.create=Fare clic qui per creare un nuovo gruppo di collisione.
+cgroups.collide=collide con
+cgroups.single=questo gruppo di collisione
+cgroups.warn=Attenzione: Questo gruppo di collisione coincide con uno esistente.
+cgroups.warn2=Non puoi duplicare un gruppo di collisione predefinito (<0> e <1>). Ripristino alla selezione precedente.
+cgroups.info=I gruppi di collisione determinano quali gruppi di attori collidono con ogni altro. I duplicati, indicati da un'icona di attenzione, vengono ignorati.
+actor.group.choose=Seleziona gruppo attori...
+actorgroup.chooser.title=Seleziona un gruppo attori

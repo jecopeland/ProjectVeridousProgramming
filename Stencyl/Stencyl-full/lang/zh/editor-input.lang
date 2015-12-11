@@ -1,0 +1,8 @@
+
+# CONTROLS
+input.apply=實施更改
+input.create=請按這兒來添加一個新的控制.
+input.name=名字
+input.error.name=請填寫獨一名字.
+input.key=基本的鍵(key)
+input.key.enter=打入一個鍵(key).

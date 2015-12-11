@@ -1,0 +1,45 @@
+
+# GLOBAL
+sb.title=Snippet-Maker
+sb.open.title=Open Snippets
+sb.confirm=Wijzigingen aan <0> opslaan?
+# MODULES
+sb.mode.vars=Variabelen
+sb.mode.props=Eigenschappen
+# MENU
+menu.top.run=Uitvoeren
+sb.file.new=Nieuwe Snippet...
+sb.file.open=Open Snippet
+sb.file.recent=Recente Snippet openen
+sb.file.close=Sluiten
+sb.file.closeall=Alles Sluiten
+sb.file.save=Opslaan
+sb.file.saveall=Alles Opslaan
+sb.file.saveas=Opslaan Als...
+sb.file.style=Codebewerker Aanpassen...
+sb.file.shortcut=Sneltoetsen Aanpassen...
+sb.file.exit=Snippet-Maker Sluiten
+sb.file.undo=Ongedaan maken
+sb.file.redo=Herdoen
+sb.file.cut=Knippen
+sb.file.copy=Kopiëren
+sb.file.paste=Plakken
+sb.file.delete=Verwijderen
+sb.file.select=Alles Selecteren
+sb.file.find=Zoeken...
+sb.file.replace=Vervangen...
+sb.run.check=Syntax nakijken
+sb.run.build=Bouwen
+sb.building=Bezig met Bouwen...
+sb.builddone=Klaar na <0> milliseconden.
+sb.help.javadoc=Bekijk API
+# TYPE CHOOSER
+actortype.chooser.title=Kies een Karakter-Type
+actor.type.choose=Kies Karakter-Type...
+# LIBRARY
+sb.lib.actors=Karakter-Snippets
+sb.lib.scenes=Scene-Snippets
+sb.lib.sscenes=Scene-specifieke Snippets
+# MESSAGES
+sb.preview.fail=StencylWorks heeft syntaxfouten in je code ontdekt.<br><br>Gelieve deze op te lossen in de Snippet-Maker voordat je verder gaat.
+# ERRORS

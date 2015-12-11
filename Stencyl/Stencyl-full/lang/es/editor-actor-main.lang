@@ -1,0 +1,45 @@
+
+# Actor Creator
+actor.props=Propiedades
+actor.rename=Renombrar entidad
+actor.group.edit=Editar grupos...
+actor.regroup=Elegir grupo
+actor.regroup.info=Los grupos se usan para determinar qué tipos de entidades colisionan con otros.
+actor.props.title=Propiedades de la entidad
+actor.props.newtitle=Nueva entidad
+actor.title=Creador de entidades
+actor.title.new=Crear nuevo tipo de entidad
+actor.title.edit=Editar tipo de entidad
+actor.physics=Editar física
+actor.physics.info=Edita valores físicos aplicables a la entidad entera. La fricción y otras propiedades específicas de forma deben editarse en el editor de formas.
+# Actor Top Bar
+actor.top.overview=Visión general
+actor.top.appearance=Apariencia
+actor.top.behavior=Conductas
+actor.top.collision=Colisión
+actor.top.physics=Física
+actor.top.properties=Propiedades
+actor.top.attach=Añadir a escena
+# Properties
+actor.name=Nombre
+actor.description=Descripción
+actor.group=Grupo
+actor.sprite=Sprite
+actor.sprite.choose=Elegir sprite
+actor.anim.choose=Elegir una animación...
+actor.scene.choose=Elegir una escena...
+actor.sprite.edit=Editar
+actor.sprite.new=Crear
+# Sprite Chooser
+actor.chooser.title=Elegir un sprite
+# Warnings
+actor.warning.name=Este nombre ya se está usando.
+actor.warning.name.invalid=Nombre no válido.
+actor.warning.blank=Introduce un nombre.
+actor.warning.number=Introduce un entero positivo.
+actor.warning.nosnippets=Pulsa para elegir una conducta y adjuntársela a esta entidad.
+actor.warning.nosnippets2=Pulsa para elegir una conducta y adjuntársela a esta escena.
+actor.warning.noprops=Esta conducta no tiene propiedades a configurar.
+actor.warning.float=Introduce un número válido.
+actor.warning.int=Introduce un entero válido.
+actor.warning.general=Introduce valores válidos para los atributos marcados en rojo.

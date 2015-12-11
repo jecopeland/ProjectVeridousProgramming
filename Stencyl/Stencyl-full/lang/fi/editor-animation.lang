@@ -1,0 +1,91 @@
+
+# Sprite Editor
+sprite.title=Kuvamuokkain
+sprite.title.new=Tee uusi kuva
+sprite.title.edit=Muokkaa kuvaa
+sprite.animations=Animaatiot
+sprite.properties=Uudelleennimeä kuva
+sprite.menu.create=Uusi
+sprite.menu.import=Tuo animaatio
+sprite.menu.delete=Poista
+sprite.menu.default=Aseta oletusanimaatioksi
+sprite.anim.name=Nimi
+sprite.anim.collision=Rajat (törmäys)
+sprite.anim.collision.edit=Muokkaa
+sprite.anim.looping=Toistuva?
+sprite.anim.rect=Neliö
+sprite.anim.poly=Monikulmio
+sprite.anim.none=Ei törmäyksiä
+# <0> is the animation's name
+sprite.anim.title1=<0>:n ominaisuudet
+sprite.anim.title2=(vedä ja pudota järjestääksesi)
+sprite.anim.duration=<0> ms
+sprite.menu.addframe=Lisää kuva
+sprite.menu.editframe=Muokkaa kuvaa
+sprite.menu.removeframe=Poista kuva
+# Frame Editor
+sprite.frame.title.edit=Muokkaa kuvaa
+sprite.frames.title.edit=Muokkaa kestoa (usean kuvan)
+sprite.frame.duration=Kesto (millisekunteina)
+sprite.frame.image=Nykyinen kuva
+sprite.menu.changeimage=Tuo toinen kuva
+sprite.menu.paintimage=Muokkaa tätä kuvaa Pencylillä
+sprite.frame.filechooser.filter=Kuvat
+sprite.frame.filechooser.select=Valitse kuva
+sprite.frame.title.add=Lisää kuva
+# Add Animation
+sprite.anim.title.add=Lisää animaatio
+sprite.anim.add.import=Tuo kuvanauha
+# Sprite Properties
+sprite.props.title=Muokkaa kuvan ominaisuuksia
+sprite.props.newtitle=Uusi kuva
+sprite.props.name=Nimi
+# Import Image Strip / Sheet
+sprite.strip.title=Tuo kuvanauha
+sprite.strip.choose=Valitse kuva...
+sprite.strip.rows=Rivejä
+sprite.strip.cols=Sarakkeita
+# Warnings
+sprite.warning.name=Kirjoita yksilöllinen nimi.
+sprite.warning.duration=Kirjoita positiivinen kokonaisluku.
+sprite.warning.noanims=Tämä kuva ei sisällä animaatioita.
+# SHAPE CHOOSER
+shape.title=Valitse muoto (törmäys)
+shape.none=Ei törmäyksiä
+# Shape Editor
+shape.main=Vedä ja pudota kuvioita (jotain lentää joka suuntaan)
+shape.shape=Nykyinen muoto
+shape.add.box=Lisää laatikko
+shape.add.circle=Lisää ympyrä
+shape.add.poly=Lisää monikulmio
+shape.rename=Nimeä uudelleen kuvio
+shape.remove=Poista kuvio
+shape.editphys=Muokkaa fyysisiä ominaisuuksia...
+shape.editphys.title=Muokkaa fyysisiä ominaisuuksia
+shape.name=Nimi
+shape.x=X-sijainti
+shape.y=Y-sijainti
+shape.w=Leveys
+shape.h=Korkeus
+shape.xc=X-sijainti (vasemmalta)
+shape.yc=Y-sijainti (ylhäältä)
+shape.r=Säde
+shape.box=Laatikko
+shape.poly=Monikulmio
+shape.circle=Ympyrä
+shape.select.none=Yhtään muotoa ei ole tällä hetkellä valittuna.<br><br>Valitse muokattava muoto.
+shape.select.many=Useita muotoja on tällä hetkellä valittuna.<br><br>Voit muokata vain yhtä muotoa kerrallaan.
+shape.fric=Kitka
+shape.nofric=Liukas
+shape.allfric=Pitävä
+shape.rest=Kimmoisuus
+shape.elastic=Kimmoisa
+shape.inelastic=Kimmoton
+shape.density=Tiheys
+shape.fric.info=Määrittää tukivoiman suhteen liukumista hidastavaan voiman.
+shape.rest.info=Määrittää kertoimen kuinka paljon törmäyksen liike-energiasta säilyy liike-energiana.
+shape.sensor=On sensori?
+shape.sensor.info=Sensori on muoto, joka ei aiheuta törmäyksiä, mutta voi tarkkailla niitä.
+shape.density.info=Määrittää kuinka raskas tämä osa on suhtessa muihin osiin.
+shape.light=Kevyt
+shape.heavy=Raskas

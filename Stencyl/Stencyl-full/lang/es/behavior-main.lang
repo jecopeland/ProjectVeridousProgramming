@@ -1,0 +1,107 @@
+
+# GLOBAL
+sb.title=Creador de conductas
+sb.open.title=Abrir conductas
+sb.confirm=¿Aplicar cambios a <0>?
+# MODULES
+sb.mode.vars=Atributos
+sb.mode.favorites=Favoritos
+sb.mode.props=Editar propiedades
+sb.mode.snippets=Editar sub-conductas
+# MENU
+menu.top.run=Ejecutar
+sb.file.new=Nueva conducta...
+sb.file.open=Abrir conducta
+sb.file.recent=Abrir recientes
+sb.file.close=Cerrar
+sb.file.closeall=Cerrar todas
+sb.file.save=Guardar conducta
+sb.file.saveall=Guardar todas las conductas
+sb.file.saveas=Guardar como...
+sb.file.style=Personalizar editor de código...
+sb.file.shortcut=Personalizar atajos...
+sb.file.exit=Salir del creador de conductas
+sb.file.undo=Deshacer
+sb.file.redo=Rehacer
+sb.file.cut=Cortar
+sb.file.copy=Copiar
+sb.file.paste=Pegar
+sb.file.delete=Eliminar
+sb.file.select=Seleccionar todo
+sb.file.find=Buscar...
+sb.file.replace=Reemplazar...
+sb.run.check=Comprobar sintaxis
+sb.run.refresh=Recargar atributos
+sb.run.build=Construir todo
+sb.building=Construyendo...
+sb.builddone=Listo. Se tardó <0> milisegundos en construir.
+sb.help.javadoc=Ver API
+sb.help.wiki=Wiki
+sb.help.toggle=Centro de ayuda
+sb.help.toggle.menu=Conmutar centro de ayuda
+sb.help.call=Necesito ayuda
+sb.chat.toggle=Chat
+sb.chat.toggle.menu=Conmutar chat
+sb.answers=StencylAnswers
+sb.help.crashcourse=Primeros pasos
+sb.help.faq=Base de conocimientos
+sb.help.attributes=Aprende cómo crear atributos.
+sb.refresh=Recargar código fuente
+# TYPE CHOOSER
+actortype.chooser.title=Elegir un tipo de entidad
+actor.type.choose=Elegir tipo de entidad...
+# LIBRARY
+sb.lib.actors=Conductas de entidad
+sb.lib.scenes=Conductas de escena
+sb.lib.sscenes=Conductas específicas de escena
+# MESSAGES
+sb.noattributes=Esta conducta no contiene atributos <br> de tipo '<0>'.
+sb.preview.fail.open=La conducta '<0>' contiene atributos que están vacíos o configurados con datos incorrectos.<br><br>StencylWorks abrirá '<0>' y resaltará los atributos incorrectos.
+sb.preview.fail=StencylWorks detectó errores de sintaxis en la conducta '<0>'.<br><br>Se abrirá '<0>' para que puedas resolverlos.
+# BEHAVIOR PAGE TABS
+snip.tab.categories=Categorías
+snip.tab.bycategory=Por categoría
+snip.tab.byscene=Por escena
+snip.tab.byactor=Por entidad
+snip.tab.all=Todos
+snip.tab.popular=Populares
+snip.tab.recent=Recientes
+# DEFAULT CATEGORIES
+snip.cat.none=Otros
+snip.cat.ai=IA
+snip.cat.collisions=Colisiones
+snip.cat.fx=Efectos visuales
+snip.cat.debug=Depuración
+snip.cat.motion=Movimiento
+snip.cat.gui=Interfaz
+snip.cat.scoring=Puntuación
+snip.cat.sound=Sonido
+snip.cat.stats=Estadísticas
+snip.cat.drawing=Dibujo
+snip.cat.web=Web
+snip.cat.ss=Específicas de escena
+snip.cat.health=Salud
+snip.cat.actions=Acciones
+snip.cat.cutscenes=Cinemáticas
+snip.cat.saving=Guardado
+# PAGES
+snip.page.main=Principal
+snip.page.previewcode=Vista previa del código
+snip.page.errors=Problemas
+snip.page.convertcode=Convertir a código
+snip.page.properties=Propiedades
+snip.page.attach=Adjuntar a <0>
+# ERRORS
+annotate.error.dupe=El ID (<0>) usado para '<1>' ya existe. Elige uno distinto.
+annotate.error.private=Los atributos privados no pueden exponerse: '<0>'. Haz público este atributo.
+sb.var.forbidden=Este atributo no se puede modificar.
+sb.var.none=Los atributos permiten a los usuarios finales configurar una conducta según sus necesidades.<br> (p.e. ajustar la altura de un salto)<br><br>Pulsa en el botón + de abajo para crear un atributo.
+# ICON
+snip.icon=Icono
+snip.icon.info=El tamaño óptimo es de 48 x 48 píxeles.
+# DESIGN MODE
+sb.design.toggle.palette=Mostrar/Ocultar barra lateral
+sb.design.arrange=Organizar bloques
+sb.design.capture=Capturar pantalla
+sb.design.capture2=Capturar pantalla y enviar a un amigo
+sb.design.clean=Limpiar (quitar bloques libres)

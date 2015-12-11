@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pack>
+    <snippet attachedevent="false" class="scripts.Design_7_7_DieinPitandReload" classname="scripts.Design_7_7_DieinPitandReload" desc="Reloads the scene when the actor falls off the screen." description="Reloads the scene when the actor falls off the screen." design="true" drawOrder="0" id="0" name="Die in Pit and Reload" oid="-1" package="scripts" scenespecific="false" shared="false" type="actor">
+        <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="2147483647"/>
+        <blocks/>
+        <events>
+            <event displayName="Updated" enabled="true" id="1" name="step" order="1" repeats="true"/>
+        </events>
+    </snippet>
+    <snippet attachedevent="false" class="scripts.Design_7_7_Jumping" classname="scripts.Design_7_7_Jumping" desc="Platformer jumping." description="Platformer jumping." design="true" drawOrder="0" id="1" name="Jumping" oid="-1" package="scripts" scenespecific="false" shared="false" type="actor">
+        <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="0"/>
+        <control default="" defaultValue="" desc="Select the key used to jump." dropdown="" fullname="Jump Key" hidden="false" id="1" name="_JumpKey" order="1"/>
+        <sound default="" defaultValue="" desc="The sound which wil be played when the payer jumps." dropdown="" fullname="Jump Sound" hidden="false" id="2" name="_JumpSound" order="3"/>
+        <number default="40" defaultValue="40" desc="The force the player will jump with." dropdown="" fullname="Jump Force" hidden="false" id="3" name="_JumpForce" order="2"/>
+        <animation default="" defaultValue="" desc="Animation used for jumping to the left." dropdown="" fullname="Jump Left Animation" hidden="false" id="4" name="_JumpLeftAnimation" order="5"/>
+        <animation default="" defaultValue="" desc="Animation used for jumping to the right." dropdown="" fullname="Jump Right Animation" hidden="false" id="5" name="_JumpRightAnimation" order="4"/>
+        <blocks/>
+        <events>
+            <event displayName="Created" enabled="true" id="1" name="init" order="1" repeats="true"/>
+            <event displayName="Updated" enabled="true" id="2" name="step" order="2" repeats="true"/>
+            <event displayName="Actor - Any" enabled="true" id="3" name="collide" order="3" repeats="true"/>
+        </events>
+    </snippet>
+    <snippet attachedevent="false" class="scripts.Design_7_7_StompOnEnemies" classname="scripts.Design_7_7_StompOnEnemies" desc="Stomp on top of enemies that have the &quot;Stompable&quot; behavior attached." description="Stomp on top of enemies that have the &quot;Stompable&quot; behavior attached." design="true" drawOrder="0" id="2" name="Stomp On Enemies" oid="-1" package="scripts" scenespecific="false" shared="false" type="actor">
+        <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="0"/>
+        <actorgroup default="" defaultValue="" desc="What group can this actor stomp on?" dropdown="" fullname="Stompable Group" hidden="false" id="1" name="_StompableGroup" order="1"/>
+        <control default="" defaultValue="" desc="Select the key used to jump." dropdown="" fullname="Jump Key" hidden="false" id="2" name="_JumpKey" order="2"/>
+        <blocks/>
+        <events>
+            <event displayName="Actor - Any" enabled="true" id="1" name="collide" order="1" repeats="true"/>
+        </events>
+    </snippet>
+    <snippet attachedevent="false" class="scripts.Design_7_7_Stompable" classname="scripts.Design_7_7_Stompable" desc="Allows the actor to be stomped on by a playable-character with the &quot;Stomp On Enemies&quot; behavior." description="Allows the actor to be stomped on by a playable-character with the &quot;Stomp On Enemies&quot; behavior." design="true" drawOrder="0" id="3" name="Stompable" oid="-1" package="scripts" scenespecific="false" shared="false" type="actor">
+        <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="0"/>
+        <sound default="" defaultValue="" desc="The sound which wil be played when this actor is being stomped." dropdown="" fullname="Stomped Sound" hidden="false" id="1" name="_StompedSound" order="2"/>
+        <animation default="" defaultValue="" desc="The animation which wil be played when this actor is being stomped." dropdown="" fullname="Stomped Animation" hidden="false" id="2" name="_StompedAnimation" order="1"/>
+        <number default="40.0" defaultValue="40.0" desc="The force the player will be pushed with when stomping on this actor." dropdown="" fullname="Push Player Force" hidden="false" id="3" name="_PushPlayerForce" order="4"/>
+        <number default="50" defaultValue="50" desc="The force the player will be pushed with when stomping on this actor whilst holding down the jump key." dropdown="" fullname="Push Player Jump Force" hidden="false" id="4" name="_PushPlayerJumpForce" order="3"/>
+        <blocks/>
+        <events>
+            <event displayName="Created" enabled="true" id="1" name="init" order="1" repeats="true"/>
+            <event displayName="Stomped" enabled="true" id="2" name="event-custom" order="2" repeats="true"/>
+        </events>
+    </snippet>
+    <snippet attachedevent="false" class="scripts.Design_7_7_Walking" classname="scripts.Design_7_7_Walking" desc="Left and Right platformer movement." description="Left and Right platformer movement." design="true" drawOrder="0" id="4" name="Walking" oid="-1" package="scripts" scenespecific="false" shared="false" type="actor">
+        <actor default="thisactor" defaultValue="thisactor" desc="" dropdown="" fullname="Actor" hidden="true" id="2147483647" name="actor" order="0"/>
+        <animation default="" defaultValue="" desc="Animation used for walking to the right." dropdown="" fullname="Walk Right Animation" hidden="false" id="1" name="_WalkRightAnimation" order="6"/>
+        <animation default="" defaultValue="" desc="Animation used for walking to the left." dropdown="" fullname="Walk Left Animation" hidden="false" id="2" name="_WalkLeftAnimation" order="7"/>
+        <animation default="" defaultValue="" desc="Animation used for standing still to the left." dropdown="" fullname="Idle Left Animation" hidden="false" id="3" name="_IdleLeftAnimation" order="5"/>
+        <animation default="" defaultValue="" desc="Animation used for standing still to the right." dropdown="" fullname="Idle Right Animation" hidden="false" id="4" name="_IdleRightAnimation" order="4"/>
+        <control default="" defaultValue="" desc="Select the key used to move to the left." dropdown="" fullname="Move Left Key" hidden="false" id="5" name="_MoveLeftKey" order="2"/>
+        <control default="" defaultValue="" desc="Select the key used to move to the right." dropdown="" fullname="Move Right Key" hidden="false" id="6" name="_MoveRightKey" order="1"/>
+        <number default="15" defaultValue="15" desc="How fast should the Actor move?&#10;&#10;(default = 15)" dropdown="" fullname="Speed" hidden="false" id="7" name="_Speed" order="3"/>
+        <blocks/>
+        <events>
+            <event displayName="Created" enabled="true" id="1" name="init" order="1" repeats="true"/>
+            <event displayName="Updated" enabled="true" id="2" name="step" order="2" repeats="true"/>
+        </events>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_3" classname="scripts.ActorEvents_3" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="5" name="ActorEvents_3" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.ActorEvents_5" classname="scripts.ActorEvents_5" desc="Actor Specific Events" description="Actor Specific Events" design="true" drawOrder="0" id="6" name="ActorEvents_5" oid="-1" package="scripts." scenespecific="false" shared="false" type="actor">
+        <blocks/>
+        <events/>
+    </snippet>
+    <snippet attachedevent="true" class="scripts.SceneEvents_0" classname="scripts.SceneEvents_0" desc="Scene Specific Events" description="Scene Specific Events" design="true" drawOrder="0" id="7" name="SceneEvents_0" oid="-1" package="scripts." sceneid="0" scenespecific="true" shared="false" type="scene">
+        <blocks/>
+        <events/>
+    </snippet>
+</pack>

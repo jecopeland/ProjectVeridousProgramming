@@ -1,0 +1,19 @@
+
+# ACTOR GROUPS
+groups.create=Click here to create a new group.
+groups.new=Create a New Group...
+groups.newname=New Group <0>
+groups.error.name=Another group already has this name. Choose a different name.
+groups.default=Click on a group's name to rename it.
+groups.none=Select a group, or click here to create one.
+groups.collideswith=Collides With
+groups.nocollide=This is a special group whose members are never allowed<br> to collide with anything else.
+# COLLISION GROUPS
+cgroups.create=Click here to create a new collision group.
+cgroups.collide=collide with
+cgroups.single=this collision group
+cgroups.warn=Warning: This collision group matches an existing one.
+cgroups.warn2=You cannot duplicate a default collision group (<0> and <1>). Reverting to previous selection.
+cgroups.info=Collision groups determine what groups of actors collide with each other. Duplicates, indicated by a warning icon, are ignored.
+actor.group.choose=Choose Actor Group...
+actorgroup.chooser.title=Choose an Actor Group

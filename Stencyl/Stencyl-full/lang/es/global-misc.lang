@@ -1,0 +1,54 @@
+
+# MULTI INSTANCE
+multi.main=Aviso: StencylWorks ya está abierto o fue cerrado de forma imprevista. ¿Deseas continuar?
+multi.sub=Se recomienda altamente no ejecutar múltiples instancias de StencylWorks.
+# LEGAL
+cp=Copyright 2010 Stencyl, LLC. Todos los derechos reservados. Stencyl, el logo de Stencyl y el Diente de Stencyl son marcas registradas de Stencyl, LLC en los Estados Unidos y/o otros países. El uso de StencylWorks está sujeto al Acuerdo de Licencia para el Usuario Final (EULA).
+# MISC
+progress=Progreso
+statusbar=Barra de estado
+welcome.newgame=Crear un juego nuevo
+welcome.opengame=Abrir juego
+welcome.tabtitle=Centro de bienvenida
+welcome.title1=Mis juegos
+welcome.title2=Mis kits
+welcome.tour=Primeros pasos
+welcome.published=Mis juegos publicados
+# LOADING
+load.loading=Cargando
+load.lnf=Vista
+load.ui=Interfaz
+load.plug=Complementos
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>
+pixels=píxeles
+# FEEDBACK
+feedback.bug=Informe de fallo
+feedback.sugg=Sugerencia
+feedback.stuck=Estoy atascado
+feedback.other=Otro
+feedback.title=Resumen
+feedback.msg=Mensaje
+feedback.comments=Tus comentarios
+feedback.success=Gracias por enviar tus observaciones. Un miembro de nuestro equipo contactará contigo por e-mail tan pronto como sea posible.
+feedback.privacy=<b>Aviso de privacidad:</b> StencylWorks recopila estadísticas de uso e información de hardware de forma anónima para ayudar al Equipo Stencyl a resolver fallos de forma más eficiente. Para más información, revisa tu Acuerdo de beta tester.
+# HELP
+help.gui.prev=Página anterior
+help.gui.next=Página siguiente
+test.game.progress1=Preparando %d de %d.
+test.game.progress2=Procesando conductas.
+# TIME
+date.short=d MMM, yyyy
+date.realtime=HH:mm:ss
+today=Hoy
+yesterday=Ayer
+hours.ago=Hace <0> horas
+days.ago=Hace <0> días
+week.ago=La semana pasada
+# TEMPORARY
+temp.followinst=Sigue estas instrucciones.
+temp.resourcepack=Para añadir un recurso a un paquete, haz clic derecho en el recurso y elige 'Añadir a paquete'.

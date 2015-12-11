@@ -1,0 +1,22 @@
+
+# BACKGROUND CREATOR
+bg.title.edit=Editar Plano de Fundo
+bg.title.new=Novo Plano de Fundo
+bg.rename=Renomear
+bg.resize=Redimensionar
+bg.scroll=Configurar velocidade de rolagem
+bg.preview=Pré-Visualização
+bg.rename.title=Renomear Plano de Fundo
+bg.scroll.title=Velocidade de Rolagem Automática
+bg.resize.title=Redimensionar Plano de Fundo
+bg.resize.inst=Ignorar o tamanho de Plano de Fundo padrão. Normalmente, os planos de fundo são dimensionados baseados no primeiro frame de imagem.
+bg.scroll.inst=Como padrão, os Planos de Fundo ficam fixos. Configurar uma velocidade de rolagem faz com que ele role automaticamente.
+bg.preview.title=Pré-Visualização do Plano de Fundo
+bg.props.name=Nome
+bg.props.xscroll=Velocidade X de Rolagem
+bg.props.yscroll=Velocidade Y de Rolagem
+bg.props.width=Largura
+bg.props.height=Altura
+bg.error.name=Favor entrar com um nome.
+bg.error.number=Favor entrar com um número positivo.
+bg.error.size=Favor entrar com um número inteiro e positivo.

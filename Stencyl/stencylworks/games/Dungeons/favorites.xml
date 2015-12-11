@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<favorites>
+    <dolater comment="false" x="0" y="0">
+        <group eventID="-1" id="-1"/>
+        <int id="0" val=""/>
+        <ACTOR eid="lastcreated" id="2"/>
+    </dolater>
+    <if comment="false" x="0" y="0">
+        <group eventID="-1" id="-1"/>
+        <int id="0" val=""/>
+    </if>
+</favorites>

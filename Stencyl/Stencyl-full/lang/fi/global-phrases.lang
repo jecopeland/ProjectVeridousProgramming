@@ -1,0 +1,36 @@
+
+# GLOBALS
+globals.missing=Puuttuva
+globals.yes=Kyllä
+globals.no=Ei
+globals.ok=OK
+globals.cancel=Peruuta
+globals.open=Avaa
+globals.close=Sulje
+globals.error=Virhe
+globals.true=Tosi
+globals.false=Epätosi
+globals.apply=Käytä
+globals.savechanges=Tallenna muutokset
+globals.done=Valmis
+globals.saveclose=Tallenna ja sulje
+globals.add=Lisää
+globals.confirmchanges=Hyväksy muutokset kohteeseen <0>?
+globals.confirmchanges.lost=Jos painat <b>Ei</b>, kaikki muutoksesi häviävät.
+globals.confirmdelete=Olet poistamassa kohdetta <0>. Haluatko jatkaa?
+# GENERAL MESSAGES
+msg.opening=Avaa...
+msg.saving=Tallentaa...
+msg.saving.temp=Valmistellaan peliä...
+msg.publishing=Siirretään peliä nettiin...
+msg.publishing.code=Siirretään höysteitä nettiin...
+msg.publishing.assets=Siirretään jotain nettiin...
+show=Näytä
+hide=Piilota
+# EMPTY STRINGS
+empty.properties=Ei valintaa.
+empty.history=Ei historiaa.
+empty.scenes=Ei avointa peliä.
+empty.library=Ei avointa peliä.
+empty.layers=Ei avointa lavastetta.
+empty.palette=Ei peliä auki.

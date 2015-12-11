@@ -1,0 +1,1 @@
+Kills the actor after a set period.

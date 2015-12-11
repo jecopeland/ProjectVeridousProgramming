@@ -1,0 +1,1 @@
+Makes this actor always active, even if off screen.

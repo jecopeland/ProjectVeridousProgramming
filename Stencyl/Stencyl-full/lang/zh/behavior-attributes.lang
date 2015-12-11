@@ -1,0 +1,14 @@
+
+sb.var.title=編輯遊戲邏輯變數
+sb.var.add=創作新的變數
+sb.var.remove=除去變數
+sb.var.default=編輯變數
+sb.var.header.name=名字
+sb.var.header.lname=敘述
+sb.var.header.type=類型
+sb.var.header.val=基本數值
+sb.var.error.val=請填寫合法<0>.
+sb.var.edit.val=基本數值
+sb.var.edit.nosound=沒有聲響
+sb.var.error.name=請填寫獨一和合法的名字.(只可英文字母和數目字,不可空白)
+sb.var.error.desc=請填寫敘述;不可空白

@@ -1,0 +1,29 @@
+
+# UPDATER
+update.title=Обновить Stencyl
+update.remind.action=Напомнить мне позднее
+update.download.action=качать и обновить
+update.restart.title=Успешно!
+update.restart.action=Перезапустите Stencyl
+update.restart=Вы обновились на '<0>'(b'<1>'). Stencyl должен перезапуститься, чтобы завершить это обновление.
+update.restart2=Вы обновляетесь до '<0>' (b'<1>'). Stencyl должен быть перезапущен, чтобы продолжить обновление.
+update.noneed=Вы используете самую последнюю версию!
+update.noneed2='<0>' (b'<1>') на данный момент последняя.
+update.need=Доступна новая версия Stencyl!
+update.need2='<0>' (b'<1>') доступна - ваша версия '<2>' (b'<3>'). Вы хотите обновить Stencyl?
+update.check=Проверяем версию...
+update.gather=Получение списка файлов...
+update.download=Скачивание...
+update.download.dg.title=Скачивание обновления...
+update.download.lang=Обновление языков...
+update.finalize=Окончание...
+update.fail=Однако!
+update.fail2=Stencyl не смог завершить процесс обновления. <br><br>Убедитесь в том, что ваш компьютер подключен к Интернету и попытайтесь снова.
+update.lang=Вы обновили набор языков. <br><br>Stencyl должен быть перезапущен для завершения обновления.
+update.cancel=Отменить Обновление
+update.progress.top=Скачивание <0> из <1>:
+update.progress.bottom=<0>K из <1>K - Около <2> секунд осталось
+upload.progress.top=Загрузка: <0>
+upload.progress.bottom=<0>K из <1>K
+update.redownload.title=Необходимо заново скачать
+update.redownload.desc=Для обновления, вы должны заново скачать Stencyl с нашего сайта.<br<br>Нажмите OK, чтобы посетить наш сайт.

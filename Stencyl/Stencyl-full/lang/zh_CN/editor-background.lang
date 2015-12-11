@@ -1,0 +1,22 @@
+
+# BACKGROUND CREATOR
+bg.title.edit=編輯聲響
+bg.title.new=新的背景
+bg.rename=更改名字
+bg.resize=更改大小
+bg.scroll=调正移动速度
+bg.preview=预看
+bg.rename.title=更改背景名字
+bg.scroll.title=自动装置移动速度
+bg.resize.title=删改背景大小
+bg.resize.inst=删改背景大小.背景大小是跟据弟一个映像画面 .
+bg.scroll.inst=从开始,背景是不动的.调正移动速度会使背景自动移动.
+bg.preview.title=预看背景
+bg.props.name=名字
+bg.props.xscroll=X(左右)-移动速度
+bg.props.yscroll=Y(上下)-移动速度
+bg.props.width=阔度
+bg.props.height=高度
+bg.error.name=请填写名字.
+bg.error.number=请填写正加数码.
+bg.error.size=请填写正加整体数码.

@@ -1,0 +1,50 @@
+
+# New Game Dialog
+dg.game.new.title=Create a New Game...
+dg.kit.new.title=Create a New Kit...
+dg.game.new.info.basic=Basic Info
+dg.game.new.info.name=Name
+dg.game.new.info.size=Screen Size
+dg.game.new.info.standard=640 x 480
+dg.game.new.info.size.info=Making a mobile game? Use 320 x 480 (or 480 x 320).
+dg.game.new.info.custom=Custom
+dg.game.new.info.width=Width
+dg.game.new.info.height=Height
+dg.game.new.save.prompt=You are about to create a new game.
+# Rename
+dg.game.rename=You must save your game to complete this action. Would you like to save it?
+dg.game.rename2=Renaming a game requires you to save it.
+dg.game.rename.samename.warning=Choose a different name for the new game
+dg.game.rename.samename.warning.i=If you want to use this name, rename the game, then 'Save As' to the desired name.
+dg.game.rename.fail=Could not rename this game
+dg.game.rename.fail.i=Stencyl lacks the necessary permissions to perform the rename. Choose a different name.
+# LOGO
+dg.game.logo=Game Logo
+dg.game.logo.info=160 x 120 pixels. Used only inside the toolset and arcade.
+dg.game.icon=Icon
+dg.game.icon.info=1024 x 1024 pixels. Used for desktop & mobile games. Will resize if not full size.
+# Kits
+dg.game.step1=What kind of game do you want to create?
+dg.game.step1.info=(Step 1 of 2)
+dg.game.step2=Game Based On: <0>
+dg.game.step2.info=(Step 2 of 2)
+dg.game.kits.blank=Blank Game
+dg.game.kits.blank.desc=Start from scratch with a blank game.
+# MISSING KIT
+dg.game.kit.missing=Could not locate <0> Kit.
+dg.game.kit.missing.i=Download the missing Kit from StencylForge.
+# ERRORS
+dg.game.new.error=Can't Create New Game...
+dg.game.new.error.game.open=You can't create a new game until you close the current one.
+dg.game.new.tutorial=Tutorials help you learn your away around Stencyl.<br><br>To begin, give your game a name.
+# SCALING
+dg.game.scale=Scaling
+dg.game.scale.mode=Scale Mode
+dg.game.scale.info=Run a game at a higher resolution than "1x". Does not apply when running in full screen mode.
+dg.game.scale.mode.info=For a web or desktop game, specify whether to use high-res graphics<br>(the same used for the mobile version) or whether to upscale on the fly.
+dg.game.scale.highres=Use Hi-Res Graphics (Default)
+dg.game.scale.dynamic=Scale Dynamically
+# PHYS
+dg.game.phys=Use 'Simple Physics' if your game doesn't require realistic physics, <br>is turn-based, or has many actors on screen.
+dg.game.phys1=Box2D (Default)
+dg.game.phys2=Simple Physics

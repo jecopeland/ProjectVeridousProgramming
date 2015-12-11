@@ -1,0 +1,35 @@
+
+# ERRORS
+error.nan=Enter a number.
+error.negative=Enter a positive number.
+error.blank=Enter a value.
+error.anim.load=Warning: Missing Image Data
+error.anim.load.i=Stencyl could not locate image data for one or more actor types and has substituted blank images to continue. Close the game, do not save and post it to the forums.
+error.corrupt.xml=Could not load <0>/game.xml
+error.corrupt.xml.i=ZIP the game up and post it to the Stencyl forums.
+error.save.kittogame=Unable to convert '<0>' from kit to game.
+error.preview.html5=Couldn't test HTML5 game.
+error.preview.noscenes.title=Cannot Preview Game
+error.preview.noscenes=This game has no scenes. Create a scene before previewing the game.
+error.publish.noscenes.title=Cannot Publish Game
+error.publish.noscenes=This game has no scenes. Create a scene before publishing the game.
+error.download.mult.title=Cannot download multiple resources at a time
+error.download.mult.desc=Wait until your first download is complete.
+error.import.game.invalid=This file isn't a valid Stencyl Game or Kit:
+error.scene.recover=Stencyl has detected a corrupted scene file. Would you like to auto-recover the file?
+error.scene.recover.restart=If you choose to continue, Stencyl will automatically restart when finished.
+error.write.warn=Auto-Update Failed
+error.write.win.msg1=Stencyl is installed to an unwritable directory.
+error.write.win.msg2=Solution: Run Stencyl as an administrator.
+error.write.mac.msg1=Stencyl is installed to an unwritable directory.
+error.write.mac.msg2=Solution: Run Stencyl as an administrator.
+error.write.linux.msg1=Stencyl is installed to an unwritable directory.
+error.write.linux.msg2=Solution: Run Stencyl as an administrator.
+# WARNINGS
+error.memory.usage=Stencyl has reached 90% memory usage.
+error.memory.usage.i=You should save your work and restart Stencyl. Visit the 'Ask a Question' forum on Stencyl.com for solutions.
+# GAME OPENING
+error.open.corrupt=Could not load game due to corrupt or incomplete resource listing (data.xml).
+error.open.corrupt.desc=Stencyl will attempt to restore listing from backup (data.xml.bak).
+error.open.corrupt.still=Stencyl could not load your game. (corrupt/incomplete resource listing)
+error.open.corrupt.still.desc=Post a ZIP of your game to the forums and mention this error.

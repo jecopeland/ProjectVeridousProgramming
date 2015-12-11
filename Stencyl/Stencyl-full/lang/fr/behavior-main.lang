@@ -1,0 +1,117 @@
+
+# MODULES
+sb.mode.vars=Attributs
+sb.mode.favorites=Favoris
+sb.mode.props=Edit Propriétés
+sb.mode.snippets=Éditer les Sous-Comportements
+# MENU
+menu.top.run=Éxécuter
+sb.file.new=Nouveau Comportement
+sb.file.open=Ouvrir Comportement
+sb.file.recent=Ouvrir Récent
+sb.file.close=Fermer
+sb.file.closeall=Tout Fermer
+sb.file.save=Enregistrer Comportement
+sb.file.saveall=Enregistrer Tous les Comportements
+sb.file.saveas=Enregistrer sous...
+sb.file.style=Personnaliser l'Éditeur de Code...
+sb.file.shortcut=Personnaliser les Raccourcis...
+sb.file.exit=Quitte le Concepteur de Comportements
+sb.file.undo=Annuler
+sb.file.redo=Rétablir
+sb.file.cut=Couper
+sb.file.copy=Copier
+sb.file.paste=Coller
+sb.file.delete=Supprimer
+sb.file.select=Sélectionner Tout
+sb.file.find=Trouver...
+sb.file.replace=Remplacer...
+sb.run.check=Vérifier la Syntax
+sb.run.refresh=Rafraîchir les Attributs
+sb.run.build=Tout Construire
+sb.building=Construction...
+sb.builddone=Done. A pris <0> millisecondes pour construire.
+sb.help.javadoc=Vue de l'API
+sb.help.wiki=Wiki
+sb.help.whatsnew=Quoi de Neuf?
+sb.help.toggle=Stencylpedia
+sb.settings.toggle=Paramètres de Jeu
+sb.help.call=Besoin d'Aide
+sb.chat.toggle=Chat
+sb.answers=StencylAnswers
+sb.help.crashcourse=Pour commencer...
+sb.help.faq=Stencylpedia
+sb.help.faq.mobile=Aide iStencyl (sur Stencylpedia)
+sb.help.attributes=Apprenez comment créer des Attributs.
+# TYPE CHOOSER
+actortype.chooser.title=Choisir un Type d'Acteur
+actor.type.choose=Choisir un Type d'Acteur...
+# MESSAGES
+sb.noattributes=Ce Comportement ne contient pas d'attributs <br> de type '<0>'.
+sb.preview.fail.open=Le Comportement '<0>' contient des champs qui sont soit vides ou renseignés avec des données incorrectes.<br><br>Stencyl va à présent ouvrir '<0>'
+sb.preview.fail=Stencyl détecte une erreur de syntaxe dans le comportement '<0>' .<br><br>'<0>' wva à présent s'ouvrir pour que vous puissiez corriger cette erreur.
+# BEHAVIOR PAGE TABS
+snip.tab.categories=Catégories
+snip.tab.bycategory=Par Categorie
+snip.tab.byscene=Par Scène
+snip.tab.byactor=Par Acteur
+snip.tab.bycode=Par Code
+snip.tab.all=Tout
+snip.tab.popular=Populaire
+snip.tab.recent=Récent
+# DEFAULT CATEGORIES
+snip.cat.none=Autres
+snip.cat.ai=IA
+snip.cat.collisions=Collisions
+snip.cat.fx=Mignon
+snip.cat.debug=Debug
+snip.cat.motion=Mouvement
+snip.cat.gui=Interface
+snip.cat.scoring=Score
+snip.cat.sound=Son
+snip.cat.stats=Statistiques
+snip.cat.drawing=DEssin
+snip.cat.web=Web
+snip.cat.ss=Scene-Specifique
+snip.cat.health=Santé
+snip.cat.actions=Actions
+snip.cat.cutscenes=Cinématiques
+snip.cat.saving=Enregistrement
+# PAGES
+snip.page.main=Pricipal
+snip.page.previewcode=Prévisualisation de Code
+snip.page.properties=Propriétés
+snip.page.attach=Attaché à <0>
+# ERRORS
+annotate.error.dupe=L'ID (<0>) utilisé pour '<1>' existe déjà. Choisissez en une différente.
+annotate.error.private=LEs Attributs Privés ne peuvent être exposés: '<0>'. Rendez cet attribut publique.
+sb.var.forbidden=Cette attribut ne peut être modifié.
+sb.var.none=LEs Attributs permettent aux utilisateurs finaux de configurer un Comportement selon leurs besoins<br> (ex: en ajustant la hauteur d'un saut)<br><br>Cliquez sur le Bouton "+" en dessous pour créer un attribut.
+# ICON
+snip.icon=Icône
+snip.icon.info=La Taille Optimale est de 48 x 48 pixels.
+# DESIGN MODE
+sb.design.toggle.palette=Afficher/Cacher la Palette
+sb.design.arrange=Arranger les Blocs
+sb.design.toggle.events=Afficher/Cacher la Barre d'Évènements
+sb.design.code=Prévisualisation du Code
+sb.design.capture=Prendre un Screenshot
+sb.design.capture2=Prendre un Screenshot et l'envoyer à un ami
+sb.design.clean=Nettoyer les Blocs isolés
+sb.design.reset=Réinitialiser l'Agencement
+sb.trash.info=Glissez les Blocs dans la corbeille pour les supprimer.
+sb.design.events.show=Ajouter Évènement...
+sb.design.events.next=Prochain Évènement
+sb.design.events.prev=Précédent Évènement
+# EVENTS PANE
+sb.events.add=Ajouter Évènement
+sb.events.legend.title=Légende
+sb.events.legend.repeats=Répète
+sb.events.legend.norepeat=Ne Pas Répéter
+sb.events.legend.lock=Toujours/Jamais Répété
+sb.events.legend.enabled=Est Activé
+sb.events.legend.repeats.i=(Par Défaut) Laisse l'Évènement se produire pour toujours, tant que sa condition est rencontrée.
+sb.events.legend.norepeat.i=Fait que l'Évènement ne se produit qu'une seule fois.
+sb.events.legend.lock.i=Vous ne pouvez pas changer ce paramètre depuis que l'Évènement est toujours se produire en répétition ou en toujours se produire une seule fois
+sb.events.legend.enabled.i=D2cocher cela permet d'Éviter que l'Évènement ne se produise.
+sb.events.legend.ask=Voulez-vous que la Légende s'affiche encore la prochaine fois?

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<structure classname="scripts.ds.dialog.ScalingImageTemplate">
+    <field label="Image" name="image" type="Image"/>
+    <field label="Origin" name="origin" type="RatioPoint"/>
+    <field default="" editor="Dropdown" label="Scale Type" name="type" options="[Stretch Image,Tile Image]:String" type="Selection"/>
+    <if condition="type == &amp;quot;Stretch Image&amp;quot;">
+        <field default="" editor="Dropdown" label="Scale Part" name="part" options="[Whole Image,Inside Border]:String" type="Selection"/>
+        <if condition="part == &amp;quot;Inside Border&amp;quot;">
+            <field label="Border Dimension" name="border" type="Point"/>
+        </if>
+    </if>
+</structure>

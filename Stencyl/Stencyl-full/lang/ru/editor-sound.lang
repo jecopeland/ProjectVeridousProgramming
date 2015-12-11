@@ -1,0 +1,11 @@
+
+# SOUND CREATOR
+sound.rename.title=Переименовать звук
+sound.play.title=Воспроизведение
+sound.info.title=Информация о звуке
+sound.info.channels=Каналов:
+sound.info.rate=Rate:
+sound.chooser.title=Выберите звук...
+sound.import1=Декодирование...
+sound.import2=Кодирование - <0>%
+sound.import3=Завершение...

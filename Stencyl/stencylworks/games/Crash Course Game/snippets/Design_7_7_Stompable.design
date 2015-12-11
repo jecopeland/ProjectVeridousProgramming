@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <actor-set-prop comment="false" x="26" y="40">
+                    <ACTOR eid="this" id="0"/>
+                    <int id="1" val="_BeingStomped"/>
+                    <false comment="false" id="2" x="0" y="0"/>
+                </actor-set-prop>
+            </group>
+        </init>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <event-custom comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <if comment="false" x="26" y="40">
+                    <group eventID="2" id="-1">
+                        <actor-set-prop comment="false" x="37" y="83">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="_BeingStomped"/>
+                            <true comment="false" id="2" x="0" y="0"/>
+                        </actor-set-prop>
+                        <play-sound4 comment="false" x="37" y="115">
+                            <int id="0" val="0"/>
+                            <sound eid="var" id="1" vid="1"/>
+                        </play-sound4>
+                        <set-dxy comment="false" x="37" y="142">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="0"/>
+                        </set-dxy>
+                        <set-dxy comment="false" x="37" y="169">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="1"/>
+                            <int id="2" val="0"/>
+                        </set-dxy>
+                        <toggle-grav comment="false" x="37" y="196">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="1"/>
+                        </toggle-grav>
+                        <setanim comment="false" x="37" y="223">
+                            <ACTOR eid="this" id="0"/>
+                            <get-val-3-2 comment="false" id="1" x="0" y="0"/>
+                        </setanim>
+                    </group>
+                    <not comment="false" id="0" x="0" y="0">
+                        <as-boolean comment="false" id="0" x="0" y="0">
+                            <actor-get-prop comment="false" id="0" x="0" y="0">
+                                <ACTOR eid="this" id="0"/>
+                                <int id="1" val="_BeingStomped"/>
+                            </actor-get-prop>
+                        </as-boolean>
+                    </not>
+                </if>
+                <dolater comment="false" x="26" y="267">
+                    <group eventID="2" id="-1">
+                        <die comment="false" x="37" y="294">
+                            <ACTOR eid="this" id="0"/>
+                        </die>
+                    </group>
+                    <int id="0" val="0.2"/>
+                    <ACTOR eid="this" id="2"/>
+                </dolater>
+            </group>
+            <int id="0" val="Stomped"/>
+        </event-custom>
+    </group>
+    <group eventID="2" id="-1"/>
+</groups>

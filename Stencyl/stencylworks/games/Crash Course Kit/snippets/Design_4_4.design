@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <ignore-screen-tolerance comment="false" x="26" y="40">
+                    <ACTOR eid="this" id="0"/>
+                </ignore-screen-tolerance>
+                <actor-set-prop comment="false" x="26" y="67">
+                    <ACTOR eid="this" id="0"/>
+                    <int id="1" val="Facing Right?"/>
+                    <true comment="false" id="2" x="0" y="0"/>
+                </actor-set-prop>
+            </group>
+        </init>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <step comment="false" x="53" y="66">
+            <group eventID="2" id="-1">
+                <comment-short comment="false" x="64" y="91">
+                    <int id="0" val="Walk right"/>
+                </comment-short>
+                <if comment="false" x="64" y="111">
+                    <group eventID="2" id="-1">
+                        <set-dxy comment="false" x="75" y="149">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="0"/>
+                            <get-val-4-7 comment="false" id="2" x="0" y="0"/>
+                        </set-dxy>
+                        <actor-set-prop comment="false" x="75" y="181">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="Facing Right?"/>
+                            <true comment="false" id="2" x="0" y="0"/>
+                        </actor-set-prop>
+                        <if comment="false" x="75" y="213">
+                            <group eventID="2" id="-1">
+                                <setanim comment="false" x="86" y="251">
+                                    <ACTOR eid="this" id="0"/>
+                                    <get-val-4-1 comment="false" id="1" x="0" y="0"/>
+                                </setanim>
+                            </group>
+                            <eq comment="false" id="0" x="0" y="0">
+                                <actor-get-prop comment="false" id="0" x="0" y="0">
+                                    <ACTOR eid="this" id="0"/>
+                                    <int id="1" val="On Ground?"/>
+                                </actor-get-prop>
+                                <true comment="false" id="1" x="0" y="0"/>
+                            </eq>
+                        </if>
+                    </group>
+                    <keystate comment="false" id="0" x="0" y="0">
+                        <int id="0" val="0"/>
+                        <get-val-4-6 comment="false" id="1" x="0" y="0"/>
+                    </keystate>
+                </if>
+                <comment-short comment="false" x="64" y="307">
+                    <int id="0" val="Walk left"/>
+                </comment-short>
+                <else-if comment="false" x="64" y="327">
+                    <group eventID="2" id="-1">
+                        <set-dxy comment="false" x="75" y="365">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="0"/>
+                            <neg comment="false" id="2" x="0" y="0">
+                                <get-val-4-7 comment="false" id="0" x="0" y="0"/>
+                            </neg>
+                        </set-dxy>
+                        <actor-set-prop comment="false" x="75" y="402">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="Facing Right?"/>
+                            <false comment="false" id="2" x="0" y="0"/>
+                        </actor-set-prop>
+                        <if comment="false" x="75" y="434">
+                            <group eventID="2" id="-1">
+                                <setanim comment="false" x="86" y="472">
+                                    <ACTOR eid="this" id="0"/>
+                                    <get-val-4-2 comment="false" id="1" x="0" y="0"/>
+                                </setanim>
+                                <if comment="false" x="86" y="504">
+                                    <group eventID="2" id="-1"/>
+                                    <not comment="false" id="0" x="0" y="0">
+                                        <eq comment="false" id="0" x="0" y="0">
+                                            <getanim comment="false" id="0" x="0" y="0">
+                                                <ACTOR eid="this" id="0"/>
+                                            </getanim>
+                                            <get-val-4-2 comment="false" id="1" x="0" y="0"/>
+                                        </eq>
+                                    </not>
+                                </if>
+                            </group>
+                            <eq comment="false" id="0" x="0" y="0">
+                                <actor-get-prop comment="false" id="0" x="0" y="0">
+                                    <ACTOR eid="this" id="0"/>
+                                    <int id="1" val="On Ground?"/>
+                                </actor-get-prop>
+                                <true comment="false" id="1" x="0" y="0"/>
+                            </eq>
+                        </if>
+                    </group>
+                    <keystate comment="false" id="0" x="0" y="0">
+                        <int id="0" val="0"/>
+                        <get-val-4-5 comment="false" id="1" x="0" y="0"/>
+                    </keystate>
+                </else-if>
+                <comment-short comment="false" x="64" y="603">
+                    <int id="0" val="Stand still"/>
+                </comment-short>
+                <else comment="false" x="64" y="623">
+                    <group eventID="2" id="-1">
+                        <set-dxy comment="false" x="75" y="643">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="0"/>
+                        </set-dxy>
+                        <if comment="false" x="75" y="670">
+                            <group eventID="2" id="-1">
+                                <if comment="false" x="86" y="708">
+                                    <group eventID="2" id="-1">
+                                        <setanim comment="false" x="97" y="746">
+                                            <ACTOR eid="this" id="0"/>
+                                            <get-val-4-4 comment="false" id="1" x="0" y="0"/>
+                                        </setanim>
+                                    </group>
+                                    <eq comment="false" id="0" x="0" y="0">
+                                        <actor-get-prop comment="false" id="0" x="0" y="0">
+                                            <ACTOR eid="this" id="0"/>
+                                            <int id="1" val="Facing Right?"/>
+                                        </actor-get-prop>
+                                        <true comment="false" id="1" x="0" y="0"/>
+                                    </eq>
+                                </if>
+                                <else comment="false" x="86" y="790">
+                                    <group eventID="2" id="-1">
+                                        <setanim comment="false" x="97" y="810">
+                                            <ACTOR eid="this" id="0"/>
+                                            <get-val-4-3 comment="false" id="1" x="0" y="0"/>
+                                        </setanim>
+                                    </group>
+                                </else>
+                            </group>
+                            <eq comment="false" id="0" x="0" y="0">
+                                <actor-get-prop comment="false" id="0" x="0" y="0">
+                                    <ACTOR eid="this" id="0"/>
+                                    <int id="1" val="On Ground?"/>
+                                </actor-get-prop>
+                                <true comment="false" id="1" x="0" y="0"/>
+                            </eq>
+                        </if>
+                    </group>
+                </else>
+            </group>
+        </step>
+    </group>
+    <group eventID="2" id="-1"/>
+</groups>

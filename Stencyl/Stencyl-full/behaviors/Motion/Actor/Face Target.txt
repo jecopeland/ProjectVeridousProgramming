@@ -1,0 +1,1 @@
+[INSTANCE CUSTOMIZE] - Rotates the actor to face the given target. You must instance customize the actor for this to work. (Double-click the actor in the scene)

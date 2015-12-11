@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <step comment="false" x="29" y="32">
+            <group eventID="1" id="-1">
+                <if comment="false" x="40" y="57">
+                    <group eventID="1" id="-1">
+                        <scene-reload-color comment="false" x="51" y="87">
+                            <int id="0" val="0"/>
+                            <int id="1" val="1"/>
+                            <color b="0" g="0" id="2" r="0"/>
+                            <int id="3" val="0"/>
+                            <int id="4" val="1"/>
+                            <color b="0" g="0" id="5" r="0"/>
+                        </scene-reload-color>
+                        <set-game-val-1 comment="false" x="51" y="114">
+                            <int id="0" val="20"/>
+                        </set-game-val-1>
+                        <set-game-val-4 comment="false" x="51" y="134">
+                            <plus comment="false" id="0" x="0" y="0">
+                                <get-game-val-4 comment="false" id="0" x="0" y="0"/>
+                                <int id="1" val="-1"/>
+                            </plus>
+                        </set-game-val-4>
+                    </group>
+                    <lesseq comment="false" id="0" x="0" y="0">
+                        <get-game-val-1 comment="false" id="0" x="0" y="0"/>
+                        <int id="1" val="0"/>
+                    </lesseq>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="1" id="1">
+        <get-val-42-2 comment="false" x="368" y="297"/>
+    </group>
+    <group eventID="1" id="2">
+        <die comment="false" x="100" y="246">
+            <ACTOR eid="this" id="0"/>
+        </die>
+        <create-actor3 comment="false" x="100" y="273">
+            <actortype eid="63" id="0"/>
+            <get-region-pos comment="false" id="1" x="0" y="0">
+                <REGION eid="var" id="0" vid="3"/>
+                <int id="1" val="0"/>
+            </get-region-pos>
+            <get-region-pos comment="false" id="2" x="0" y="0">
+                <REGION eid="var" id="0" vid="3"/>
+                <int id="1" val="1"/>
+            </get-region-pos>
+            <int id="3" val="0"/>
+        </create-actor3>
+        <set-val-42-2 comment="false" x="100" y="313">
+            <ACTOR eid="lastcreated" id="0"/>
+        </set-val-42-2>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="3" id="0">
+        <event-actor-create-kill comment="false" x="15" y="15">
+            <group eventID="3" id="-1">
+                <repeatu comment="false" x="26" y="42">
+                    <group eventID="3" id="-1">
+                        <set-game-val-1 comment="false" x="37" y="75">
+                            <int id="0" val="20"/>
+                        </set-game-val-1>
+                        <create-actor3 comment="false" x="37" y="95">
+                            <actortype eid="63" id="0"/>
+                            <get-region-pos comment="false" id="1" x="0" y="0">
+                                <REGION eid="var" id="0" vid="3"/>
+                                <int id="1" val="0"/>
+                            </get-region-pos>
+                            <get-region-pos comment="false" id="2" x="0" y="0">
+                                <REGION eid="var" id="0" vid="3"/>
+                                <int id="1" val="1"/>
+                            </get-region-pos>
+                            <int id="3" val="0"/>
+                        </create-actor3>
+                    </group>
+                    <isalive comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="this" id="0"/>
+                    </isalive>
+                </repeatu>
+            </group>
+            <int id="0" val="1"/>
+            <ACTOR eid="this" id="1"/>
+        </event-actor-create-kill>
+    </group>
+    <group eventID="3" id="-1"/>
+    <group eventID="4" id="0">
+        <event-actor-create-kill comment="false" x="15" y="15">
+            <group eventID="4" id="-1">
+                <set-val-42-2 comment="false" x="26" y="42">
+                    <ACTOR eid="this" id="0"/>
+                </set-val-42-2>
+            </group>
+            <int id="0" val="0"/>
+            <ACTOR eid="this" id="1"/>
+        </event-actor-create-kill>
+    </group>
+    <group eventID="4" id="-1"/>
+    <group eventID="5" id="0">
+        <event-periodic comment="false" x="15" y="15">
+            <group eventID="5" id="-1">
+                <if comment="false" x="26" y="42">
+                    <group eventID="5" id="-1">
+                        <die comment="false" x="37" y="72">
+                            <ACTOR eid="this" id="0"/>
+                        </die>
+                    </group>
+                    <lesseq comment="false" id="0" x="0" y="0">
+                        <get-game-val-1 comment="false" id="0" x="0" y="0"/>
+                        <int id="1" val="0"/>
+                    </lesseq>
+                </if>
+            </group>
+            <int id="0" val="0.5"/>
+            <ACTOR eid="this" id="2"/>
+        </event-periodic>
+    </group>
+    <group eventID="5" id="-1"/>
+</groups>

@@ -1,0 +1,19 @@
+
+# WELCOME SCREEN
+welcome.cc.title=Percorra o nosso Curso Intensivo (30 minutos)
+welcome.cc.desc=Aprende a maneira Stencyl de criar jogos e fique acustomado à ferramenta.
+welcome.game.title=Crie o seu primeiro jogo (1 hora)
+welcome.game.desc=Crie o seu primeiro jogo. Nós recomendamos vivamente a percorrer o curso intensivo primeiro!
+welcome.forum.title=Visite a Communidade Stencyl
+welcome.forum.desc=Visit os nossos fórums comunitários, onde pode perguntar e socializar com Stencylers como você.
+# SIGN IN
+signin.title=Inicie Sessão
+signin.yes=Inicie Sessão
+signin.no=Lembra-me Mais Tarde
+signin.error=Os detalhes estão incorrectos. Tente novamente. Se o problemas persistir, contacte-nos.
+signin.info=Já tem uma conta?
+signin.info2=Esqueceu-se da palavra chave?
+signin.register=Crie uma conta
+signin.name=Nome de Utilizador
+signin.key=Palavra Chave
+signin.as=Sessão iniciada como: <0>

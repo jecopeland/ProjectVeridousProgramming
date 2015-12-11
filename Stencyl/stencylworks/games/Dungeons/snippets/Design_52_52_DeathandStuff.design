@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <if comment="false" x="26" y="40">
+                    <group eventID="1" id="-1">
+                        <actor-enabledisable-snippet comment="false" x="37" y="70">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="1"/>
+                            <int id="2" val="Heath related death and reset"/>
+                        </actor-enabledisable-snippet>
+                    </group>
+                    <lesseq comment="false" id="0" x="0" y="0">
+                        <get-game-val-4 comment="false" id="0" x="0" y="0"/>
+                        <int id="1" val="0"/>
+                    </lesseq>
+                </if>
+            </group>
+        </step>
+    </group>
+    <group eventID="1" id="1">
+        <set-font-new comment="false" x="114" y="180">
+            <font eid="69" id="0"/>
+        </set-font-new>
+        <draw-text comment="false" x="114" y="207">
+            <int id="0" val="Game Over..."/>
+            <screen-xy comment="false" id="1" x="0" y="0">
+                <int id="0" val="0"/>
+            </screen-xy>
+            <screen-xy comment="false" id="2" x="0" y="0">
+                <int id="0" val="1"/>
+            </screen-xy>
+        </draw-text>
+    </group>
+    <group eventID="1" id="2">
+        <set-game-val-4 comment="false" x="18" y="355">
+            <plus comment="false" id="0" x="0" y="0">
+                <get-game-val-4 comment="false" id="0" x="0" y="0"/>
+                <int id="1" val="-1"/>
+            </plus>
+        </set-game-val-4>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <event-actor-create-kill comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <set-game-val-4 comment="false" x="26" y="42">
+                    <plus comment="false" id="0" x="0" y="0">
+                        <get-game-val-4 comment="false" id="0" x="0" y="0"/>
+                        <int id="1" val="-1"/>
+                    </plus>
+                </set-game-val-4>
+            </group>
+            <int id="0" val="1"/>
+            <ACTOR eid="this" id="1"/>
+        </event-actor-create-kill>
+    </group>
+    <group eventID="2" id="-1">
+        <minus comment="false" x="186" y="132">
+            <int id="0" val=""/>
+            <int id="1" val="1"/>
+        </minus>
+    </group>
+</groups>

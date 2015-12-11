@@ -1,0 +1,31 @@
+
+# Actor Creator
+actor.props=Muokkaa ominaisuuksia
+actor.rename=Nimeä hahmo uudelleen
+actor.group.edit=Muokkaa ryhmiä...
+actor.regroup=Valitse ryhmä
+actor.regroup.info=Ryhmiä käytetään hahmojen törmäysten erotteluun.
+actor.props.title=Hahmon ominaisuudet
+actor.props.newtitle=Uusi hahmo
+actor.title=Hahmomuokkain
+actor.title.new=Tee uusi hahmotyyppi
+actor.title.edit=Muokkaa hahmon tyyppiä
+actor.physics=Muokkaa fysiikoita
+actor.physics.info=Muokkaa fyysisiä arvoja, jotka liittyvät koko hahmoon. Kitkaa ja muita muotopohjaisia arvoja ei voi muokata tällä.
+# Properties
+actor.name=Nimi
+actor.group=Hahmojoukko
+actor.sprite=Kuva
+actor.sprite.choose=Valitse
+actor.sprite.edit=Muokkaa
+actor.sprite.new=Tee
+# Sprite Chooser
+actor.chooser.title=Valitse kuva
+# Warnings
+actor.warning.name=Kirjoita nimi.
+actor.warning.number=Kirjoita positiivinen kokonaisluku.
+actor.warning.nosnippets=Ei valittua höystettä.
+actor.warning.noprops=Tällä höysteellä ei ole muokattavia ominaisuuksia.
+actor.warning.float=Kirjoita reaaliluku.
+actor.warning.int=Kirjoita kokonaisluku.
+actor.warning.general=Kirjoita sopivat arvot punaisella merkattuihin kenttiin.

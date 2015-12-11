@@ -1,0 +1,14 @@
+
+sb.var.title=Wijzig Snippet Variabelen
+sb.var.add=Maak nieuwe variabele
+sb.var.remove=Verwijder variabele
+sb.var.default=Wijzig standaardwaarde
+sb.var.header.name=Naam
+sb.var.header.lname=Beschrijving
+sb.var.header.type=Type
+sb.var.header.val=Standaardwaarde
+sb.var.error.val=Geef een geldige <0>.
+sb.var.edit.val=Standaardwaarde
+sb.var.edit.nosound=Geen Geluid
+sb.var.error.name=Geef een unieke en geldige naam. (Alfanumerieke karakters, geen spaties)
+sb.var.error.desc=Geef een niet-lege beschrijving op.

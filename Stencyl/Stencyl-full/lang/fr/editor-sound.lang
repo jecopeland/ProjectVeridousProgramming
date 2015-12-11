@@ -1,0 +1,18 @@
+
+# SOUND CREATOR
+sound.top.main=Son
+sound.top.properties=Propriétés
+sound.choose=Choisir Fichier...
+sound.mix=Edit Son
+sound.rename.title=Renommer Son
+sound.play.title=Playback
+sound.info.title=Info Son
+sound.import=Cliquez ici pour importer un fichier son.
+sound.info.channels=Canals:
+sound.info.rate=Ratio:
+sound.chooser.title=Choisir un Son...
+sound.import1=Decodage...
+sound.import2=Encodage - <0>%
+sound.import3=Finalisation...
+sound.edit.noeditor=Ne peut s'éditer car aucun éditeur de sons est choisi
+sound.edit.noeditor.i=Aller dans les Préférences pour le configurer.

@@ -1,0 +1,117 @@
+
+# GLOBAL
+sb.title=Designer de Comportamentos
+sb.open.title=Abrir Comportamentos
+sb.confirm=Guardar modificações em <0>?
+# MODULES
+sb.mode.vars=Atributos
+sb.mode.favorites=Favoritos
+sb.mode.props=Editar Propriedades
+sb.mode.snippets=Edit Sub-Comportamentos
+# MENU
+menu.top.run=Executar
+sb.file.new=Novo Comportamento
+sb.file.open=Abrir Comportamento
+sb.file.recent=Abrir Recente
+sb.file.close=Fechar
+sb.file.closeall=Fechar Todas
+sb.file.save=Guardar Comportamento
+sb.file.saveall=Guardar Todos os Comportamentos
+sb.file.saveas=Guardar Como...
+sb.file.style=Personalizar Editor de Código...
+sb.file.shortcut=Personalizar Teclas de Atalho...
+sb.file.exit=Sair do Designer de Comportamentos
+sb.file.undo=Retroceder
+sb.file.redo=Avançar
+sb.file.cut=Cortar
+sb.file.copy=Copiar
+sb.file.paste=Colar
+sb.file.delete=Apagar
+sb.file.select=Seleccionar Tudo
+sb.file.find=Procurar...
+sb.file.replace=Substituir...
+sb.run.check=Verificar Sintaxe
+sb.run.refresh=Atualizar Atributos
+sb.run.build=Build
+sb.building=Building...
+sb.builddone=Feito. Demorou <0> milisegundos para o processo de Build terminar.
+sb.help.javadoc=Ver API
+sb.help.wiki=Wiki
+sb.help.whatsnew=O que há de novo?
+sb.help.toggle=Stencylpedia
+sb.help.toggle.menu=Ativar/Desativar Stencylpedia
+sb.settings.toggle=Definições de Jogo
+sb.help.call=Preciso de Ajuda
+sb.chat.toggle=Chat
+sb.chat.toggle.menu=Ativar/Desativar Chat
+sb.answers=StencylAnswers
+sb.help.crashcourse=Como Começar
+sb.help.faq=Stencylpedia
+sb.help.faq.mobile=Ajuda para o iStencyl(no Stencylpedia)
+sb.help.attributes=Aprende a criar atributos.
+sb.refresh=Atualizar Código Fonte
+# TYPE CHOOSER
+actortype.chooser.title=Escolher um Tipo de Ator
+actor.type.choose=Escolher Tipo do Ator...
+# LIBRARY
+sb.lib.actors=Comportamentos do Ator
+sb.lib.scenes=Comportamentos da Cena
+sb.lib.sscenes=Comportamentos específicos da Cena
+# MESSAGES
+sb.noattributes=Este Comportamento não contém atributos <br> do tipo '<0>'.
+sb.preview.fail.open=O Comportamento '<0>' contem campos que estão vazios ou com má informação.<br><br>Stencyl vai agora abrir '<0>'
+sb.preview.fail=Stencyl detetor errors de sintaxe no Comportamento '<0>'.<br><br>'<0>' vai agora ser aberto para que possa resolver esses erros.
+# BEHAVIOR PAGE TABS
+snip.tab.categories=Categorias
+snip.tab.bycategory=Por Categoria
+snip.tab.byscene=Por Cena
+snip.tab.byactor=Por Ator
+snip.tab.bycode=Por Código
+snip.tab.all=Tudo
+snip.tab.popular=Popular
+snip.tab.recent=Recente
+# DEFAULT CATEGORIES
+snip.cat.none=Outro
+snip.cat.ai=IA
+snip.cat.collisions=Colisões
+snip.cat.fx=Efeitos Visuais
+snip.cat.debug=Depuração
+snip.cat.motion=Movimento
+snip.cat.gui=Interface
+snip.cat.scoring=Pontuar
+snip.cat.sound=Som
+snip.cat.stats=Estatisticas
+snip.cat.drawing=Desenho
+snip.cat.web=Web
+snip.cat.ss=Scene-Especifico
+snip.cat.health=Energia
+snip.cat.actions=Ações
+snip.cat.cutscenes=Curtas-Metragens
+snip.cat.saving=Guardar
+# PAGES
+snip.page.main=Principal
+snip.page.previewcode=Pre-visualizar Código
+snip.page.errors=Problemas
+snip.page.convertcode=Converter para Código
+snip.page.properties=Propriedades
+snip.page.attach=Anexar a <0>
+# ERRORS
+annotate.error.dupe=O ID (<0>) usado por '<1>' já existe. Escolha um diferente.
+annotate.error.private=Atributos privados não podem ser expostos: '<0>'. Torne este atributo público.
+sb.var.forbidden=Este atributo não pode ser modificado.
+sb.var.none=Atributos permitem aos utilizadores mais experientes configurar um Comportamento à sua maneira<br> (e.g. ajustar a altura de um salto)<br><br>Clica no botão + abaixo para criar um atributo
+# ICON
+snip.icon=Icone
+snip.icon.info=O tamanho ideal é 48 x 48 pixels.
+# DESIGN MODE
+sb.design.toggle.palette=Ativar/Desativar Palete
+sb.design.arrange=Organizar Blocos
+sb.design.toggle.events=Ativar/Desativar Barra Lateral de Eventos
+sb.design.capture=Capturar Captura de Ecrã
+sb.design.capture2=Capturar Captura de Ecrã e envia para um amigo
+sb.design.clean=Limpar Blocos Desorganizados
+sb.design.reset=Reiniciar Esquema
+sb.trash.info=Arraste blocos para o caixote do lixo para os remover.
+sb.design.events.show=Adicionar Evento...
+sb.design.events.next=Evento Seguinte
+sb.design.events.prev=Evento Prévio

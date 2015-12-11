@@ -1,0 +1,771 @@
+2015-11-04 11:24:57,054 INFO  [main] stencyl.sw.Session: Logfile: /Users/pome012/stencylworks/logs/2015-11-04_11-24-56.log
+2015-11-04 11:24:57,064 INFO  [main] stencyl.sw.Session: OS Name: Mac OS X
+2015-11-04 11:24:57,065 INFO  [main] stencyl.sw.Session: OS Version: 10.10.5
+2015-11-04 11:24:57,065 INFO  [main] stencyl.sw.Session: Java Version: 1.8.0_65
+2015-11-04 11:24:57,065 INFO  [main] stencyl.sw.Session: Stencyl Version: 3.3.2 (b8734)
+2015-11-04 11:24:57,066 INFO  [main] stencyl.sw.Session: Stencyl Workspace: /Users/pome012/
+2015-11-04 11:24:57,067 INFO  [main] stencyl.sw.Session: User Working Directory: /Users/pome012/Desktop/Stencyl-full (1)
+2015-11-04 11:24:57,067 INFO  [main] stencyl.sw.Session: User Home Directory: /Users/pome012
+2015-11-04 11:24:57,067 INFO  [main] stencyl.sw.Session: System Path: /usr/bin:/bin:/usr/sbin:/sbin
+2015-11-04 11:24:57,156 DEBUG [main] stencyl.sw.util.FileHelper: Deleting: /var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl5250151133992611964
+2015-11-04 11:24:57,159 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-phrases.lang
+2015-11-04 11:24:57,168 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-errors.lang
+2015-11-04 11:24:57,171 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-menu.lang
+2015-11-04 11:24:57,179 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-welcome.lang
+2015-11-04 11:24:57,183 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-dashboard.lang
+2015-11-04 11:24:57,189 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-publish.lang
+2015-11-04 11:24:57,194 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-updater.lang
+2015-11-04 11:24:57,196 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-chat.lang
+2015-11-04 11:24:57,201 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-misc.lang
+2015-11-04 11:24:57,205 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-forge.lang
+2015-11-04 11:24:57,209 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-prefs.lang
+2015-11-04 11:24:57,212 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-creategame.lang
+2015-11-04 11:24:57,216 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-main.lang
+2015-11-04 11:24:57,220 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blocks.lang
+2015-11-04 11:24:57,239 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blockhelp.lang
+2015-11-04 11:24:57,247 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-events.lang
+2015-11-04 11:24:57,250 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-code.lang
+2015-11-04 11:24:57,254 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-attributes.lang
+2015-11-04 11:24:57,258 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-create.lang
+2015-11-04 11:24:57,261 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-byob.lang
+2015-11-04 11:24:57,265 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-main.lang
+2015-11-04 11:24:57,269 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-physics.lang
+2015-11-04 11:24:57,273 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-background.lang
+2015-11-04 11:24:57,276 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-behaviorchooser.lang
+2015-11-04 11:24:57,280 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-desktop.lang
+2015-11-04 11:24:57,281 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-font.lang
+2015-11-04 11:24:57,282 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-sound.lang
+2015-11-04 11:24:57,286 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-tileset.lang
+2015-11-04 11:24:57,291 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-preloader.lang
+2015-11-04 11:24:57,294 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-mobile.lang
+2015-11-04 11:24:57,296 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-groups.lang
+2015-11-04 11:24:57,299 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-attributes.lang
+2015-11-04 11:24:57,300 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-input.lang
+2015-11-04 11:24:57,304 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-animation.lang
+2015-11-04 11:24:57,305 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-main.lang
+2015-11-04 11:24:57,310 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-create.lang
+2015-11-04 11:24:57,313 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-tools.lang
+2015-11-04 11:24:57,317 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-phrases.lang
+2015-11-04 11:24:57,318 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-errors.lang
+2015-11-04 11:24:57,318 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-menu.lang
+2015-11-04 11:24:57,319 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-welcome.lang
+2015-11-04 11:24:57,320 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-dashboard.lang
+2015-11-04 11:24:57,322 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-publish.lang
+2015-11-04 11:24:57,323 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-updater.lang
+2015-11-04 11:24:57,323 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-chat.lang
+2015-11-04 11:24:57,324 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-misc.lang
+2015-11-04 11:24:57,325 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-forge.lang
+2015-11-04 11:24:57,326 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-prefs.lang
+2015-11-04 11:24:57,326 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/global-creategame.lang
+2015-11-04 11:24:57,328 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-main.lang
+2015-11-04 11:24:57,329 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blocks.lang
+2015-11-04 11:24:57,335 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-blockhelp.lang
+2015-11-04 11:24:57,351 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-events.lang
+2015-11-04 11:24:57,352 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-code.lang
+2015-11-04 11:24:57,352 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-attributes.lang
+2015-11-04 11:24:57,353 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-create.lang
+2015-11-04 11:24:57,354 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/behavior-byob.lang
+2015-11-04 11:24:57,358 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-main.lang
+2015-11-04 11:24:57,359 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-actor-physics.lang
+2015-11-04 11:24:57,361 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-background.lang
+2015-11-04 11:24:57,361 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-behaviorchooser.lang
+2015-11-04 11:24:57,362 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-desktop.lang
+2015-11-04 11:24:57,363 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-font.lang
+2015-11-04 11:24:57,363 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-sound.lang
+2015-11-04 11:24:57,364 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-tileset.lang
+2015-11-04 11:24:57,364 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-preloader.lang
+2015-11-04 11:24:57,365 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-mobile.lang
+2015-11-04 11:24:57,366 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-groups.lang
+2015-11-04 11:24:57,367 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-attributes.lang
+2015-11-04 11:24:57,367 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-input.lang
+2015-11-04 11:24:57,367 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-animation.lang
+2015-11-04 11:24:57,368 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-main.lang
+2015-11-04 11:24:57,370 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-create.lang
+2015-11-04 11:24:57,371 DEBUG [main] stencyl.sw.loc.LanguagePack: Reading... lang/en/editor-scene-tools.lang
+2015-11-04 11:25:02,229 INFO  [AWT-EventQueue-0] stencyl.sw.SW: Initializing Stencyl.
+2015-11-04 11:25:02,253 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Set Splash message: Look
+2015-11-04 11:25:02,584 DEBUG [Thread-2] stencyl.sw.util.StreamGobbler: [xcode-select] xcode-select: error: unable to get active developer directory, use `xcode-select --switch` to set one (or see `man xcode-select`)
+2015-11-04 11:25:02,592 DEBUG [Thread-3] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: xcode-select: error: unable to get active developer directory, use `xcode-select --switch` to set one (or see `man xcode-select`)
+2015-11-04 11:25:02,597 DEBUG [Thread-4] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: 
+2015-11-04 11:25:02,601 DEBUG [Thread-5] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: /Applications/Xcode.app/Contents/Developer
+2015-11-04 11:25:02,606 DEBUG [Thread-6] stencyl.sw.util.StreamGobbler: [xcodebuild] xcrun: error: missing DEVELOPER_DIR path: /Developer
+2015-11-04 11:25:02,698 WARN  [AWT-EventQueue-0] stencyl.sw.app.filewatcher.ExternalAppLauncher: No Xcode found.
+2015-11-04 11:25:04,661 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib actuate 1.6.5
+2015-11-04 11:25:04,670 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d 1.11.0
+2015-11-04 11:25:04,677 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib box2d-fake 1.11.0
+2015-11-04 11:25:04,684 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib console 1.0.0
+2015-11-04 11:25:04,688 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib format 3.1.2
+2015-11-04 11:25:04,698 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxcpp 3.2.0
+2015-11-04 11:25:04,708 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib hxtelemetry 0.3.1
+2015-11-04 11:25:04,711 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib layout 1.1.0
+2015-11-04 11:25:04,712 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib lime 2.6.8
+2015-11-04 11:25:04,715 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib openfl 3.3.8
+2015-11-04 11:25:04,722 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-ds 1.4.1
+2015-11-04 11:25:04,726 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib polygonal-printf 1.0.0.beta
+2015-11-04 11:25:04,735 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl 1.0.0
+2015-11-04 11:25:04,741 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib stencyl-cppia 1.0.0
+2015-11-04 11:25:04,749 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib svg 1.0.8
+2015-11-04 11:25:04,756 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib swf 1.7.4
+2015-11-04 11:25:04,764 INFO  [AWT-EventQueue-0] stencyl.sw.ext.ExtensionDependencyManager: Haxelib tilelayer 0.2.1
+2015-11-04 11:25:04,788 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within /Users/pome012/stencylworks/extensions: []
+2015-11-04 11:25:04,789 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Matching (non-hidden) files within /Users/pome012/stencylworks/extensions: []
+2015-11-04 11:25:04,789 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Loading engine extensions...
+2015-11-04 11:25:04,789 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Directories within /Users/pome012/stencylworks/engine-extensions: []
+2015-11-04 11:25:04,790 INFO  [AWT-EventQueue-0] stencyl.sw.editors.game.advanced.EngineExtensionManager: Engine Extensions: []
+2015-11-04 11:25:04,791 WARN  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Couldn't load extension settings.
+2015-11-04 11:25:04,798 INFO  [AWT-EventQueue-0] stencyl.sw.app.ExtensionManager: Toolset Extensions: []
+2015-11-04 11:25:05,443 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Welcome Center
+2015-11-04 11:25:05,450 WARN  [AWT-EventQueue-0] stencyl.sw.app.App: Stencyl Install Path: /Users/pome012/Desktop/Stencyl-full (1)/plaf
+2015-11-04 11:25:05,452 WARN  [AWT-EventQueue-0] stencyl.sw.util.dg.MessageDialog: Stencyl's install path contains special characters. - Stencyl may be unable to compile games if it's path contains '(' or ')'. Move Stencyl or change the path to enable game compiling.
+2015-11-04 11:25:07,195 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Silent Authentication.
+2015-11-04 11:25:07,198 DEBUG [AWT-EventQueue-0] stencyl.sw.Splash: Dispose Splash
+2015-11-04 11:25:08,455 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Response: user:::plans0
+2015-11-04 11:25:08,456 DEBUG [pool-1-thread-1] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/prefs/auth.txt
+2015-11-04 11:25:08,463 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Logged in as: POME012
+2015-11-04 11:25:08,464 INFO  [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: Usergroup: Registered
+2015-11-04 11:25:08,990 DEBUG [pool-1-thread-1] stencyl.sw.app.tasks.AuthenticateTask: 200
+2015-11-04 11:25:19,281 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Opening URL in browser: http://www.stencyl.com/developers/samples/
+2015-11-04 11:25:19,287 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: invoking isDesktopSupported
+2015-11-04 11:25:19,288 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: Launching http://www.stencyl.com/developers/samples/ using Desktop.browse()
+2015-11-04 11:25:38,910 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Opening URL in browser: http://www.stencyl.com/developers/market/
+2015-11-04 11:25:38,910 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: invoking isDesktopSupported
+2015-11-04 11:25:38,910 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: Launching http://www.stencyl.com/developers/market/ using Desktop.browse()
+2015-11-04 11:26:03,392 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Opening URL in browser: http://www.stencyl.com/developers/samples/
+2015-11-04 11:26:03,393 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: invoking isDesktopSupported
+2015-11-04 11:26:03,393 DEBUG [AWT-EventQueue-0] stencyl.thirdparty.misc.net.LaunchBrowser: Launching http://www.stencyl.com/developers/samples/ using Desktop.browse()
+2015-11-04 11:26:21,825 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl5250151133992611964Dungeons.zip
+2015-11-04 11:26:22,100 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.ImportGameTask: Took 679ms
+2015-11-04 11:26:24,302 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl5250151133992611964/sandbox/test/temp
+2015-11-04 11:26:24,303 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/preview/scripts
+2015-11-04 11:26:24,307 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/preview/game
+2015-11-04 11:26:24,311 INFO  [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Opening game: Dungeons
+2015-11-04 11:26:24,393 DEBUG [pool-1-thread-2] stencyl.core.lib.Game: Loading scene-specific snippet. SceneID: 0
+2015-11-04 11:26:24,409 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 60 : Action Button
+2015-11-04 11:26:24,413 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 53 : Arrow Button
+2015-11-04 11:26:24,426 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 55 : Arrow Button
+2015-11-04 11:26:24,428 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 57 : Arrow Button
+2015-11-04 11:26:24,429 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 59 : Arrow Button
+2015-11-04 11:26:24,430 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 61 : Arrow Button
+2015-11-04 11:26:24,432 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 1 : Ball
+2015-11-04 11:26:24,436 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 45 : Block
+2015-11-04 11:26:24,436 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 46 : Block
+2015-11-04 11:26:24,439 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 58 : Down Button
+2015-11-04 11:26:24,439 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 50 : How to Play
+2015-11-04 11:26:24,440 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 51 : How to Play
+2015-11-04 11:26:24,445 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 56 : Left Button
+2015-11-04 11:26:24,446 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 31 : Maze Set1
+2015-11-04 11:26:24,455 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 62 : Music
+2015-11-04 11:26:24,456 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 0 : Player
+2015-11-04 11:26:24,456 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 54 : Right Button
+2015-11-04 11:26:24,457 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 48 : Stairs
+2015-11-04 11:26:24,457 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 49 : Stairs
+2015-11-04 11:26:24,458 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 39 : Switch
+2015-11-04 11:26:24,458 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 40 : Switch
+2015-11-04 11:26:24,462 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 47 : Switch Activated
+2015-11-04 11:26:24,462 DEBUG [pool-1-thread-2] stencyl.core.lib.ResourceList: Initializing... 52 : Up Button
+2015-11-04 11:26:24,462 DEBUG [pool-1-thread-2] stencyl.core.engine.sound.ISoundClip: Loading Sound 47
+2015-11-04 11:26:24,462 DEBUG [pool-1-thread-2] stencyl.core.engine.sound.ISoundClip: Loading Sound 62
+2015-11-04 11:26:24,782 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Maze 1) from: scenes/0.xml
+2015-11-04 11:26:24,803 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Maze 1) from: scenes/0.xml
+2015-11-04 11:26:24,924 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-04 11:26:24,925 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl5250151133992611964/sandbox/build/code
+2015-11-04 11:26:24,925 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl5250151133992611964/sandbox/test/temp
+2015-11-04 11:26:24,928 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Maze 1) from: scenes/0.xml
+2015-11-04 11:26:25,010 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenGameTask: Took 699ms
+2015-11-04 11:26:25,178 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.attributes.AttributeTree: Loading attribute into tree: firstTime
+2015-11-04 11:26:25,277 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Actors
+2015-11-04 11:26:25,290 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Doodads
+2015-11-04 11:26:25,296 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Players
+2015-11-04 11:26:25,299 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Regions
+2015-11-04 11:26:25,305 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.game.cgroups.CollisionGroupTree: Loading actor group into tree: Tiles
+2015-11-04 11:26:26,797 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Player' to atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Switch' to atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Block' to atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Switch Activated' to atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Stairs' to atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'How to Play' to atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Up Button' to atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Right Button' to atlas 0
+2015-11-04 11:26:26,798 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Left Button' to atlas 0
+2015-11-04 11:26:26,799 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Down Button' to atlas 0
+2015-11-04 11:26:26,799 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Action Button' to atlas 0
+2015-11-04 11:26:26,799 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Music' to atlas 0
+2015-11-04 11:26:26,799 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Added resource 'Maze Set1' to atlas 0
+2015-11-04 11:26:26,814 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 1
+2015-11-04 11:26:26,816 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 2
+2015-11-04 11:26:26,818 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 3
+2015-11-04 11:26:26,820 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 4
+2015-11-04 11:26:26,823 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 5
+2015-11-04 11:26:26,826 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 6
+2015-11-04 11:26:26,828 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 7
+2015-11-04 11:26:26,830 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 8
+2015-11-04 11:26:26,832 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 9
+2015-11-04 11:26:26,835 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 10
+2015-11-04 11:26:26,838 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 11
+2015-11-04 11:26:26,840 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 12
+2015-11-04 11:26:26,843 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 13
+2015-11-04 11:26:26,847 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 14
+2015-11-04 11:26:26,850 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 15
+2015-11-04 11:26:26,854 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 16
+2015-11-04 11:26:26,857 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 17
+2015-11-04 11:26:26,861 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 18
+2015-11-04 11:26:26,864 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 19
+2015-11-04 11:26:26,867 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 20
+2015-11-04 11:26:26,870 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 21
+2015-11-04 11:26:26,874 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 22
+2015-11-04 11:26:26,878 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 23
+2015-11-04 11:26:26,880 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 24
+2015-11-04 11:26:26,883 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 25
+2015-11-04 11:26:26,886 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 26
+2015-11-04 11:26:26,889 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 27
+2015-11-04 11:26:26,892 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 28
+2015-11-04 11:26:26,896 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 29
+2015-11-04 11:26:26,899 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 30
+2015-11-04 11:26:26,903 DEBUG [AWT-EventQueue-0] stencyl.core.lib.Atlas: Getting memory for atlas 31
+2015-11-04 11:26:26,972 DEBUG [AWT-EventQueue-0] stencyl.core.lib.io.read.SceneReader: Reading header for Scene: 0 (Maze 1) from: scenes/0.xml
+2015-11-04 11:26:28,418 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Action: Test Game...
+2015-11-04 11:26:28,427 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-11-04 11:26:28,441 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/Dungeons/game.xml.bak.
+2015-11-04 11:26:30,863 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-11-04 11:26:30,867 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/Dungeons/resources/data.xml.bak.
+2015-11-04 11:26:30,889 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,890 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,890 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,890 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,890 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,891 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,891 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,892 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,892 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.TilesetWriter: Mark tileset as clean (disk).
+2015-11-04 11:26:30,893 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,894 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:30,908 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-11-04 11:26:30,910 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-11-04 11:26:30,923 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/Dungeons/snippets/list.xml.bak.
+2015-11-04 11:26:31,092 DEBUG [pool-2-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_6_6_SwitchScene.hx. Took 62 ms.
+2015-11-04 11:26:31,097 DEBUG [pool-2-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_0.hx. Took 4 ms.
+2015-11-04 11:26:31,100 DEBUG [pool-2-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/SceneEvents_0.hx. Took 3 ms.
+2015-11-04 11:26:31,096 DEBUG [pool-2-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_12_12_FadeOutandDieafterTime.hx. Took 64 ms.
+2015-11-04 11:26:31,106 DEBUG [pool-2-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_52.hx. Took 6 ms.
+2015-11-04 11:26:31,098 DEBUG [pool-2-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_7_7_SwitchActivation.hx. Took 68 ms.
+2015-11-04 11:26:31,108 DEBUG [pool-2-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_58.hx. Took 1 ms.
+2015-11-04 11:26:31,110 DEBUG [pool-2-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_56.hx. Took 4 ms.
+2015-11-04 11:26:31,111 DEBUG [pool-2-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_60.hx. Took 1 ms.
+2015-11-04 11:26:31,113 DEBUG [pool-2-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_48.hx. Took 0 ms.
+2015-11-04 11:26:31,115 DEBUG [pool-2-thread-3] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_10_10_4WayMovementAdvanced.hx. Took 84 ms.
+2015-11-04 11:26:31,113 DEBUG [pool-2-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_54.hx. Took 7 ms.
+2015-11-04 11:26:31,125 DEBUG [pool-2-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_22_22_CameraFollow.hx. Took 17 ms.
+2015-11-04 11:26:31,130 DEBUG [pool-2-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_26_26_OnScreenButton.hx. Took 17 ms.
+2015-11-04 11:26:31,133 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-11-04 11:26:31,157 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-11-04 11:26:31,212 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving game in place.
+2015-11-04 11:26:31,215 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/Dungeons/game.xml.bak.
+2015-11-04 11:26:33,032 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out local resources.
+2015-11-04 11:26:33,036 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/Dungeons/resources/data.xml.bak.
+2015-11-04 11:26:33,036 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,036 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,036 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,037 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,038 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,038 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,038 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,039 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,039 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.TilesetWriter: Mark tileset as clean (disk).
+2015-11-04 11:26:33,040 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,041 DEBUG [pool-1-thread-2] stencyl.sw.io.write.resource.SpriteWriter: Mark actor's sprite as clean (disk).
+2015-11-04 11:26:33,047 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Writing out scenes.
+2015-11-04 11:26:33,047 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Copying over snippets.
+2015-11-04 11:26:33,052 DEBUG [pool-1-thread-2] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/Dungeons/snippets/list.xml.bak.
+2015-11-04 11:26:33,115 DEBUG [pool-3-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_6_6_SwitchScene.hx. Took 2 ms.
+2015-11-04 11:26:33,116 DEBUG [pool-3-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_7_7_SwitchActivation.hx. Took 3 ms.
+2015-11-04 11:26:33,126 DEBUG [pool-3-thread-3] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_10_10_4WayMovementAdvanced.hx. Took 8 ms.
+2015-11-04 11:26:33,132 DEBUG [pool-3-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_12_12_FadeOutandDieafterTime.hx. Took 3 ms.
+2015-11-04 11:26:33,133 DEBUG [pool-3-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/SceneEvents_0.hx. Took 1 ms.
+2015-11-04 11:26:33,134 DEBUG [pool-3-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_0.hx. Took 2 ms.
+2015-11-04 11:26:33,138 DEBUG [pool-3-thread-3] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_52.hx. Took 1 ms.
+2015-11-04 11:26:33,140 DEBUG [pool-3-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_54.hx. Took 1 ms.
+2015-11-04 11:26:33,142 DEBUG [pool-3-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_56.hx. Took 1 ms.
+2015-11-04 11:26:33,143 DEBUG [pool-3-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_58.hx. Took 1 ms.
+2015-11-04 11:26:33,147 DEBUG [pool-3-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_60.hx. Took 1 ms.
+2015-11-04 11:26:33,148 DEBUG [pool-3-thread-3] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_22_22_CameraFollow.hx. Took 4 ms.
+2015-11-04 11:26:33,148 DEBUG [pool-3-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_48.hx. Took 1 ms.
+2015-11-04 11:26:33,157 DEBUG [pool-3-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_26_26_OnScreenButton.hx. Took 8 ms.
+2015-11-04 11:26:33,158 DEBUG [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Saving block favorites.
+2015-11-04 11:26:33,160 INFO  [pool-1-thread-2] stencyl.sw.io.write.MasterWriter: Done writing game.
+2015-11-04 11:26:33,193 INFO  [AWT-EventQueue-0] stencyl.sw.io.write.resource.HXWriter: Building game with arguments: FLASH, TESTING
+2015-11-04 11:26:33,194 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-11-04 11:26:33,204 DEBUG [Thread-9] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:26:33,205 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:26:33,205 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-11-04 11:26:33,213 DEBUG [Thread-10] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:26:33,214 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:26:33,214 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-11-04 11:26:33,221 DEBUG [Thread-11] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:26:33,222 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:26:33,222 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-11-04 11:26:33,230 DEBUG [Thread-12] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:26:33,230 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:26:33,231 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-11-04 11:26:33,238 DEBUG [Thread-13] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:26:33,238 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:26:33,239 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-11-04 11:26:33,246 DEBUG [Thread-14] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:26:33,246 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:26:33,256 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/Library/Preferences/Macromedia/Flash Player/Logs/flashlog.txt
+2015-11-04 11:26:33,262 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games-generated/Dungeons/Assets/graphics
+2015-11-04 11:26:33,264 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games-generated/Dungeons/Export/iPhone/build
+2015-11-04 11:26:33,264 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Trying to delete file that does not exist: /Users/pome012/stencylworks/games-generated/Dungeons/Export/cpp/mac/bin
+2015-11-04 11:26:33,287 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Player
+2015-11-04 11:26:33,288 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,290 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,297 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,299 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,315 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,318 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Switch
+2015-11-04 11:26:33,318 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,319 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,320 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,322 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,323 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,324 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Block
+2015-11-04 11:26:33,325 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,325 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,326 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,327 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,327 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,332 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Stairs
+2015-11-04 11:26:33,332 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,333 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,333 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,334 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,335 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,336 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... How to Play
+2015-11-04 11:26:33,336 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,337 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,340 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,344 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,349 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,353 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Up Button
+2015-11-04 11:26:33,354 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,354 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,355 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,356 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,357 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,358 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Right Button
+2015-11-04 11:26:33,358 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,359 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,359 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,360 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,362 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,362 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Left Button
+2015-11-04 11:26:33,362 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,363 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,364 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,364 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,366 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,366 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Down Button
+2015-11-04 11:26:33,366 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,367 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,368 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,369 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,369 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,370 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Action Button
+2015-11-04 11:26:33,370 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,371 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,372 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,372 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,373 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,380 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1x
+2015-11-04 11:26:33,381 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 1.5x
+2015-11-04 11:26:33,382 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 2x
+2015-11-04 11:26:33,386 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 3x
+2015-11-04 11:26:33,393 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Copying graphics for scale: 4x
+2015-11-04 11:26:33,396 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Deleting: /Users/pome012/stencylworks/games-generated/Dungeons/Assets/graphics/3x
+2015-11-04 11:26:33,405 DEBUG [pool-1-thread-3] stencyl.sw.util.FileHelper: Saving backup file /Users/pome012/stencylworks/games/Dungeons/game.xml.bak.
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Player
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Switch
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Block
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Stairs
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... How to Play
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Up Button
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Right Button
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Left Button
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Down Button
+2015-11-04 11:26:34,793 DEBUG [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Skipping... Action Button
+2015-11-04 11:26:34,807 DEBUG [pool-4-thread-2] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/SceneEvents_0.hx. Took 2 ms.
+2015-11-04 11:26:34,809 DEBUG [pool-4-thread-1] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/ActorEvents_52.hx. Took 2 ms.
+2015-11-04 11:26:34,819 DEBUG [pool-4-thread-4] stencyl.sw.io.write.resource.SnippetsWriter: Writing Design Snippet to /Users/pome012/stencylworks/preview/scripts/Design_26_26_OnScreenButton.hx. Took 8 ms.
+2015-11-04 11:26:34,852 DEBUG [pool-1-thread-3] stencyl.sw.util.Util: Running command: [/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/haxelib, run, openfl, -verbose, build, -debug, project.xml, flash]
+2015-11-04 11:26:35,338 INFO  [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib] OpenFL Command-Line Tools (3.3.8-LPNIQF)
+2015-11-04 11:26:35,339 INFO  [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib] Initializing project...
+2015-11-04 11:26:35,339 INFO  [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib] Using project file: project.xml
+2015-11-04 11:26:35,339 INFO  [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib] Reading HXCPP config: /Users/pome012/.hxcpp_config.xml
+2015-11-04 11:26:35,610 INFO  [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib] Using target platform: FLASH
+2015-11-04 11:26:35,611 INFO  [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib] Running command: UPDATE
+2015-11-04 11:26:35,611 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Creating directory: Export/flash
+2015-11-04 11:26:35,611 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Creating directory: Export/flash/bin
+2015-11-04 11:26:35,611 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-0.png
+2015-11-04 11:26:35,613 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-1.png
+2015-11-04 11:26:35,613 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-2.png
+2015-11-04 11:26:35,614 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-3.png
+2015-11-04 11:26:35,614 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-40-0.png
+2015-11-04 11:26:35,614 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-40-4.png
+2015-11-04 11:26:35,614 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-46-0.png
+2015-11-04 11:26:35,614 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-49-0.png
+2015-11-04 11:26:35,615 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-51-0.png
+2015-11-04 11:26:35,615 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-53-0.png
+2015-11-04 11:26:35,615 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-55-0.png
+2015-11-04 11:26:35,616 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-57-0.png
+2015-11-04 11:26:35,616 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-59-0.png
+2015-11-04 11:26:35,616 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-61-0.png
+2015-11-04 11:26:35,616 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/tileset-31.png
+2015-11-04 11:26:35,616 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-0.png
+2015-11-04 11:26:35,616 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-1.png
+2015-11-04 11:26:35,617 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-2.png
+2015-11-04 11:26:35,617 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-3.png
+2015-11-04 11:26:35,617 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-40-0.png
+2015-11-04 11:26:35,617 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-40-4.png
+2015-11-04 11:26:35,617 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-46-0.png
+2015-11-04 11:26:35,617 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-49-0.png
+2015-11-04 11:26:35,618 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-51-0.png
+2015-11-04 11:26:35,618 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-53-0.png
+2015-11-04 11:26:35,618 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-55-0.png
+2015-11-04 11:26:35,618 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-57-0.png
+2015-11-04 11:26:35,618 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-59-0.png
+2015-11-04 11:26:35,618 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-61-0.png
+2015-11-04 11:26:35,618 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/tileset-31.png
+2015-11-04 11:26:35,618 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-0.png
+2015-11-04 11:26:35,619 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-1.png
+2015-11-04 11:26:35,619 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-2.png
+2015-11-04 11:26:35,619 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-3.png
+2015-11-04 11:26:35,619 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-40-0.png
+2015-11-04 11:26:35,619 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-40-4.png
+2015-11-04 11:26:35,619 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-46-0.png
+2015-11-04 11:26:35,619 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-49-0.png
+2015-11-04 11:26:35,620 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-51-0.png
+2015-11-04 11:26:35,620 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-53-0.png
+2015-11-04 11:26:35,620 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-55-0.png
+2015-11-04 11:26:35,620 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-57-0.png
+2015-11-04 11:26:35,620 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-59-0.png
+2015-11-04 11:26:35,620 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-61-0.png
+2015-11-04 11:26:35,621 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/tileset-31.png
+2015-11-04 11:26:35,621 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-0.png
+2015-11-04 11:26:35,621 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-1.png
+2015-11-04 11:26:35,621 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-2.png
+2015-11-04 11:26:35,621 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-3.png
+2015-11-04 11:26:35,621 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-40-0.png
+2015-11-04 11:26:35,622 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-40-4.png
+2015-11-04 11:26:35,622 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-46-0.png
+2015-11-04 11:26:35,622 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-49-0.png
+2015-11-04 11:26:35,622 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-51-0.png
+2015-11-04 11:26:35,622 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-53-0.png
+2015-11-04 11:26:35,622 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-55-0.png
+2015-11-04 11:26:35,625 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-57-0.png
+2015-11-04 11:26:35,625 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-59-0.png
+2015-11-04 11:26:35,625 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-61-0.png
+2015-11-04 11:26:35,625 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/tileset-31.png
+2015-11-04 11:26:35,625 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-11-04 11:26:35,625 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-11-04 11:26:35,626 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-11-04 11:26:35,626 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-11-04 11:26:35,626 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-11-04 11:26:35,626 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-11-04 11:26:35,626 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@3x.png
+2015-11-04 11:26:35,627 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-11-04 11:26:35,627 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (MUSIC) Assets/music/sound-62.mp3
+2015-11-04 11:26:35,627 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (SOUND) Assets/sfx/sound-47.mp3
+2015-11-04 11:26:35,627 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-11-04 11:26:35,627 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-11-04 11:26:35,627 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-11-04 11:26:35,628 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-11-04 11:26:35,628 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-11-04 11:26:35,628 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-11-04 11:26:35,628 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Creating directory: Export/flash/obj
+2015-11-04 11:26:35,629 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-0.png
+2015-11-04 11:26:35,629 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-1.png
+2015-11-04 11:26:35,629 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-2.png
+2015-11-04 11:26:35,629 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-1-3.png
+2015-11-04 11:26:35,629 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-40-0.png
+2015-11-04 11:26:35,629 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-40-4.png
+2015-11-04 11:26:35,629 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-46-0.png
+2015-11-04 11:26:35,629 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-49-0.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-51-0.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-53-0.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-55-0.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-57-0.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-59-0.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/sprite-61-0.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1.5x/tileset-31.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-0.png
+2015-11-04 11:26:35,630 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-1.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-2.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-1-3.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-40-0.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-40-4.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-46-0.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-49-0.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-51-0.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-53-0.png
+2015-11-04 11:26:35,631 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-55-0.png
+2015-11-04 11:26:35,632 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-57-0.png
+2015-11-04 11:26:35,632 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-59-0.png
+2015-11-04 11:26:35,632 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/sprite-61-0.png
+2015-11-04 11:26:35,632 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/1x/tileset-31.png
+2015-11-04 11:26:35,632 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-0.png
+2015-11-04 11:26:35,633 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-1.png
+2015-11-04 11:26:35,633 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-2.png
+2015-11-04 11:26:35,633 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-1-3.png
+2015-11-04 11:26:35,633 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-40-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-40-4.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-46-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-49-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-51-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-53-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-55-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-57-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-59-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/sprite-61-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/2x/tileset-31.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-0.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-1.png
+2015-11-04 11:26:35,634 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-2.png
+2015-11-04 11:26:35,638 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-1-3.png
+2015-11-04 11:26:35,638 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-40-0.png
+2015-11-04 11:26:35,638 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-40-4.png
+2015-11-04 11:26:35,638 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-46-0.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-49-0.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-51-0.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-53-0.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-55-0.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-57-0.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-59-0.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/sprite-61-0.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/4x/tileset-31.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/graphics/default-font.fnt
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/default-font.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-badge.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@1.5x.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@2x.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@3x.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (IMAGE) Assets/graphics/preloader-bg@4x.png
+2015-11-04 11:26:35,639 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (MUSIC) Assets/music/sound-62.mp3
+2015-11-04 11:26:35,828 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (SOUND) Assets/sfx/sound-47.mp3
+2015-11-04 11:26:35,838 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/behaviors.xml
+2015-11-04 11:26:35,838 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/game.xml
+2015-11-04 11:26:35,838 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/resources.xml
+2015-11-04 11:26:35,838 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (BINARY) Assets/data/scene-0.scn
+2015-11-04 11:26:35,838 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/scene-0.xml
+2015-11-04 11:26:35,838 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Embedding asset: (TEXT) Assets/data/scenes.xml
+2015-11-04 11:26:36,129 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Creating directory: Export/flash/haxe
+2015-11-04 11:26:36,130 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-11-04 11:26:36,136 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/haxe/DefaultAssetLibrary.hx -> Export/flash/haxe/DefaultAssetLibrary.hx
+2015-11-04 11:26:36,158 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/haxe/ApplicationMain.hx -> Export/flash/haxe/ApplicationMain.hx
+2015-11-04 11:26:36,163 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/haxe/NMEPreloader.hx -> Export/flash/haxe/NMEPreloader.hx
+2015-11-04 11:26:36,165 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-11-04 11:26:36,167 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-11-04 11:26:36,171 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/lime/lime/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-11-04 11:26:36,174 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/debug.hxml -> Export/flash/haxe/debug.hxml
+2015-11-04 11:26:36,176 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/final.hxml -> Export/flash/haxe/final.hxml
+2015-11-04 11:26:36,179 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Copying template file: /Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl/templates/flash/hxml/release.hxml -> Export/flash/haxe/release.hxml
+2015-11-04 11:26:36,183 INFO  [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib] Running command: BUILD
+2015-11-04 11:26:36,185 DEBUG [Thread-15] stencyl.sw.util.StreamGobbler: [haxelib]  - Running command: haxe -main ApplicationMain -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl" -D openfl=3.3.8 -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/lime/lime" -D lime=2.6.8 -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/actuate/1,6,5" -D actuate=1.6.5 -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/console/1,00" -D console=0.0.0 -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/polygonal-ds/1,4,1" -D polygonal-ds=1.4.1 -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/polygonal-printf/1,0,0-beta" -D polygonal-printf=1.0.0-beta -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/box2d/1,11" -D box2d=0.0.0 -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/lib/stencyl/1,00" -D stencyl=0.0.0 -cp Source -cp "/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/extensions/gestures" -D native-trace -D openfl-next -D tools=2.6.8 -D flash-use-stage -D no-compilation -D openfl-flash -D verbose=1 -D web --remap nme:openfl -D network-sandbox -D as3_native -D swf-directblit -swf-lib newgrounds.swf -swf-lib cpmstar.swf -resource Assets/graphics/preloader-bg.png@preloader-bg -resource Assets/graphics/preloader-badge.png@preloader-badge -swf-lib Export/flash/obj/assets.swf -swf-version 11 -swf Export/flash/bin/Dungeons.swf -cp Export/flash/haxe -debug
+2015-11-04 11:26:42,965 DEBUG [pool-1-thread-3] stencyl.sw.util.Util: Process 'haxelib' exited with code: 0
+2015-11-04 11:26:42,965 INFO  [pool-1-thread-3] stencyl.sw.io.write.resource.HXWriter: Finished: Building for Flash.
+2015-11-04 11:26:42,965 DEBUG [pool-1-thread-3] stencyl.sw.util.Util: Running command: [open, -a, /Users/pome012/Desktop/Stencyl-full (1)/ext-tools/players/flash-10-mac.app, /Users/pome012/stencylworks/games-generated/Dungeons/Export/flash/bin/Dungeons.swf]
+2015-11-04 11:26:43,807 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(194): Stage Width: 480
+2015-11-04 11:26:43,808 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(195): Stage Height: 320
+2015-11-04 11:26:43,808 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(196): Screen Width: 480
+2015-11-04 11:26:43,808 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(197): Screen Height: 320
+2015-11-04 11:26:43,809 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(198): Screen DPI: 72
+2015-11-04 11:26:43,809 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(377): Max Scale: 4
+2015-11-04 11:26:43,809 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(378): Engine Scale: 1x
+2015-11-04 11:26:43,809 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(732): Scale X: 1
+2015-11-04 11:26:43,809 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] Universal#initScreen(733): Scale Y: 1
+2015-11-04 11:27:07,959 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] com.stencyl.Engine#switchScene(1709): Switching to scene 0
+2015-11-04 11:27:48,672 INFO  [pool-1-thread-2] stencyl.sw.app.filewatcher.ExternalAppLauncher: [Flash] com.stencyl.Engine#switchScene(1709): Switching to scene 0
+2015-11-04 11:27:58,164 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: How to Play
+2015-11-04 11:27:58,349 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetSheet: Field Count: 2
+2015-11-04 11:27:58,375 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.behavior.SnippetSheet: Field Count: 2
+2015-11-04 11:27:58,545 DEBUG [pool-1-thread-4] stencyl.sw.util.NotifierHashMap: HashMapEvent [type=VALUE_ADDED, value=ActorEvents_50]
+2015-11-04 11:27:59,303 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:27:59,399 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2015-11-04 11:27:59,729 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2015-11-04 11:27:59,818 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Keyboard & Mouse
+2015-11-04 11:27:59,898 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-11-04 11:27:59,959 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Getters
+2015-11-04 11:28:00,157 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Sound
+2015-11-04 11:28:00,207 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Triggers
+2015-11-04 11:28:00,286 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Web
+2015-11-04 11:28:00,352 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Drawing
+2015-11-04 11:28:00,421 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Basic
+2015-11-04 11:28:00,428 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Custom
+2015-11-04 11:28:00,429 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Extensions
+2015-11-04 11:28:00,430 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:00,569 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: []
+2015-11-04 11:28:00,569 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:00,810 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: How to Play
+2015-11-04 11:28:00,815 DEBUG [pool-1-thread-4] stencyl.sw.app.tasks.OpenResourceTask: Open Took 2650ms
+2015-11-04 11:28:00,968 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 2803ms
+2015-11-04 11:28:02,851 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.actor.appearance.AnimationPane: Editing Frame Index: 0
+2015-11-04 11:28:12,609 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-04 11:28:24,063 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: 4 Way Movement
+2015-11-04 11:28:24,108 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... receive-message
+2015-11-04 11:28:24,108 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - true
+2015-11-04 11:28:24,109 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - false
+2015-11-04 11:28:24,127 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... receive-message
+2015-11-04 11:28:24,127 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: print - true
+2015-11-04 11:28:24,127 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: push-shove - true
+2015-11-04 11:28:24,127 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-val-10-9 - true
+2015-11-04 11:28:24,127 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - true
+2015-11-04 11:28:24,127 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - false
+2015-11-04 11:28:24,142 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... receive-message
+2015-11-04 11:28:24,142 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: print - true
+2015-11-04 11:28:24,142 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: push-shove - true
+2015-11-04 11:28:24,142 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-val-10-9 - true
+2015-11-04 11:28:24,142 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - true
+2015-11-04 11:28:24,142 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - false
+2015-11-04 11:28:24,159 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... receive-message
+2015-11-04 11:28:24,160 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: print - true
+2015-11-04 11:28:24,160 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: push-shove - true
+2015-11-04 11:28:24,160 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-val-10-9 - true
+2015-11-04 11:28:24,160 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - true
+2015-11-04 11:28:24,160 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - false
+2015-11-04 11:28:24,336 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... step
+2015-11-04 11:28:24,336 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,336 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,336 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: eq - true
+2015-11-04 11:28:24,336 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: eq - true
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: eq - true
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: eq - true
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,337 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: say-this - true
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: if - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: else - false
+2015-11-04 11:28:24,338 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: step - false
+2015-11-04 11:28:24,352 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.EditArea: Verifying Top Level... receive-message
+2015-11-04 11:28:24,352 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: print - true
+2015-11-04 11:28:24,352 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: push-shove - true
+2015-11-04 11:28:24,352 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: set-val-10-9 - true
+2015-11-04 11:28:24,352 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - true
+2015-11-04 11:28:24,352 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.block.BlockField: Result for: receive-message - false
+2015-11-04 11:28:24,575 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:24,621 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Conditions
+2015-11-04 11:28:24,833 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Actors
+2015-11-04 11:28:24,885 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Keyboard & Mouse
+2015-11-04 11:28:24,934 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Math
+2015-11-04 11:28:24,981 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Getters
+2015-11-04 11:28:25,131 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Sound
+2015-11-04 11:28:25,165 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Triggers
+2015-11-04 11:28:25,204 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Web
+2015-11-04 11:28:25,247 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Drawing
+2015-11-04 11:28:25,270 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Basic
+2015-11-04 11:28:25,274 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Custom
+2015-11-04 11:28:25,275 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Extensions
+2015-11-04 11:28:25,276 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:25,297 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [e]10-1, [b]10]
+2015-11-04 11:28:25,297 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:25,297 DEBUG [pool-1-thread-4] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [e]10-1, [b]10]
+2015-11-04 11:28:25,486 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: 4 Way Movement
+2015-11-04 11:28:25,490 DEBUG [pool-1-thread-4] stencyl.sw.app.tasks.OpenResourceTask: Open Took 1427ms
+2015-11-04 11:28:25,683 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 1620ms
+2015-11-04 11:28:36,419 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-2]
+2015-11-04 11:28:36,420 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:36,420 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-2]
+2015-11-04 11:28:36,536 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-2]
+2015-11-04 11:28:36,536 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:37,416 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-3]
+2015-11-04 11:28:37,416 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:37,416 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-3]
+2015-11-04 11:28:37,503 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-3]
+2015-11-04 11:28:37,503 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:38,027 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [e]10-4, [b]10]
+2015-11-04 11:28:38,027 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:38,027 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [e]10-4, [b]10]
+2015-11-04 11:28:38,105 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [e]10-4, [b]10]
+2015-11-04 11:28:38,105 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:38,596 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-5]
+2015-11-04 11:28:38,596 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:38,596 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-5]
+2015-11-04 11:28:38,711 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-5]
+2015-11-04 11:28:38,711 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:39,954 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-6]
+2015-11-04 11:28:39,954 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:39,954 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-6]
+2015-11-04 11:28:40,056 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [b]10, [e]10-6]
+2015-11-04 11:28:40,056 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:40,832 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [e]10-1, [b]10]
+2015-11-04 11:28:40,832 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:40,832 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Refreshing with context [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [e]10-1, [b]10]
+2015-11-04 11:28:40,926 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.EditArea: ContextSet for current event: [[s]com.stencyl.behavior.Script, [c]com.stencyl.behavior.Script, [h]engine:com.stencyl.Engine, [e]10-1, [b]10]
+2015-11-04 11:28:40,926 DEBUG [AWT-EventQueue-0] stencyl.sw.editors.snippet.designer.palette.Palette: Palette asked to refresh: Position
+2015-11-04 11:28:42,501 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: How to Play
+2015-11-04 11:28:43,483 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Dashboard
+2015-11-04 11:28:57,999 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Loading Closed Resource: Maze Set1
+2015-11-04 11:28:58,122 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Unable to refresh document (Maze Set1)
+2015-11-04 11:28:58,147 DEBUG [AWT-EventQueue-0] stencyl.sw.app.doc.Workspace: Activated: Maze Set1
+2015-11-04 11:28:58,149 DEBUG [pool-1-thread-4] stencyl.sw.app.tasks.OpenResourceTask: Open Took 149ms
+2015-11-04 11:28:58,197 DEBUG [AWT-EventQueue-0] stencyl.sw.app.tasks.OpenResourceTask: Total Took 197ms
+2015-11-04 11:29:08,256 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Attempting to quit out of Stencyl.
+2015-11-04 11:29:10,215 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, neko]
+2015-11-04 11:29:10,228 DEBUG [Thread-18] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:29:10,228 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:29:10,228 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, adb]
+2015-11-04 11:29:10,236 DEBUG [Thread-19] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:29:10,236 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:29:10,237 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, arm-linux-androideabi-g++]
+2015-11-04 11:29:10,244 DEBUG [Thread-20] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:29:10,244 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:29:10,244 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, cc1plus]
+2015-11-04 11:29:10,255 DEBUG [Thread-21] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:29:10,255 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:29:10,255 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, tail]
+2015-11-04 11:29:10,262 DEBUG [Thread-22] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:29:10,263 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:29:10,263 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Running command: [killall, ios-sim]
+2015-11-04 11:29:10,272 DEBUG [Thread-23] stencyl.sw.util.StreamGobbler: [killall] No matching processes belonging to you were found
+2015-11-04 11:29:10,272 DEBUG [AWT-EventQueue-0] stencyl.sw.util.Util: Process 'killall' exited with code: 1
+2015-11-04 11:29:10,272 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying extensions.
+2015-11-04 11:29:10,272 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Performing final close.
+2015-11-04 11:29:10,273 INFO  [AWT-EventQueue-0] stencyl.sw.app.App: Exiting...
+2015-11-04 11:29:10,273 DEBUG [AWT-EventQueue-0] stencyl.sw.app.App: Destroying Temporary Sandbox.
+2015-11-04 11:29:10,273 DEBUG [AWT-EventQueue-0] stencyl.sw.util.FileHelper: Deleting: /private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl5250151133992611964

@@ -1,0 +1,28 @@
+
+# ATTRIBUTES PANE
+sb.var.single=атрибут
+sb.var.add=Создать атрибут...
+sb.var.addlist=Создать атрибут-список...
+sb.var.remove=Удалить атрибут
+sb.var.default=Изменить атрибут
+sb.var.viewcontrols=Показать страницу Контролов
+sb.var.up=Передвинуть вверх
+sb.var.down=Передвинуть вниз
+sb.var.header.name=Внутреннее название
+sb.var.header.aname=Использовать это название
+sb.var.header.lname=Название
+sb.var.header.desc=Описание
+sb.var.header.type=Тип
+sb.var.hidden=Скрытый?
+sb.var.hidden.info=Скрытые атрибуты не отображаются, когда разработчик настраивает это поведение<br>Они похожи на локальные переменные.
+sb.var.error.val=Введите правильное значение <0>.
+sb.var.edit.val=Значение по умолчанию
+sb.var.edit.nosound=Нет звука
+sb.var.edit.nocontrol=Нет управления (контрола?)
+sb.var.edit.nofont=Шрифт по умолчанию
+sb.var.error.name=Введите название, которое еще не применялось.
+sb.var.cat.general=Общий
+sb.var.cat.dropdown=Раскрывающийся
+sb.var.cat.range=Последовательность / список
+sb.var.drop.title=Раскрывающийся список данных
+sb.var.drop.desc=Показывает раскрывающийся список данных взамент текстового поля<br> Заполнять так:одна запись в одно строке, название[eq]значение.<br> Например:<br><br>Название[eq]Значение<br>Стенсил[eq]клёво<br>Утка по пекински[eq]Вкуснятина!

@@ -1,0 +1,11 @@
+
+actor.snippet.add=新的游戏逻辑
+actor.snippet.delete=删除
+actor.snippet.edit=编辑
+actor.snippets=游戏逻辑
+actor.snippet.filter=搜寻...
+# Snippet List
+actor.snippet.instance.instructions=游戏逻辑
+actor.snippet.instance.add=添加游戏逻辑
+actor.snippet.instance.open=编辑游戏逻辑
+actor.snippet.instance.delete=删除游戏逻辑

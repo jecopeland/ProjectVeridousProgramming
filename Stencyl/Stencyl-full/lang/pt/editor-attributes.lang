@@ -1,0 +1,24 @@
+
+# ATTRIBUTES
+att.type.number=Número
+att.type.text=Texto
+att.type.bool=Booleanos (Sim ou Não)
+att.type.list=Lista
+att.name=Nome
+att.type=Tipo
+att.value=Valor Inicial
+att.cat=Categoria
+att.cat.default=Por Defeito
+att.create=Clica aqui para criar um novo Atributo.
+att.newname=Atributo <0>
+att.about=O que são Atributos de Jogo?
+att.none=Clica aqui para criar um Atributo de Jogo.
+att.new=Criar um Novo Atributo de Jogo
+att.cat.refresh=Aplicar Nova Categoria
+att.cat.new=Adicionar Categoria
+att.cat.new.placeholder=Inserir Nome de uma Categoria
+att.cat.rename=Renomear Categoria
+att.cat.inst=Escolhe uma categoria existente, ou escreve uma nova e clica Aplicar.
+att.cat.new.inst=Escolhe uma categoria existente, ou escreve uma nova.
+att.show=Mostrar Atributos de Jogo
+att.getset=Getter/Setter do Atributo de Jogo

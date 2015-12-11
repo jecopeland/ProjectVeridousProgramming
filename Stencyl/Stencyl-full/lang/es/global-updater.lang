@@ -1,0 +1,32 @@
+
+# UPDATER
+update.title=Actualizar StencylWorks
+update.remind.action=Recordarme más tarde
+update.download.action=Descargar y actualizar
+update.restart.title=¡Éxito!
+update.restart.action=Reiniciar StencylWorks
+update.restart=Has actualizado a <0> (b<1>). StencylWorks debe reiniciarse para completar esta actualización.
+update.restart2=Has actualizado a <0> (b<1>). StencylWorks continuará el proceso de actualización tras reiniciarse.
+update.save=¿Deseas guardar tu juego antes de actualizar StencylWorks? (Recomendado)
+update.noneed=¡Estás al día!
+update.noneed2=La versión más nueva disponible es la <0> (b<1>).
+update.need=¡Hay una nueva versión de StencylWorks disponible!
+update.need2=<0> (b<1>) ya está disponible - tienes <2> (b<3>). ¿Deseas actualizar?
+update.check=Comprobando versión...
+update.archive=Guardando copia de seguridad...
+update.gather=Obteniendo lista de archivos...
+update.download=Descargando...
+update.download.dg.title=Descargando actualización...
+update.download.lang=Actualizando idiomas...
+update.patch=Parchando...
+update.finalize=Finalizando...
+update.fail=¡Ups!
+update.fail2=StencylWorks no pudo completar el proceso de actualización.<br><br>Asegúrate de que estás conectado a Internet e inténtalo de nuevo.
+update.lang=Has actualizado los paquetes de idioma.<br><br>StencylWorks debe reiniciarse para completar la actualización.
+update.cancel=Cancelar actualización
+update.progress.top=Descargando <0> de <1>:
+update.progress.bottom=<0>K de <1>K - Quedan aproximadamente <2> segundos
+upload.progress.top=Subiendo: <0>
+upload.progress.bottom=<0>K de <1>K
+update.redownload.title=Redescarga requerida
+update.redownload.desc=Debes volver a descargarte StencylWorks de nuestra página para actualizar.<br><br>Pulsa Aceptar para visitar nuestra página de descargas.

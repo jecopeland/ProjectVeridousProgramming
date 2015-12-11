@@ -1,0 +1,67 @@
+
+# LEGAL
+cp=© Copyright 2009 Stencyl, SARL. Tous droits réservés. Stencyl, le logo Stencyl et le c-denté Stencyl sont des marques déposées par Stencyl, SARL aux États-Unis et/ou dans tout autre pays. L'utilisation de StencylWorks est régit par notre Contrat de Licence Utilisateur Final (CLUF).
+# MISC
+progress=Progression
+statusbar=Barre de Statut
+welcome.newgame=Créer un nouveau Jeu...
+welcome.importgame=Importer le Jeu...
+welcome.exportgame=Exporter le Jeu...
+welcome.opengame=Ouvrir Jeu
+welcome.tabtitle=Centre de Bienvenue
+welcome.title1=Mes Jeux
+welcome.title2=Mes Kits
+welcome.published=Mes Jeux Publiés
+# LOADING
+load.loading=Chargement
+load.lnf=Apparence
+load.ui=Interface
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>
+pixels=pixels
+# DEBUG
+crusher.prompt=Voulez-vous optimiser la taille de <0>?
+crusher.prompt.i=Vous devriez faire une sauvagarde de secours avant de procéder.
+crusher.success=Stencyl a terminé l'optimisation de la taille de votre Jeu.
+logger.success=A écrit les Logs à l'endroit suivant:
+# FEEDBACK
+feedback.ask=Posez Nous une Question
+feedback.bug=Reporter un Bug
+feedback.sugg=Suggestion
+feedback.stuck=Je suis bloqué
+feedback.other=Autre
+feedback.title=Sommaire
+feedback.msg=Message
+feedback.comments=Votre Commentaire
+feedback.info=Soyez aussi précis que possible. Si vous expérimentez un problème, décrivez le afin que nous puissions le reproduire.
+feedback.info2=Nous vous recontacterons pas mail au besoin.
+feedback.success=Merci de nous avoir soumis votre suggestion ou retour. Un membre de notre équipe va entrer en contact avec vous par message électronique au besoin.
+# CALL
+call.title=Demande d'Aide
+call.subtitle=Bloqué avec quelque chose? L'Aide est juste à un clique de là.
+call.forums=Demandez sur le Forum
+call.forums2=Votre meilleur chance pour obtenir une réponse rapidement.
+call.pedia=Stencylpedia
+call.pedia2=Le guide indispensable à propos de Stencyl. Aussi disponible en français sur www.didacthic.com, rubrique Stencyl.
+call.chat=Chat
+call.chat2=Parlez en temps réel avec d'autres utilisateurs de Stencyl tels que vous.
+# HELP
+help.gui.prev=Page Précédente
+help.gui.next=Page suivante
+help.error.img=Ne parvient pas à charger l'image.
+# TIME
+date.short=MMM d, yyyy
+date.realtime=h:mm:ss a
+today=Ajourd'hui
+yesterday=Hier
+hours.ago=<0> heure auparavant
+# TEMPORARY
+temp.followinst=Suivez ces instructions.
+temp.resourcepack=Pour ajouter une ressource à un pack, faites un clique droit sur la ressource et choisissez l'option 'Ajouter au Pack' à partir du menu contextuel.
+# SIGN OUT
+signout.prompt=Stencyl va maintenant fermer pour finaliser la déconnection.
+signout.prompt.i=Il vous sera demandé d'enregistrer votre Jeu si vous en avez un d'ouvert.

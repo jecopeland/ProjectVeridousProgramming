@@ -1,0 +1,30 @@
+
+actor.snippet.fields=Atributos
+actor.snippet.fields.none=Esta conducta no contiene nada que configurar.
+actor.snippet.order=Orden
+actor.snippet.add=Nueva conducta
+actor.snippet.delete=Eliminar
+actor.snippet.edit=Editar
+actor.snippets=Elige una conducta
+actor.snippet.filter=Filtrar conductas.
+# Snippet List
+actor.snippet.instance.instructions=Conductas
+actor.snippet.instance.add=Añadir conducta
+actor.snippet.instance.open=Editar conducta
+actor.snippet.instance.delete=Quitar conducta
+actor.snippet.instance.enable=Activar conducta
+actor.snippet.instance.disable=Desactivar conducta
+actor.snippet.instance.reset=Reiniciar todos los valores
+actor.snippet.instance.toggle.e=Activar personalización
+actor.snippet.instance.toggle.d=Desactivar personalización
+actor.snippet.instance.disabled=Pulsa para empezar a personalizar el comportamiento de esta entidad.
+# Behavior Page
+list.add=Añadir elemento a lista
+list.remove=Quitar elemento de lista
+list.edit=Editar elemento
+list.up=Mover elemento encima
+list.down=Mover elemento debajo
+list.import=Importar desde fichero de texto...
+behavior.choose.normal=Elegir de este juego
+behavior.choose.online=Buscar online
+behavior.choose.search=¿Qué quieres que tu <0> haga?

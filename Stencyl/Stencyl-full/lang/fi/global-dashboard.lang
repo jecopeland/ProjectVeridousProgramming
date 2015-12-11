@@ -1,0 +1,35 @@
+
+gamecenter.title=Pelikeskus
+gamecenter.controls=Ohjaimet
+gamecenter.actorgroups=Hahmoryhmät
+gamecenter.cgroups=Törmäykset
+gamecenter.props=Pelin asetukset
+gamecenter.stats=Tilastot
+gamecenter.scenes=Lavasteet ovat pelin tapahtumaympäristöjä.
+gamecenter.actors=Hahmot ovat eläviä olentoja, jotka aiheuttavat pelin tapahtumat.
+gamecenter.backs=Taustat ovat isoja kuvia, jotka piirretään lavasteiden eteen tai taakse.
+gamecenter.sounds=Äänet voivat olla täyspitkiä  kappaleita tai lyhyitä efektejä.
+gamecenter.sprites=Kuvia käytetään kuvaamaan hahmoja.
+gamecenter.tilesets=Laattapaketit ovat kuvakokoelmia, joita voi käyttää lavasteiden rakentamiseen.
+# SCENE EDIT
+scene.open.title=Avaa lavaste
+# TYPES
+type.actor=Hahmo
+type.bg=Tausta
+type.sprite=Kuva
+type.shape=Muoto (törmäys)
+type.sound=Ääni
+type.tset=Laattapaketti
+# LIBRARY
+library.scenes=Lavasteet
+library.snippets=Höysteet
+library.actors=Hahmot
+library.bgs=Taustat
+library.sprites=Kuvat
+library.shapes=Muodot (törmäykset)
+library.sounds=Äänet
+library.menu.edit=Muokkaa
+library.menu.delete=Poista
+library.menu.create=Tee uusi
+library.filter=Suodata resurssit.
+library.tset=Laattapaketit

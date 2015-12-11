@@ -1,0 +1,35 @@
+
+gamecenter.title=Centrum zarządzania
+gamecenter.controls=Zmień sterowanie
+gamecenter.actorgroups=Edytuj grupy postaci
+gamecenter.cgroups=Edytuj kolizje
+gamecenter.props=Zmień ustawienia gry
+gamecenter.stats=Edytuj statystyki
+gamecenter.scenes=Sceny to miejsce akcji gry.
+gamecenter.actors=Postacie to wszystkie obiekty, które wywołują zdarzenia w grze.
+gamecenter.backs=Tła to duże obrazki wyświetlane przed lub za scenami.
+gamecenter.sounds=Dźwięki to utwory muzyczne albo efekty dźwiękowe.
+gamecenter.sprites=Sprite'y to zestawy animacji, od których zależy wygląd postaci.
+gamecenter.tilesets=Tilesety to zestawy elementów, z których można złożyć scenę.
+# SCENE EDIT
+scene.open.title=Otwórz scenę
+# TYPES
+type.actor=Postać
+type.bg=Tło
+type.sprite=Sprite
+type.shape=Kształt kolizji
+type.sound=Dźwięk
+type.tset=Tileset
+# LIBRARY
+library.scenes=Sceny
+library.snippets=Snippety
+library.actors=Postacie
+library.bgs=Tła
+library.sprites=Sprite'y
+library.shapes=Kształt kolizji
+library.sounds=Dźwięki
+library.menu.edit=Edytuj
+library.menu.delete=Usuń
+library.menu.create=Stwórz nowy
+library.filter=Szukaj...
+library.tset=Tilesety

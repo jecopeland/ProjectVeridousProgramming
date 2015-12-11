@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="31" extheight="1344" extwidth="1984" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="1280" id="2" name="Bigness Proof of Concept" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="1920">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="36" id="0" name="Region 0" pts="4,0.0,0.0,0.0,36.0,31.0,36.0,31.0,0.0" r="64" type="box" w="31" x="1856" y="1216"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="3" id="63" name="Amari 1" sx="1.0" sy="1.0" x="32" y="32" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="-2" id="48" name="Stairs 2" sx="1.0" sy="1.0" x="1856" y="1216" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="6">
+            <prop id="1" list="0" val="-1"/>
+            <prop id="2" list="0" val="0"/>
+            <prop id="4" list="0" val="1"/>
+            <prop id="5" list="0" val="0"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="6,32.0,32.0,32.0,0.0,1920.0,0.0,1920.0,1280.0,0.0,1280.0,0.0,32.0" x="0.0" y="0.0"/>
+        <p pts="4,1856.0,1216.0,1856.0,0.0,0.0,0.0,0.0,1216.0" x="32.0" y="32.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

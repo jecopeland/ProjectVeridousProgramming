@@ -1,0 +1,216 @@
+
+# SCENE LIBRARY
+scene.type=Σκηνή
+scene.edit=Επεξεργασία της Σκηνής
+scene.create=Δημιουργία Νέας Σκηνής
+scene.delete=Διαγραφή της Σκηνής
+scene.filter=Εύρεση...
+# SCENE PAGES
+scene.top.main=Σκηνή
+scene.top.gui=GUI
+scene.top.behavior=Συμπεριφορές
+scene.top.properties=Ιδιότητες
+scene.top.background=Φόντος
+scene.top.physics=Φυσική
+scene.top.test=Δοκιμή Σκηνής
+# SCENE MODES
+scene.mode.layer=Επίπεδο Στρώσεων
+scene.mode.working=Επίπεδο Εργασίας
+# BAR
+bar.grid=<0> Πλέγμα
+bar.anim=<0> Animations
+bar.screen=<0> Σύνορα Οθόνης
+bar.bg=<0> Οπίσθιος Φόντος
+bar.fg=<0> Εμπρόσθιος Φόντος
+bar.autoSnap=Επικόληση στο Πλέγμα: Όταν είναι ενεργή, η επικόληση στο πλέγμα είναι αυτόματη. Όταν δεν είναι ενεργή, κρατήστε το SHIFT για επικόληση στο πλέγμα.
+# EMPTY
+library.empty.palette=Το παιχνίδι δεν περιέχει <0>.
+library.empty.palette.actor=Δημιουργία Τύπου Ηθοποιού
+# PHYSICS
+scene.physics.gravx=Βαρύτητα (Οριζόντια)
+scene.physics.left=Αριστερά
+scene.physics.right=Δεξιά
+scene.physics.gravy=Βαρύτητα (Κάθετα)
+scene.physics.up=Πάνω
+scene.physics.down=Κάτω
+scene.physics.desc=Χρησιμοποιήστε την αξία '85 Κάτω' για να προσομοίωση αληθοφανής βαρύτητας.
+# BACKGROUNDS / FOREGROUNDS
+scene.background.explanation=Οπίσθιοι και Εμπρόσθιοι Φόντοι κινούνται παράλληλα με την σκηνή.<br>Οι Οπίσθιοι τοποθετούνται πίσω από τη σκηνή ενώ οι εμπρόσθιοι μπροστά.
+scene.backgrounds=Οπίσθιος Φόντος
+scene.foregrounds=Εμπρόσθιος Φόντος
+scene.background.new=Εισαγωγή Νέου ΟπΦόντου
+scene.background.delete=Απαλοιφή ΟπΦόντου
+scene.background.up=Μετακίνηση ΟπΦόντου Πάνω
+scene.background.down=Μετακίνηση ΟπΦόντου Κάτω
+scene.foreground.new=Εισαγωγή Νέου ΕμΦόντου
+scene.foreground.delete=Απαλοιφή ΕμΦόντου
+scene.foreground.up=Μετακίνηση ΕμΦόντου Πάνω
+scene.foreground.down=Μετακίνηση ΕμΦόντου Κάτω
+scene.background.create=Δημιουργία Νέου Φόντου
+scene.background.edit=Επεξεργασία αυτού του ΟπΦόντου
+scene.foreground.edit=Επεξεργασία αυτού του ΕμΦόντου
+scene.background.chooser.title=Επιλέξτε ένα Φόντο
+scene.chooser.title=Επιλέξτε μία Σκηνή
+scene.actorinstance.title=Επεξεργασία Συμπεριφοράς για '<0>'
+# UNDO/REDO
+scene.action.tile.place=Τοποθέτηση Πλακιδίου
+scene.action.tiles.place=Τοποθέτηση Πλακιδίων
+scene.action.actor.place=Τοποθέτηση Ηθοποιού
+scene.action.actors.place=Τοποθέτηση Ηθοποιών
+scene.action.actor.rotate=Περιστροφή Ηθοποιού
+scene.action.actors.rotate=Περιστροφή Ηθοποιών
+scene.action.actor.scale=Κλιμάκωση Ηθοποιού
+scene.action.actors.scale=Κλιμάκωση Ηθοποιών
+scene.action.select.delete=Διαγραφή Επιλογής
+scene.action.select.nudge=Μετακίνηση Επιλογής
+scene.action.select.move=Μετακίνηση Επιλογής
+scene.action.select.switchlayer=Αλλαγή Στρώσης
+scene.action.select.back=Αποστολή προς τα Πίσω
+scene.action.select.toback=Αποστολή Πίσω
+scene.action.select.forward=Αποστολή προς Μπροστά
+scene.action.select.tofront=Αποστολή Μπροστά
+scene.action.layer.add=Προσθήκη Στρώσης
+scene.action.layer.remove=Απαλοιφή Στρώσης
+# LAYERS
+scene.layer=Στρώση <0>
+scene.layer.header.name=Ονομασία
+scene.layer.header.color=Χρώμα
+scene.layer.header.show=Προβολή;
+scene.layer.new=Νέα Στρώση
+scene.layer.delete=Διαγραφή Στρώσης
+scene.layer.up=Αποστολή Στρώσης Μπροστά
+scene.layer.down=Αποστολή Στρώσης Πίσω
+scene.layer.rename=Μετονομασία Στρώσης
+# ROLLOVER
+actor.rollover=<0> (ID: <1>)    (<2>, <3>)  
+actor.rollovershort=<0>
+# JOINTS
+joints.stick=Άρθρωση Stick
+joints.hinge=Άρθρωση Hinge
+joints.sliding=Άρθρωση Sliding
+joints.pulley=Άρθρωση Pulley
+joints.gear=Άρθρωση Gear
+joints.info.selected=<0> (<1>). Διπλό κλικ για επεξεργασία των ιδιοτήτων.
+joint.edit.title=Επεξεργασία Ιδιοτήτων Άρθρωσης Joint
+joint.edit.general=Γενικά
+joint.edit.stick=Προχωρημένα
+joint.edit.hinge.limit=Όρια
+joint.edit.slide.limit=Όρια
+joint.edit.hinge.motor=Κίνηση
+joint.edit.slide.motor=Κίνηση
+joint.edit.direction=Κατεύθυνση Ολίσθησης
+joint.edit.name=Ονομασία
+joint.edit.namei=Δώστε μια ονομαστική περιγραφή για να σας βοηθήσει να αναγνωρίσετε την άρθρωση.
+joint.edit.name.err=Εισάγετε μια ονομασία.
+joint.edit.collisions=Προσκρούσεις
+joint.edit.collide=Πρόσκρουση Ηθοποιών;
+joint.edit.collidei=Όταν οι ηθοποιοί είναι συνδεμένοι με μια άρθρωση, συνήθως απενεργοπειούντε οι προσκρούσεις μεταξύ τους.
+joint.edit.damping=Μετρίαση
+joint.edit.dampingi=Μειώνει τις ενέργειες από ενοχλήσεις στην άρθρωση. Φανταστείτε το σαν μια πόρτα που κλείνει μαλακά αντί για απότομα. Μια αξία του 1 θεωρείτε "κρίσιμα μετριασμένη" και δε θα ταλαντευτεί καθόλου.
+joint.edit.dampingl=Καθόλου
+joint.edit.dampingh=Κρίσιμο
+joint.edit.freq=Δυσκαμψία
+joint.edit.freqi=Προσδιορίζει την δυσκαμψία η την χαλαρότητα της άρθρωσης. Οι χαλαρές αρθρώσεις συμπεριφέρονται σαν λάστιχο.
+joint.edit.freql=Δύσκαμπτο
+joint.edit.freqh=Χαλαρό
+joint.edit.hlimit=Χρήση Ορίου;
+joint.edit.hlimiti=Τα Όρια αποτρέπουν την περιστροφή της άρθρωσης πέρα από ορισμένες γωνίες.
+joint.edit.hlower=Κατώτερο Όριο
+joint.edit.hloweri=Σε Μοίρες σχετικές με την εναρκτήρια γωνία.
+joint.edit.hlowere=Εισάγετε αριθμό.
+joint.edit.hupper=Ανώτερο Όριο
+joint.edit.hupperi=Σε Μοίρες σχετικές με την εναρκτήρια γωνία.
+joint.edit.huppere=Εισάγετε αριθμό.
+joint.edit.slimit=Χρήση Ορίου;
+joint.edit.slimiti=Τα Όρια αποτρέπουν την μετακίνηση της άρθρωσης πέρα από ορισμένα σημεία.
+joint.edit.slower=Κατώτερο Όριο
+joint.edit.sloweri=Σε pixels σχετικά με το εναρκτήριο σημείο.
+joint.edit.slowere=Εισάγετε αριθμό.
+joint.edit.supper=Ανώτερο Όριο
+joint.edit.supperi=Σε pixels σχετικά με το εναρκτήριο σημείο.
+joint.edit.suppere=Εισάγετε αριθμό.
+joint.edit.hmotor=Χρήση Κίνησης;
+joint.edit.hmotori=Προκαλεί την αυτόματη περιστροφή της άρθρωσης.
+joint.edit.htorque=Δυσκαμψία
+joint.edit.htorquei=Το ποσοστό αντίστασης που θα προβάλει η άρθρωση όταν εκτελείτε από δύναμη. Ονομάζετε και ροπή.
+joint.edit.htorquee=Εισάγετε θετικό αριθμό.
+joint.edit.hspeed=Ταχύτητα
+joint.edit.hspeedi=Η ταχύτητα περιστροφής της άρθρωσης, σε μοίρες ανά καρέ. Αν είναι αρνητική, θα περιστρέφετε αριστερόστροφα.
+joint.edit.hspeede=Εισάγετε αριθμό. 
+joint.edit.smotor=Χρήση Κίνησης;
+joint.edit.smotori=Προκαλεί την αυτόματη μετακίνηση της άρθρωσης.
+joint.edit.sforce=Δυσκαμψία
+joint.edit.sforcei=Το ποσοστό αντίστασης που θα προβάλει η άρθρωση όταν εκτελείτε από δύναμη.
+joint.edit.sforcee=Εισάγετε θετικό αριθμό.
+joint.edit.sspeed=Ταχύτητα
+joint.edit.sspeedi=Η ταχύτητα με την οποία η άρθρωση μετακινήτε. Μπορεί να είναι αρνητική.
+joint.edit.sspeede=Εισάγετε αριθμό. 
+joint.edit.x=X Κατεύθυνση
+joint.edit.xi=Η Κατεύθυνση μετακίνησης του ηθοποιού, σε σχέση με των πρωτεύον ηθοποιό.
+joint.edit.xe=Εισάγετε αριθμό.
+joint.edit.y=Y Κατεύθυνση
+joint.edit.yi=Η Κατεύθυνση μετακίνησης του ηθοποιού, σε σχέση με των πρωτεύον ηθοποιό.
+joint.edit.ye=Εισάγετε αριθμό.
+joint.edit.hinge1=Η Άρθρωση Hinge θα φορτωθεί το <0> στο φόντο.
+joint.edit.hinge2=Η Άρθρωση Hinge θα φορτωθεί το <0> στο <1>.
+joint.edit.slide1=Η Άρθρωση Sliding θα φορτωθεί το <0> στο φόντο.
+joint.edit.slide2=Η Άρθρωση Sliding θα φορτωθεί το <0> στο <1>.
+# PICKING
+actor.choose=Επιλέξτε Ηθοποιό από την σκηνή...
+joint.choose=Επιλέξτε Άρθρωση από την σκηνή...
+region.choose=Επιλέξτε Περιοχή από την σκηνή...
+terrain.region.choose=Επιλέξτε Terrain από την σκηνή...
+actor.choose.i=Κάντε Κλικ σε ηθοποιό για να τον επιλέξετε.
+joint.choose.i=Κάντε Κλικ σε άρθρωση για να την επιλέξετε.
+region.choose.i=Κάντε Κλικ σε περιοχή για να την επιλέξετε.
+terrain.region.choose.i=Κάντε Κλικ σε terrain για να το επιλέξετε.
+# REGIONS
+region.info.selected=<0> (<1>)    (Τοπ: <2>, <3>)
+region.info.dim=(<0>, <1>)    (Πλάτος: <2>  Ύψος: <3>)
+region.edit.name=Ονομασία
+region.edit.namee=Εισάγετε ονομασία.
+region.edit.title=Επεξεργασία Ιδιοτήτων Περιοχής
+region.edit.color=Χρώμα
+# TERRAIN REGIONS
+terrain.region.info.selected=<0> (<1>)    (Τοπ: <2>, <3>)
+terrain.region.info.dim=(<0>, <1>)    (Πλάτος: <2>  Ύψος: <3>)
+terrain.region.edit.name=Ονομασία
+terrain.region.edit.namee=Εισάγετε ονομασία.
+terrain.region.edit.title=Επεξεργασία Ιδιοτήτων Γηπέδου
+terrain.region.edit.color=Χρώμα
+terrain.region.edit.group=Ομάδα
+# OTHER
+general.info=Μετακίνηση στο (<0>, <1>)
+# BEHAVIORS
+scene.snippet.instance.add=Δημιουργία Γεγονότων Σχετιζόμενα με την Σκηνή
+scene.snippet.instance.open=Επεξεργασία Συμπεριφοράς
+scene.snippet.instance.import=Εισαγωγή Συμπεριφοράς από τη Βιβλιοθήκη
+scene.snippet.instance.delete=Απαλοιφή Συμπεριφοράς
+# SCREEN CAPTURE
+capture.title=Στιγμιότυπο Λήφθηκε
+capture.body=%s έχει αποθηκευτεί στην οριζόμενη τοποθεσία.
+capture.error=Αδυναμία λήψης στιγμιότυπου. Δοκιμάστε ξανά.
+# MODULES
+mod.palette=Παλέτα
+mod.history=Ιστορικό
+mod.layers=Στρώσεις
+mod.game=Βιβλιοθήκη
+mod.properties=Ιδιότητες
+mod.scenes=Σκηνές
+mod.tools=Εργαλεία
+mod.output=Έξοδος
+mod.variables=Γνωρίσματα
+mod.inventory=Απογραφή
+mod.inspector=Επιθεωρητής
+# PALETTE
+palette.tile=Πλακίδια
+palette.actor=Ηθοποιοί
+palette.custom=Παραμετροποίηση
+palette.tilesets=ΟμΠλακίδιων
+palette.tilesets.create=Δημιουργία Νέας ΟμΠλακιδίων
+# INVENTORY
+inventory.actors=Ηθοποιοί
+inventory.regions=Περιοχές
+inventory.joints=Αρθρώσεις
+inventory.terrains=Γήπεδα
+inventory.all=Όλα

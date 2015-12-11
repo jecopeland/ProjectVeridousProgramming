@@ -1,0 +1,45 @@
+
+# GLOBAL
+sb.title=遊戲邏輯建築箱
+sb.open.title=打開遊戲邏輯
+sb.confirm=保存於<0>?
+# MODULES
+sb.mode.vars=變數
+sb.mode.props=編輯特性
+# MENU
+menu.top.run=開動
+sb.file.new=新的遊戲邏輯
+sb.file.open=打開遊戲邏輯
+sb.file.recent=打開最近
+sb.file.close=關閉
+sb.file.closeall=關閉一切
+sb.file.save=保存遊戲邏輯
+sb.file.saveall=保存所有遊戲邏輯
+sb.file.saveas=保存於
+sb.file.style=特製程式編輯者...
+sb.file.shortcut=特製捷徑...
+sb.file.exit=離開遊戲邏輯建築箱
+sb.file.undo=復原
+sb.file.redo=回覆取消
+sb.file.cut=剪下
+sb.file.copy=複製
+sb.file.paste=貼上
+sb.file.delete=刪除
+sb.file.select=選擇一切
+sb.file.find=尋找...
+sb.file.replace=取替...
+sb.run.check=查對句法
+sb.run.build=建築
+sb.building=在建築中...
+sb.builddone=完成了.只需<0>毫米秒來建築.
+sb.help.javadoc=察看 API.
+# TYPE CHOOSER
+actortype.chooser.title=選擇一個演員類型
+actor.type.choose=選擇演員類型...
+# LIBRARY
+sb.lib.actors=演員遊戲邏輯
+sb.lib.scenes=景象遊戲邏輯
+sb.lib.sscenes=景象獨有的遊戲邏輯
+# MESSAGES
+sb.preview.fail=StencylWorks察覺錯誤句法.<br><br>請打開遊戲邏輯建築箱,解決問題才繼續.
+# ERRORS

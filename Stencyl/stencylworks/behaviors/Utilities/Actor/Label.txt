@@ -1,0 +1,1 @@
+Attach this to an actor to show text on the screen.

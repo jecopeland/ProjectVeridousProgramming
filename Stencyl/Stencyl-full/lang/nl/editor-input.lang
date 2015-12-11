@@ -1,0 +1,6 @@
+
+# CONTROLS
+input.name=Naam
+input.error.name=Geef een unieke naam op.
+input.key=Standaardtoets
+input.key.enter=Klik en druk een toets.

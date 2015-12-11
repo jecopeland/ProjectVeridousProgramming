@@ -1,0 +1,36 @@
+
+# GLOBALS
+globals.missing=Brakuje
+globals.yes=Tak
+globals.no=Nie
+globals.ok=OK
+globals.cancel=Anuluj
+globals.open=Otwórz
+globals.close=Zamknij
+globals.error=Błąd
+globals.true=Tak
+globals.false=Nie
+globals.apply=Zastosuj
+globals.savechanges=Zapisz zmiany
+globals.done=Zakończone
+globals.saveclose=Zapisz i zamknij
+globals.add=Dodaj
+globals.confirmchanges=Zapisać zmiany w <0>?
+globals.confirmchanges.lost=Po wciśnięciu "Nie" wszystkie zmiany zostaną utracone.
+globals.confirmdelete=<0> zostanie usunięte. Czy chcesz kontynuować?
+# GENERAL MESSAGES
+msg.opening=Trwa otwieranie...
+msg.saving=Trwa zapisywanie...
+msg.saving.temp=Trwa przygotowywanie gry...
+msg.publishing=Trwa wysyłanie gry...
+msg.publishing.code=Trwa wysyłanie snippetów...
+msg.publishing.assets=Trwa wysyłanie zasobów...
+show=Pokaż
+hide=Ukryj
+# EMPTY STRINGS
+empty.properties=Nic nie zostało zaznaczone.
+empty.history=Brak historii.
+empty.scenes=Żaden projekt nie został otwarty.
+empty.library=Żaden projekt nie został otwarty.
+empty.layers=Brak otwartych scen
+empty.palette=Żaden projekt nie został otwarty.

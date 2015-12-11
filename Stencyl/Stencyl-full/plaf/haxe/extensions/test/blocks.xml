@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!--
+
+1) Types
+[void, actor, actortype, boolean, camera, color, control, font, group, number, list, anything, region, scene, sound, text, dropdown]
+
+2) The Spec
+
+<block> - An entry for a custom block
+tag = unique name for block, only ABC and - (dash) allowed
+spec = like what you see in language files, use %0, %1, etc. to specify where the spaces go
+code = output code, use ~ to specify the blanks. Must match the order in which fields are specified.
+type = any of these [normal, action, wrapper, event]
+color = any of these [blue, cyan, green, lime, purple, red, gray, charcoal]
+returns = a TYPE
+
+<fields> - A list of fields that a block contains
+For children, the tag name corresponds to a TYPE. The order attribute starts at 0 and increments by 1. Do not skip values.
+
+If you wish to use a dropdown, look at the example below for syntax.
+
+3) Stuff that is not implemented yet
+
+- No support for embedded blocks yet.
+- No support for events.
+- This format will be reused for customized palettes in the future.
+
+-->
+
+<palette>
+	<block tag="test-print" spec="print %0 to console %1" code="Test.print(~); /* Testing: ~ */" type="action" color="gray" returns="void">
+		<fields>
+			<text order="0"></text>
+			<dropdown order="1">
+				<choices>
+					<c text="Pressed" code="1"></c>
+					<c text="Released" code="2"></c>
+				</choices>
+			</dropdown>
+		</fields>
+	</block>
+</palette>

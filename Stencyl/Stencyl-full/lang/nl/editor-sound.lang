@@ -1,0 +1,9 @@
+
+# SOUND CREATOR
+sounds=Geluiden
+sound.choose=Kies Bestand...
+sound.rename=Hernoemen
+sound.mix=Wijzig Geluid
+sound.rename.title=Geluid Hernoemen
+sound.props.name=Naam
+sound.error.name=Gelieve een naam in te voeren.

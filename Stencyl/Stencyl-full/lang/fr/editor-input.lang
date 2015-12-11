@@ -1,0 +1,9 @@
+
+# CONTROLS
+input.newname=Touche <0>
+input.apply=Appliquer Modifications
+input.create=Cliquez ici pour ajouter un nouveau contrôle.
+input.name=Nom:
+input.key=Touche:
+control.chooser.title=Choisir un Contrôle
+control.choose=Choisir un Contrôle...

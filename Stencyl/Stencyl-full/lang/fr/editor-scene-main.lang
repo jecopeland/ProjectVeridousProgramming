@@ -1,0 +1,208 @@
+
+# SCENE LIBRARY
+scene.edit=Édition Scène
+scene.create=Créer une Nouvelle Scène
+scene.delete=Supprimer Scène
+# SCENE PAGES
+scene.top.main=Scène
+scene.top.gui=Interface
+scene.top.behavior=Comportements
+scene.top.properties=Propriétés
+scene.top.background=Arrière-Plan
+scene.top.physics=Physiques
+scene.top.test=Tester la Scène
+# SCENE MODES
+scene.mode.layer=Mode Couche
+scene.mode.working=Mode de Travail
+# BAR
+bar.grid=<0> Grille
+bar.anim=<0> Animations
+bar.screen=<0> Limites de l'écran
+bar.bg=<0> Arrière Plan
+bar.fg=<0> Premier Plan
+bar.autoSnap=Quand activé, le lâché sur grille est automatique. When désactivé, maintenez la touche SHIFT appuyée pour lâcher sur la grille.
+# EMPTY
+library.empty.palette=Ce jeu ne contient pas de <0>.
+library.empty.palette.actor=Créer un Type d'Acteurs
+# PHYSICS
+scene.physics.gravx=Gravité (Horizontale)
+scene.physics.left=Gauche
+scene.physics.right=Droite
+scene.physics.gravy=Gravité (Verticale)
+scene.physics.up=Haut
+scene.physics.down=Bas
+scene.physics.desc=Utilise une valeur de '85 vers le bas' pour simuler la gravité réelle.
+# BACKGROUNDS / FOREGROUNDS
+scene.background.explanation=Ajouter images en arrière et premier-plan qui défileront en parallaxe avec la scène.<br>Les Arrière-plans sont imprimés derrière la scène tandis que les Avant-plans sont imprimés devant.
+scene.backgrounds=Arrière-Plans
+scene.foregrounds=Avant-Plans
+scene.background.new=Ajouter Nouveau Arrière-plan
+scene.background.delete=Retirer Arrière-plan
+scene.background.up=Faire avancer Arrière-plan
+scene.background.down=Faire reculer Arrière-plan
+scene.foreground.new=Ajouter Nouveau Avant-plan
+scene.foreground.delete=Supprimer Avant-plan
+scene.foreground.up=Faire avancer Avant-plan
+scene.foreground.down=Faire reculer Avant-plan
+scene.background.create=Créer un Nouvel Arrière-Plan
+scene.background.edit=Éditer cet Arrière-Plan
+scene.foreground.edit=Éditer cet Avant-Plan
+scene.background.chooser.title=Choisir un Arrière-Plan
+scene.chooser.title=Choisir une Scène
+scene.actorinstance.title=Éditer le Comportement pour '<0>'
+# UNDO/REDO
+scene.action.tile.place=Placer la Tuile
+scene.action.tiles.place=Placer les Tuiles
+scene.action.actor.place=Placer l'Acteur
+scene.action.actors.place=Placer les Acteurs
+scene.action.actor.rotate=Tourner l'Acteur
+scene.action.actor.scale=Redimensionner l'Acteur
+scene.action.actors.scale=Redimensionner lesActeurs
+scene.action.select.delete=Supprimer la Sélection
+scene.action.select.nudge=Pousser doucement la Sélection
+scene.action.select.move=Déplacer la Sélection
+scene.action.select.switchlayer=Changer la Couche
+scene.action.select.back=Envoyer vers l'Arrière
+scene.action.select.toback=Envoyer à l'Arrière
+scene.action.select.forward=Ramener vers l'Avant
+scene.action.select.tofront=Ramener à l'Avant
+scene.action.layer.add=Ajouter une Couche
+scene.action.layer.remove=Supprimer la Couche
+# LAYERS
+scene.layer=Layer <0>
+scene.layer.header.name=Nom
+scene.layer.header.color=Couleur
+scene.layer.header.show=Afficher?
+scene.layer.new=Nouvelle Couche
+scene.layer.delete=Supprimer Couche
+scene.layer.up=Ramener la couche versl'Avant
+scene.layer.down=Envoyer la Couche vers l'Arrière
+scene.layer.rename=Renommer la Couche
+# ROLLOVER
+actor.rollover=<0> (ID: <1>)    (<2>, <3>)  
+actor.rollovershort=<0>
+# JOINTS
+joints.stick=Joiture
+joints.hinge=Charnière
+joints.sliding=Jointure glissante
+joints.info.selected=<0> (<1>). Double-cliquez dessus pour éditer ses propriétés.
+joint.edit.title=Éditer les Propriétés de Jointure
+joint.edit.general=Général
+joint.edit.stick=Avancé
+joint.edit.hinge.limit=Limites
+joint.edit.slide.limit=Limites
+joint.edit.hinge.motor=Moteur
+joint.edit.slide.motor=Moteur
+joint.edit.direction=Direction de Glissement
+joint.edit.name=Nom
+joint.edit.namei=Utilisé un nom descriptif qui vous aidera a mieux identifier cette jointure.
+joint.edit.name.err=Entrez un Nom qui ne soit pas vide.
+joint.edit.collide=Les Acteurs doivent-ils entrer en Collision?
+joint.edit.collidei=Quand les acteurs sont connectés par une jointure, il est commun de désactiver les collisions entre ces deux acteurs.
+joint.edit.damping=Amortissement
+joint.edit.dampingi=Réduit les effets de perturbations sur cette jointure. Imaginer que c'est comme une porte qui se ferme doucement plutôt que de claquer. Une valur de 1 est considérée comme "extrêmement amortie" et n'oscillera pas du tout.
+joint.edit.dampingl=Aucun
+joint.edit.dampingh=Extrême
+joint.edit.freq=Rigidité
+joint.edit.freqi=Détermine la rigidité/soupleese de la jointure. Les jointures souples sont comme en caoutchouc.
+joint.edit.freql=Rigide
+joint.edit.freqh=Souple
+joint.edit.hlimit=Activer la Limite?
+joint.edit.hlimiti=Les limites permettent déviter que la jointure ne tourne passer un certain angle.
+joint.edit.hlower=Limite Minimum
+joint.edit.hloweri=Le point de départ de l'angle en degrés.
+joint.edit.hlowere=Entrez un nombre.
+joint.edit.hupper=Limite Maximum
+joint.edit.hupperi=Le point de départ de l'angle en degrés.
+joint.edit.huppere=Entrez un nombre.
+joint.edit.slimit=Activer la Limite?
+joint.edit.slimiti=Les limites permettent déviter que la jointure ne tourne passer un certain angle.
+joint.edit.slower=Limite Minimum
+joint.edit.sloweri=Le point de départ de l'angle en pixels.
+joint.edit.slowere=Entrez un nombre.
+joint.edit.supper=Limite Maximum
+joint.edit.supperi=Le point de départ de l'angle en pixels.
+joint.edit.suppere=Entrez un nombre.
+joint.edit.hmotor=Activer le Moteur?
+joint.edit.hmotori=Fait tourner automatiquement la jointure.
+joint.edit.htorque=Rigidité
+joint.edit.htorquei=Représente la résistance appliquée par la jointure lorsque qu'elle est mue par un moteur.Aussi appelé torque ou mouvement de torsion.
+joint.edit.htorquee=Entrez un nombre positif.
+joint.edit.hspeed=Velocité
+joint.edit.hspeedi=La vélocité à laquelle la jointure tourne, en degrés par image. Lorsque la valeur est négative la rotation s'effectuera dans le sens inverse des aiguilles d'une montre.
+joint.edit.hspeede=Entrez un nombre.
+joint.edit.smotor=Activer le Moteur?
+joint.edit.smotori=Fait glisser la jointure automatiquement.
+joint.edit.sforce=Rigidité
+joint.edit.sforcei=Représente la résistance appliquée par la jointure lorsque qu'elle est mue par un moteur.
+joint.edit.sforcee=Entrez un nombre positif.
+joint.edit.sspeed=Velocité
+joint.edit.sspeedi=La vélocité à laquelle la jointure glisse. La valeur peut être négative.
+joint.edit.sspeede=Entrez un nombre.
+joint.edit.x=X Direction
+joint.edit.xi=Direction that the actor will slide, relative to the primary actor.
+joint.edit.xe=Enter a number.
+joint.edit.y=Y Direction
+joint.edit.yi=Direction vers laquelle l'acteur glissera, est relative à l'acteur primaire.
+joint.edit.ye=Enter a number.
+joint.edit.hinge1=Hinge Joint will mount <0> to the background.
+joint.edit.hinge2=Hinge Joint will mount <0> to <1>.
+joint.edit.slide1=La jointure montera <0> vers l'arrière-plan.
+joint.edit.slide2=La jointure montera <0> vers <1>.
+# PICKING
+actor.choose=Choisir un Acteur à partir de cette Scène...
+joint.choose=Choisir une Jointure à partir de cette Scène...
+region.choose=Choisir une Région à partir de cette Scène...
+terrain.region.choose=Choisir un Terrain à partir de cette Scène...
+actor.choose.i=Cliquez sur un Acteur pour le choisir.
+joint.choose.i=Cliquez sur une Jointure pour la choisir.
+region.choose.i=Cliquez sur une Région pour la choisir.
+terrain.region.choose.i=Cliquez sur un Terrain pour le choisir.
+# REGIONS
+region.info.selected=<0> (<1>)    (Pos: <2>, <3>)
+region.info.dim=(<0>, <1>)    (Largeur: <2>  Hauteur: <3>)
+region.edit.name=Nom
+region.edit.namee=Entrer un Nom.
+region.edit.title=Éditer les Propriétés de Région
+region.edit.color=Couleur
+# TERRAIN REGIONS
+terrain.region.info.selected=<0> (<1>)    (Pos: <2>, <3>)
+terrain.region.info.dim=(<0>, <1>)    (Largeur: <2>  Hauteur: <3>)
+terrain.region.edit.name=Nom
+terrain.region.edit.namee=Entrer un Nom.
+terrain.region.edit.title=Éditer les Propriétés de Terrain
+terrain.region.edit.color=Couleur
+terrain.region.edit.group=Groupe
+# OTHER
+general.info=Moving to (<0>, <1>)
+# BEHAVIORS
+scene.snippet.instance.add=Create Scene-Évènement Spécifique
+scene.snippet.instance.open=Éditer Comportement
+scene.snippet.instance.import=Importer un Comportement à partir de la Librairie
+scene.snippet.instance.delete=Supprimer Comportement
+# SCREEN CAPTURE
+capture.title=Screenshot Effectué
+capture.body=%s a été enregistré à l'endroit spécifié.
+capture.error=Ne parvient pas à prendre un screenshot. Essayez de nouveau.
+# MODULES
+mod.palette=Palette
+mod.history=Historique
+mod.layers=Couches
+mod.game=Librairie
+mod.properties=Propriétés
+mod.scenes=Scènes
+mod.output=Sortie
+mod.variables=Attributs
+mod.inventory=Inventaire
+mod.inspector=Inspecteur
+# PALETTE
+palette.tile=Tuiles
+palette.actor=Acteurs
+palette.tilesets=Jeu de Tuiles
+palette.tilesets.create=Créer un Nouveau Jeux de Tuiles
+# INVENTORY
+inventory.actors=Acteurs
+inventory.regions=Régions
+inventory.joints=Joints
+inventory.terrains=Terrains
+inventory.all=Tout

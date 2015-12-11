@@ -1,0 +1,114 @@
+#!/bin/sh
+
+##################################################################################
+#                                                                                #
+# custom Stencyl launch script                                                   #
+#                                                                                #
+# Based on universalJavaAppplicationStub by Tobias Fischer                       #
+# at https://github.com/tofi86/universalJavaApplicationStub                      #
+#                                                                                #
+# Inspired by Ian Roberts stackoverflow answer                                   #
+# at http://stackoverflow.com/a/17546508/1128689                                 #
+#                                                                                #
+##################################################################################
+
+set -o xtrace
+
+#
+# resolve symlinks
+#####################
+
+PRG=$0
+
+while [ -h "$PRG" ]; do
+    ls=`ls -ld "$PRG"`
+    link=`expr "$ls" : '^.*-> \(.*\)$' 2>/dev/null`
+    if expr "$link" : '^/' 2> /dev/null >/dev/null; then
+        PRG="$link"
+    else
+        PRG="`dirname "$PRG"`/$link"
+    fi
+done
+
+# set the directory abspath of the current shell script
+PROGDIR=`dirname "$PRG"`
+
+#
+# set files and folders
+############################################
+
+# the absolute path of the app package
+cd "$PROGDIR"/../../
+AppPackageFolder=`pwd`
+
+# the base path of the app package
+cd ..
+AppPackageRoot=`pwd`
+
+# set Resources folder
+ResourcesFolder="${AppPackageFolder}"/Contents/Resources
+
+# set path to Info.plist in bundle
+InfoPlistFile="${AppPackageFolder}"/Contents/Info.plist
+
+#
+# find installed Java versions
+#################################
+
+# first check system variable "$JAVA_HOME"
+if [ -n "$JAVA_HOME" ] && [ -x "$JAVA_HOME/bin/java" ]; then
+	JAVACMD="$JAVA_HOME/bin/java"
+
+# otherwise check public JRE plugin (Oracle Java JRE)
+elif [ -x "/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java" ] ; then
+	JAVACMD="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java"
+
+# otherwise check "/usr/libexec/java_home" symlinks (Apple or Oracle Java JDK)
+elif [ -x "/usr/libexec/java_home" ] && [ -d "`/usr/libexec/java_home 2> /dev/null`" ] ; then
+	JAVACMD="`/usr/libexec/java_home 2> /dev/null`/bin/java"
+
+# otherwise check Java standard symlink (old Apple Java)
+elif [ -h "/Library/Java/Home" ]; then
+	JAVACMD="/Library/Java/Home/bin/java"
+
+else
+	JAVACMD=""
+fi
+
+echo "JAVACMD=$JAVACMD"
+
+# check Java version
+####################################################
+
+JAVAVERSION="$(exec "$JAVACMD" -version 2>&1 | grep -i version | cut -d'"' -f2 | cut -d'.' -f2)"
+
+#
+# execute JAVA commandline
+####################################################
+
+# check whether $JAVACMD is a file and executable
+if [ -f "$JAVACMD" ] && [ -x "$JAVACMD" ] && [ "$JAVAVERSION" -ge "8" ]; then
+
+	exec "$JAVACMD" \
+		-cp ".:sw.jar:lib.jar" \
+		-Xdock:icon="${ResourcesFolder}/cog.icns" \
+		-Xdock:name="Stencyl" \
+		-Xms64m \
+		-Xmx1536m \
+		-XX:-OmitStackTraceInFastThrow \
+		-XX:CompileCommand=exclude,javax/swing/text/GlyphView,getBreakSpot \
+		-Dapple.laf.useScreenMenuBar=true \
+		-Djava.library.path=./lib \
+		-jar ./sw.jar
+
+else
+
+	# display error message with applescript
+	osascript -e "tell application \"System Events\" to display dialog \"Could not launch Stencyl!\n\nYou need to have Java 8 or newer installed on your Mac.\nVisit http://java.com for more information...\" with title \"Stencyl\" buttons {\" OK \"} default button 1"
+
+	# and open java.com
+	open http://java.com
+
+	# exit with error
+	exit 1
+fi

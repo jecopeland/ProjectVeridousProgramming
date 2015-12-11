@@ -1,0 +1,26 @@
+
+# SCENE PAGE
+scene.new.title=Crear nueva escena
+scene.edit.title=Editar propiedades de la escena
+scene.edit.bg.title=Editar imágenes de fondo
+scene.new.info=Básico
+scene.new.terrain=Tamaño
+scene.new.background=Color del fondo
+scene.new.name=Nombre
+scene.new.type=Tipo de escena
+scene.new.type.normal=Normal
+scene.new.type.iso=Isométrica
+scene.new.type.hex=Hexagonal
+scene.new.tiles=baldosas
+scene.new.pixels=píxeles
+scene.new.width=Anchura
+scene.new.height=Altura
+scene.new.tilex=Anchura de baldosa
+scene.new.tiley=Altura de baldosa
+scene.new.background.color=Color
+scene.new.background.edit=Editar imágenes...
+scene.new.color.title=Coger color
+scene.new.background.style.solid=Color sólido
+scene.new.background.style.none=Sin color
+scene.new.background.style.vert=Gradiente vertical
+scene.warning.name=Introduce un nombre único.

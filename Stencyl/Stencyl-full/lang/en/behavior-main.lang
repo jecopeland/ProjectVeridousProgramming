@@ -1,0 +1,136 @@
+
+# MODULES
+sb.mode.vars=Attributes
+sb.mode.favorites=Favorites
+sb.mode.props=Edit Properties
+sb.mode.snippets=Edit Sub-Behaviors
+# MENU
+menu.top.run=Run
+sb.file.new=New Behavior
+sb.file.open=Open Behavior
+sb.file.recent=Open Recent
+sb.file.close=Close
+sb.file.closeall=Close All
+sb.file.save=Save Behavior
+sb.file.saveall=Save All Behaviors
+sb.file.saveas=Save As...
+sb.file.style=Customize Code Editor...
+sb.file.shortcut=Customize Shortcuts...
+sb.file.exit=Quit Behavior Designer
+sb.file.undo=Undo
+sb.file.redo=Redo
+sb.file.cut=Cut
+sb.file.copy=Copy
+sb.file.paste=Paste
+sb.file.delete=Delete
+sb.file.select=Select All
+sb.file.find=Find...
+sb.file.replace=Replace...
+sb.run.check=Check Syntax
+sb.run.refresh=Refresh Attributes
+sb.run.build=Build All
+sb.building=Building...
+sb.builddone=Done. Took <0> milliseconds to build.
+sb.help.javadoc=View API
+sb.help.wiki=Wiki
+sb.help.whatsnew=What's New?
+sb.help.toggle=Stencylpedia
+sb.settings.toggle=Game Settings
+sb.help.call=Need Help
+sb.chat.toggle=Chat
+sb.answers=StencylAnswers
+sb.help.crashcourse=Getting Started
+sb.help.faq=Stencylpedia
+sb.help.faq.mobile=iStencyl Help (on Stencylpedia)
+sb.help.attributes=Learn how to create attributes.
+# TYPE CHOOSER
+actortype.chooser.title=Choose an Actor Type
+actor.type.choose=Choose Actor Type...
+# MESSAGES
+sb.noattributes=This Behavior contains no attributes <br> of type '<0>'.
+sb.preview.fail.open=The '<0>' Behavior contains fields that are either empty or filled with bad data.<br><br>Stencyl will now open up '<0>'
+sb.preview.fail=Stencyl detected syntax errors in the '<0>' Behavior.<br><br>'<0>' will now be opened so that you can resolve these errors.
+# BEHAVIOR PAGE TABS
+snip.tab.categories=Categories
+snip.tab.bycategory=By Category
+snip.tab.byscene=By Scene
+snip.tab.byactor=By Actor
+snip.tab.bycode=By Code
+snip.tab.all=All
+snip.tab.popular=Popular
+snip.tab.recent=Recent
+# DEFAULT CATEGORIES
+snip.cat.none=Other
+snip.cat.ai=AI
+snip.cat.collisions=Collisions
+snip.cat.fx=Eye Candy
+snip.cat.debug=Debug
+snip.cat.motion=Motion
+snip.cat.gui=GUI
+snip.cat.scoring=Scoring
+snip.cat.sound=Sound
+snip.cat.stats=Stats
+snip.cat.drawing=Drawing
+snip.cat.web=Web
+snip.cat.ss=Scene-Specific
+snip.cat.health=Health
+snip.cat.actions=Actions
+snip.cat.cutscenes=Cutscenes
+snip.cat.saving=Saving
+# PAGES
+snip.page.main=Main
+snip.page.previewcode=Preview Code
+snip.page.properties=Properties
+snip.page.attach=Attach to <0>
+# ERRORS
+annotate.error.dupe=The ID (<0>) used for '<1>' already exists. Choose a different one.
+annotate.error.private=Private attributes cannot be exposed: '<0>'. Make this attribute public.
+sb.var.forbidden=This attribute cannot be modified.
+sb.var.none=Attributes allow end-users to configure a Behavior for their needs<br> (e.g. adjusting the height of a jump)<br><br>Click on the + button below to create an attribute
+# ICON
+snip.icon=Icon
+snip.icon.info=Optimal size is 48 x 48 pixels.
+# DESIGN MODE
+sb.design.code.tab=Show Preview Code Page
+sb.design.toggle.palette=Toggle Palette
+sb.design.arrange=Arrange Blocks
+sb.design.toggle.events=Toggle Events Sidebar
+sb.design.code=Code Preview
+sb.design.capture=Take Screenshot
+sb.design.capture2=Take Screenshot and Send to Friend
+sb.design.clean=Cleanup Stray Blocks
+sb.design.reset=Reset Layout
+sb.trash.info=Drag blocks to the trash can to remove them.
+sb.design.events.show=Add Event...
+sb.design.events.next=Next Event
+sb.design.events.prev=Previous Event
+sb.design.show.palette=Show Palette
+sb.design.show.attributes=Show Attributes
+sb.design.show.favorites=Show Favorites
+# EVENTS PANE
+sb.events.add=Add Event
+sb.events.remove=Remove Event
+sb.events.remove.q=Are you sure you want to remove '<0>'?
+sb.events.rename=Rename Event
+sb.events.moveup=Move Event Up
+sb.events.movedown=Move Event Down
+sb.events.inst=Add an event to begin.
+sb.events.copy1=Could not copy event
+sb.events.copy2=Attempted to copy event to clipboard, but an error occured.
+sb.events.paste1=Could not paste event
+sb.events.paste2=Attempted to paste event from clipboard, but the clipboard data wasn't valid.
+sb.events.legend.title=Legend
+sb.events.legend.repeats=Repeats
+sb.events.legend.norepeat=Does Not Repeat
+sb.events.legend.lock=Always/Never Repeats
+sb.events.legend.enabled=Is Enabled
+sb.events.legend.repeats.i=(Default) Lets the Event happen forever, as long as its conditions are met.
+sb.events.legend.norepeat.i=Makes the Event happen only once.
+sb.events.legend.lock.i=You can't change this setting since the event either always repeats or always happens just once.
+sb.events.legend.enabled.i=Unchecking this prevents the Event from happening at all.
+sb.events.legend.ask=Do you want the Legend to show again next time?
+# OTHER
+sb.cc1=Would you like to run through the Design Mode Crash Course?
+sb.cc2=A recommended read for new users!
+sb.cc3=Start the Crash Course
+sb.error.compile=Behavior: <0> at line <1>

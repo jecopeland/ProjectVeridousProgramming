@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="4" desc="" eventsnippetid="14" extheight="544" extwidth="704" extx="-32" exty="-32" format="3.4.0" gravx="-0.0" gravy="0.0" height="480" id="0" name="Maze 1" revision="" savecount="0" tiled="1" tileh="32" tilew="32" type="standard" width="640">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <layer blendMode="normal" color="255,200,0" id="3" locked="false" name="Layer 3" opacity="100" order="3" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Floor" opacity="100" order="2" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,0,255" id="1" locked="false" name="Roof" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="2" locked="false" name="Instructions" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="21" id="0" name="Exit1" pts="4,0.0,0.0,0.0,21.0,17.0,21.0,17.0,0.0" r="64" type="box" w="17" x="519" y="357"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="3" c="true" group="-2" id="39" name="Switch 3" sx="1.0" sy="1.0" x="160" y="96" z="0">
+            <snippets>
+                <s enabled="true" id="7">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="4"/>
+                    <prop id="2" list="0" val="47"/>
+                    <prop id="3" list="0" val="8"/>
+                    <prop id="4" list="0" val="-1"/>
+                    <prop id="5" list="0" val="-1"/>
+                    <prop id="6" list="0" val="-1"/>
+                    <prop id="7" list="0" val="-1"/>
+                    <prop id="8" list="0" val="-1"/>
+                </s>
+                <s enabled="true" id="30"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="6" c="true" group="-2" id="48" name="Stairs 6" sx="1.0" sy="1.0" x="512" y="352" z="0">
+            <snippets>
+                <s enabled="true" id="25"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="7" c="true" group="3" id="63" name="Amari 7" sx="1.0" sy="1.0" x="32" y="32" z="2">
+            <snippets>
+                <s enabled="true" id="22">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="0.0"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="0.0"/>
+                    <prop id="9" list="0" val="0.0"/>
+                </s>
+                <s enabled="true" id="7">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="4"/>
+                    <prop id="2" list="0" val="47"/>
+                    <prop id="3" list="0" val=""/>
+                    <prop id="4" list="0" val="null"/>
+                    <prop id="5" list="0" val="null"/>
+                    <prop id="6" list="0" val="null"/>
+                    <prop id="7" list="0" val="null"/>
+                    <prop id="8" list="0" val="null"/>
+                </s>
+                <s enabled="true" id="10">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="Walk Up"/>
+                    <prop id="2" list="0" val="Walk Down"/>
+                    <prop id="3" list="0" val="Walk Left"/>
+                    <prop id="4" list="0" val="Walk Right"/>
+                    <prop id="5" list="0" val="up"/>
+                    <prop id="6" list="0" val="down"/>
+                    <prop id="7" list="0" val="left"/>
+                    <prop id="8" list="0" val="right"/>
+                    <prop id="9" list="0" val="4"/>
+                    <prop id="10" list="0" val="50"/>
+                    <prop id="11" list="0" val="18"/>
+                    <prop id="12" list="0" val="0"/>
+                    <prop id="13" list="0" val="Idle Up"/>
+                    <prop id="14" list="0" val="Idle Down"/>
+                    <prop id="15" list="0" val="Idle Left"/>
+                    <prop id="16" list="0" val="Idle Right"/>
+                    <prop id="17" list="0" val="true"/>
+                    <prop id="18" list="0" val="false"/>
+                    <prop id="19" list="0" val="false"/>
+                    <prop id="20" list="0" val="false"/>
+                    <prop id="21" list="0" val="false"/>
+                    <prop id="22" list="0" val="0.03"/>
+                    <prop id="23" list="0" val="false"/>
+                    <prop id="24" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="27"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="8" c="false" group="4" id="45" name="Block 8" sx="1.0" sy="1.0" x="480" y="160" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="6">
+            <prop id="1" list="0" val="0"/>
+            <prop id="2" list="0" val="3"/>
+            <prop id="3" list="0" val="false"/>
+            <prop id="4" list="0" val="7"/>
+            <prop id="5" list="0" val="0"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="6,640.0,480.0,0.0,480.0,0.0,32.0,32.0,32.0,32.0,0.0,640.0,0.0" x="0.0" y="0.0"/>
+        <p pts="16,224.0,0.0,224.0,128.0,192.0,128.0,192.0,32.0,32.0,32.0,32.0,96.0,64.0,96.0,64.0,64.0,160.0,64.0,160.0,128.0,128.0,128.0,128.0,96.0,96.0,96.0,96.0,128.0,0.0,128.0,0.0,0.0" x="128.0" y="64.0"/>
+        <p pts="44,0.0,0.0,0.0,416.0,352.0,416.0,352.0,384.0,32.0,384.0,32.0,352.0,384.0,352.0,384.0,416.0,416.0,416.0,416.0,64.0,384.0,64.0,384.0,320.0,64.0,320.0,64.0,288.0,128.0,288.0,128.0,224.0,96.0,224.0,96.0,192.0,224.0,192.0,224.0,224.0,256.0,224.0,256.0,192.0,288.0,192.0,288.0,256.0,192.0,256.0,192.0,224.0,160.0,224.0,160.0,288.0,320.0,288.0,320.0,192.0,352.0,192.0,352.0,32.0,448.0,32.0,448.0,352.0,512.0,352.0,512.0,320.0,480.0,320.0,480.0,32.0,544.0,32.0,544.0,384.0,448.0,384.0,448.0,416.0,576.0,416.0,576.0,0.0" x="32.0" y="32.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

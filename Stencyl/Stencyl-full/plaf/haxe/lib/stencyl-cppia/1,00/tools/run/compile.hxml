@@ -1,0 +1,4 @@
+-main RunMain
+-debug
+-lib lime
+-neko ../../run.n

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="2" id="0">
+        <draw comment="false" x="13" y="6">
+            <group eventID="2" id="-1">
+                <set-font-new comment="false" x="24" y="31">
+                    <font eid="68" id="0"/>
+                </set-font-new>
+                <if comment="false" x="24" y="58">
+                    <group eventID="2" id="-1">
+                        <drawfill-rect comment="false" x="35" y="91">
+                            <int id="0" val="0"/>
+                            <int id="1" val="715"/>
+                            <int id="2" val="0"/>
+                            <int id="3" val="245"/>
+                            <int id="4" val="60"/>
+                        </drawfill-rect>
+                        <set-color comment="false" x="35" y="118">
+                            <color b="102" g="102" id="0" r="102"/>
+                        </set-color>
+                        <drawfill-rect comment="false" x="35" y="145">
+                            <int id="0" val="1"/>
+                            <int id="1" val="715"/>
+                            <int id="2" val="0"/>
+                            <int id="3" val="245"/>
+                            <int id="4" val="60"/>
+                        </drawfill-rect>
+                        <draw-text comment="false" x="35" y="172">
+                            <int id="0" val="Health:"/>
+                            <int id="1" val="840"/>
+                            <int id="2" val="10"/>
+                        </draw-text>
+                        <draw-text comment="false" x="35" y="192">
+                            <get-game-val-1 comment="false" id="0" x="0" y="0"/>
+                            <int id="1" val="840"/>
+                            <int id="2" val="30"/>
+                        </draw-text>
+                        <draw-text comment="false" x="35" y="217">
+                            <int id="0" val="Lives:"/>
+                            <int id="1" val="730"/>
+                            <int id="2" val="10"/>
+                        </draw-text>
+                        <draw-text comment="false" x="35" y="237">
+                            <get-game-val-4 comment="false" id="0" x="0" y="0"/>
+                            <int id="1" val="730"/>
+                            <int id="2" val="30"/>
+                        </draw-text>
+                    </group>
+                    <is-in-region comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="var" id="0" vid="1"/>
+                        <REGION eid="var" id="1" vid="2"/>
+                    </is-in-region>
+                </if>
+                <else comment="false" x="24" y="274">
+                    <group eventID="2" id="-1">
+                        <drawfill-rect comment="false" x="35" y="294">
+                            <int id="0" val="0"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="0"/>
+                            <int id="3" val="215"/>
+                            <int id="4" val="60"/>
+                        </drawfill-rect>
+                        <set-color comment="false" x="35" y="321">
+                            <color b="102" g="102" id="0" r="102"/>
+                        </set-color>
+                        <drawfill-rect comment="false" x="35" y="348">
+                            <int id="0" val="1"/>
+                            <int id="1" val="0"/>
+                            <int id="2" val="0"/>
+                            <int id="3" val="215"/>
+                            <int id="4" val="60"/>
+                        </drawfill-rect>
+                        <draw-text comment="false" x="35" y="375">
+                            <int id="0" val="Health:"/>
+                            <int id="1" val="10"/>
+                            <int id="2" val="10"/>
+                        </draw-text>
+                        <draw-text comment="false" x="35" y="395">
+                            <get-game-val-1 comment="false" id="0" x="0" y="0"/>
+                            <int id="1" val="10"/>
+                            <int id="2" val="30"/>
+                        </draw-text>
+                        <draw-text comment="false" x="35" y="420">
+                            <int id="0" val="Lives:"/>
+                            <int id="1" val="130"/>
+                            <int id="2" val="10"/>
+                        </draw-text>
+                        <draw-text comment="false" x="35" y="440">
+                            <get-game-val-4 comment="false" id="0" x="0" y="0"/>
+                            <int id="1" val="130"/>
+                            <int id="2" val="30"/>
+                        </draw-text>
+                    </group>
+                </else>
+            </group>
+        </draw>
+    </group>
+    <group eventID="2" id="-1"/>
+</groups>

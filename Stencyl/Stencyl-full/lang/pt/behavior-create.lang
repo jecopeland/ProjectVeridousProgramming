@@ -1,0 +1,27 @@
+
+# MODES
+sb.mode.code=Modo de Código
+sb.mode.design=Modo de Design
+sb.mode.coded=<b>Modo de Código</b><br>Escreva código simples para criar Comportamentos.
+sb.mode.designd=<b>Modo de Design</b><br>Encaixe blocos em conjunto para criar comportamentos para os seus atores e cenas.
+sb.mode.arbitrary=<b>Modo Livre</b><br>Escreve código arbitrário para o seu jogo. Não pode ser anexado a atores ou cenas.
+sb.new.title=Criar Novo Comportamento
+sb.edit.title=Editar as Propriedades do Comportamento
+sb.new.mode=Modo
+sb.new.props=Básicos
+sb.new.name=Nome
+sb.new.class=Nome da Classe
+sb.new.category=Categoria
+sb.new.type=Tipo
+sb.new.type.help=Tipo de Comportamento
+sb.new.type.actor=<b>Comportamento para Atores</b><br>Só se aplica a Atores.
+sb.new.type.scene=<b>Comportamento para Cenas</b><br>Só se aplica a Cenas.
+sb.new.description=Descrição
+sb.new.draw=Ordem de Desenho
+sb.new.update=Ordem de Atualização
+sb.error.integer=Por favor, introduza um número inteiro válido.
+sb.error.number=Por favor, introduza um número.
+sb.error.text=Por favor, introduza algum texto.
+sb.error.name=Por favor, introduza um nome único.
+sb.error.class=Por favor, introduza um nome de classe de Java válido. (Caracteres alfanuméricos, sem espaços)
+sb.error.category=Por favor, introduza uma categoria.

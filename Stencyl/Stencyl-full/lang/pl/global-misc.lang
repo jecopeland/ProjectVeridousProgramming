@@ -1,0 +1,25 @@
+
+# MULTI INSTANCE
+multi.main=Uwaga: StencylWorks jest już otwarte. Czy chcesz kontynuować?
+multi.sub=Zaleca się pracę przy jednym oknie StencylWorks.
+# LEGAL
+cp=© Copyright 2008-2009 Stencyl, LLC. Wszelkie prawa zastrzeżone. Stencyl, logo Stencyla oraz tryb Stencyl są znakami handlowymi Stencyl, LLC w Stanach Zjednoczonych i/lub innych krajach. Użycie StencylWorks podlega licencji EULA.
+# MISC
+progress=Postęp
+statusbar=Pasek stanu
+welcome.newgame=Utwórz nową grę
+welcome.opengame=Otwórz grę
+welcome.tabtitle=Witaj
+welcome.title1=Co chcesz zrobić?
+welcome.tour=Odkryj możliwości
+# LOADING
+load.loading=Ładowanie
+load.lnf=Podgląd
+load.ui=Interfejs
+load.plug=Wtyczki
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=N
+s=s
+kg.m2=kg m<0>

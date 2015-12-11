@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Space Invaders CC2" package="com.yourcompany.gamename" version="1.0" company="Stencyl" />
+	<app main="Universal" file="Space Invaders CC2" path="Export" preloader="scripts.StencylPreloader"/>
+	
+	<set name="SWF_VERSION" value="11" />
+	
+	<window width="640" height="480" orientation="portrait" resizable="false" fps="65" vsync="true" background="0x000000"/>
+	<source path="Source" />
+
+	<haxeflag name="--remap" value="nme:openfl" />
+	
+	
+	<set name="openfl-legacy" />
+	<haxelib name="openfl" />
+	<haxelib name="actuate" />
+	<haxelib name="console" />
+	<haxelib name="polygonal-ds" />
+	
+	<haxelib name="box2d" />
+<haxelib name="stencyl" />
+
+	<assets path="Assets/graphics" rename="assets/graphics" include="*" exclude="icon.svg" />
+	<assets path="Assets/music" rename="assets/music" type="music" include="*.mp3"/>
+	<assets path="Assets/sfx" rename="assets/sfx" type="sound" include="*.mp3"/>
+	<assets path="Assets/data" rename="assets/data" include="*" />
+	
+	<icon path="Icon.png" size="57" />
+	<icon path="Icon@2x.png" size="114" />
+	<icon path="Icon-72.png" size="72" />
+	<icon path="Icon-72@2x.png" size="144" />
+	<icon path="Icon-48.png" size="48" />
+	<icon path="Icon-76.png" size="76" />
+	<icon path="Icon-96.png" size="96" />
+	<icon path="Icon-120.png" size="120" />
+	<icon path="Icon-128.png" size="128" />
+	<icon path="Icon-152.png" size="152" />
+	<icon path="Icon-256.png" size="256" />
+	<icon path="Icon-512.png" size="512" />
+	<icon path="Icon-1024.png" size="1024" />
+	<icon path="Icon-16.png" size="16" />
+	<icon path="Icon-24.png" size="24" />
+	<icon path="Icon-32.png" size="32" />
+	
+	<launchImage path="Default.png" width="320" height="480" />
+	<launchImage path="Default@2x.png" width="640" height="960" />
+	<launchImage path="Default-Portrait~ipad.png" width="768" height="1024" />
+	<launchImage path="Default-Landscape~ipad.png" width="1024" height="768" />
+	<launchImage path="Default-Portrait@2x~ipad.png" width="1536" height="2048" />
+	<launchImage path="Default-Landscape@2x~ipad.png" width="2048" height="1536" />
+	<launchImage path="Default-568h@2x.png" width="640" height="1136" />
+	<launchImage path="Default-667h@2x.png" width="750" height="1334" />
+	<launchImage path="Default-736h@3x.png" width="1242" height="2208" />
+	
+	<!-- EXTENSIONS -->
+	<section if="mobile">
+	
+		<include path="/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/extensions/ads" />
+		<include path="/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/extensions/gamecenter" />
+		<include path="/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/extensions/joystick" />
+		<include path="/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/extensions/native" />
+		<include path="/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/extensions/purchases" />
+		
+	</section>	
+	
+	<include path="/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/extensions/gestures"/>
+	
+	
+	
+	
+	
+	<section if="flash">
+	
+		<haxeflag name="-D network-sandbox" />
+		<haxeflag name="-D as3_native" />
+		<haxeflag name="-D swf-directblit" />
+		<!--<haxeflag name="-D advanced-telemetry" />-->
+		<haxeflag name="-swf-lib" value="newgrounds.swf" />
+		<haxeflag name="-swf-lib" value="cpmstar.swf" />
+		
+	</section>
+	
+	<haxeflag name="-resource" value="Assets/graphics/preloader-bg.png@preloader-bg"/><haxeflag name="-resource" value="Assets/graphics/preloader-badge.png@preloader-badge"/>
+	
+	
+	
+	
+	<setenv name="GOOGLE_APP_ID" value="0" if="mobile"/>
+	
+	<section if="android">
+	  <include path="/Users/pome012/Desktop/Stencyl-full (1)/plaf/haxe/extensions/google" />
+    
+		<android permission="android.permission.WAKE_LOCK" />
+		<android permission="android.permission.INTERNET" />
+		<android permission="android.permission.VIBRATE" />
+		<android permission="android.permission.ACCESS_NETWORK_STATE" />
+		
+		
+		
+		
+		
+		<android minimum-sdk-version="9" />
+		<android target-sdk-version="16" />
+		
+		<setenv name="ANDROID_SETUP" value="true" />
+		<setenv name="ANDROID_INSTALL_LOCATION" value="auto" />
+		<setenv name="ANDROID_SDK" value="/Users/pome012/stencylworks/android-sdk/android-sdk-macosx/" />
+		<setenv name="ANDROID_NDK_ROOT" value="/Users/pome012/stencylworks/android-sdk/android-ndk-r7b/" />
+		<setenv name="ANT_HOME" value="/Users/pome012/stencylworks/android-sdk/apache-ant/" />
+		
+		<meta build-number="1" />
+		 
+	</section>
+	
+	<section if="ios">
+	
+		<ios deployment="4.3" binaries="armv7" devices="universal" />
+	
+		<setenv name="APP_BUILD_NUMBER" value="1.0" />
+		<setenv name="APP_TITLE" value="Space Invaders CC2" />
+		<setenv name="HXCPP_CLANG" value="true" />
+		
+		<meta build-number="1" />
+		
+	</section>
+	
+	<section if="mac">
+	
+		<setenv name="APP_TITLE" value="Space Invaders CC2" if="mac" />
+		<meta build-number="1" />
+	
+	</section>
+	
+	<setenv name="PRERENDERED_ICON" value="true" />
+	<setenv name="IPHONE_STDOUT" value="/private/var/folders/8s/mnd4n2894bdbrmz8ctlzw1dj36knmk/T/stencyl162680725052869074/scratch/ios-sim.log" />
+	
+	<section if="cppia">
+		
+		<target name="cppia" handler="stencyl-cppia" />
+		<haxelib name="stencyl-cppia" />
+		
+	</section>
+	
+	
+</project>

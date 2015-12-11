@@ -1,0 +1,9 @@
+-main Tools
+-neko ../run.n
+--macro lime.system.System.includeTools()
+-lib lime
+-lib openfl
+-lib swf
+-lib format
+-D lime-legacy
+--remap flash:openfl

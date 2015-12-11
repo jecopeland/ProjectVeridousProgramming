@@ -1,0 +1,25 @@
+
+# MULTI INSTANCE
+multi.main=Waarschuwing: StencylWorks is reeds geopend of was onverwacht gesloten. Wilt u doorgaan?
+multi.sub=StencylWorks verschillende keren openen is sterk afgeraden.
+# LEGAL
+cp=© Copyright 2008-2009 Stencyl, LLC. Alle Rechten Voorbehouden. Stencyl, het Stencyl logo en het Stencyl wiel zijn handelsmerken van Stencyl, LLC in de Verenigde Staten en/of andere landen. Gebruik van StencylWork is toegelaten zoals verklaard in onze End User License Agreement (EULA).
+# MISC
+progress=Voortgang
+statusbar=Statusbalk
+welcome.newgame=Maak een Nieuw Spel
+welcome.opengame=Open een Spel
+welcome.tabtitle=Welkom bij StencylWorks
+welcome.title1=Wat wil je doen?
+welcome.tour=Rondleiding
+# LOADING
+load.loading=Bezig met laden
+load.lnf=Thema
+load.ui=Gebruikersinterface
+load.plug=Plugins
+# PHYSICS UNITS (Leave these as is)
+kg=kg
+m=m
+n=n
+s=s
+kg.m2=kg m<0>

@@ -1,0 +1,9 @@
+
+# SOUND CREATOR
+sounds=Sons
+sound.choose=Escolher Arquivo...
+sound.rename=Renomear
+sound.mix=Editar Som
+sound.rename.title=Renomear Som
+sound.props.name=Nome
+sound.error.name=Favor entrar com um nome.

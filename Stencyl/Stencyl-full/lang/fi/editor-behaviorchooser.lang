@@ -1,0 +1,11 @@
+
+actor.snippet.add=Uusi höyste
+actor.snippet.delete=Poista
+actor.snippet.edit=Muokkaa
+actor.snippets=Höysteet
+actor.snippet.filter=Suodata höysteet.
+# Snippet List
+actor.snippet.instance.instructions=Höysteet
+actor.snippet.instance.add=Lisää höyste
+actor.snippet.instance.open=Muokkaa höystettä
+actor.snippet.instance.delete=Poista höyste

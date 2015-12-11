@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="-1" id="-1">
+                <create-actor3 comment="false" x="26" y="40">
+                    <ACTORTYPE eid="37" id="0"/>
+                    <int id="1" val="0"/>
+                    <int id="2" val="0"/>
+                    <int id="3" val="0"/>
+                </create-actor3>
+                <set-val-4-1 comment="false" x="26" y="67">
+                    <ACTOR eid="lastcreated" id="0"/>
+                </set-val-4-1>
+                <comment-short comment="false" x="26" y="94">
+                    <int id="0" val="We send the actor back one layer so the blackness doesn&amp;#039;t cover up the instructions."/>
+                </comment-short>
+                <backforward comment="false" x="26" y="114">
+                    <ACTOR eid="var" id="0" vid="1"/>
+                    <int id="1" val="0"/>
+                </backforward>
+            </group>
+        </init>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="-1" id="-1">
+                <set-xy comment="false" x="26" y="40">
+                    <ACTOR eid="var" id="0" vid="1"/>
+                    <int id="1" val="0"/>
+                    <plus comment="false" id="2" x="0" y="0">
+                        <minus comment="false" id="0" x="0" y="0">
+                            <get-xy comment="false" id="0" x="0" y="0">
+                                <ACTOR eid="this" id="0"/>
+                                <int id="1" val="2"/>
+                            </get-xy>
+                            <get-wh comment="false" id="1" x="0" y="0">
+                                <ACTOR eid="var" id="0" vid="1"/>
+                                <int id="1" val="2"/>
+                            </get-wh>
+                        </minus>
+                        <int id="1" val="15"/>
+                    </plus>
+                </set-xy>
+                <set-xy comment="false" x="26" y="90">
+                    <ACTOR eid="var" id="0" vid="1"/>
+                    <int id="1" val="1"/>
+                    <plus comment="false" id="2" x="0" y="0">
+                        <minus comment="false" id="0" x="0" y="0">
+                            <get-xy comment="false" id="0" x="0" y="0">
+                                <ACTOR eid="this" id="0"/>
+                                <int id="1" val="3"/>
+                            </get-xy>
+                            <get-wh comment="false" id="1" x="0" y="0">
+                                <ACTOR eid="var" id="0" vid="1"/>
+                                <int id="1" val="3"/>
+                            </get-wh>
+                        </minus>
+                        <int id="1" val="30"/>
+                    </plus>
+                </set-xy>
+                <comment-short comment="false" x="26" y="140">
+                    <int id="0" val="The x and y are offset a little bit because the picture used for the light isn&amp;#039;t completely centered."/>
+                </comment-short>
+            </group>
+        </step>
+    </group>
+    <group eventID="2" id="-1"/>
+</groups>

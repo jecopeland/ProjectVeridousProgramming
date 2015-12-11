@@ -1,0 +1,51 @@
+
+# Tileset Creator
+tset.top.tileset=Tasselli
+tset.top.properties=Proprietà
+tset.title=Creatore tasselli
+tset.stile=il tassello selezionato
+tset.stiles=i tasselli selezionati
+tset.properties=Rinomina tassello
+tset.details1=Contiene <0> tasselli
+tset.details2=Dimensione tassello: <0> x <1>
+tset.details3=Dimensione tassello: <0> x <1>
+tset.details4=ID tassello: <0>
+tset.details5=ID set tasselli: <0>
+tset.tile.create=Importa tasselli da foglio
+tset.tile.resize=Modifica dimensione tassello
+tset.tile.resize.w=Larghezza tassello
+tset.tile.resize.h=Altezza tassello
+tset.menu.import=Importa tassello esistente
+tset.tile.add.title=Importa tasselli da foglio
+tset.col.add.before=Inserisci una colonna prima
+tset.col.add.after=Inserisci una colonna dopo
+tset.col.delete=Cancella colonna
+tset.col.duplicate=Duplica colonna
+tset.row.add.before=Inserisci riga prima
+tset.row.add.after=Inserisci riga dopo
+tset.row.delete=Cancella riga
+tset.row.duplicate=Duplica riga
+tset.blank=Seleziona un tassello per editare.
+tset.inst2=Utilizza i campi sulla sinistra per ritagliare sopra il foglio dei tasselli.
+# Tile Editor
+tset.anim.collision=Perimetro di collisione
+tset.anim.title2=Quadri
+tset.menu.addframe=Aggiungi quadro
+tset.menu.editframe=Modifica quadro
+tset.menu.removeframe=Rimuovi quadro
+tset.anim.add.import=Importa quadro
+# Shape Editor
+tset.shapes.add.box=Crea box...
+tset.shapes.add.poly=Crea poligono...
+tset.shapes.add=Aggiungi forma
+tset.shapes.remove=Rimuovi forma
+tset.shapes.edit=Modifica forma
+tset.shapes.add.title=Crea un box...
+tset.shapes.edit.title=Modifica un box...
+tset.poly.add.title=Crea un poligono...
+tset.poly.edit.title=Modifica un poligono...
+tset.shapes.x=Posizione X 
+tset.shapes.y=Posizione Y
+tset.poly.add=Aggiungi punto
+tset.poly.remove=Rimuovi punto
+tset.poly.inst=Definisce punti ordinati <b>in senso antiorario</b>.

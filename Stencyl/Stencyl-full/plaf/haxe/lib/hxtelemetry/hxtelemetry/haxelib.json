@@ -1,0 +1,11 @@
+{
+	"name": "hxtelemetry",
+	"url": "http://github.com/jcward/hxtelemetry",
+	"license": "MIT",
+	"tags": ["cpp"],
+	"description": "Haxe telemetry library for sending profiling data to HxScout",
+	"version": "0.3.1",
+	"releasenote": "Compatible with HxScout 0.3.0 beta, and hxcpp in git, added missing amf libs.",
+	"contributors": [ "jeff.ward" ],
+	"dependencies": {}
+}

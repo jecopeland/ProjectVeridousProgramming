@@ -1,0 +1,58 @@
+
+# PREFERENCES
+prefs.title=Preferences
+prefs.title.lang=Languages
+prefs.title.work=Workspace
+prefs.title.editors=Editors
+prefs.title.network=Network
+# LANG
+prefs.lang.choose=Choose your Language (Requires Restart)
+prefs.lang.debug.title=Language Debug Mode (Requires Restart)
+prefs.lang.debug.normal=Normal
+prefs.lang.debug.debug=Debug
+prefs.lang.debug.info=Debug mode displays the 'keys' for all localized phrases. Useful for translators who want to know where a phrase is used.
+prefs.lang.update=Update Language Packs
+prefs.lang.update.info=Disclaimer: Not all translations are complete. Visit http://www.stencyl.com/translate/ for details.
+prefs.lang.update.progress=Language Pack for <0>
+prefs.lang.update.progress2=Downloading Languages...
+prefs.lang.update.progress3=Installing Languages...
+prefs.lang.update.success=Restart Stencyl to see the updated language packs.
+prefs.work.folder.copy=Changing Workspace Folder
+prefs.work.folder.copy.i=Do you want to copy your games, kits, logs, and extensions to the new workspace folder?
+# ERRORS
+work.error.loc.games=The selected workspace location is inside your games folder.
+work.error.loc.prefs=The selected workspace location is inside your prefs folder.
+work.error.loc.logs=The selected workspace location is inside your logs folder.
+work.error.loc.exts=The selected workspace location is inside your extensions folder.
+work.error.loc.engineexts=The selected workspace location is inside your engine extensions folder.
+# PROXY
+prefs.proxy.title=Proxy Settings (Requires Restart)
+prefs.proxy.server=Server
+prefs.proxy.port=Port
+# GENERAL
+prefs.gen.where.title=Where would you like to Preview Games?
+prefs.gen.where.browser=Web Browser
+prefs.gen.where.player=Standalone Player (Default)
+prefs.gen.tab.title=Tab Settings (Requires Restart)
+prefs.gen.tab.var=Variable Width (Default)
+prefs.gen.tab.fix=Fixed Width
+prefs.gen.tab.uncolored=Uncolored (Default)
+prefs.gen.tab.colored=Colored
+prefs.gen.workspace.title=Workspace Folder
+prefs.gen.workspace.msg=Cannot be changed while a game is open.
+prefs.gen.asset.title=Importing Graphics
+prefs.gen.asset.scale=Scale
+prefs.gen.asset.resize=Resize Method
+prefs.gen.asset.resize1=No Smoothing
+prefs.gen.asset.resize2=Bilinear
+prefs.gen.asset.resize3=Bicubic
+prefs.gen.workspace.view=View Workspace
+prefs.gen.workspace.dg1=The selected workspace folder is unwritable.
+prefs.gen.workspace.dg2=The Workspace Folder you are trying to set is unwritable. Select a different folder.
+# EDITORS
+prefs.tools.image=Image Editor
+prefs.tools.sound=Sound Editor
+prefs.tools.code=Code Editor
+prefs.tools.sound.info=We recommend Audacity.
+prefs.tools.pencyl=Pencyl (Built-In Editor)
+prefs.tools.builtin=Built-In Editor

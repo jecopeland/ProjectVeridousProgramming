@@ -1,0 +1,68 @@
+
+# Tileset Creator
+tset.chooser.title=Elegir un set de baldosas...
+tset.top.tileset=Set de baldosas
+tset.top.properties=Propiedades
+tset.title=Creador de sets de baldosas
+tset.title.edit=Editar set de baldosas
+tset.tiles=Baldosas
+tset.stile=la baldosa seleccionada
+tset.stiles=las baldosas seleccionadas
+tset.properties=Renombrar set de baldosas
+tset.details1=Contiene <0> baldosas
+tset.details2=Tamaño de set de baldosas: <0> x <1>
+tset.details3=Tamaño de baldosa: <0> x <1>
+tset.details4=ID de baldosa: <0>
+tset.details5=ID de set de baldosas: <0>
+tset.tile.create=Importar baldosas desde hoja
+tset.tile.resize=Cambiar tamaño de baldosa
+tset.tile.resize.w=Anchura de baldosa
+tset.tile.resize.h=Altura de baldosa
+tset.menu.import=Importar baldosa existente
+tset.tile.add.title=Importar baldosas desde hoja
+tset.col.add.before=Insertar columna antes
+tset.col.add.after=Insertar columna después
+tset.col.delete=Eliminar columna
+tset.col.duplicate=Duplicar columna
+tset.row.add.before=Insertar fila antes
+tset.row.add.after=Insertar fila después
+tset.row.delete=Eliminar fila
+tset.row.duplicate=Duplicar fila
+tset.blank=Selecciona una baldosa para editarla.
+tset.multi=Selecciona una sola baldosa para editarla.
+tset.inst2=Usa los campos de la izquierda para partir la hoja de baldosas.
+# Tile Editor
+tset.anim.collision=Límites de colisión
+tset.anim.collision.edit=Elegir...
+tset.anim.looping=¿Bucle?
+tset.anim.rect=Rectángulo
+tset.anim.poly=Polígono
+tset.anim.title1=Propiedades de la baldosa
+tset.anim.title2=Fotogramas
+tset.menu.addframe=Añadir fotograma
+tset.menu.editframe=Editar fotograma
+tset.menu.removeframe=Borrar fotograma
+tset.anim.add.import=Importar fotogramas
+# Tileset Properties
+tset.props.title=Renombrar set de baldosas
+tset.props.name=Nombre
+# Warnings
+tset.warning.name=Introduce un nombre único.
+tset.warning.duration=Introduce un entero positivo.
+tset.warning.notiles=Este set no contiene baldosas.
+tset.warning.blank=Ésta es una baldosa en blanco. No la puedes editar.
+# Shape Editor
+tset.shapes.add.box=Crear caja...
+tset.shapes.add.poly=Crear polígono...
+tset.shapes.add=Añadir forma
+tset.shapes.remove=Eliminar forma
+tset.shapes.edit=Editar forma
+tset.shapes.add.title=Crear una caja...
+tset.shapes.edit.title=Editar una caja...
+tset.poly.add.title=Crear un polígono...
+tset.poly.edit.title=Editar un polígono...
+tset.shapes.x=Posición X
+tset.shapes.y=Posición Y
+tset.poly.add=Añadir punto
+tset.poly.remove=Borrar punto
+tset.poly.inst=Define puntos <b>en sentido contrario a las agujas del reloj</b>.

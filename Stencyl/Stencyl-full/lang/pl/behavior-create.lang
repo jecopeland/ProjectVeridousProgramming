@@ -1,0 +1,23 @@
+
+# MODES
+sb.mode.code=Kod
+sb.mode.design=Design
+sb.mode.coded=<b>Tryb kodowania</b><br>Twórz snippety za pomocą uproszczonego języka Java.
+sb.mode.designd=<b>Tryb klikania</b><br>Łącz ze sobą fragmenty kodu, tworząc zachowania dla postaci i scen.
+sb.new.title=Utwórz nowy snippet
+sb.edit.title=Właściwości snippetu
+sb.new.mode=Tryb
+sb.new.props=Podstawy
+sb.new.name=Nazwa
+sb.new.class=Klasa
+sb.new.category=Kategoria
+sb.new.type=Typ
+sb.new.type.help=Typ decyduje o tym, czy snippet kontroluje zachowanie postaci, czy sceny.
+sb.new.type.actor=Postać
+sb.new.type.scene=Scena
+sb.new.description=Opis
+sb.new.draw=Wyświetl kolejność
+sb.new.update=Aktualizuj kolejność
+sb.error.name=Każdy snippet musi mieć inną nazwę.
+sb.error.class=Wpisz poprawną nazwę klasy (litery i cyfry, brak odstępów)
+sb.error.category=Wprowadź kategorię.

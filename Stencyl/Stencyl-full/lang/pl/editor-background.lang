@@ -1,0 +1,22 @@
+
+# BACKGROUND CREATOR
+bg.title.edit=Edytuj tło
+bg.title.new=Nowe tło
+bg.rename=Zmień nazwę
+bg.resize=Zmień rozmiar
+bg.scroll=Zmień prędkość przewijania
+bg.preview=Podgląd
+bg.rename.title=Zmień nazwę tła
+bg.scroll.title=Prędkość przewijania
+bg.resize.title=Zmień rozmiar tła
+bg.resize.inst=Zignoruj standardowy rozmiar tła. Z reguły tła mają rozmiar pierwszej klatki obrazu.
+bg.scroll.inst=Standardowo tła nie poruszają się - ustawienie prędkości przewijania powoduje ich automatyczne przesuwanie w danym kierunku.
+bg.preview.title=Podgląd tła
+bg.props.name=Nazwa
+bg.props.xscroll=Poziomo
+bg.props.yscroll=Pionowo
+bg.props.width=Szerokość
+bg.props.height=Wysokość
+bg.error.name=Wprowadź nazwę.
+bg.error.number=Wprowadź liczbę dodatnią.
+bg.error.size=Wprowadź liczbę naturalną.

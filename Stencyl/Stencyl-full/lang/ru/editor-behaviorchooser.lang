@@ -1,0 +1,29 @@
+
+# Behavior Library
+actor.snippet.fields=Атрибуты
+actor.snippet.fields.none=Это поведение не нуждается в настройке.
+actor.snippet.fields.none.short=Конфигурировать нечего!
+actor.snippet.order=Порядок
+actor.snippet.add=Создать новое поведение
+actor.snippet.delete=Удалить
+actor.snippet.edit=Именить
+actor.snippets=Выбрать поведение
+# Snippet List
+actor.snippet.instance.add=Добавить поведение
+actor.snippet.instance.open=Именить поведение
+actor.snippet.instance.delete=Удалить поведение
+actor.snippet.instance.enable=Включить поведение
+actor.snippet.instance.disable=Выключить поведение 
+actor.snippet.instance.reset=Сбросить все значения
+actor.snippet.instance.toggle.e=Включить/выключить настройки
+actor.snippet.instance.toggle.d=Выключить настройки
+actor.snippet.instance.disabled=Нажмите здесь, чтобы настроить это поведение.
+# Behavior Page
+list.add=Добавить в список
+list.remove=Убрать из списка
+list.edit=Изменить
+list.up=Поднять вверх
+list.down=Опустить вниз
+list.import=Добавить из текстового файла...
+behavior.choose.normal=Выбрать из этой игры
+behavior.choose.online=Найти онлайн

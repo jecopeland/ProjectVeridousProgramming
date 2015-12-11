@@ -1,0 +1,30 @@
+
+# Tileset Creator
+tset.title=Kreator tilesetów
+tset.title.edit=Edytuj tileset
+tset.tiles=Elementy
+tset.properties=Zmień nazwę tilesetu
+tset.tile.create=Dodaj
+tset.menu.import=Importuj istniejący element
+tset.tile.add.title=Stwórz nowe elementy
+# Tile Editor
+tset.anim.collision=Granice kolizji
+tset.anim.collision.edit=Wybierz...
+tset.anim.looping=Zapętlone?
+tset.anim.rect=Prostokąt
+tset.anim.poly=Wielokąt
+tset.anim.title1=Właściwości elementu
+tset.anim.title2=Klatki (przeciągnij i upuść aby przestawić)
+tset.menu.addframe=Dodaj klatkę
+tset.menu.editframe=Edytuj klatkę
+tset.menu.removeframe=Usuń klatkę
+tset.anim.add.import=Dodaj kilka klatek
+# Tileset Properties
+tset.props.title=Edytuj właściwości tilesetu
+tset.props.name=Nazwa
+# Warnings
+tset.warning.name=Wpisz unikalną nazwę.
+tset.warning.duration=Wartość musi być dodatnia.
+tset.warning.notiles=Tileset nie zawiera elementów.
+tset.warning.blank=Ten element jest pusty. Nie możesz go edytować.
+# Shape Editor

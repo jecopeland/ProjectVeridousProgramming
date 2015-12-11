@@ -1,0 +1,7 @@
+
+# PUBLISHER
+publish.finish.title=Success
+publish.finish.msg=Je Spel was successful gepubliceerd.<br><br>Klik OK om het in je web browser te bekijken.<br><br>
+publish.save=Wil je je spel opslaan voor het publiceren?
+publish.fail=StencylWorks kon je spel niet publiceren. Gelieve opnieuw te proberen.<br><br> Check je internetverbinding indien dit probleem blijft voorkomen.<br><br>
+publish.nobrowser=StencylWorks kon geen beschikbare web browser vinden.

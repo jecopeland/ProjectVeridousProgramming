@@ -1,0 +1,1 @@
+Create animations consisting of several successively playing animations.

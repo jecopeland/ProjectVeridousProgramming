@@ -1,0 +1,65 @@
+
+# STENCYLTALK
+# DO NOT TRANSLATE STENCYLTALK
+chat.name=Говорилка Stencylа
+chat.list.title=Мои друзья
+chat.list.pop= Открыть в новом окне
+chat.list.return=Вернуться в главное окно
+chat.list.add=Добавить друга
+chat.list.add.input=Введите имя вашего друга:
+chat.list.add.error.title=Данный пользователь не существует.
+chat.list.add.error.desc=Проверьте, правильно ли вы ввели имя.
+chat.list.remove=Удалить друга
+chat.list.remove.error=Не удалось удалить пользователя из списка контактов.
+chat.list.rooms=Комнаты
+chat.list.online=В сети
+chat.list.offline=Не в сети
+chat.list.online2=В сети (<0>)
+chat.list.offline2=Не в сети (<0>)
+chat.list.central=Центральная площадь
+chat.status.set=Изменить статус
+chat.status.available=Доступен
+chat.status.away=Отошёл
+chat.status.busy=Занят
+chat.status.offline=Не в сети
+chat.status.setmessage=Установить свой статус
+chat.status.setmessage.input=Введите ваш статус:
+chat.connecting=Подключение...
+chat.reconnecting=Повторное подключение...
+chat.action.setstatus=Установить статус: <0>
+chat.action.link=Вставить ссылку
+chat.action.transfer=Отправить файл
+chat.action.transfer.input=Выберите друга, чтобы отправить ему файл.
+# STENCYLTALK - TRANSFER
+chat.transfer.image.send=Передача изображения...
+chat.transfer.project.send=Передача игрового проекта...
+chat.transfer.resource.send=Передача ресурса...
+chat.transfer.game.send=Передача игры...
+game.chooser.title=Выберите игру...
+# STENCYLTALK - OUTGOING
+chat.transfer.game.swf=SWF
+chat.transfer.game.current=Текущая игра
+chat.transfer.game.project=Игра (Проект)
+chat.transfer.game.title=Я бы хотел отправить <0>...
+chat.transfer.game.generateswf=Создать SWF...
+chat.transfer.game.chooseswf=Выбрать SWF...
+chat.transfer.game.chooseswf.filter=SWF (Flash игры)
+chat.transfer.game.error.title=Не удаётся передать игру.
+chat.transfer.image.error.title=Не удаётся передать изображение.
+chat.transfer.game.error.desc=Проверьте ваше соединение с интернетом, убедитесь что ваше послание принимаю  и попробуйте повторить передачу.
+# STENCYLTALK - INCOMING
+chat.transfer.incoming.error.title=Передача файлов была отменена.
+chat.transfer.incoming.error.desc=Проверьте ваше соединение с интернетом и сверьтесь с отправителем.
+chat.transfer.incoming.receive=Закачивание <0>...
+chat.transfer.incoming.request=<0> хочет отправить вам файл.
+chat.transfer.incoming.request.full=<0> хочет отправить вам <1> (<2>)
+chat.transfer.incoming.request.desc=Принимайте файлы только от друзей которым вы доверяете.
+chat.transfer.incoming.accept=Принять файл
+chat.transfer.incoming.reject=Отклонить файл
+chat.transfer.incoming.done=<0> закончил отправку вам файла.
+chat.transfer.incoming.error.generic=Невозможно загрузить <0>.
+chat.transfer.incoming.error.generic.desc=Попросите отправителя проверить, что отправленный <0> не испорчен.
+chat.transfer.incoming.success.game=Игра может быть просмотрена через страницу StencylВоркса «Добро пожаловать» / «Welcome Center».
+chat.transfer.incoming.success.game.desc=Если Вы сейчас работаете над игрой, Вы должны закрыть ее и перезагрузить Stencyl, чтобы увидеть это.
+chat.transfer.incoming.error.game.msg=Передача файлов была прервана, поскольку получатель не открыл игру.
+chat.transfer.incoming.error.game.reason=У вас должна открыта игра, чтобы принять игровой ресурс.

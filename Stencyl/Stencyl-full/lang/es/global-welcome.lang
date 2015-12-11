@@ -1,0 +1,19 @@
+
+# WELCOME SCREEN
+welcome.cc.title=Haz nuestro curso intensivo (30 minutos)
+welcome.cc.desc=Aprende la forma de Stencyl de crear juegos y adáptate a las herramientas.
+welcome.game.title=Crea tu primer juego (1 hora)
+welcome.game.desc=Crea tu primer juego. ¡Recomendamos encarecidamente pasar primero por el curso intensivo!
+welcome.forum.title=Conoce a la comunidad de beta testers
+welcome.forum.desc=Visita el foro de los beta testers, donde puedes hacer preguntas y socializar con otros testers.
+# SIGN IN
+signin.title=Inicio de sesión
+signin.yes=Iniciar sesión
+signin.no=Recordarme más tarde
+signin.error=Las credenciales introducidas no son válidas. Inténtalo de nuevo. Si el problema persiste, contáctanos.
+signin.info=Para disfrutar de la experiencia de StencylWorks al completo, inicia sesión con tu nombre y contraseña. Sólo hace falta hacer esto una vez.
+signin.info2=Si olvidaste tu contraseña, pulsa aquí.
+signin.register=Registrarse
+signin.name=Nombre
+signin.key=Contraseña
+signin.as=Conectado como: <0>

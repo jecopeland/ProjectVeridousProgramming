@@ -1,0 +1,28 @@
+
+# ATTRIBUTES PANE
+sb.var.single=attribut
+sb.var.add=Créer un Attribut...
+sb.var.addlist=Créer une Liste d'Attribut...
+sb.var.remove=Supprimer Attribut
+sb.var.default=Éditer Attribut
+sb.var.viewcontrols=Afficher la Page des Contrôles
+sb.var.up=Déplace vers le Haut
+sb.var.down=Déplace vers le Bas
+sb.var.header.name=Nom Interne
+sb.var.header.aname=Apppliquer Nom
+sb.var.header.lname=Nom
+sb.var.header.desc=Description
+sb.var.header.type=Type
+sb.var.hidden=Caché?
+sb.var.hidden.info=Les Attributs Cachés n'apparaissent pas quand un utilisateur configure ce Comportment. <br>Ils sont comme des variables locales.
+sb.var.error.val=Entrer un <0> valide.
+sb.var.edit.val=Valeur par défaut
+sb.var.edit.nosound=Pas de Son
+sb.var.edit.nocontrol=Pas de Contrôle
+sb.var.edit.nofont=Police de caractères par Défaut
+sb.var.error.name=Entrez un nom unique.
+sb.var.cat.general=Général
+sb.var.cat.dropdown=Menu Déroulant
+sb.var.cat.range=Portée
+sb.var.drop.title=Déroulement de Données
+sb.var.drop.desc=S'affiche comme un menu déroulant à la place d'un champ de texte.<br> Le format est d'une entrée par ligne, nom[eq]valeur.<br> Par exemple:<br><br>Nom[eq]Valeur<br>Stencyl[eq]Génial<br>Croissant[eq]Régal

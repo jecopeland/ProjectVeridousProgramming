@@ -1,0 +1,11 @@
+
+# CONTROLS
+input.newname=Key <0>
+input.apply=Εφαρμογή Αλλαγών
+input.create=Κλικ εδώ για προσθήκη νέου χειριστηρίου.
+input.name=Όνομα:
+input.error.name=Εισάγεται μοναδικό όνομα.
+input.key=Κλειδί:
+input.key.enter=Κλικ και εισάγεται κλειδί.
+control.chooser.title=Επιλέξτε Χειριστήριο
+control.choose=Επιλέξτε Χειριστήριο...

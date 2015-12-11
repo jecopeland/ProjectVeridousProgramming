@@ -1,0 +1,11 @@
+
+# New Game Dialog
+dg.game.new.title=Maak nieuw Spel
+dg.game.new.info.name=Naam
+dg.game.new.info.size=Schermgrootte
+dg.game.new.info.default=550 X 400 (Standaard)
+dg.game.new.info.standard=640 X 480
+dg.game.new.info.custom=Handmatig...
+dg.game.new.info.width=Breedte
+dg.game.new.info.height=Hoogte
+dg.game.new.info.engine=Stencylversie

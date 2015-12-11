@@ -1,0 +1,11 @@
+
+# New Game Dialog
+dg.game.new.title=Tee uusi peli
+dg.game.new.info.name=Pelin nimi
+dg.game.new.info.size=Ruudun koko
+dg.game.new.info.default=550 x 400 (oletus)
+dg.game.new.info.standard=640x480 (VGA)
+dg.game.new.info.custom=Muu...
+dg.game.new.info.width=Leveys
+dg.game.new.info.height=Korkeus
+dg.game.new.info.engine=Moottorin versio

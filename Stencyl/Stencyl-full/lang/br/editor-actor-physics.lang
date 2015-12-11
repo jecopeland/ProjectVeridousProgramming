@@ -1,0 +1,37 @@
+
+# Physics
+physics.general=Geral
+physics.damping=Amortecimento
+physics.mass=Massa
+physics.material=Material
+actor.physics.title=Editar Propriedades Físicas
+actor.adamp=Amortecimento Angular
+actor.adamp.info=Reduz a velocidade angular dos Personagens.
+actor.ldamp=Amortecimento Linear
+actor.ldamp.info=Reduz a velocidade linear dos Personagens. Resistência do ar na vida real é um exemplo disso.
+actor.damp.full=Total
+actor.damp.none=Nenhum
+actor.grav=Afetado pela Gravidade?
+actor.grav.info=Gravidade exerce uma força em todos os personagens de uma cena.
+actor.mass=Massa
+actor.mass.info=Determina o quão pesado esse objeto é.
+actor.inert=Massa Angular
+actor.inert.info=Determina quão difícil é para rotacionar esse objeto.
+actor.light=Leve
+actor.heavy=Pesado
+actor.rot=Pode ser Rotacionado?
+actor.rot.info=Determina se esse personagem pode ser rotacionado livremente.
+actor.static=É estacionário?
+actor.static.info=Um personagem estacionário não pode mover-se ou ser rotacionado.
+actor.material=Materiais pré-definidos
+actor.material.info=Para conveniência, você pode escolher materiais pré-definidos, como gelo por exemplo.
+actor.material.choose=Escolha um Material
+actor.material.ice=Gelo
+actor.material.wood=Madeira
+actor.material.metal=Metal
+actor.material.stone=Rocha
+actor.material.plastic=Plástico
+actor.material.rubber=Borracha
+actor.material.dead=Peso Morto
+actor.material.bouncy=Superbola
+actor.material.custom=Personalizado

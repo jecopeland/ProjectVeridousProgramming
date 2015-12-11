@@ -1,0 +1,1 @@
+Reload the scene when this actor dies.

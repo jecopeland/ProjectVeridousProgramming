@@ -1,0 +1,41 @@
+
+# Actor Creator
+actor.props=Properties
+actor.rename=Rename Actor Type
+actor.group.edit=Edit Groups...
+actor.regroup=Choose Group
+actor.regroup.info=Groups are used to determine what kinds of Actor Types collide with each other.
+actor.title=Actor Type Creator
+actor.physics=Edit Physics
+# Actor Top Bar
+actor.top.appearance=Appearance
+actor.top.behavior=Behaviors
+actor.top.collision=Collision
+actor.top.physics=Physics
+actor.top.properties=Properties
+actor.top.attach=Add to Scene
+# Properties
+actor.name=Name
+actor.description=Description
+actor.group=Group
+actor.sprite.choose=Choose Sprite
+actor.anim.choose=Choose Animation...
+actor.scene.choose=Choose Scene...
+# Sprite Chooser
+actor.chooser.title=Choose a Sprite
+# Warnings
+actor.warning.name=That name is already taken.
+actor.warning.name.invalid=Invalid name.
+actor.warning.blank=Enter a name.
+actor.warning.number=Enter a positive integer.
+actor.warning.nosnippets=Click here to choose a Behavior to attach to this Actor Type.
+actor.warning.nosnippets2=Click here to choose a Behavior to attach to this Scene.
+actor.warning.float=Enter a valid number.
+actor.warning.int=Enter a valid integer.
+# Other
+actor.spec.event=Actor Specific Events
+actor.view.physics=Show Physics Page
+actor.view.collision=Show Collision Page
+actor.view.events=Show Events Page
+actor.view.behavior=Show Behaviors Page
+actor.view.appearance=Show Appearance Page

@@ -1,0 +1,11 @@
+
+# CONTROLS
+input.newname=Tecla <0>
+input.apply=Aplicar Alterações
+input.create=Clique aqui para adicionar um nova tecla..
+input.name=Nome:
+input.error.name=Introduza um nome único.
+input.key=Tecla:
+input.key.enter=Clique e pressione uma tecla.
+control.chooser.title=Escolha uma Tecla
+control.choose=Escolha uma Tecla...

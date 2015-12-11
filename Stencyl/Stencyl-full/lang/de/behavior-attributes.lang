@@ -1,0 +1,28 @@
+
+# ATTRIBUTES PANE
+sb.var.single=Attribute
+sb.var.add=Attribute erstellen...
+sb.var.addlist=Erstelle eine Listen-Attribute...
+sb.var.remove=Attribute entfernen
+sb.var.default=Attribute ändern
+sb.var.viewcontrols=Zeige die Kontrol-Seite
+sb.var.up=Nach oben bewegen
+sb.var.down=Nach unten bewegen
+sb.var.header.name=Interner Name
+sb.var.header.aname=Name bestätigen
+sb.var.header.lname=Name
+sb.var.header.desc=Beschreibung
+sb.var.header.type=Typ
+sb.var.hidden=Versteckt?
+sb.var.hidden.info=Versteckte Attribute werden nicht angezeigt, wenn das Verhalten bearbeitet wird.<br>Sie verhalten sich wie lokale Variablen.
+sb.var.error.val=Gebe eine gültige <0>.
+sb.var.edit.val=Standardwert
+sb.var.edit.nosound=Kein Sound
+sb.var.edit.nocontrol=Keine Steuerung
+sb.var.edit.nofont=Standard Schriftart
+sb.var.error.name=Gebe einen einzigartigen Namen ein.
+sb.var.cat.general=Allgemein
+sb.var.cat.dropdown=Ausgliederung
+sb.var.cat.range=Reichweite
+sb.var.drop.title=Ausgliederungsdaten
+sb.var.drop.desc=Wird als Ausgliederung statt eines Textes angezeigt.<br> Das Format ist eine Eingabe pro Zeile, Name[eq]Wert.<br> Beispiel:<br><br>Name[eq]Wert<br>Stencyl[eq]Super<br>Peking Ente[eq]Lecker

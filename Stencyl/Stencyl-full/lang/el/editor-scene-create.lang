@@ -1,0 +1,26 @@
+
+# SCENE PAGE
+scene.new.title=Δημιουργία Νέας Σκηνής
+scene.edit.title=Επεξεργασία Ιδιοτήτων Σκηνής
+scene.edit.bg.title=Επεξεργασία Εικόνων Φόντου
+scene.new.info=Βασικά
+scene.new.terrain=Μέγεθος
+scene.new.background=Χρώμα Φόντου
+scene.new.name=Ονομασία
+scene.new.type=Τύπος Σκηνής
+scene.new.type.normal=Κανονικά
+scene.new.type.iso=Ισομετρικά
+scene.new.type.hex=Εξαγωνικά
+scene.new.tiles=Πλακίδια
+scene.new.pixels=pixels
+scene.new.width=Πλάτος
+scene.new.height=Ύψος
+scene.new.tilex=Πλάτος Πλακιδίου
+scene.new.tiley=Ύψος Πλακιδίου
+scene.new.background.color=Χρώμα
+scene.new.background.edit=Επεξεργασία Εικόνων...
+scene.new.color.title=Επιλογέας Χρώματος
+scene.new.background.style.solid=Συμπαγές Χρώμα
+scene.new.background.style.none=Χωρίς Χρώμα
+scene.new.background.style.vert=Κάθετο Ντεγκραντέ
+scene.warning.name=Εισάγετε μοναδική ονομασία.

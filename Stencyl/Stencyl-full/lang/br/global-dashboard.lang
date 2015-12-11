@@ -1,0 +1,35 @@
+
+gamecenter.title=Central de Jogos
+gamecenter.controls=Controles
+gamecenter.actorgroups=Grupos de Personagens
+gamecenter.cgroups=Grupos de Colisão
+gamecenter.props=Configurações do Jogo
+gamecenter.stats=Estatísticas
+gamecenter.scenes=Cenas são as área jogáveis dos jogos.
+gamecenter.actors=Personagens são objetos que fazem tudo acontecer no jogo.
+gamecenter.backs=Planos de fundo são grandes imagens que são colocadas atrás ou em frente às cenas, e geralmente se movem junto com a cena.
+gamecenter.sounds=Sons podem tanto ser trilhas completas de música como pequenos clipes usados para efeitos.
+gamecenter.sprites=Sprites são conjuntos de animações visuais que definem a aparência de um personagem.
+gamecenter.tilesets=Tilesets são conjuntos de Tiles com os quais você pode construir uma cena.
+# SCENE EDIT
+scene.open.title=Abrir uma Cena
+# TYPES
+type.actor=Personagem
+type.bg=Fundo
+type.sprite=Sprite
+type.shape=Forma de Caixa de Colisão
+type.sound=Som
+type.tset=Tileset
+# LIBRARY
+library.scenes=Cenas
+library.snippets=Snippets
+library.actors=Personagens
+library.bgs=Fundos
+library.sprites=Sprites
+library.shapes=Formas de Caixas de Colisão
+library.sounds=Sons
+library.menu.edit=Editar
+library.menu.delete=Apagar
+library.menu.create=Criar Novo
+library.filter=Filtrar Recursos
+library.tset=Tilesets

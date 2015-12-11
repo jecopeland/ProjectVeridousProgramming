@@ -1,0 +1,1 @@
+Allows the actor to move up, down, left and right.

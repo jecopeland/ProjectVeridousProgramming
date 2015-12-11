@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    
+    <section if="ios">
+    
+        <ndll name="ads" if="ios"/>
+        <dependency name="iAd.framework" if="ios" />
+        
+    </section>
+    
+</project>

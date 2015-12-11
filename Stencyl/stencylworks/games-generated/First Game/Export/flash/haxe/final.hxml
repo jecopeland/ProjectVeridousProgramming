@@ -1,0 +1,41 @@
+-main ApplicationMain 
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/openfl/openfl
+-D openfl=3.3.8
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/lime/lime
+-D lime=2.6.8
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/actuate/1,6,5
+-D actuate=1.6.5
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/console/1,00
+-D console=0.0.0
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/polygonal-ds/1,4,1
+-D polygonal-ds=1.4.1
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/polygonal-printf/1,0,0-beta
+-D polygonal-printf=1.0.0-beta
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/box2d/1,11
+-D box2d=0.0.0
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/lib/stencyl/1,00
+-D stencyl=0.0.0
+-cp Source
+-cp /Users/pome012/Downloads/Stencyl-full (1)/plaf/haxe/extensions/gestures
+-D native-trace
+-D openfl-next
+-D tools=2.6.8
+-D flash-use-stage
+-D no-compilation
+-D openfl-flash
+-D verbose=1
+-D web
+--remap nme:openfl
+-D network-sandbox
+-D as3_native
+-D swf-directblit
+-swf-lib newgrounds.swf
+-swf-lib cpmstar.swf
+-resource Assets/graphics/preloader-bg.png@preloader-bg
+-resource Assets/graphics/preloader-badge.png@preloader-badge
+-swf-lib Export/flash/obj/assets.swf
+-swf-version 11
+-swf Export/flash/bin/First Game.swf
+-swf-header 640:480:65:000000
+-cp Export/flash/haxe
+-D final

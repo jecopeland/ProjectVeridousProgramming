@@ -1,0 +1,6 @@
+
+# CONTROLS
+input.name=Nimi
+input.error.name=Kirjoita ainutlaatuinen nimi.
+input.key=Oletusnäppäin
+input.key.enter=Valitse ja paina näppäintä.

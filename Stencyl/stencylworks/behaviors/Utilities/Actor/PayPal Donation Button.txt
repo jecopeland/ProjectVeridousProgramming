@@ -1,0 +1,1 @@
+Make a button actor that opens a link to a PayPal donation page when clicked or touched.

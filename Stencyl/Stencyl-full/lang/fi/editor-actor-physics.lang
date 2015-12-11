@@ -1,0 +1,37 @@
+
+# Physics
+physics.general=Yleiset
+physics.damping=Hidastuvuus
+physics.mass=Massa
+physics.material=Materiaali
+actor.physics.title=Muokkaa fyysisiä ominaisuuksia
+actor.adamp=Pyörimishidastuvuus
+actor.adamp.info=Vähentää pyörimisen liike-energiaa.
+actor.ldamp=Hidastuvuus
+actor.ldamp.info=Vähentää lineaarista liike-energiaa.
+actor.damp.full=Maksimi
+actor.damp.none=Minimi
+actor.grav=Painovoiman vaikutuspiirissä?
+actor.grav.info=Painovoima kohdistaa voiman kaikkiin hahmoihin lavasteessa.
+actor.mass=Massa
+actor.mass.info=Määrittää kuinka vaikea objektia on kiihdyttää.
+actor.inert=Hitausmomentti
+actor.inert.info=Määrittää kuinka vaikea objektia on pyörittää.
+actor.light=Kevyt
+actor.heavy=Raskas
+actor.rot=Voi pyörittää?
+actor.rot.info=Määrittää voiko hahmo pyöriä vapaasti.
+actor.static=Staattinen?
+actor.static.info=Staattinen hahmo ei voi liikkua.
+actor.material=Materiaalit
+actor.material.info=Helppokäyttöisyyden vuoksi voit valita valmiita materiaaleja kuten jäätä.
+actor.material.choose=Valitse materiaali
+actor.material.ice=Jää
+actor.material.wood=Puu
+actor.material.metal=Metalli
+actor.material.stone=Kivi
+actor.material.plastic=Muovi
+actor.material.rubber=Kumi
+actor.material.dead=Kuollut paino
+actor.material.bouncy=Superpallo
+actor.material.custom=Oma

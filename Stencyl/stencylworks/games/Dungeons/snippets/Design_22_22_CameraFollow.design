@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups>
+    <group eventID="1" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <set-val-22-1 comment="false" x="26" y="40">
+                    <get-xy comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="this" id="0"/>
+                        <int id="1" val="2"/>
+                    </get-xy>
+                </set-val-22-1>
+                <set-val-22-4 comment="false" x="26" y="73">
+                    <get-xy comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="this" id="0"/>
+                        <int id="1" val="3"/>
+                    </get-xy>
+                </set-val-22-4>
+                <if comment="false" x="26" y="106">
+                    <group eventID="1" id="-1">
+                        <if comment="false" x="37" y="136">
+                            <group eventID="1" id="-1">
+                                <if comment="false" x="48" y="171">
+                                    <group eventID="1" id="-1">
+                                        <incdec comment="false" x="59" y="206">
+                                            <int id="0" val="6"/>
+                                            <int id="1" val="0"/>
+                                            <abs comment="false" id="2" x="0" y="0">
+                                                <get-val-22-9 comment="false" id="0" x="0" y="0"/>
+                                            </abs>
+                                        </incdec>
+                                    </group>
+                                    <less comment="false" id="0" x="0" y="0">
+                                        <get-val-22-6 comment="false" id="0" x="0" y="0"/>
+                                        <minus comment="false" id="1" x="0" y="0">
+                                            <get-val-22-1 comment="false" id="0" x="0" y="0"/>
+                                            <get-val-22-9 comment="false" id="1" x="0" y="0"/>
+                                        </minus>
+                                    </less>
+                                </if>
+                                <else-if comment="false" x="48" y="255">
+                                    <group eventID="1" id="-1">
+                                        <incdec comment="false" x="59" y="290">
+                                            <int id="0" val="6"/>
+                                            <int id="1" val="1"/>
+                                            <abs comment="false" id="2" x="0" y="0">
+                                                <get-val-22-9 comment="false" id="0" x="0" y="0"/>
+                                            </abs>
+                                        </incdec>
+                                    </group>
+                                    <more comment="false" id="0" x="0" y="0">
+                                        <get-val-22-6 comment="false" id="0" x="0" y="0"/>
+                                        <plus comment="false" id="1" x="0" y="0">
+                                            <get-val-22-1 comment="false" id="0" x="0" y="0"/>
+                                            <get-val-22-9 comment="false" id="1" x="0" y="0"/>
+                                        </plus>
+                                    </more>
+                                </else-if>
+                                <else comment="false" x="48" y="339">
+                                    <group eventID="1" id="-1">
+                                        <set-val-22-6 comment="false" x="59" y="359">
+                                            <get-val-22-1 comment="false" id="0" x="0" y="0"/>
+                                        </set-val-22-6>
+                                    </group>
+                                </else>
+                            </group>
+                            <noteq comment="false" id="0" x="0" y="0">
+                                <abs comment="false" id="0" x="0" y="0">
+                                    <get-val-22-9 comment="false" id="0" x="0" y="0"/>
+                                </abs>
+                                <int id="1" val="0"/>
+                            </noteq>
+                        </if>
+                        <else comment="false" x="37" y="408">
+                            <group eventID="1" id="-1">
+                                <set-val-22-6 comment="false" x="48" y="428">
+                                    <get-val-22-1 comment="false" id="0" x="0" y="0"/>
+                                </set-val-22-6>
+                            </group>
+                        </else>
+                    </group>
+                    <noteq comment="false" id="0" x="0" y="0">
+                        <get-val-22-6 comment="false" id="0" x="0" y="0"/>
+                        <get-val-22-1 comment="false" id="1" x="0" y="0"/>
+                    </noteq>
+                </if>
+                <if comment="false" x="26" y="477">
+                    <group eventID="1" id="-1">
+                        <if comment="false" x="37" y="507">
+                            <group eventID="1" id="-1">
+                                <if comment="false" x="48" y="542">
+                                    <group eventID="1" id="-1">
+                                        <incdec comment="false" x="59" y="577">
+                                            <int id="0" val="8"/>
+                                            <int id="1" val="0"/>
+                                            <abs comment="false" id="2" x="0" y="0">
+                                                <get-val-22-9 comment="false" id="0" x="0" y="0"/>
+                                            </abs>
+                                        </incdec>
+                                    </group>
+                                    <less comment="false" id="0" x="0" y="0">
+                                        <get-val-22-8 comment="false" id="0" x="0" y="0"/>
+                                        <minus comment="false" id="1" x="0" y="0">
+                                            <get-val-22-4 comment="false" id="0" x="0" y="0"/>
+                                            <get-val-22-9 comment="false" id="1" x="0" y="0"/>
+                                        </minus>
+                                    </less>
+                                </if>
+                                <else-if comment="false" x="48" y="626">
+                                    <group eventID="1" id="-1">
+                                        <incdec comment="false" x="59" y="661">
+                                            <int id="0" val="8"/>
+                                            <int id="1" val="1"/>
+                                            <abs comment="false" id="2" x="0" y="0">
+                                                <get-val-22-9 comment="false" id="0" x="0" y="0"/>
+                                            </abs>
+                                        </incdec>
+                                    </group>
+                                    <more comment="false" id="0" x="0" y="0">
+                                        <get-val-22-8 comment="false" id="0" x="0" y="0"/>
+                                        <plus comment="false" id="1" x="0" y="0">
+                                            <get-val-22-4 comment="false" id="0" x="0" y="0"/>
+                                            <get-val-22-9 comment="false" id="1" x="0" y="0"/>
+                                        </plus>
+                                    </more>
+                                </else-if>
+                                <else comment="false" x="48" y="710">
+                                    <group eventID="1" id="-1">
+                                        <set-val-22-8 comment="false" x="59" y="730">
+                                            <get-val-22-4 comment="false" id="0" x="0" y="0"/>
+                                        </set-val-22-8>
+                                    </group>
+                                </else>
+                            </group>
+                            <noteq comment="false" id="0" x="0" y="0">
+                                <abs comment="false" id="0" x="0" y="0">
+                                    <get-val-22-9 comment="false" id="0" x="0" y="0"/>
+                                </abs>
+                                <int id="1" val="0"/>
+                            </noteq>
+                        </if>
+                        <else comment="false" x="37" y="779">
+                            <group eventID="1" id="-1">
+                                <set-val-22-8 comment="false" x="48" y="799">
+                                    <get-val-22-4 comment="false" id="0" x="0" y="0"/>
+                                </set-val-22-8>
+                            </group>
+                        </else>
+                    </group>
+                    <noteq comment="false" id="0" x="0" y="0">
+                        <get-val-22-8 comment="false" id="0" x="0" y="0"/>
+                        <get-val-22-4 comment="false" id="1" x="0" y="0"/>
+                    </noteq>
+                </if>
+                <camera-move comment="false" x="26" y="848">
+                    <get-val-22-6 comment="false" id="0" x="0" y="0"/>
+                    <get-val-22-8 comment="false" id="1" x="0" y="0"/>
+                </camera-move>
+            </group>
+        </step>
+    </group>
+    <group eventID="1" id="-1"/>
+    <group eventID="2" id="0">
+        <init comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <set-val-22-1 comment="false" x="26" y="40">
+                    <get-xy comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="this" id="0"/>
+                        <int id="1" val="2"/>
+                    </get-xy>
+                </set-val-22-1>
+                <set-val-22-4 comment="false" x="26" y="73">
+                    <get-xy comment="false" id="0" x="0" y="0">
+                        <ACTOR eid="this" id="0"/>
+                        <int id="1" val="3"/>
+                    </get-xy>
+                </set-val-22-4>
+                <set-val-22-6 comment="false" x="26" y="106">
+                    <get-val-22-1 comment="false" id="0" x="0" y="0"/>
+                </set-val-22-6>
+                <set-val-22-8 comment="false" x="26" y="131">
+                    <get-val-22-4 comment="false" id="0" x="0" y="0"/>
+                </set-val-22-8>
+            </group>
+        </init>
+    </group>
+    <group eventID="2" id="-1"/>
+</groups>

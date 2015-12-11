@@ -1,0 +1,11 @@
+
+# New Game Dialog
+dg.game.new.title=Criar Novo Jogo
+dg.game.new.info.name=Nome do Jogo
+dg.game.new.info.size=Dimensões da Tela
+dg.game.new.info.default=550 x 400 (Padrão)
+dg.game.new.info.standard=640 x 480
+dg.game.new.info.custom=Personalizado...
+dg.game.new.info.width=Largura
+dg.game.new.info.height=Altura
+dg.game.new.info.engine=Versão da Engine

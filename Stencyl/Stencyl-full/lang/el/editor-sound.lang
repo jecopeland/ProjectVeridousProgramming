@@ -1,0 +1,24 @@
+
+# SOUND CREATOR
+sound.top.main=Ήχος
+sound.top.properties=Ιδιότητες
+sounds=Ήχοι
+sound.choose=Επιλογή Αρχείου...
+sound.rename=Μετονομασία
+sound.mix=Επεξεργασία Ήχου
+sound.rename.title=Μετονομασία Ήχου
+sound.props.name=Ονομασία
+sound.error.name=Εισάγετε μια ονομασία.
+sound.play.title=Αναπαραγωγή
+sound.info.title=Πληροφορίες Ήχου
+sound.import=Κλικ εδώ για εισαγωγή αρχείου ήχου.
+sound.info.format=Τύπος:
+sound.info.encoding=Κωδικοποίηση:
+sound.info.bitssample=Bits/Δείγμα:
+sound.info.channels=Κανάλια:
+sound.info.rate=Ρυθμός:
+sound.streaming=Streaming;
+sound.chooser.title=Επιλέξτε Ήχο...
+sound.import1=Αποκωδικοποίηση...
+sound.import2=Κωδικοποίηση - <0>%
+sound.import3=Τελείωμα...

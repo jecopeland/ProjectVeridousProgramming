@@ -1,0 +1,20 @@
+
+# MODES
+sb.mode.code=Código
+sb.mode.design=Design
+sb.new.title=Criar Novo Snippet
+sb.edit.title=Editar Propriedades do Snippet
+sb.new.props=Básico
+sb.new.name=Nome
+sb.new.class=Nome de Classe
+sb.new.category=Categoria
+sb.new.type=Tipo
+sb.new.type.help=Tipo determina se esse Snippet poderá ser aplicado a um Personagem ou a uma Cena.
+sb.new.type.actor=Personagem
+sb.new.type.scene=Cena
+sb.new.description=Descrição
+sb.new.draw=Ordem de Renderização
+sb.new.update=Atualizar Ordem
+sb.error.name=Favor entrar com um nome único.
+sb.error.class=Favor entrar com um nome de classe único (alfanumérico, sem espaços)
+sb.error.category=Favor definir uma categoria.

@@ -1,0 +1,91 @@
+
+# Sprite Editor
+sprite.title=Afbeeldingmaker
+sprite.title.new=Maak nieuwe Afbeelding
+sprite.title.edit=Wijzig Afbeelding
+sprite.animations=Animaties
+sprite.properties=Naam van Afbeelding Wijzigen
+sprite.menu.create=Nieuw
+sprite.menu.import=Bestaande Animatie Importeren
+sprite.menu.delete=Verwijderen
+sprite.menu.default=Als standaardanimatie gebruiken
+sprite.anim.name=Naam
+sprite.anim.collision=Inslagpunten
+sprite.anim.collision.edit=Wijzig
+sprite.anim.looping=Doorlopend?
+sprite.anim.rect=Vierhoek
+sprite.anim.poly=Polygoon
+sprite.anim.none=Geen Inslag
+# <0> is the animation's name
+sprite.anim.title1=Eigenschappen van <0>
+sprite.anim.title2=Beelden (Slepen om te herschikken)
+sprite.anim.duration=<0> ms
+sprite.menu.addframe=Beeld toevoegen
+sprite.menu.editframe=Wijzig Beeld
+sprite.menu.removeframe=Verwijder Beeld
+# Frame Editor
+sprite.frame.title.edit=Beeld Wijzigen
+sprite.frames.title.edit=Wijzig Duur (Meerdere Beelden)
+sprite.frame.duration=Duur (in milliseconden)
+sprite.frame.image=Huidige Afbeelding
+sprite.menu.changeimage=Kies een andere Afbeelding
+sprite.menu.paintimage=Wijzig deze Afbeelding met Pencyl
+sprite.frame.filechooser.filter=Afbeeldingen
+sprite.frame.filechooser.select=Afbeelding Selecteren
+sprite.frame.title.add=Beeld Toevoegen
+# Add Animation
+sprite.anim.title.add=Animatie Toevoegen
+sprite.anim.add.import=Meerdere Beelden Toevoegen
+# Sprite Properties
+sprite.props.title=Wijzig Eigenschappen Afbeelding
+sprite.props.newtitle=Nieuwe Afbeelding
+sprite.props.name=Naam
+# Import Image Strip / Sheet
+sprite.strip.title=Beeldenverzameling Importeren
+sprite.strip.choose=Kies Afbeelding...
+sprite.strip.rows=Rijen
+sprite.strip.cols=Kolommen
+# Warnings
+sprite.warning.name=Gelieve een unieke naam in te geven.
+sprite.warning.duration=Gelieve een positief getal in te geven.
+sprite.warning.noanims=Deze afbeelding bevat geen animaties.
+# SHAPE CHOOSER
+shape.title=Kies een Inslagvorm
+shape.none=Geen Inslagen
+# Shape Editor
+shape.main=versleep de vormen.
+shape.shape=Huidige Vorm
+shape.add.box=Vierkant Toevoegen
+shape.add.circle=Cirkel Toevoegen
+shape.add.poly=Polygoon Toevoegen
+shape.rename=Naam wijzigen
+shape.remove=Vorm verwijderen
+shape.editphys=Fysieke Eigenschappen wijzigen...
+shape.editphys.title=Wijzig Fysieke Eigenschappen
+shape.name=Naam
+shape.x=X-Positie
+shape.y=Y-Positie
+shape.w=Breedte
+shape.h=Hoogte
+shape.xc=X-Positie (links)
+shape.yc=Y-Positie (boven)
+shape.r=Radius
+shape.box=Vierkant
+shape.poly=Polygoon
+shape.circle=Cirkel
+shape.select.none=Er zijn geen vormen geselecteerd.<br><br>Selecteer een vorm om het te wijzigen.
+shape.select.many=Er zijn meerdere vormen geselecteerd.<br><br>Je kan maar een vorm per keer wijzigen.
+shape.fric=Frictie
+shape.nofric=Geen
+shape.allfric=Hoog
+shape.rest=Elasticiteit
+shape.elastic=Hoog
+shape.inelastic=Geen
+shape.density=Zwaarte
+shape.fric.info=Laat objecten realistisch naast elkaar glijden.
+shape.rest.info=Laat objecten springen. Een hoge elasticiteit wil zeggen dat een object terug naar zijn oorspronkelijke hoogte zal springen.
+shape.sensor=Vast?
+shape.sensor.info=Een vorm dat niet vast is kan contact met andere vormen detecteren maar geen reactie uitvoeren. vooral gebruikt voor Logische acties.
+shape.density.info=Verwant aan massa en berekent hoe zwaar dit deel zal zijn.
+shape.light=Licht
+shape.heavy=Zwaar

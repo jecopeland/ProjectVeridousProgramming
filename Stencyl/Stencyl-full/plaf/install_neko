@@ -1,0 +1,14 @@
+#!/bin/sh
+
+echo "Installing Neko"
+
+pw="$(osascript -e 'Tell application "System Events" to display dialog "System Password:" default answer "" with hidden answer' -e 'text returned of result' 2>/dev/null)"
+
+echo $pw | sudo -S mkdir -p /usr/local/lib/neko
+echo $pw | sudo -S cp -r neko-mac/* /usr/local/lib/neko
+
+echo $pw | sudo -S mkdir -p /usr/local/bin
+echo $pw | sudo -S ln -s /usr/local/lib/neko/libneko.dylib /usr/local/lib/libneko.dylib
+echo $pw | sudo -S ln -s /usr/local/lib/neko/neko /usr/local/bin/neko
+echo $pw | sudo -S ln -s /usr/local/lib/neko/nekoc /usr/local/bin/nekoc
+echo $pw | sudo -S ln -s /usr/local/lib/neko/nekotools /usr/local/bin/nekotools
